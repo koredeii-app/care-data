@@ -376,5 +376,77 @@
         "name":  "五日市南地域包括支援センター",
         "tel":  "082-924-8051",
         "url":  "https://www.city.hiroshima.lg.jp/saekiku/kenkou_kosodate/1027826/1027827/1007863.html"
+    },
+    {
+        "id": 2018,
+        "prefecture": "広島県",
+        "city": "呉市",
+        "area": "中央",
+        "name": "呉市中央地域包括支援センター",
+        "tel": "0823-20-6307",
+        "url": "https://www.city.kure.lg.jp/soshiki/150/shisei061122.html"
+    },
+    {
+        "id": 2019,
+        "prefecture": "広島県",
+        "city": "呉市",
+        "area": "天応・吉浦",
+        "name": "呉市天応・吉浦地域包括支援センター",
+        "tel": "0823-31-8390",
+        "url": "https://www.city.kure.lg.jp/soshiki/150/shisei061122.html"
+    },
+    {
+        "id": 2020,
+        "prefecture": "広島県",
+        "city": "呉市",
+        "area": "昭和",
+        "name": "呉市昭和地域包括支援センター",
+        "tel": "0823-30-5666",
+        "url": "https://www.city.kure.lg.jp/soshiki/150/shisei061122.html"
+    },
+    {
+        "id": 2021,
+        "prefecture": "広島県",
+        "city": "呉市",
+        "area": "宮原・警固屋",
+        "name": "呉市宮原・警固屋地域包括支援センター",
+        "tel": "0823-27-5444",
+        "url": "https://www.city.kure.lg.jp/soshiki/150/shisei061122.html"
+    },
+    {
+        "id": 2022,
+        "prefecture": "広島県",
+        "city": "呉市",
+        "area": "阿賀・広・仁方・郷原",
+        "name": "呉市東部地域包括支援センター",
+        "tel": "0823-76-3333",
+        "url": "https://www.city.kure.lg.jp/soshiki/150/shisei061122.html"
+    },
+    {
+        "id": 2023,
+        "prefecture": "広島県",
+        "city": "呉市",
+        "area": "川尻・安浦",
+        "name": "呉市川尻・安浦地域包括支援センター",
+        "tel": "0823-70-6662",
+        "url": "https://www.city.kure.lg.jp/soshiki/150/shisei061122.html"
+    },
+    {
+        "id": 2024,
+        "prefecture": "広島県",
+        "city": "呉市",
+        "area": "下蒲刈・蒲刈・豊浜・豊島",
+        "name": "呉市安芸灘地域包括支援センター",
+        "tel": "0823-66-1115",
+        "url": "https://www.city.kure.lg.jp/soshiki/150/shisei061122.html"
+    },
+    {
+        "id": 2025,
+        "prefecture": "広島県",
+        "city": "呉市",
+        "area": "音戸・倉橋",
+        "name": "呉市音戸・倉橋地域包括支援センター",
+        "tel": "0823-69-7780",
+        "url": "https://www.city.kure.lg.jp/soshiki/150/shisei061122.html"
     }
 ]
