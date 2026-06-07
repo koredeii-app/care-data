@@ -349,5 +349,104 @@
         "name": "神楽・西神楽地域包括支援センター",
         "tel": "0166-66-5351",
         "url": "http://www.kagurahoukatsu.org"
+    },
+    {
+        "id": 1995,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "西部",
+        "name": "函館市地域包括支援センターあさひ",
+        "tel": "0138-27-8880",
+        "url": "http://www.seijinkai-mori.jp/seijinkai/asahi/hohkatu/hohkatu-top.htm"
+    },
+    {
+        "id": 1996,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "中央部第1",
+        "name": "函館市地域包括支援センターこん中央",
+        "tel": "0138-27-0777",
+        "url": "http://www.kon-jp.com/facilities/kon5/"
+    },
+    {
+        "id": 1997,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "中央部第2",
+        "name": "函館市地域包括支援センターときとう",
+        "tel": "0138-33-0555",
+        "url": "http://www.kon-jp.com/facilities/tokito5/"
+    },
+    {
+        "id": 1998,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "東央部第1",
+        "name": "函館市地域包括支援センターゆのかわ",
+        "tel": "0138-36-4300",
+        "url": "http://houkatsu-yuno.koseiin.or.jp/"
+    },
+    {
+        "id": 1999,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "東央部第2",
+        "name": "函館市地域包括支援センターたかおか",
+        "tel": "0138-57-7740",
+        "url": "http://houkatsu.koseiin.or.jp/"
+    },
+    {
+        "id": 2000,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "北東部第1",
+        "name": "函館市地域包括支援センター西堀",
+        "tel": "0138-78-0123",
+        "url": "https://www.nishibori-hosp.or.jp/chiiki-houkatsu/houkatsu-n/"
+    },
+    {
+        "id": 2001,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "北東部第2",
+        "name": "函館市地域包括支援センター亀田",
+        "tel": "0138-40-7755",
+        "url": "http://www.hakodate-kameda-hp.com/supportcenter/"
+    },
+    {
+        "id": 2002,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "北東部第3",
+        "name": "函館市地域包括支援センター神山",
+        "tel": "0138-76-0820",
+        "url": "https://www.nishibori-hosp.or.jp/chiiki-houkatsu/houkatsu-k/"
+    },
+    {
+        "id": 2003,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "北部",
+        "name": "函館市地域包括支援センターよろこび",
+        "tel": "0138-34-6868",
+        "url": "http://yorokobi.kojinkai1968.com/"
+    },
+    {
+        "id": 2004,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "東部（戸井・恵山・椴法華・南茅部地区）",
+        "name": "函館市地域包括支援センター社協",
+        "tel": "0138-82-4700",
+        "url": "http://www.hakodatesyakyo.net/consul/consul-center/"
+    },
+    {
+        "id": 2005,
+        "prefecture": "北海道",
+        "city": "函館市",
+        "area": "東部（南茅部地区）",
+        "name": "函館市地域包括支援センターブランチかやべ",
+        "tel": "0138-25-6034",
+        "url": "http://www.hakodatesyakyo.net/consul/consul-center/"
     }
 ]
