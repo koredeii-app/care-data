@@ -88,5 +88,113 @@
         "name":  "山口市基幹型地域包括支援センター",
         "tel":  "083-934-2758",
         "url":  "https://www.city.yamaguchi.lg.jp/map/korei/7258.html"
+    },
+    {
+        "id": 2006,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "本庁東部",
+        "name": "下関市本庁東部地域包括支援センター",
+        "tel": "083-250-6581",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2007,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "本庁西部",
+        "name": "下関市本庁西部地域包括支援センター",
+        "tel": "083-250-8521",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2008,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "本庁北部",
+        "name": "下関市本庁北部地域包括支援センター",
+        "tel": "083-255-1111",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2009,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "彦島",
+        "name": "下関市彦島地域包括支援センター",
+        "tel": "083-266-6516",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2010,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "長府",
+        "name": "下関市長府地域包括支援センター",
+        "tel": "083-227-3151",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2011,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "王司・清末・小月・吉田・王喜",
+        "name": "下関市東部地域包括支援センター",
+        "tel": "083-249-2015",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2012,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "川中",
+        "name": "下関市川中地域包括支援センター",
+        "tel": "083-252-6223",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2013,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "安岡・吉見",
+        "name": "下関市安岡・吉見地域包括支援センター",
+        "tel": "083-249-5015",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2014,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "勝山・内日",
+        "name": "下関市勝山・内日地域包括支援センター",
+        "tel": "083-227-2700",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2015,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "菊川・豊田",
+        "name": "下関市菊川・豊田地域包括支援センター",
+        "tel": "083-287-2870",
+        "url": "https://kikusuikai.jp/pages/108/"
+    },
+    {
+        "id": 2016,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "豊浦",
+        "name": "下関市豊浦地域包括支援センター",
+        "tel": "083-775-2941",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
+    },
+    {
+        "id": 2017,
+        "prefecture": "山口県",
+        "city": "下関市",
+        "area": "豊北",
+        "name": "下関市豊北地域包括支援センター",
+        "tel": "083-782-1904",
+        "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
     }
 ]
