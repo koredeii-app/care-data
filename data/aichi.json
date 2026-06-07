@@ -916,5 +916,113 @@
         "name": "幸王寿園地域包括支援センター",
         "tel": "0532-38-0300",
         "url": "https://oujukai.or.jp/services/chiikihoukatsu/"
+    },
+    {
+        "id": 1983,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "坂下",
+        "name": "春日井市地域包括支援センター坂下",
+        "tel": "0568-93-1314",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1984,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "高森台・石尾台",
+        "name": "春日井市地域包括支援センター高森台・石尾台",
+        "tel": "0568-88-5829",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1985,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "藤山台・岩成台",
+        "name": "春日井市地域包括支援センター藤山台・岩成台",
+        "tel": "0568-92-7600",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1986,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "高蔵寺",
+        "name": "春日井市地域包括支援センター高蔵寺",
+        "tel": "0568-37-0780",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1987,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "南城",
+        "name": "春日井市地域包括支援センター南城",
+        "tel": "0568-51-1840",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1988,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "松原",
+        "name": "春日井市地域包括支援センター松原",
+        "tel": "0568-93-6066",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1989,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "東部",
+        "name": "春日井市地域包括支援センター東部",
+        "tel": "0568-87-5377",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1990,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "鷹来",
+        "name": "春日井市地域包括支援センター鷹来",
+        "tel": "0568-89-2391",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1991,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "柏原",
+        "name": "春日井市地域包括支援センター柏原",
+        "tel": "0568-89-3027",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1992,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "中部",
+        "name": "春日井市地域包括支援センター中部",
+        "tel": "0568-56-9166",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1993,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "西部",
+        "name": "春日井市地域包括支援センター西部",
+        "tel": "0568-32-1117",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 1994,
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "area": "味美・知多",
+        "name": "春日井市地域包括支援センター味美・知多",
+        "tel": "0568-33-0211",
+        "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
     }
 ]
