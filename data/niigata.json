@@ -268,5 +268,104 @@
         "name":  "新潟市岩室地域包括支援センター",
         "tel":  "0256-82-5501",
         "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id": 2026,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "千手・表町・中島・神田・新町",
+        "name": "長岡市地域包括支援センターなかじま・おもてまち",
+        "tel": "0258-30-1121",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2027,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "四郎丸・豊田・川崎",
+        "name": "長岡市地域包括支援センターけさじろ",
+        "tel": "0258-37-5700",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2028,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "栖吉・富曽亀・山本・新組・黒条",
+        "name": "長岡市地域包括支援センターふそき",
+        "tel": "0258-25-3354",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2029,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "宮内・十日町・六日市・太田・山通・山古志",
+        "name": "長岡市地域包括支援センターみやうち・やまこし",
+        "tel": "0258-39-0080",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2030,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "下川西・上川西・王寺川・福戸・三島",
+        "name": "長岡市地域包括支援センターまきやま・みしま",
+        "tel": "0258-29-7005",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2031,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "大島・希望が丘・日越・関原・宮本・大積・深才・青葉台",
+        "name": "長岡市地域包括支援センターにしながおか",
+        "tel": "0258-29-6621",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2032,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "中之島・与板",
+        "name": "長岡市地域包括支援センターなかのしま・よいた",
+        "tel": "0258-61-2600",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2033,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "越路・小国",
+        "name": "長岡市地域包括支援センターこしじ・おぐに",
+        "tel": "0258-41-3201",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2034,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "和島・寺泊",
+        "name": "長岡市地域包括支援センターわしま・てらどまり",
+        "tel": "0258-74-3808",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2035,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "栃尾",
+        "name": "長岡市地域包括支援センターとちお",
+        "tel": "0258-53-2265",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
+    },
+    {
+        "id": 2036,
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "area": "川口",
+        "name": "長岡市地域包括支援センターかわぐち",
+        "tel": "0258-89-3974",
+        "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
     }
 ]
