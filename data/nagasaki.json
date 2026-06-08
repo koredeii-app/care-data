@@ -178,5 +178,86 @@
         "name":  "南部地域包括支援センター",
         "tel":  "095-892-3124",
         "url":  "https://www.city.nagasaki.lg.jp/page/1431.html"
+    },
+    {
+        "id": 2053,
+        "prefecture": "長崎県",
+        "city": "佐世保市",
+        "area": "早岐",
+        "name": "早岐地域包括支援センター",
+        "tel": "0956-26-5800",
+        "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
+    },
+    {
+        "id": 2054,
+        "prefecture": "長崎県",
+        "city": "佐世保市",
+        "area": "日宇",
+        "name": "日宇地域包括支援センター",
+        "tel": "0956-33-1700",
+        "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
+    },
+    {
+        "id": 2055,
+        "prefecture": "長崎県",
+        "city": "佐世保市",
+        "area": "山澄",
+        "name": "山澄地域包括支援センター",
+        "tel": "0956-36-9077",
+        "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
+    },
+    {
+        "id": 2056,
+        "prefecture": "長崎県",
+        "city": "佐世保市",
+        "area": "中部",
+        "name": "中部地域包括支援センター",
+        "tel": "0956-59-7111",
+        "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
+    },
+    {
+        "id": 2057,
+        "prefecture": "長崎県",
+        "city": "佐世保市",
+        "area": "清水",
+        "name": "清水地域包括支援センター",
+        "tel": "0956-59-7770",
+        "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
+    },
+    {
+        "id": 2058,
+        "prefecture": "長崎県",
+        "city": "佐世保市",
+        "area": "大野",
+        "name": "大野地域包括支援センター",
+        "tel": "0956-59-7758",
+        "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
+    },
+    {
+        "id": 2059,
+        "prefecture": "長崎県",
+        "city": "佐世保市",
+        "area": "相浦",
+        "name": "相浦地域包括支援センター",
+        "tel": "0956-59-7003",
+        "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
+    },
+    {
+        "id": 2060,
+        "prefecture": "長崎県",
+        "city": "佐世保市",
+        "area": "吉井",
+        "name": "吉井地域包括支援センター",
+        "tel": "0956-66-8838",
+        "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
+    },
+    {
+        "id": 2061,
+        "prefecture": "長崎県",
+        "city": "佐世保市",
+        "area": "宇久",
+        "name": "宇久地域包括支援センター",
+        "tel": "0959-57-3450",
+        "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
     }
 ]
