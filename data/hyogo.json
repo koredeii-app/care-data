@@ -1240,5 +1240,12 @@
         "name": "地域包括支援センターかこがわ西",
         "tel": "079-452-2097",
         "url": "https://www.city.kakogawa.lg.jp/fukushikenko/kaigo_fukushi/koreishafukushi/1413772439668.html"
-    }
+    },
+    {"id":2120,"prefecture":"兵庫県","city":"宝塚市","area":"仁川・末成・高司・良元・光明・末広","name":"小林地域包括支援センター","tel":"0797-74-3863","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
+    {"id":2121,"prefecture":"兵庫県","city":"宝塚市","area":"末広・宝塚第一・西山・逆瀬台","name":"逆瀬川地域包括支援センター","tel":"0797-76-2830","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
+    {"id":2122,"prefecture":"兵庫県","city":"宝塚市","area":"宝塚・すみれガ丘・売布・美座","name":"御殿山地域包括支援センター","tel":"0797-83-1336","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
+    {"id":2123,"prefecture":"兵庫県","city":"宝塚市","area":"小浜・美座・安倉・安倉北","name":"小浜地域包括支援センター","tel":"0797-86-3707","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
+    {"id":2124,"prefecture":"兵庫県","city":"宝塚市","area":"長尾・長尾南・売布・安倉北・丸橋","name":"長尾地域包括支援センター","tel":"0797-80-2941","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
+    {"id":2125,"prefecture":"兵庫県","city":"宝塚市","area":"長尾・山手台・長尾台・中山台","name":"花屋敷地域包括支援センター","tel":"072-740-3555","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
+    {"id":2126,"prefecture":"兵庫県","city":"宝塚市","area":"西谷","name":"西谷地域包括支援センター","tel":"0797-83-5080","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"}
 ]

@@ -205,5 +205,12 @@
         "name": "南郷地区高齢者支援センターなんごう",
         "tel": "0178-70-5102",
         "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
-    }
+    },
+    {"id":2165,"prefecture":"青森県","city":"弘前市","area":"第一中学校区","name":"第一地域包括支援センター","tel":"0172-31-1203","url":"https://www.city.hirosaki.aomori.jp/fukushi/fukushi/2015-0219-0859-100.html"},
+    {"id":2166,"prefecture":"青森県","city":"弘前市","area":"第二中学校区","name":"第二地域包括支援センター","tel":"0172-31-3811","url":"https://www.city.hirosaki.aomori.jp/fukushi/fukushi/2015-0219-0859-100.html"},
+    {"id":2167,"prefecture":"青森県","city":"弘前市","area":"南・第三中学校区","name":"第三地域包括支援センター","tel":"0172-39-2515","url":"https://www.city.hirosaki.aomori.jp/fukushi/fukushi/2015-0219-0859-100.html"},
+    {"id":2168,"prefecture":"青森県","city":"弘前市","area":"東・第五・石川中学校区","name":"東部地域包括支援センター","tel":"0172-26-2433","url":"https://www.city.hirosaki.aomori.jp/fukushi/fukushi/2015-0219-0859-100.html"},
+    {"id":2169,"prefecture":"青森県","city":"弘前市","area":"津軽・常盤野・相馬・東目屋中学校区","name":"西部地域包括支援センター","tel":"0172-82-1516","url":"https://www.city.hirosaki.aomori.jp/fukushi/fukushi/2015-0219-0859-100.html"},
+    {"id":2170,"prefecture":"青森県","city":"弘前市","area":"第四・南中学校区","name":"南部地域包括支援センター","tel":"0172-87-6779","url":"https://www.city.hirosaki.aomori.jp/fukushi/fukushi/2015-0219-0859-100.html"},
+    {"id":2171,"prefecture":"青森県","city":"弘前市","area":"新和・北辰・船沢・裾野中学校区","name":"北部地域包括支援センター","tel":"0172-95-2100","url":"https://www.city.hirosaki.aomori.jp/fukushi/fukushi/2015-0219-0859-100.html"}
 ]

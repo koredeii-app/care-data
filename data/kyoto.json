@@ -59,5 +59,13 @@
     {"id":1861,"prefecture":"京都府","city":"京都市","area":"藤ノ森・藤城","name":"高齢サポート深草南部","tel":"075-641-9301","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
     {"id":1862,"prefecture":"京都府","city":"京都市","area":"深草","name":"高齢サポート深草中部","tel":"075-642-5155","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
     {"id":1863,"prefecture":"京都府","city":"京都市","area":"小栗栖・石田・春日野・日野","name":"高齢サポート醍醐南部","tel":"075-572-6572","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1864,"prefecture":"京都府","city":"京都市","area":"北醍醐・醍醐西・醍醐・池田","name":"高齢サポート醍醐北部","tel":"075-571-3560","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"}
+    {"id":1864,"prefecture":"京都府","city":"京都市","area":"北醍醐・醍醐西・醍醐・池田","name":"高齢サポート醍醐北部","tel":"075-571-3560","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
+    {"id":2179,"prefecture":"京都府","city":"宇治市","area":"笠取・笠取第二・木幡・御蔵山","name":"東宇治北地域包括支援センター","tel":"0774-33-8270","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
+    {"id":2180,"prefecture":"京都府","city":"宇治市","area":"宇治・岡屋","name":"東宇治南地域包括支援センター","tel":"0774-38-1250","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
+    {"id":2181,"prefecture":"京都府","city":"宇治市","area":"南部・三室戸","name":"南部・三室戸地域包括支援センター","tel":"0774-23-6115","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
+    {"id":2182,"prefecture":"京都府","city":"宇治市","area":"菟道・菟道第二・大開","name":"中宇治地域包括支援センター","tel":"0774-28-3180","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
+    {"id":2183,"prefecture":"京都府","city":"宇治市","area":"槇島・北槇島","name":"槇島地域包括支援センター","tel":"0774-21-6605","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
+    {"id":2184,"prefecture":"京都府","city":"宇治市","area":"小倉・神明","name":"北宇治地域包括支援センター","tel":"0774-21-8123","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
+    {"id":2185,"prefecture":"京都府","city":"宇治市","area":"北小倉・西小倉・南小倉・伊勢田","name":"西宇治地域包括支援センター","tel":"0774-28-6180","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
+    {"id":2186,"prefecture":"京都府","city":"宇治市","area":"大久保・西大久保・平盛","name":"南宇治地域包括支援センター","tel":"0774-45-1544","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"}
 ]

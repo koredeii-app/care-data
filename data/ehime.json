@@ -133,5 +133,13 @@
         "name":  "松山市地域包括支援センター北条",
         "tel":  "089-992-0117",
         "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
-    }
+    },
+    {"id":2127,"prefecture":"愛媛県","city":"今治市","area":"美須賀・立花","name":"今治市地域包括支援センター美須賀・立花","tel":"0898-55-8872","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
+    {"id":2128,"prefecture":"愛媛県","city":"今治市","area":"日吉・近見","name":"今治市地域包括支援センター日吉・近見","tel":"0898-22-7960","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
+    {"id":2129,"prefecture":"愛媛県","city":"今治市","area":"西・南","name":"今治市地域包括支援センター西・南","tel":"0898-33-7861","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
+    {"id":2130,"prefecture":"愛媛県","city":"今治市","area":"桜井・朝倉・玉川","name":"今治市地域包括支援センター桜井・朝倉・玉川","tel":"0898-36-8330","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
+    {"id":2131,"prefecture":"愛媛県","city":"今治市","area":"北郷・大西・菊間","name":"今治市地域包括支援センター北郷・大西・菊間","tel":"0898-53-5540","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
+    {"id":2132,"prefecture":"愛媛県","city":"今治市","area":"吉海・宮窪・伯方・上浦・大三島・関前","name":"今治市伯方地域包括支援センター","tel":"0897-72-1065","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
+    {"id":2133,"prefecture":"愛媛県","city":"今治市","area":"吉海・宮窪","name":"今治市伯方地域包括支援センターサブセンター大島","tel":"0897-84-4110","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
+    {"id":2134,"prefecture":"愛媛県","city":"今治市","area":"上浦・大三島","name":"今治市伯方地域包括支援センターサブセンター大三島","tel":"0897-83-1110","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"}
 ]

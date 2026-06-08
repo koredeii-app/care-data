@@ -178,5 +178,17 @@
         "name":  "長野市地域包括支援センター博愛の園",
         "tel":  "026-256-6530",
         "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
-    }
+    },
+    {"id":2108,"prefecture":"長野県","city":"松本市","area":"岡田・本郷・四賀","name":"松本市北部地域包括支援センター","tel":"0263-87-0231","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2109,"prefecture":"長野県","city":"松本市","area":"第三・入山辺・里山辺","name":"松本市東部地域包括支援センター","tel":"0263-36-3703","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2110,"prefecture":"長野県","city":"松本市","area":"第一・第二・東部・中央・白板","name":"松本市中央地域包括支援センター","tel":"0263-31-0022","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2111,"prefecture":"長野県","city":"松本市","area":"城北・安原・城東","name":"松本市中央北地域包括支援センター","tel":"0263-34-8511","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2112,"prefecture":"長野県","city":"松本市","area":"庄内・中山","name":"松本市中央南地域包括支援センター","tel":"0263-55-3320","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2113,"prefecture":"長野県","city":"松本市","area":"田川・鎌田","name":"松本市中央西地域包括支援センター","tel":"0263-38-3310","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2114,"prefecture":"長野県","city":"松本市","area":"寿・寿台・内田・松原","name":"松本市南東部地域包括支援センター","tel":"0263-85-7351","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2115,"prefecture":"長野県","city":"松本市","area":"松南・芳川","name":"松本市南部地域包括支援センター","tel":"0263-27-5138","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2116,"prefecture":"長野県","city":"松本市","area":"神林・笹賀・今井","name":"松本市南西部地域包括支援センター","tel":"0263-50-7858","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2117,"prefecture":"長野県","city":"松本市","area":"島内・島立","name":"松本市河西部地域包括支援センター","tel":"0263-48-6361","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2118,"prefecture":"長野県","city":"松本市","area":"新村・和田・梓川","name":"松本市河西部西地域包括支援センター","tel":"0263-47-0294","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
+    {"id":2119,"prefecture":"長野県","city":"松本市","area":"安曇・奈川・波田","name":"松本市西部地域包括支援センター","tel":"0263-87-1572","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"}
 ]

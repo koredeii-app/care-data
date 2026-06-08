@@ -286,5 +286,16 @@
         "name":  "富山市婦中西地域包括支援センター",
         "tel":  "076-469-1050",
         "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
-    }
+    },
+    {"id":2135,"prefecture":"富山県","city":"高岡市","area":"伏木・太田","name":"伏木・太田地域包括支援センター","tel":"0766-44-7885","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2136,"prefecture":"富山県","city":"高岡市","area":"守山・二上・能町","name":"守山・二上・能町地域包括支援センター","tel":"0766-25-0809","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2137,"prefecture":"富山県","city":"高岡市","area":"牧野","name":"牧野地域包括支援センター","tel":"0766-53-5110","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2138,"prefecture":"富山県","city":"高岡市","area":"横田・西条・成美","name":"横田・西条・成美地域包括支援センター","tel":"0766-27-7363","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2139,"prefecture":"富山県","city":"高岡市","area":"野村","name":"野村地域包括支援センター","tel":"0766-20-8920","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2140,"prefecture":"富山県","city":"高岡市","area":"高陵・下関","name":"高陵・下関地域包括支援センター","tel":"0766-26-7062","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2141,"prefecture":"富山県","city":"高岡市","area":"博労・川原","name":"博労・川原地域包括支援センター","tel":"0766-28-7717","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2142,"prefecture":"富山県","city":"高岡市","area":"木津・福田・佐野・二塚","name":"木津・福田・佐野・二塚地域包括支援センター","tel":"0766-31-0700","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2143,"prefecture":"富山県","city":"高岡市","area":"国吉・五位","name":"国吉・五位地域包括支援センター","tel":"0766-50-9251","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2144,"prefecture":"富山県","city":"高岡市","area":"戸出・中田","name":"戸出・中田地域包括支援センター","tel":"0766-62-1777","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
+    {"id":2145,"prefecture":"富山県","city":"高岡市","area":"福岡","name":"福岡地域包括支援センター","tel":"0766-64-1186","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"}
 ]

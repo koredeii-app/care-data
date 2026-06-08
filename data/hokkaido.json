@@ -448,5 +448,12 @@
         "name": "函館市地域包括支援センターブランチかやべ",
         "tel": "0138-25-6034",
         "url": "http://www.hakodatesyakyo.net/consul/consul-center/"
-    }
+    },
+    {"id":2146,"prefecture":"北海道","city":"釧路市","area":"西部","name":"西部地域包括支援センター","tel":"0154-55-2666","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
+    {"id":2147,"prefecture":"北海道","city":"釧路市","area":"中部北","name":"中部北地域包括支援センター","tel":"0154-36-1233","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
+    {"id":2148,"prefecture":"北海道","city":"釧路市","area":"中部南","name":"中部南地域包括支援センター","tel":"0154-24-1102","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
+    {"id":2149,"prefecture":"北海道","city":"釧路市","area":"東部北","name":"東部北地域包括支援センター","tel":"0154-42-0600","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
+    {"id":2150,"prefecture":"北海道","city":"釧路市","area":"東部南","name":"東部南地域包括支援センター","tel":"0154-42-8222","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
+    {"id":2151,"prefecture":"北海道","city":"釧路市","area":"阿寒","name":"阿寒地域包括支援センター","tel":"0154-66-1234","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
+    {"id":2152,"prefecture":"北海道","city":"釧路市","area":"音別","name":"音別地域包括支援センター","tel":"01547-9-5252","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"}
 ]
