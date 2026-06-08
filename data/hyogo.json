@@ -1186,5 +1186,59 @@
         "name": "ふたみ総合支援センター",
         "tel": "078-945-3170",
         "url": "https://www.city.akashi.lg.jp/fukushi/k_kaigo_shitsu/tiikisougousienn0216.html"
+    },
+    {
+        "id": 2094,
+        "prefecture": "兵庫県",
+        "city": "加古川市",
+        "area": "加古川町",
+        "name": "地域包括支援センターかこがわ",
+        "tel": "079-429-6510",
+        "url": "https://www.city.kakogawa.lg.jp/fukushikenko/kaigo_fukushi/koreishafukushi/1413772439668.html"
+    },
+    {
+        "id": 2095,
+        "prefecture": "兵庫県",
+        "city": "加古川市",
+        "area": "野口町",
+        "name": "地域包括支援センターのぐち",
+        "tel": "079-426-8218",
+        "url": "https://www.city.kakogawa.lg.jp/fukushikenko/kaigo_fukushi/koreishafukushi/1413772439668.html"
+    },
+    {
+        "id": 2096,
+        "prefecture": "兵庫県",
+        "city": "加古川市",
+        "area": "平岡町",
+        "name": "地域包括支援センターひらおか",
+        "tel": "079-451-0405",
+        "url": "https://www.city.kakogawa.lg.jp/fukushikenko/kaigo_fukushi/koreishafukushi/1413772439668.html"
+    },
+    {
+        "id": 2097,
+        "prefecture": "兵庫県",
+        "city": "加古川市",
+        "area": "尾上町・別府町",
+        "name": "地域包括支援センターかこがわ南",
+        "tel": "079-435-4468",
+        "url": "https://www.city.kakogawa.lg.jp/fukushikenko/kaigo_fukushi/koreishafukushi/1413772439668.html"
+    },
+    {
+        "id": 2098,
+        "prefecture": "兵庫県",
+        "city": "加古川市",
+        "area": "神野町・新神野・西条山手・山手・八幡町・平荘町・上荘町",
+        "name": "地域包括支援センターかこがわ北",
+        "tel": "079-430-5560",
+        "url": "https://www.city.kakogawa.lg.jp/fukushikenko/kaigo_fukushi/koreishafukushi/1413772439668.html"
+    },
+    {
+        "id": 2099,
+        "prefecture": "兵庫県",
+        "city": "加古川市",
+        "area": "東神吉町・西神吉町・米田町・志方町",
+        "name": "地域包括支援センターかこがわ西",
+        "tel": "079-452-2097",
+        "url": "https://www.city.kakogawa.lg.jp/fukushikenko/kaigo_fukushi/koreishafukushi/1413772439668.html"
     }
 ]
