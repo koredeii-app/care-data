@@ -170,11 +170,11 @@
         "tel":  "0985-86-5115",
         "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
     },
-    {"id":2172,"prefecture":"宮崎県","city":"都城市","area":"姫城・中郷","name":"姫城・中郷地区地域包括支援センター","tel":"0986-26-8339","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
-    {"id":2173,"prefecture":"宮崎県","city":"都城市","area":"妻ケ丘・小松原","name":"妻ケ丘・小松原地区地域包括支援センター","tel":"0986-23-9712","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
-    {"id":2174,"prefecture":"宮崎県","city":"都城市","area":"五十市・横市","name":"五十市・横市地区地域包括支援センター","tel":"0986-57-6767","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
-    {"id":2175,"prefecture":"宮崎県","city":"都城市","area":"祝吉・沖水","name":"祝吉・沖水地区地域包括支援センター","tel":"0986-26-4212","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
-    {"id":2176,"prefecture":"宮崎県","city":"都城市","area":"志和池・庄内・西岳","name":"志和池・庄内・西岳地区地域包括支援センター","tel":"0986-45-4180","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
-    {"id":2177,"prefecture":"宮崎県","city":"都城市","area":"山之口・高城","name":"山之口・高城地区地域包括支援センター","tel":"0986-29-1682","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
-    {"id":2178,"prefecture":"宮崎県","city":"都城市","area":"山田・高崎","name":"山田・高崎地区地域包括支援センター","tel":"0986-45-8411","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"}
+    {"id":2172,"prefecture":"宮崎県","city":"都城市","area":"早鈴町、姫城町、甲斐元町、八幡町、松元町、牟田町、蔵原町、上町、中町、西町、下長飯町、都島町の一部、鷹尾一丁目の一部、梅北町、安久町、豊満町","name":"姫城・中郷地区地域包括支援センター","tel":"0986-26-8339","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
+    {"id":2173,"prefecture":"宮崎県","city":"都城市","area":"上東町、東町、天神町、中原町、上長飯町、一万城町、菖蒲原町、若葉町、妻ケ丘町、花繰町、広原町、前田町、平江町、小松原町、北原町、大王町、宮丸町、志比田町、栄町","name":"妻ケ丘・小松原地区地域包括支援センター","tel":"0986-23-9712","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
+    {"id":2174,"prefecture":"宮崎県","city":"都城市","area":"今町、大岩田町、南鷹尾町、五十町、平塚町、久保原町、鷹尾一丁目の一部、鷹尾二丁目～五丁目、都島町の一部、横市町、南横市町、蓑原町、都原町","name":"五十市・横市地区地域包括支援センター","tel":"0986-57-6767","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
+    {"id":2175,"prefecture":"宮崎県","city":"都城市","area":"千町、立野町、早水町、神之山町、年見町、上川東一丁目～四丁目、下川東一丁目～四丁目、郡元町、郡元一丁目～四丁目、祝吉町、祝吉一丁目～三丁目、吉尾町、金田町、太郎坊町、高木町、都北町","name":"祝吉・沖水地区地域包括支援センター","tel":"0986-26-4212","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
+    {"id":2176,"prefecture":"宮崎県","city":"都城市","area":"上水流町、下水流町、岩満町、丸谷町、野々美谷町、乙房町、関之尾町、庄内町、菓子野町、美川町、高野町、吉之元町、御池町、夏尾町","name":"志和池・庄内・西岳地区地域包括支援センター","tel":"0986-45-4180","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
+    {"id":2177,"prefecture":"宮崎県","city":"都城市","area":"山之口町山之口、山之口町富吉、山之口町花木、高城町大井手、高城町桜木、高城町高城、高城町穂満坊、高城町石山、高城町有水、高城町四家","name":"山之口・高城地区地域包括支援センター","tel":"0986-29-1682","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
+    {"id":2178,"prefecture":"宮崎県","city":"都城市","area":"山田町山田、山田町中霧島、高崎町前田、高崎町大牟田、高崎町東霧島、高崎町縄瀬、高崎町江平、高崎町笛水","name":"山田・高崎地区地域包括支援センター","tel":"0986-45-8411","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"}
 ]
