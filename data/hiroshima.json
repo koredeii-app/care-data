@@ -448,5 +448,149 @@
         "name": "呉市音戸・倉橋地域包括支援センター",
         "tel": "0823-69-7780",
         "url": "https://www.city.kure.lg.jp/soshiki/150/shisei061122.html"
+    },
+    {
+        "id": 2037,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "東・千田・桜丘・西深津",
+        "name": "福山市地域包括支援センター三吉",
+        "tel": "084-973-0155",
+        "url": "https://www.sakuranamiki-nf.jp/support/"
+    },
+    {
+        "id": 2038,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "手城・深津・旭",
+        "name": "福山市地域包括支援センター三吉町南",
+        "tel": "084-927-9039",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2039,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "西・樹徳・久松台・明王台",
+        "name": "福山市地域包括支援センター南本庄",
+        "tel": "084-920-8161",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2040,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "南・霞・光",
+        "name": "福山市地域包括支援センター野上",
+        "tel": "084-921-0210",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2041,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "箕島・新涯・曙",
+        "name": "福山市地域包括支援センター箕島",
+        "tel": "084-981-1856",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2042,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "多治米・川口・川口東",
+        "name": "福山市地域包括支援センター多治米",
+        "tel": "084-999-7330",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2043,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "泉・津之郷・赤坂・瀬戸・熊野・山手",
+        "name": "福山市地域包括支援センター赤坂",
+        "tel": "084-949-2170",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2044,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "蔵王・春日・緑丘・日吉台",
+        "name": "福山市地域包括支援センター南蔵王",
+        "tel": "084-940-1130",
+        "url": "https://mima-mori.net/comprehensive/"
+    },
+    {
+        "id": 2045,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "引野・大津野・旭丘・長浜・野々浜",
+        "name": "福山市地域包括支援センター引野",
+        "tel": "084-940-5090",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2046,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "坪生・伊勢丘・幕山・大谷台",
+        "name": "福山市地域包括支援センター坪生",
+        "tel": "084-947-9090",
+        "url": "https://www.toukoukai.or.jp/service/comprehensive"
+    },
+    {
+        "id": 2047,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "水呑・高島・鞆の浦学園",
+        "name": "福山市地域包括支援センター水呑",
+        "tel": "084-956-2310",
+        "url": "https://www.sunsquare-1993.org/facility/hiroshima/fukuyama/houkatsu/minomi.html"
+    },
+    {
+        "id": 2048,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "神村・本郷・遺芳丘・松永・柳津・金江・藤江・想青学園・山南",
+        "name": "福山市西南部地域包括支援センター",
+        "tel": "084-933-6272",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2049,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "常金丸・網引・新市・戸手",
+        "name": "福山市地域包括支援センター新市",
+        "tel": "0847-51-3222",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2050,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "駅家・駅家西・駅家北・有磨・福相・宜山",
+        "name": "福山市北部地域包括支援センター",
+        "tel": "084-976-0071",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
+    },
+    {
+        "id": 2051,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "湯田・中条・道上・御幸・加茂",
+        "name": "福山市北部東地域包括支援センター",
+        "tel": "084-962-2495",
+        "url": "http://www.fukayasu.hiroshima.med.or.jp/htmls/houkatu.htm"
+    },
+    {
+        "id": 2052,
+        "prefecture": "広島県",
+        "city": "福山市",
+        "area": "神辺・御野・竹尋",
+        "name": "福山市地域包括支援センターかんなべ",
+        "tel": "084-960-3890",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
     }
 ]
