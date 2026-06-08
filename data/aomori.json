@@ -97,5 +97,113 @@
         "name": "地域包括支援センター浪岡",
         "tel": "0172-69-1117",
         "url": "https://www.aomoricity-shakyo.or.jp/"
+    },
+    {
+        "id": 2082,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "市川・根岸",
+        "name": "市川・根岸地区高齢者支援センターミライフル",
+        "tel": "0178-38-7465",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2083,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "下長・上長",
+        "name": "下長・上長地区高齢者支援センターはくじゅ",
+        "tel": "0178-20-4400",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2084,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "田面木・館・豊崎",
+        "name": "田面木・館・豊崎地区高齢者支援センターハピネスやくら",
+        "tel": "0178-27-8990",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2085,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "長者・白山台",
+        "name": "長者・白山台地区高齢者支援センターちょうじゃの森",
+        "tel": "0178-46-0817",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2086,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "三八城・根城",
+        "name": "三八城・根城地区高齢者支援センターみやぎ",
+        "tel": "0178-71-2271",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2087,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "小中野・江陽",
+        "name": "小中野・江陽地区高齢者支援センターアクティブ24",
+        "tel": "0178-73-3337",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2088,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "柏崎・吹上",
+        "name": "柏崎・吹上地区高齢者支援センター八戸市医師会",
+        "tel": "0178-38-3820",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2089,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "是川・中居林",
+        "name": "是川・中居林地区高齢者支援センターミライフル",
+        "tel": "0178-70-5802",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2090,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "大館・東",
+        "name": "大館・東地区高齢者支援センターみやぎ",
+        "tel": "0178-32-0316",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2091,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "白銀・湊",
+        "name": "白銀・湊地区高齢者支援センターえがお",
+        "tel": "0178-38-1328",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2092,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "白銀南・鮫・南浜",
+        "name": "白銀南・鮫・南浜地区高齢者支援センター瑞光園",
+        "tel": "0178-25-0103",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
+    },
+    {
+        "id": 2093,
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "area": "南郷",
+        "name": "南郷地区高齢者支援センターなんごう",
+        "tel": "0178-70-5102",
+        "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/1/1764.html"
     }
 ]
