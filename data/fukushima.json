@@ -101,5 +101,158 @@
         "name": "小川・川前地域包括支援センター",
         "tel": "0246-83-1411",
         "url": "https://www.city.iwaki.lg.jp/www/contents/1001000000098/index.html"
+    },
+    {
+        "id": 2062,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "桃見台・大島",
+        "name": "郡山北部地域包括支援センター",
+        "tel": "024-931-3032",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2063,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "金透・薫・赤木・芳山",
+        "name": "郡山中央地域包括支援センター",
+        "tel": "024-925-5858",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2064,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "橘・三中・桜・久留米",
+        "name": "郡山南部地域包括支援センター",
+        "tel": "024-991-5811",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2065,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "開成・桑野の一部",
+        "name": "郡山西部地域包括支援センター",
+        "tel": "024-923-6221",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2066,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "芳賀・小原田",
+        "name": "芳賀・小原田地域包括支援センター",
+        "tel": "024-941-1121",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2067,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "富田町・希望ヶ丘・小山田・桑野の一部",
+        "name": "富田地域包括支援センター",
+        "tel": "024-935-0522",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2068,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "大槻町・逢瀬町",
+        "name": "大槻・逢瀬地域包括支援センター",
+        "tel": "024-962-3945",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2069,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "大成・大槻東",
+        "name": "大成・大槻東地域包括支援センター",
+        "tel": "024-962-7013",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2070,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "安積町",
+        "name": "安積地域包括支援センター",
+        "tel": "024-946-9088",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2071,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "三穂田町",
+        "name": "三穂田地域包括支援センター",
+        "tel": "024-946-1527",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2072,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "片平町・喜久田町",
+        "name": "片平・喜久田地域包括支援センター",
+        "tel": "024-962-0354",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2073,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "日和田町・西田町",
+        "name": "日和田・西田地域包括支援センター",
+        "tel": "024-958-6878",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2074,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "富久山町",
+        "name": "富久山地域包括支援センター",
+        "tel": "024-934-5340",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2075,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "湖南町",
+        "name": "湖南地域包括支援センター",
+        "tel": "024-992-0291",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2076,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "熱海町",
+        "name": "熱海地域包括支援センター",
+        "tel": "024-984-6868",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2077,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "田村町",
+        "name": "田村地域包括支援センター",
+        "tel": "024-955-4013",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
+    },
+    {
+        "id": 2078,
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "area": "東部・中田町・緑ヶ丘",
+        "name": "郡山東部・中田地域包括支援センター",
+        "tel": "024-956-8200",
+        "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
     }
 ]
