@@ -763,5 +763,22 @@
         "name":  "柏市沼南地域包括支援センター高柳相談窓口",
         "tel":  "04-7199-3660",
         "url":  "http://kashiwa-shakyo.com/publics/index/112/"
-    }
+    },
+    {"id":2382,"prefecture":"千葉県","city":"市原市","area":"姉崎","name":"市原市地域包括支援センターあねさき","tel":"0436-37-2151","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2383,"prefecture":"千葉県","city":"市原市","area":"千種・五井西","name":"市原市地域包括支援センターしおみ","tel":"0436-26-5151","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2384,"prefecture":"千葉県","city":"市原市","area":"青葉台・有秋・五井南","name":"市原市地域包括支援センターたいよう","tel":"0436-63-4016","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2385,"prefecture":"千葉県","city":"市原市","area":"五井東","name":"市原市地域包括支援センターごい","tel":"0436-25-5111","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2386,"prefecture":"千葉県","city":"市原市","area":"国分寺台","name":"市原市地域包括支援センターこくぶんじ台","tel":"0436-37-3232","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2387,"prefecture":"千葉県","city":"市原市","area":"市原北・市原西","name":"市原市地域包括支援センターふるさと","tel":"0436-75-2005","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2388,"prefecture":"千葉県","city":"市原市","area":"市原東・辰巳台","name":"市原市地域包括支援センター・たつみ","tel":"0436-75-6633","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2389,"prefecture":"千葉県","city":"市原市","area":"市津","name":"市原市地域包括支援センター市津","tel":"0436-67-1520","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2390,"prefecture":"千葉県","city":"市原市","area":"ちはら台","name":"市原市地域包括支援センターちはら台","tel":"043-309-8901","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2391,"prefecture":"千葉県","city":"市原市","area":"三和・南総北","name":"市原市地域包括支援センターひまわり","tel":"0436-37-7222","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2392,"prefecture":"千葉県","city":"市原市","area":"南総西・南総東・加茂","name":"市原市地域包括支援センタートータス","tel":"0436-50-6262","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
+    {"id":2411,"prefecture":"千葉県","city":"八千代市","area":"勝田台・勝田・勝田台南","name":"勝田台地域包括支援センター","tel":"047-481-3515","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
+    {"id":2412,"prefecture":"千葉県","city":"八千代市","area":"米本・神野・保品・下高野・米本団地・堀の内・上高野の一部・桑納・麦丸・桑橋・吉橋・尾崎・島田・神久保・小池・真木野・佐山・平戸・島田台・大学町","name":"阿蘇・睦地域包括支援センター","tel":"047-488-9525","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
+    {"id":2413,"prefecture":"千葉県","city":"八千代市","area":"村上・勝田台北・村上南・下市場・村上団地・上高野の一部","name":"村上地域包括支援センター","tel":"047-405-4177","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
+    {"id":2414,"prefecture":"千葉県","city":"八千代市","area":"八千代台東・西・南・北","name":"八千代台地域包括支援センター","tel":"047-406-5576","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
+    {"id":2415,"prefecture":"千葉県","city":"八千代市","area":"高津・高津東・緑が丘・緑が丘西・高津団地・大和田新田の一部","name":"高津・緑が丘地域包括支援センター","tel":"047-489-4655","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
+    {"id":2416,"prefecture":"千葉県","city":"八千代市","area":"大和田・萱田・萱田町・ゆりのき台・大和田新田の一部","name":"大和田地域包括支援センター","tel":"047-484-6611","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"}
 ]

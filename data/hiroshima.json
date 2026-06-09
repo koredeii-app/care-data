@@ -599,5 +599,13 @@
     {"id":2207,"prefecture":"広島県","city":"尾道市","area":"東部圏域","name":"尾道市東部地域包括支援センター","tel":"0848-56-0345","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
     {"id":2208,"prefecture":"広島県","city":"尾道市","area":"向島圏域","name":"尾道市向島地域包括支援センター","tel":"0848-41-9240","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
     {"id":2209,"prefecture":"広島県","city":"尾道市","area":"南部圏域","name":"尾道市南部地域包括支援センター","tel":"0845-24-1248","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
-    {"id":2210,"prefecture":"広島県","city":"尾道市","area":"瀬戸田圏域","name":"尾道市南部地域包括支援センター瀬戸田支所","tel":"0845-27-3847","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"}
+    {"id":2210,"prefecture":"広島県","city":"尾道市","area":"瀬戸田圏域","name":"尾道市南部地域包括支援センター瀬戸田支所","tel":"0845-27-3847","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
+    {"id":2428,"prefecture":"広島県","city":"東広島市","area":"朝日町・大坪町・岡町・上市町・御条町・栄町・昭和町・西本町・本町・西条・西条東・下見・寺家・寺家駅前・西条東北町・末広町・助実・土与丸・吉行・吉行東","name":"西条北地域包括支援センター","tel":"082-431-6745","url":"https://www.inokuchi.or.jp/home-service/post-138.html"},
+    {"id":2429,"prefecture":"広島県","city":"東広島市","area":"御薗宇・鏡山・西条中央・馬木・大沢・上三永・下三永・三永・郷曽・田口・福本・森近・西大沢","name":"西条南地域包括支援センター","tel":"082-422-1020","url":"https://sites.google.com/view/saijominamichiikihokatsu/"},
+    {"id":2430,"prefecture":"広島県","city":"東広島市","area":"八本松町","name":"八本松地域包括支援センター","tel":"082-420-9717","url":"http://www.tokiwadaihome.or.jp/hachihonmatsu/"},
+    {"id":2431,"prefecture":"広島県","city":"東広島市","area":"志和町","name":"志和地域包括支援センター","tel":"082-401-4110","url":"https://mizuho-shiwa.jp/houkatsu/"},
+    {"id":2432,"prefecture":"広島県","city":"東広島市","area":"高屋町","name":"高屋地域包括支援センター","tel":"082-426-5211","url":"https://www.misonoryo.com/original12/contact2"},
+    {"id":2433,"prefecture":"広島県","city":"東広島市","area":"黒瀬町","name":"黒瀬地域包括支援センター","tel":"0823-82-0203","url":"https://www.hakujukai.jp/s_chiiki.html"},
+    {"id":2434,"prefecture":"広島県","city":"東広島市","area":"福富町・豊栄町・河内町","name":"北部地域包括支援センター","tel":"082-435-2240","url":"https://www.higashihiroshimashi-syakyo.jp/senior/shien.html"},
+    {"id":2435,"prefecture":"広島県","city":"東広島市","area":"安芸津町","name":"安芸津地域包括支援センター","tel":"0846-46-1305","url":"https://www.hakujukai.jp/s_chiiki.html"}
 ]

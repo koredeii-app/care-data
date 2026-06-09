@@ -1256,5 +1256,12 @@
     {"id":2251,"prefecture":"兵庫県","city":"伊丹市","area":"花里・昆陽里","name":"花里・昆陽里地域包括支援センター","tel":"072-767-9939","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
     {"id":2252,"prefecture":"兵庫県","city":"伊丹市","area":"神津・有岡","name":"神津・有岡地域包括支援センター","tel":"072-777-8055","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
     {"id":2253,"prefecture":"兵庫県","city":"伊丹市","area":"緑丘・瑞穂","name":"緑丘・瑞穂地域包括支援センター","tel":"072-777-3652","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
-    {"id":2254,"prefecture":"兵庫県","city":"伊丹市","area":"南","name":"南地域包括支援センター","tel":"072-771-8566","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"}
+    {"id":2254,"prefecture":"兵庫県","city":"伊丹市","area":"南","name":"南地域包括支援センター","tel":"072-771-8566","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
+    {"id":2421,"prefecture":"兵庫県","city":"川西市","area":"川西南地域","name":"川西南地域包括支援センター","tel":"072-755-3315","url":"https://www.city.kawanishi.hyogo.jp/kurashi/fukushi_kaigo/1017467/1017468/kaigohokenmado/zaikaihoukatutantoutiiki.html"},
+    {"id":2422,"prefecture":"兵庫県","city":"川西市","area":"川西中央地域","name":"川西（中央）地域包括支援センター","tel":"072-755-1041","url":"https://www.city.kawanishi.hyogo.jp/kurashi/fukushi_kaigo/1017467/1017468/kaigohokenmado/zaikaihoukatutantoutiiki.html"},
+    {"id":2423,"prefecture":"兵庫県","city":"川西市","area":"明峰地域","name":"明峰地域包括支援センター","tel":"072-793-2703","url":"https://www.city.kawanishi.hyogo.jp/kurashi/fukushi_kaigo/1017467/1017468/kaigohokenmado/zaikaihoukatutantoutiiki.html"},
+    {"id":2424,"prefecture":"兵庫県","city":"川西市","area":"多田地域","name":"多田地域包括支援センター","tel":"072-790-1301","url":"https://www.city.kawanishi.hyogo.jp/kurashi/fukushi_kaigo/1017467/1017468/kaigohokenmado/zaikaihoukatutantoutiiki.html"},
+    {"id":2425,"prefecture":"兵庫県","city":"川西市","area":"向陽台・水明台・清流台・緑台地域","name":"緑台地域包括支援センター","tel":"072-792-6055","url":"https://www.city.kawanishi.hyogo.jp/kurashi/fukushi_kaigo/1017467/1017468/kaigohokenmado/zaikaihoukatutantoutiiki.html"},
+    {"id":2426,"prefecture":"兵庫県","city":"川西市","area":"清和台・けやき坂地域","name":"清和台地域包括支援センター","tel":"072-799-6800","url":"https://www.city.kawanishi.hyogo.jp/kurashi/fukushi_kaigo/1017467/1017468/kaigohokenmado/zaikaihoukatutantoutiiki.html"},
+    {"id":2427,"prefecture":"兵庫県","city":"川西市","area":"東谷地域","name":"東谷地域包括支援センター","tel":"072-790-4055","url":"https://www.city.kawanishi.hyogo.jp/kurashi/fukushi_kaigo/1017467/1017468/kaigohokenmado/zaikaihoukatutantoutiiki.html"}
 ]
