@@ -196,5 +196,15 @@
         "name": "下関市豊北地域包括支援センター",
         "tel": "083-782-1904",
         "url": "https://www.city.shimonoseki.lg.jp/soshiki/40/109338.html"
-    }
+    },
+    {"id":2187,"prefecture":"山口県","city":"宇部市","area":"東岐波、川上","name":"東部第1地域包括支援センター","tel":"0836-39-6971","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
+    {"id":2188,"prefecture":"山口県","city":"宇部市","area":"西岐波、常盤","name":"東部第2地域包括支援センター","tel":"0836-39-6151","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
+    {"id":2189,"prefecture":"山口県","city":"宇部市","area":"西宇部、厚南","name":"西部第1地域包括支援センター","tel":"0836-45-3969","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
+    {"id":2190,"prefecture":"山口県","city":"宇部市","area":"黒石、原","name":"西部第2地域包括支援センター","tel":"0836-43-9307","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
+    {"id":2191,"prefecture":"山口県","city":"宇部市","area":"上宇部、小羽山","name":"中部第1地域包括支援センター","tel":"0836-43-9551","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
+    {"id":2192,"prefecture":"山口県","city":"宇部市","area":"新川、鵜の島、藤山","name":"中部第2地域包括支援センター","tel":"0836-39-6131","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
+    {"id":2193,"prefecture":"山口県","city":"宇部市","area":"厚東、二俣瀬、小野","name":"北部東地域包括支援センター","tel":"0836-62-5858","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
+    {"id":2194,"prefecture":"山口県","city":"宇部市","area":"船木、万倉、吉部","name":"北部西地域包括支援センター","tel":"0836-67-0506","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
+    {"id":2195,"prefecture":"山口県","city":"宇部市","area":"恩田、岬","name":"南部第1地域包括支援センター","tel":"0836-38-8551","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
+    {"id":2196,"prefecture":"山口県","city":"宇部市","area":"見初、神原、琴芝","name":"南部第2地域包括支援センター","tel":"0836-38-3220","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"}
 ]

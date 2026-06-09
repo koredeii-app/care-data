@@ -475,5 +475,17 @@
         "name":  "南中山地域包括支援センター",
         "tel":  "022-343-5561",
         "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
-    }
+    },
+    {"id":2234,"prefecture":"宮城県","city":"石巻市","area":"中央、立町","name":"石巻市中央地域包括支援センター","tel":"0225-21-5171","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2235,"prefecture":"宮城県","city":"石巻市","area":"稲井、住吉","name":"石巻市稲井地域包括支援センター","tel":"0225-93-8166","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2236,"prefecture":"宮城県","city":"石巻市","area":"蛇田","name":"石巻市蛇田地域包括支援センター","tel":"0225-92-7355","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2237,"prefecture":"宮城県","city":"石巻市","area":"山下、釜、大街道","name":"石巻市山下地域包括支援センター","tel":"0225-96-2010","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2238,"prefecture":"宮城県","city":"石巻市","area":"渡波、荻浜","name":"石巻市渡波地域包括支援センター","tel":"0225-25-3771","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2239,"prefecture":"宮城県","city":"石巻市","area":"湊","name":"石巻市湊地域包括支援センター","tel":"0225-90-3146","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2240,"prefecture":"宮城県","city":"石巻市","area":"河北","name":"石巻市河北地域包括支援センター","tel":"0225-61-1252","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2241,"prefecture":"宮城県","city":"石巻市","area":"雄勝","name":"石巻市雄勝地域包括支援センター","tel":"0225-61-3732","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2242,"prefecture":"宮城県","city":"石巻市","area":"河南","name":"石巻市河南地域包括支援センター","tel":"0225-86-5501","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2243,"prefecture":"宮城県","city":"石巻市","area":"桃生","name":"石巻市ものう地域包括支援センター","tel":"0225-76-5581","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2244,"prefecture":"宮城県","city":"石巻市","area":"北上","name":"石巻市北上地域包括支援センター","tel":"0225-61-7023","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {"id":2245,"prefecture":"宮城県","city":"石巻市","area":"牡鹿","name":"石巻市牡鹿地域包括支援センター","tel":"0225-44-1652","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"}
 ]

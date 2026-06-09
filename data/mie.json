@@ -12,5 +12,13 @@
     {"id":1788,"prefecture":"三重県","city":"津市","area":"市内全域","name":"津市地域包括支援センター","tel":"059-229-3294","url":"https://www.info.city.tsu.mie.jp/kurashi/soudan/1002591/1008446.html"},
     {"id":2079,"prefecture":"三重県","city":"四日市市","area":"富洲原・大矢知・羽津・海蔵・八郷・下野・保々・富田","name":"四日市市北地域包括支援センター","tel":"059-365-6215","url":"https://www.city.yokkaichi.lg.jp/www/contents/1001000001019/index.html"},
     {"id":2080,"prefecture":"三重県","city":"四日市市","area":"中央・港・同和・共同・浜田・川島・神前・県・桜・三重・橋北","name":"四日市市中地域包括支援センター","tel":"059-354-8346","url":"https://www.city.yokkaichi.lg.jp/www/contents/1001000001019/index.html"},
-    {"id":2081,"prefecture":"三重県","city":"四日市市","area":"小山田・水沢・四郷・日永・内部・河原田・塩浜・楠・常磐","name":"四日市市南地域包括支援センター","tel":"059-328-2618","url":"https://www.city.yokkaichi.lg.jp/www/contents/1001000001019/index.html"}
+    {"id":2081,"prefecture":"三重県","city":"四日市市","area":"小山田・水沢・四郷・日永・内部・河原田・塩浜・楠・常磐","name":"四日市市南地域包括支援センター","tel":"059-328-2618","url":"https://www.city.yokkaichi.lg.jp/www/contents/1001000001019/index.html"},
+    {"id":2211,"prefecture":"三重県","city":"鈴鹿市","area":"高塚町","name":"鈴鹿第1地域包括支援センターなんてん","tel":"059-373-6031","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
+    {"id":2212,"prefecture":"三重県","city":"鈴鹿市","area":"平田","name":"鈴鹿第2地域包括支援センターあんず","tel":"059-370-3751","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
+    {"id":2213,"prefecture":"三重県","city":"鈴鹿市","area":"神戸","name":"鈴鹿第3地域包括支援センターやまぶき","tel":"059-384-4165","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
+    {"id":2214,"prefecture":"三重県","city":"鈴鹿市","area":"上箕田町","name":"鈴鹿第4地域包括支援センターわかたけ","tel":"059-385-7770","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
+    {"id":2215,"prefecture":"三重県","city":"鈴鹿市","area":"南玉垣町","name":"鈴鹿第5地域包括支援センターひいらぎ","tel":"059-392-5713","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
+    {"id":2216,"prefecture":"三重県","city":"鈴鹿市","area":"地子町","name":"鈴鹿第6地域包括支援センターつゆくさ","tel":"059-389-5959","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
+    {"id":2217,"prefecture":"三重県","city":"鈴鹿市","area":"南若松町","name":"鈴鹿第7地域包括支援センターりんどう","tel":"059-380-5280","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
+    {"id":2218,"prefecture":"三重県","city":"鈴鹿市","area":"長法寺町","name":"鈴鹿第8地域包括支援センターふじ","tel":"059-372-3128","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"}
 ]

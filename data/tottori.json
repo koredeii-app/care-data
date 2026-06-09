@@ -88,5 +88,12 @@
         "name":  "鳥取市西部地域包括支援センター",
         "tel":  "0857-30-7780",
         "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
-    }
+    },
+    {"id":2259,"prefecture":"鳥取県","city":"米子市","area":"啓成・車尾","name":"東山地域包括支援センター","tel":"0859-23-5471","url":"https://www.city.yonago.lg.jp/5761.htm"},
+    {"id":2260,"prefecture":"鳥取県","city":"米子市","area":"福生東・福生西","name":"福生地域包括支援センター","tel":"0859-30-2840","url":"https://www.city.yonago.lg.jp/5761.htm"},
+    {"id":2261,"prefecture":"鳥取県","city":"米子市","area":"福米東・福米西","name":"福米地域包括支援センター","tel":"0859-36-8001","url":"https://www.city.yonago.lg.jp/5761.htm"},
+    {"id":2262,"prefecture":"鳥取県","city":"米子市","area":"明道・就将","name":"湊山地域包括支援センター","tel":"0859-23-6790","url":"https://www.city.yonago.lg.jp/5761.htm"},
+    {"id":2263,"prefecture":"鳥取県","city":"米子市","area":"義方・住吉","name":"後藤ヶ丘地域包括支援センター","tel":"0859-48-1365","url":"https://www.city.yonago.lg.jp/5761.htm"},
+    {"id":2264,"prefecture":"鳥取県","city":"米子市","area":"彦名、夜見、富益、崎津、大篠津、和田","name":"弓浜地域包括支援センター","tel":"0859-48-2330","url":"https://www.city.yonago.lg.jp/5761.htm"},
+    {"id":2265,"prefecture":"鳥取県","city":"米子市","area":"淀江、宇田川、大和","name":"淀江地域包括支援センター","tel":"0859-56-1118","url":"https://www.city.yonago.lg.jp/5761.htm"}
 ]

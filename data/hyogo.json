@@ -1247,5 +1247,14 @@
     {"id":2123,"prefecture":"兵庫県","city":"宝塚市","area":"小浜・美座・安倉・安倉北","name":"小浜地域包括支援センター","tel":"0797-86-3707","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
     {"id":2124,"prefecture":"兵庫県","city":"宝塚市","area":"長尾・長尾南・売布・安倉北・丸橋","name":"長尾地域包括支援センター","tel":"0797-80-2941","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
     {"id":2125,"prefecture":"兵庫県","city":"宝塚市","area":"長尾・山手台・長尾台・中山台","name":"花屋敷地域包括支援センター","tel":"072-740-3555","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
-    {"id":2126,"prefecture":"兵庫県","city":"宝塚市","area":"西谷","name":"西谷地域包括支援センター","tel":"0797-83-5080","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"}
+    {"id":2126,"prefecture":"兵庫県","city":"宝塚市","area":"西谷","name":"西谷地域包括支援センター","tel":"0797-83-5080","url":"https://www.city.takarazuka.hyogo.jp/kenkofukushi/koreisha/1053174/1000636.html"},
+    {"id":2246,"prefecture":"兵庫県","city":"伊丹市","area":"天神川・荻野","name":"天神川・荻野地域包括支援センター","tel":"072-777-7002","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
+    {"id":2247,"prefecture":"兵庫県","city":"伊丹市","area":"稲野・鴻池","name":"稲野・鴻池地域包括支援センター","tel":"072-780-1733","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
+    {"id":2248,"prefecture":"兵庫県","city":"伊丹市","area":"伊丹・摂陽","name":"伊丹・摂陽地域包括支援センター","tel":"072-775-2776","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
+    {"id":2249,"prefecture":"兵庫県","city":"伊丹市","area":"笹原・鈴原","name":"笹原・鈴原地域包括支援センター","tel":"072-773-6223","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
+    {"id":2250,"prefecture":"兵庫県","city":"伊丹市","area":"桜台・池尻","name":"桜台・池尻地域包括支援センター","tel":"072-744-1475","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
+    {"id":2251,"prefecture":"兵庫県","city":"伊丹市","area":"花里・昆陽里","name":"花里・昆陽里地域包括支援センター","tel":"072-767-9939","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
+    {"id":2252,"prefecture":"兵庫県","city":"伊丹市","area":"神津・有岡","name":"神津・有岡地域包括支援センター","tel":"072-777-8055","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
+    {"id":2253,"prefecture":"兵庫県","city":"伊丹市","area":"緑丘・瑞穂","name":"緑丘・瑞穂地域包括支援センター","tel":"072-777-3652","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"},
+    {"id":2254,"prefecture":"兵庫県","city":"伊丹市","area":"南","name":"南地域包括支援センター","tel":"072-771-8566","url":"https://www.city.itami.lg.jp/SOSIKI/KENKOFUKUSHI/KAIGO/1438055928102.html"}
 ]
