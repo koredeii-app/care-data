@@ -2371,11 +2371,11 @@
     {"id":2469,"prefecture":"神奈川県","city":"鎌倉市","area":"山ノ内・台（一丁目除く）・小袋谷・大船（一丁目～六丁目除く）・高野","name":"きしろ","tel":"0467-42-7503","url":"http://www.kishiro.or.jp/jigyosho/support-kishiro/"},
     {"id":2470,"prefecture":"神奈川県","city":"鎌倉市","area":"大船（一丁目～六丁目）・岩瀬・今泉・今泉台","name":"ふれあいの泉","tel":"0467-43-5977","url":"https://x.gd/TFIJ3"},
     {"id":2471,"prefecture":"神奈川県","city":"鎌倉市","area":"台一丁目・岡本・玉縄・植木・城廻・関谷","name":"ささりんどう鎌倉","tel":"0467-42-3702","url":"https://www.sasa-care.com/regional-comprehensive-support-center"},
-    {"id":2514,"prefecture":"神奈川県","city":"秦野市","area":"本町1～3丁目・河原町・元町・末広町・入船町・曽屋1～2丁目・寿町・栄町・文京町・幸町・桜町1～2丁目・水神町・ひばりヶ丘・富士見町・曽屋・上大槻・下落合・東田原・室町・羽根","name":"本町地域高齢者支援センター","tel":"0463-75-8907","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
-    {"id":2515,"prefecture":"神奈川県","city":"秦野市","area":"新町・鈴張町・緑町・清水町・平沢","name":"南地域高齢者支援センター","tel":"0463-84-2250","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
-    {"id":2516,"prefecture":"神奈川県","city":"秦野市","area":"落合・名古木・寺山・小蓑毛","name":"東・北地域高齢者支援センター","tel":"0463-81-0990","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
-    {"id":2517,"prefecture":"神奈川県","city":"秦野市","area":"北矢名・南矢名・下大槻","name":"大根地域高齢者支援センター","tel":"0463-76-5208","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
-    {"id":2518,"prefecture":"神奈川県","city":"秦野市","area":"萩が丘・曲松・渋沢","name":"渋沢地域高齢者支援センター","tel":"0463-79-6532","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
-    {"id":2519,"prefecture":"神奈川県","city":"秦野市","area":"鶴巻・鶴巻北","name":"鶴巻地域高齢者支援センター","tel":"0463-79-9040","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
-    {"id":2520,"prefecture":"神奈川県","city":"秦野市","area":"並木町・弥生町・松原町","name":"西地域高齢者支援センター","tel":"0463-73-5751","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"}
+    {"id":2514,"prefecture":"神奈川県","city":"秦野市","area":"本町1～3丁目・河原町・元町・末広町・入船町・下落合・東田原（一部）","name":"本町地域高齢者支援センター","tel":"0463-75-8907","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
+    {"id":2515,"prefecture":"神奈川県","city":"秦野市","area":"新町・鈴張町・緑町・清水町・上今川町・今川町・南が丘1～5丁目・立野台1～3丁目","name":"南地域高齢者支援センター","tel":"0463-84-2250","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
+    {"id":2516,"prefecture":"神奈川県","city":"秦野市","area":"落合・寺山・小蓑毛・蓑毛・西田原・名古木・羽根・菩提・横野・戸川・三屋","name":"東・北地域高齢者支援センター","tel":"0463-81-0990","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
+    {"id":2517,"prefecture":"神奈川県","city":"秦野市","area":"南矢名・南矢名1～5丁目・下大槻・北矢名（一部）","name":"大根地域高齢者支援センター","tel":"0463-76-5208","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
+    {"id":2518,"prefecture":"神奈川県","city":"秦野市","area":"萩が丘・曲松1・2丁目・渋沢1～3丁目・千村・渋沢上1・2丁目","name":"渋沢地域高齢者支援センター","tel":"0463-79-6532","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
+    {"id":2519,"prefecture":"神奈川県","city":"秦野市","area":"鶴巻・鶴巻北1～3丁目・鶴巻南1～5丁目","name":"鶴巻地域高齢者支援センター","tel":"0463-79-9040","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
+    {"id":2520,"prefecture":"神奈川県","city":"秦野市","area":"並木町・弥生町・春日町・松原町・堀西・堀川・菖蒲・三廻部・柳川・八沢","name":"西地域高齢者支援センター","tel":"0463-73-5751","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"}
 ]
