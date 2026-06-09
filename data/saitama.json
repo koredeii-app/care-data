@@ -871,5 +871,13 @@
         "name": "川越市地域包括支援センター にし分室",
         "tel": "049-299-6161",
         "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
-    }
+    },
+    {"id":2374,"prefecture":"埼玉県","city":"熊谷市","area":"妻沼地域","name":"大里広域地域包括支援センターいこいの里","tel":"048-589-0001","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
+    {"id":2375,"prefecture":"埼玉県","city":"熊谷市","area":"大幡・奈良・別府","name":"大里広域地域包括支援センター永寿苑","tel":"048-533-2022","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
+    {"id":2376,"prefecture":"埼玉県","city":"熊谷市","area":"玉井・三尻・籠原南","name":"大里広域地域包括支援センターはなぶさ苑","tel":"048-533-8833","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
+    {"id":2377,"prefecture":"埼玉県","city":"熊谷市","area":"箱田・肥塚・成田・中条・星宮・中央","name":"大里広域地域包括支援センター玉の緒","tel":"048-525-5621","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
+    {"id":2378,"prefecture":"埼玉県","city":"熊谷市","area":"上石・荒川西・荒川東・大麻生","name":"大里広域地域包括支援センターはなぶさ苑荒川","tel":"048-522-1577","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
+    {"id":2379,"prefecture":"埼玉県","city":"熊谷市","area":"本町・星川・宮町・末広・筑波・銀座・本石・石原・大原・桜町・平戸","name":"大里広域地域包括支援センターぬくもり","tel":"048-529-2511","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
+    {"id":2380,"prefecture":"埼玉県","city":"熊谷市","area":"末広・上之・中西・佐谷田・久下","name":"大里広域地域包括支援センタークイーンズビラ","tel":"048-507-1515","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
+    {"id":2381,"prefecture":"埼玉県","city":"熊谷市","area":"吉岡・大里地区・江南地区","name":"大里広域地域包括支援センター立正たちばな","tel":"048-537-1155","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"}
 ]

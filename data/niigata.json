@@ -367,5 +367,17 @@
         "name": "長岡市地域包括支援センターかわぐち",
         "tel": "0258-89-3974",
         "url": "https://www.city.nagaoka.niigata.jp/fukushi/cate02/houkatu_center.html"
-    }
+    },
+    {"id":2295,"prefecture":"新潟県","city":"上越市","area":"大手町・本城町・本町三～七丁目","name":"地域包括支援センターたかだ","tel":"025-526-1155","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2296,"prefecture":"新潟県","city":"上越市","area":"金谷区・三郷区","name":"みんなでいきる地域包括支援センター","tel":"025-520-8970","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2297,"prefecture":"新潟県","city":"上越市","area":"南本町一～三丁目・東城町・和田区","name":"センター病院地域包括支援センター","tel":"025-527-3880","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2298,"prefecture":"新潟県","city":"上越市","area":"新道区・諏訪区・津有区・高士区","name":"高田の郷地域包括支援センター","tel":"025-521-5133","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2299,"prefecture":"新潟県","city":"上越市","area":"土橋・藤巻・木田新田・春日山町","name":"かすが地域包括支援センター","tel":"025-520-5028","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2300,"prefecture":"新潟県","city":"上越市","area":"東小猿屋・三田・福田・下門前","name":"リボーン地域包括支援センター","tel":"025-530-7802","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2301,"prefecture":"新潟県","city":"上越市","area":"西本町・旭区・八千浦区・保倉区","name":"ふもと地域包括支援センター","tel":"025-531-1502","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2302,"prefecture":"新潟県","city":"上越市","area":"東雲町・五智・谷浜区・桑取区・名立区","name":"地域包括支援センター府中会","tel":"025-544-3325","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2303,"prefecture":"新潟県","city":"上越市","area":"大潟区・頸城区","name":"しおさいの里地域包括支援センター","tel":"025-535-1151","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2304,"prefecture":"新潟県","city":"上越市","area":"柿崎区・吉川区","name":"柿崎地域包括支援センター","tel":"025-536-6312","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2305,"prefecture":"新潟県","city":"上越市","area":"浦川原区・安塚区・大島区・牧区","name":"浦川原地域包括支援センター","tel":"025-599-3872","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"},
+    {"id":2306,"prefecture":"新潟県","city":"上越市","area":"三和区・中郷区・板倉区・清里区","name":"上越あたご地域包括支援センター三和","tel":"025-530-7581","url":"https://www.city.joetsu.niigata.jp/soshiki/koureisya/koureisyasoudan.html"}
 ]

@@ -40,5 +40,14 @@
     {"id":1785,"prefecture":"群馬県","city":"高崎市","area":"新町第二","name":"高齢者あんしんセンター新町南","tel":"0274-42-1033","url":"https://www.city.takasaki.gunma.jp/site/notice/3559.html"},
     {"id":1786,"prefecture":"群馬県","city":"高崎市","area":"下室田・中室田・上室田","name":"高齢者あんしんセンター新生会","tel":"027-395-8080","url":"https://www.city.takasaki.gunma.jp/site/notice/3559.html"},
     {"id":1787,"prefecture":"群馬県","city":"高崎市","area":"里見・下里見・久留馬・宮沢","name":"高齢者あんしんセンターはるな","tel":"027-395-6580","url":"https://www.city.takasaki.gunma.jp/site/notice/3559.html"},
-    {"id":1788,"prefecture":"群馬県","city":"高崎市","area":"吉井・多胡・吉井西・岩平・入野","name":"高齢者あんしんセンター吉井中央","tel":"027-320-3166","url":"https://www.city.takasaki.gunma.jp/site/notice/3559.html"}
+    {"id":1788,"prefecture":"群馬県","city":"高崎市","area":"吉井・多胡・吉井西・岩平・入野","name":"高齢者あんしんセンター吉井中央","tel":"027-320-3166","url":"https://www.city.takasaki.gunma.jp/site/notice/3559.html"},
+    {"id":2365,"prefecture":"群馬県","city":"太田市","area":"太田・鳥之郷","name":"太田・鳥之郷地域包括支援センター","tel":"0276-55-2461","url":"https://www.city.ota.gunma.jp/page/1296.html"},
+    {"id":2366,"prefecture":"群馬県","city":"太田市","area":"九合・休泊","name":"九合・休泊地域包括支援センター","tel":"0276-60-4902","url":"https://www.city.ota.gunma.jp/page/1296.html"},
+    {"id":2367,"prefecture":"群馬県","city":"太田市","area":"沢野","name":"沢野地域包括支援センター","tel":"0276-60-4903","url":"https://www.city.ota.gunma.jp/page/1296.html"},
+    {"id":2368,"prefecture":"群馬県","city":"太田市","area":"韮川","name":"韮川地域包括支援センター","tel":"0276-60-4904","url":"https://www.city.ota.gunma.jp/page/1296.html"},
+    {"id":2369,"prefecture":"群馬県","city":"太田市","area":"強戸・毛里田","name":"強戸・毛里田地域包括支援センター","tel":"0276-60-4905","url":"https://www.city.ota.gunma.jp/page/1296.html"},
+    {"id":2370,"prefecture":"群馬県","city":"太田市","area":"宝泉","name":"宝泉地域包括支援センター","tel":"0276-55-1541","url":"https://www.city.ota.gunma.jp/page/1296.html"},
+    {"id":2371,"prefecture":"群馬県","city":"太田市","area":"尾島","name":"尾島地域包括支援センター","tel":"0276-60-4907","url":"https://www.city.ota.gunma.jp/page/1296.html"},
+    {"id":2372,"prefecture":"群馬県","city":"太田市","area":"木崎・生品・綿打","name":"新田地域包括支援センター","tel":"0276-56-1717","url":"https://www.city.ota.gunma.jp/page/1296.html"},
+    {"id":2373,"prefecture":"群馬県","city":"太田市","area":"藪塚東部・藪塚西部","name":"藪塚地域包括支援センター","tel":"0277-78-1096","url":"https://www.city.ota.gunma.jp/page/1296.html"}
 ]
