@@ -902,5 +902,13 @@
     {"id":2437,"prefecture":"埼玉県","city":"久喜市","area":"久喜東地区","name":"久喜東地域包括支援センター","tel":"0480-23-8845","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"},
     {"id":2438,"prefecture":"埼玉県","city":"久喜市","area":"菖蒲地区","name":"菖蒲地域包括支援センター","tel":"0480-85-8131","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"},
     {"id":2439,"prefecture":"埼玉県","city":"久喜市","area":"栗橋地区","name":"栗橋地域包括支援センター","tel":"0480-52-7835","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"},
-    {"id":2440,"prefecture":"埼玉県","city":"久喜市","area":"鷲宮地区","name":"鷲宮地域包括支援センター","tel":"0480-58-9131","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"}
+    {"id":2440,"prefecture":"埼玉県","city":"久喜市","area":"鷲宮地区","name":"鷲宮地域包括支援センター","tel":"0480-58-9131","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"},
+    {"id":2498,"prefecture":"埼玉県","city":"狭山市","area":"入間川・入間川東地区","name":"狭山市入間川・入間川東地域包括支援センター","tel":"04-2955-1114","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/irumagawahoukatu.html"},
+    {"id":2499,"prefecture":"埼玉県","city":"狭山市","area":"富士見・中央地区","name":"狭山市富士見・中央地域包括支援センター","tel":"04-2941-4061","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/huzimihoukatu.html"},
+    {"id":2500,"prefecture":"埼玉県","city":"狭山市","area":"入曽地区","name":"狭山市入曽地域包括支援センター","tel":"04-2950-5300","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/irisohoukatu.html"},
+    {"id":2501,"prefecture":"埼玉県","city":"狭山市","area":"下水野・大工住・上水野・三ツ木・床尾台・若葉台・新水野・武蔵・御法田・むつみ台・松風台・三和台・フラワーヒル狭山","name":"狭山市水野地域包括支援センター","tel":"04-2937-7871","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/mizunohokatsuosirase.html"},
+    {"id":2502,"prefecture":"埼玉県","city":"狭山市","area":"堀兼・奥富・新狭山地区","name":"狭山市堀兼・奥富・新狭山地域包括支援センター","tel":"04-2933-7117","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/horiganehoukatu.html"},
+    {"id":2503,"prefecture":"埼玉県","city":"狭山市","area":"柏原地区","name":"狭山市柏原地域包括支援センター","tel":"04-2933-6888","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/kasiwabarahoukatu.html"},
+    {"id":2504,"prefecture":"埼玉県","city":"狭山市","area":"水富地区","name":"狭山市水富地域包括支援センター","tel":"04-2969-1630","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/mizutomihoukatsu.html"},
+    {"id":2505,"prefecture":"埼玉県","city":"狭山市","area":"狭山台地区","name":"狭山市狭山台地域包括支援センター","tel":"04-2999-3801","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/index.html"}
 ]

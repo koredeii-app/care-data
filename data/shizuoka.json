@@ -531,5 +531,12 @@
     {"id":2161,"prefecture":"静岡県","city":"沼津市","area":"第五","name":"第五地域包括支援センター","tel":"055-939-8022","url":"https://www.city.numazu.shizuoka.jp/kurashi/fukushi/kaigo/chiikishigenmap/shiencenter/daigo.htm"},
     {"id":2162,"prefecture":"静岡県","city":"沼津市","area":"香貫・大平","name":"かぬき地域包括支援センター","tel":"055-933-3671","url":"https://www.city.numazu.shizuoka.jp/kurashi/fukushi/kaigo/chiikishigenmap/shiencenter/kanuki.htm"},
     {"id":2163,"prefecture":"静岡県","city":"沼津市","area":"第三","name":"かぬき地域包括支援センター第三支所","tel":"055-941-6605","url":"https://www.city.numazu.shizuoka.jp/kurashi/fukushi/kaigo/chiikishigenmap/shiencenter/daisan.htm"},
-    {"id":2164,"prefecture":"静岡県","city":"沼津市","area":"静浦・内浦・西浦・戸田","name":"三浦・戸田地域包括支援センター","tel":"055-919-5571","url":"https://www.city.numazu.shizuoka.jp/kurashi/fukushi/kaigo/chiikishigenmap/shiencenter/hidamari.htm"}
+    {"id":2164,"prefecture":"静岡県","city":"沼津市","area":"静浦・内浦・西浦・戸田","name":"三浦・戸田地域包括支援センター","tel":"055-919-5571","url":"https://www.city.numazu.shizuoka.jp/kurashi/fukushi/kaigo/chiikishigenmap/shiencenter/hidamari.htm"},
+    {"id":2483,"prefecture":"静岡県","city":"磐田市","area":"城山中学校区・向陽中学校区","name":"城山・向陽地域包括支援センター","tel":"0538-36-4865","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
+    {"id":2484,"prefecture":"静岡県","city":"磐田市","area":"磐田第一中学校区・神明中学校区","name":"中部地域包括支援センター","tel":"0538-37-1060","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
+    {"id":2485,"prefecture":"静岡県","city":"磐田市","area":"南部中学校区","name":"南部地域包括支援センター","tel":"0538-36-8900","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
+    {"id":2486,"prefecture":"静岡県","city":"磐田市","area":"豊岡中学校区","name":"豊岡地域包括支援センター","tel":"0539-63-0500","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
+    {"id":2487,"prefecture":"静岡県","city":"磐田市","area":"豊田中学校区・豊田南中学校区","name":"豊田地域包括支援センター","tel":"0538-36-1300","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
+    {"id":2488,"prefecture":"静岡県","city":"磐田市","area":"竜洋中学校区","name":"竜洋地域包括支援センター","tel":"0538-66-9221","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
+    {"id":2489,"prefecture":"静岡県","city":"磐田市","area":"福田中学校区","name":"福田地域包括支援センター","tel":"0538-58-3242","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"}
 ]

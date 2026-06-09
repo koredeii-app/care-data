@@ -1024,5 +1024,185 @@
         "name": "春日井市地域包括支援センター味美・知多",
         "tel": "0568-33-0211",
         "url": "https://www.city.kasugai.lg.jp/kenko/senior/kourei/houkatsu.html"
+    },
+    {
+        "id": 2458,
+        "prefecture": "愛知県",
+        "city": "豊川市",
+        "area": "東部・一宮中学校区",
+        "name": "東部福祉相談センター",
+        "tel": "0533-85-6110",
+        "url": "https://www.city.toyokawa.lg.jp/soshiki/fukushi/kaigokorei/2/2/1/7/658.html"
+    },
+    {
+        "id": 2459,
+        "prefecture": "愛知県",
+        "city": "豊川市",
+        "area": "西部・音羽・御津中学校区",
+        "name": "西部福祉相談センター",
+        "tel": "0533-88-8005",
+        "url": "https://www.city.toyokawa.lg.jp/soshiki/fukushi/kaigokorei/2/2/1/7/658.html"
+    },
+    {
+        "id": 2460,
+        "prefecture": "愛知県",
+        "city": "豊川市",
+        "area": "南部・小坂井中学校区",
+        "name": "南部福祉相談センター",
+        "tel": "0533-89-8820",
+        "url": "https://www.city.toyokawa.lg.jp/soshiki/fukushi/kaigokorei/2/2/1/7/658.html"
+    },
+    {
+        "id": 2461,
+        "prefecture": "愛知県",
+        "city": "豊川市",
+        "area": "中部・代田・金屋中学校区",
+        "name": "北部福祉相談センター",
+        "tel": "0533-88-7260",
+        "url": "https://www.city.toyokawa.lg.jp/soshiki/fukushi/kaigokorei/2/2/1/7/658.html"
+    },
+    {
+        "id": 2490,
+        "prefecture": "愛知県",
+        "city": "西尾市",
+        "area": "八ツ面・三和・室場小学校区",
+        "name": "東部・八ツ面高齢者サポートセンター",
+        "tel": "0563-56-1021",
+        "url": "https://www.city.nishio.aichi.jp/kenkofukushi/kaigohoken/1001467/1002567.html"
+    },
+    {
+        "id": 2491,
+        "prefecture": "愛知県",
+        "city": "西尾市",
+        "area": "西尾・花ノ木小学校区",
+        "name": "西尾高齢者サポートセンター",
+        "tel": "0563-54-8998",
+        "url": "https://www.city.nishio.aichi.jp/kenkofukushi/kaigohoken/1001467/1002567.html"
+    },
+    {
+        "id": 2492,
+        "prefecture": "愛知県",
+        "city": "西尾市",
+        "area": "平坂・矢田・中畑小学校区",
+        "name": "平坂高齢者サポートセンター",
+        "tel": "0563-55-7373",
+        "url": "https://www.city.nishio.aichi.jp/kenkofukushi/kaigohoken/1001467/1002567.html"
+    },
+    {
+        "id": 2493,
+        "prefecture": "愛知県",
+        "city": "西尾市",
+        "area": "鶴城・米津・西野町小学校区",
+        "name": "鶴城高齢者サポートセンター",
+        "tel": "0563-55-3155",
+        "url": "https://www.city.nishio.aichi.jp/kenkofukushi/kaigohoken/1001467/1002567.html"
+    },
+    {
+        "id": 2494,
+        "prefecture": "愛知県",
+        "city": "西尾市",
+        "area": "寺津・福地南部・北部小学校区",
+        "name": "寺津福地高齢者サポートセンター",
+        "tel": "0563-64-0002",
+        "url": "https://www.city.nishio.aichi.jp/kenkofukushi/kaigohoken/1001467/1002567.html"
+    },
+    {
+        "id": 2495,
+        "prefecture": "愛知県",
+        "city": "西尾市",
+        "area": "一色中学校区・佐久島地区",
+        "name": "一色高齢者サポートセンター",
+        "tel": "0563-72-9654",
+        "url": "https://www.city.nishio.aichi.jp/kenkofukushi/kaigohoken/1001467/1002567.html"
+    },
+    {
+        "id": 2496,
+        "prefecture": "愛知県",
+        "city": "西尾市",
+        "area": "吉良中学校区",
+        "name": "吉良幡豆高齢者サポートセンター",
+        "tel": "0563-65-0501",
+        "url": "https://www.city.nishio.aichi.jp/kenkofukushi/kaigohoken/1001467/1002567.html"
+    },
+    {
+        "id": 2497,
+        "prefecture": "愛知県",
+        "city": "西尾市",
+        "area": "幡豆中学校区",
+        "name": "はずサブセンター高齢者サポートセンター",
+        "tel": "0563-65-2877",
+        "url": "https://www.city.nishio.aichi.jp/kenkofukushi/kaigohoken/1001467/1002567.html"
+    },
+    {
+        "id": 2506,
+        "prefecture": "愛知県",
+        "city": "安城市",
+        "area": "東山",
+        "name": "安城市地域包括支援センターさとまち",
+        "tel": "0566-96-3512",
+        "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/soudanmadoguchi.html"
+    },
+    {
+        "id": 2507,
+        "prefecture": "愛知県",
+        "city": "安城市",
+        "area": "池浦町・新田町・弁天町・新明町・北山崎町・大岡町・山崎町・西別所町・今池町・東別所町・高木町・別郷町・大東町・昭和町・明治本町・東新町",
+        "name": "安城市地域包括支援センター中部",
+        "tel": "0566-71-0077",
+        "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/soudanmadoguchi.html"
+    },
+    {
+        "id": 2508,
+        "prefecture": "愛知県",
+        "city": "安城市",
+        "area": "篠目",
+        "name": "安城市地域包括支援センター八千代",
+        "tel": "0566-97-8069",
+        "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/soudanmadoguchi.html"
+    },
+    {
+        "id": 2509,
+        "prefecture": "愛知県",
+        "city": "安城市",
+        "area": "安城南",
+        "name": "安城市地域包括支援センター更生",
+        "tel": "0566-77-9948",
+        "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/soudanmadoguchi.html"
+    },
+    {
+        "id": 2510,
+        "prefecture": "愛知県",
+        "city": "安城市",
+        "area": "法連町・東明町・浜富町・上条町・古井町・河野町・東新町・大山町・安城町・堀内町",
+        "name": "安城市地域包括支援センター松井",
+        "tel": "0566-55-5355",
+        "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/soudanmadoguchi.html"
+    },
+    {
+        "id": 2511,
+        "prefecture": "愛知県",
+        "city": "安城市",
+        "area": "安城西",
+        "name": "安城市地域包括支援センターあんのん館",
+        "tel": "0566-71-3173",
+        "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/soudanmadoguchi.html"
+    },
+    {
+        "id": 2512,
+        "prefecture": "愛知県",
+        "city": "安城市",
+        "area": "明祥",
+        "name": "安城市地域包括支援センターひがしばた",
+        "tel": "0566-73-8210",
+        "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/soudanmadoguchi.html"
+    },
+    {
+        "id": 2513,
+        "prefecture": "愛知県",
+        "city": "安城市",
+        "area": "桜井",
+        "name": "安城市地域包括支援センター小川の里",
+        "tel": "0566-73-3535",
+        "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/soudanmadoguchi.html"
     }
 ]
