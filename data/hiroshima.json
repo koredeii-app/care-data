@@ -594,10 +594,10 @@
         "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koreisha/143.html"
     },
     {"id":2204,"prefecture":"広島県","city":"尾道市","area":"中央圏域","name":"尾道市地域包括支援センター","tel":"0848-56-1212","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/70911.html"},
-    {"id":2205,"prefecture":"広島県","city":"尾道市","area":"","name":"尾道市北部地域包括支援センター","tel":"0848-76-2495","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
-    {"id":2206,"prefecture":"広島県","city":"尾道市","area":"","name":"尾道市西部地域包括支援センター","tel":"0848-21-1262","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
-    {"id":2207,"prefecture":"広島県","city":"尾道市","area":"","name":"尾道市東部地域包括支援センター","tel":"0848-56-0345","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
-    {"id":2208,"prefecture":"広島県","city":"尾道市","area":"向島","name":"尾道市向島地域包括支援センター","tel":"0848-41-9240","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
-    {"id":2209,"prefecture":"広島県","city":"尾道市","area":"","name":"尾道市南部地域包括支援センター","tel":"0845-24-1248","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
-    {"id":2210,"prefecture":"広島県","city":"尾道市","area":"瀬戸田","name":"尾道市南部地域包括支援センター瀬戸田支所","tel":"0845-27-3847","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"}
+    {"id":2205,"prefecture":"広島県","city":"尾道市","area":"北部圏域","name":"尾道市北部地域包括支援センター","tel":"0848-76-2495","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
+    {"id":2206,"prefecture":"広島県","city":"尾道市","area":"西部圏域","name":"尾道市西部地域包括支援センター","tel":"0848-21-1262","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
+    {"id":2207,"prefecture":"広島県","city":"尾道市","area":"東部圏域","name":"尾道市東部地域包括支援センター","tel":"0848-56-0345","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
+    {"id":2208,"prefecture":"広島県","city":"尾道市","area":"向島圏域","name":"尾道市向島地域包括支援センター","tel":"0848-41-9240","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
+    {"id":2209,"prefecture":"広島県","city":"尾道市","area":"南部圏域","name":"尾道市南部地域包括支援センター","tel":"0845-24-1248","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"},
+    {"id":2210,"prefecture":"広島県","city":"尾道市","area":"瀬戸田圏域","name":"尾道市南部地域包括支援センター瀬戸田支所","tel":"0845-27-3847","url":"https://www.city.onomichi.hiroshima.jp/soshiki/22/10061.html"}
 ]
