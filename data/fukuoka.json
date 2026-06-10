@@ -940,5 +940,158 @@
         "name": "久留米北第2地域包括支援センター",
         "tel": "0942-65-5156",
         "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_north_second/"
+    },
+    {
+        "id": 2551,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "愛宕団地・市の間・柏の森・新飯塚西・東・鯰田各町",
+        "name": "ベスト・シルバー飯塚",
+        "tel": "0948-22-5566",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2552,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "秋松・神ノ浦・大陣・忠隈・平恒・堀池・松ヶ瀬・南尾・楽市",
+        "name": "穂波東地域包括支援センター",
+        "tel": "0948-26-6761",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2553,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "相田・旭ヶ丘・伊川・新二瀬・高雄区・西伊岐須・東伊川",
+        "name": "二瀬地域包括支援センターコスモス苑",
+        "tel": "0948-21-5511",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2554,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "秋松西・枝国・小正・久保白・舎利蔵・振興・高田・太郎丸",
+        "name": "穂波西地域包括支援センターつばき苑",
+        "tel": "0948-23-8124",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2555,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "阿恵・出雲東・嘉穂・大分・筑穂栄町・ニュータウン大分",
+        "name": "筑穂地域包括支援センター",
+        "tel": "0948-72-3155",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2556,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "上三緒・柏の森ヒルズ・山内・下三緒・東ヶ丘・駅通",
+        "name": "地域包括支援センター太陽の郷",
+        "tel": "0948-21-2828",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2557,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "池田・大谷町・幸袋各町・栄町・目尾・白旗団地・津島",
+        "name": "幸袋地域包括支援センターいずみ苑",
+        "tel": "0948-21-1777",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2558,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "石丸・大畑・鹿毛馬・上勢田・小峠・東勢田・福門・牧野",
+        "name": "頴田地域包括支援センターかいた苑",
+        "tel": "0948-92-4552",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2559,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "稲荷町・片島各町・上本町・下本町・徳前・中本町・立岩",
+        "name": "地域包括支援センターくぬぎ苑",
+        "tel": "0948-25-0001",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2560,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "潤野・黒萩・建花寺・花咲台・花瀬・明星寺・八木山",
+        "name": "鎮西地域包括支援センター",
+        "tel": "0948-24-0033",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2561,
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "area": "青葉台・赤坂・有井・大門・庄内各町・筑前製鋼・山倉",
+        "name": "庄内地域包括支援センター多田の里",
+        "tel": "0948-82-0410",
+        "url": "https://www.city.iizuka.lg.jp/soshiki/33/2218.html"
+    },
+    {
+        "id": 2569,
+        "prefecture": "福岡県",
+        "city": "大牟田市",
+        "area": "大牟田中央・大正・中友・白川・平原校区",
+        "name": "中央地区地域包括支援センター",
+        "tel": "0944-41-2676",
+        "url": "https://www.city.omuta.lg.jp/hpKiji/pub/detail.aspx?c_id=5&id=2099&class_set_id=1&class_id=135"
+    },
+    {
+        "id": 2570,
+        "prefecture": "福岡県",
+        "city": "大牟田市",
+        "area": "明治・手鎌校区",
+        "name": "手鎌地区地域包括支援センター",
+        "tel": "0944-59-6020",
+        "url": "https://www.city.omuta.lg.jp/hpKiji/pub/detail.aspx?c_id=5&id=2099&class_set_id=1&class_id=135"
+    },
+    {
+        "id": 2571,
+        "prefecture": "福岡県",
+        "city": "大牟田市",
+        "area": "上内・吉野・倉永校区",
+        "name": "吉野地区地域包括支援センター",
+        "tel": "0944-41-6025",
+        "url": "https://www.city.omuta.lg.jp/hpKiji/pub/detail.aspx?c_id=5&id=2099&class_set_id=1&class_id=135"
+    },
+    {
+        "id": 2572,
+        "prefecture": "福岡県",
+        "city": "大牟田市",
+        "area": "高取・三池・羽山台・銀水校区",
+        "name": "三池地区地域包括支援センター",
+        "tel": "0944-41-5506",
+        "url": "https://www.city.omuta.lg.jp/hpKiji/pub/detail.aspx?c_id=5&id=2099&class_set_id=1&class_id=135"
+    },
+    {
+        "id": 2573,
+        "prefecture": "福岡県",
+        "city": "大牟田市",
+        "area": "みなと・天領校区",
+        "name": "三川地区地域包括支援センター",
+        "tel": "0944-41-5298",
+        "url": "https://www.city.omuta.lg.jp/hpKiji/pub/detail.aspx?c_id=5&id=2099&class_set_id=1&class_id=135"
+    },
+    {
+        "id": 2574,
+        "prefecture": "福岡県",
+        "city": "大牟田市",
+        "area": "駛馬・天の原・玉川校区",
+        "name": "駛馬・勝立地区地域包括支援センター",
+        "tel": "0944-41-2020",
+        "url": "https://www.city.omuta.lg.jp/hpKiji/pub/detail.aspx?c_id=5&id=2099&class_set_id=1&class_id=135"
     }
 ]

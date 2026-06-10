@@ -17,5 +17,11 @@
     {"id":1774,"prefecture":"岐阜県","city":"岐阜市","area":"厚見","name":"岐阜市地域包括支援センター厚見","tel":"058-214-4001","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018339.html"},
     {"id":1775,"prefecture":"岐阜県","city":"岐阜市","area":"長森南","name":"岐阜市地域包括支援センター長森南","tel":"058-247-8160","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018341.html"},
     {"id":1776,"prefecture":"岐阜県","city":"岐阜市","area":"日野・長森北・長森東・長森西","name":"岐阜市地域包括支援センター長森","tel":"058-245-2855","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018343.html"},
-    {"id":1777,"prefecture":"岐阜県","city":"岐阜市","area":"岩・芥見・芥見東・芥見南","name":"岐阜市地域包括支援センター東部","tel":"058-243-0593","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018344.html"}
+    {"id":1777,"prefecture":"岐阜県","city":"岐阜市","area":"岩・芥見・芥見東・芥見南","name":"岐阜市地域包括支援センター東部","tel":"058-243-0593","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018344.html"},
+    {"id":2579,"prefecture":"岐阜県","city":"大垣市","area":"安井・洲本・浅草・川並","name":"大垣市地域包括支援センター","tel":"0584-82-1166","url":"https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"},
+    {"id":2580,"prefecture":"岐阜県","city":"大垣市","area":"興文・東・西・南・南杭瀬・日新・静里・綾里・荒崎","name":"地域包括支援センター（中央・西地区）","tel":"0584-77-2255","url":"https://www.ogakishakyo.or.jp/shisetsu/"},
+    {"id":2581,"prefecture":"岐阜県","city":"大垣市","area":"和合・三城・墨俣","name":"地域包括支援センター（東・墨俣地区）","tel":"0584-84-7111","url":"https://www.ogakishakyo.or.jp/shisetsu/"},
+    {"id":2582,"prefecture":"岐阜県","city":"大垣市","area":"上石津","name":"地域包括支援センター（上石津地区）","tel":"0584-48-0068","url":"https://www.ogakishakyo.or.jp/shisetsu/"},
+    {"id":2583,"prefecture":"岐阜県","city":"大垣市","area":"宇留生・赤坂・青墓","name":"大垣市地域包括支援センターお勝山","tel":"0584-71-5536","url":"https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"},
+    {"id":2584,"prefecture":"岐阜県","city":"大垣市","area":"北・中川","name":"大垣市地域包括支援センター中川ふれあい","tel":"0584-82-1701","url":"https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"}
 ]

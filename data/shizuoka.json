@@ -538,5 +538,9 @@
     {"id":2486,"prefecture":"静岡県","city":"磐田市","area":"豊岡中学校区","name":"豊岡地域包括支援センター","tel":"0539-63-0500","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
     {"id":2487,"prefecture":"静岡県","city":"磐田市","area":"豊田中学校区・豊田南中学校区","name":"豊田地域包括支援センター","tel":"0538-36-1300","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
     {"id":2488,"prefecture":"静岡県","city":"磐田市","area":"竜洋中学校区","name":"竜洋地域包括支援センター","tel":"0538-66-9221","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
-    {"id":2489,"prefecture":"静岡県","city":"磐田市","area":"福田中学校区","name":"福田地域包括支援センター","tel":"0538-58-3242","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"}
+    {"id":2489,"prefecture":"静岡県","city":"磐田市","area":"福田中学校区","name":"福田地域包括支援センター","tel":"0538-58-3242","url":"https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html"},
+    {"id":2575,"prefecture":"静岡県","city":"焼津市","area":"第6～10・15～17自治会（大村・豊田・東益津地区）","name":"北部地域包括支援センター","tel":"054-626-3219","url":"https://www.yaizu-shakyo.or.jp/地域包括支援センター/"},
+    {"id":2576,"prefecture":"静岡県","city":"焼津市","area":"第1～5・11～13自治会（焼津・小川地区）","name":"中部地域包括支援センター","tel":"054-626-8811","url":"http://www.yaizu.shizuoka.med.or.jp/"},
+    {"id":2577,"prefecture":"静岡県","city":"焼津市","area":"第14・18～23自治会（港・大富・和田地区）","name":"南部地域包括支援センター","tel":"054-656-3322","url":"http://www.tubasa.or.jp/jigyou/houkatu.html"},
+    {"id":2578,"prefecture":"静岡県","city":"焼津市","area":"大井川地区","name":"大井川地域包括支援センター","tel":"054-664-2700","url":"https://www.yaizu-shakyo.or.jp/地域包括支援センター/"}
 ]
