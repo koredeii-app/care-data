@@ -207,9 +207,9 @@
     {"id":2194,"prefecture":"山口県","city":"宇部市","area":"船木、万倉、吉部","name":"北部西地域包括支援センター","tel":"0836-67-0506","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
     {"id":2195,"prefecture":"山口県","city":"宇部市","area":"恩田、岬","name":"南部第1地域包括支援センター","tel":"0836-38-8551","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
     {"id":2196,"prefecture":"山口県","city":"宇部市","area":"見初、神原、琴芝","name":"南部第2地域包括支援センター","tel":"0836-38-3220","url":"https://www.city.ube.yamaguchi.jp/kenkou/koureifukushi/kourei_soudan/1005415/index.html"},
-    {"id":2562,"prefecture":"山口県","city":"周南市","area":"久米・櫛浜・鼓南・熊毛","name":"いきいきさぽーと周南東部","tel":"0834-29-1155","url":"https://kochoen.jp/community_general/"},
-    {"id":2563,"prefecture":"山口県","city":"周南市","area":"周陽・桜木・秋月・岐山・大津島","name":"いきいきさぽーとつづみ園","tel":"0834-28-7055","url":"https://www.shunan-jigyodan.jp/service/regional-comprehensive-support/"},
-    {"id":2564,"prefecture":"山口県","city":"周南市","area":"遠石・関門・中央・今宿","name":"いきいきさぽーと徳山医師会","tel":"0834-32-9035","url":"http://www.tokuyamaishikai.com/homesupport/office/center.html"},
-    {"id":2565,"prefecture":"山口県","city":"周南市","area":"富田・菊川・和田・福川・夜市・戸田・湯野","name":"いきいきさぽーと周南西部","tel":"0834-62-6301","url":"https://www.shunan-shakyo.or.jp/thema03/sougousoudan/"},
-    {"id":2566,"prefecture":"山口県","city":"周南市","area":"須々万・長穂・向道・中須・須金・鹿野","name":"いきいきさぽーと周南北部","tel":"0834-87-2000","url":"http://www.kanofukushikai.or.jp/service/regional-support-center/"}
+    {"id":2565,"prefecture":"山口県","city":"周南市","area":"久米・櫛浜・鼓南・熊毛","name":"いきいきさぽーと周南東部","tel":"0834-29-1155","url":"https://kochoen.jp/community_general/"},
+    {"id":2566,"prefecture":"山口県","city":"周南市","area":"周陽・桜木・秋月・岐山・大津島","name":"いきいきさぽーとつづみ園","tel":"0834-28-7055","url":"https://www.shunan-jigyodan.jp/service/regional-comprehensive-support/"},
+    {"id":2567,"prefecture":"山口県","city":"周南市","area":"遠石・関門・中央・今宿","name":"いきいきさぽーと徳山医師会","tel":"0834-32-9035","url":"http://www.tokuyamaishikai.com/homesupport/office/center.html"},
+    {"id":2568,"prefecture":"山口県","city":"周南市","area":"富田・菊川・和田・福川・夜市・戸田・湯野","name":"いきいきさぽーと周南西部","tel":"0834-62-6301","url":"https://www.shunan-shakyo.or.jp/thema03/sougousoudan/"},
+    {"id":2569,"prefecture":"山口県","city":"周南市","area":"須々万・長穂・向道・中須・須金・鹿野","name":"いきいきさぽーと周南北部","tel":"0834-87-2000","url":"http://www.kanofukushikai.or.jp/service/regional-support-center/"}
 ]
