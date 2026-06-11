@@ -13,5 +13,11 @@
     {"id":1800,"prefecture":"滋賀県","city":"大津市","area":"石山・南郷","name":"南あんしん長寿相談所","tel":"077-533-1332","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25449.html"},
     {"id":1801,"prefecture":"滋賀県","city":"大津市","area":"上田上・青山","name":"青山あんしん長寿相談所","tel":"077-549-3195","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/70505.html"},
     {"id":1802,"prefecture":"滋賀県","city":"大津市","area":"瀬田・瀬田南","name":"瀬田あんしん長寿相談所","tel":"077-545-3918","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25453.html"},
-    {"id":1803,"prefecture":"滋賀県","city":"大津市","area":"瀬田東・瀬田北","name":"瀬田第二あんしん長寿相談所","tel":"077-545-5760","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25457.html"}
+    {"id":1803,"prefecture":"滋賀県","city":"大津市","area":"瀬田東・瀬田北","name":"瀬田第二あんしん長寿相談所","tel":"077-545-5760","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25457.html"},
+    {"id":2642,"prefecture":"滋賀県","city":"草津市","area":"志津・志津南・矢倉","name":"草津市高穂地域包括支援センター","tel":"077-561-8143","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/takahohokatsu.html"},
+    {"id":2643,"prefecture":"滋賀県","city":"草津市","area":"草津・大路・渋川","name":"草津市草津地域包括支援センター","tel":"077-561-8144","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/kusatsuhokatsu.html"},
+    {"id":2644,"prefecture":"滋賀県","city":"草津市","area":"老上・老上西","name":"草津市老上地域包括支援センター","tel":"077-561-8145","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/oikamihokatsu.html"},
+    {"id":2645,"prefecture":"滋賀県","city":"草津市","area":"玉川・南笠東","name":"草津市玉川地域包括支援センター","tel":"077-561-8146","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/tamagawahokatsu.html"},
+    {"id":2646,"prefecture":"滋賀県","city":"草津市","area":"山田・笠縫","name":"草津市松原地域包括支援センター","tel":"077-561-8147","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/matubarahokatsu.html"},
+    {"id":2647,"prefecture":"滋賀県","city":"草津市","area":"笠縫東・常盤","name":"草津市新堂地域包括支援センター","tel":"077-568-4148","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/sindouhokatsu.html"}
 ]

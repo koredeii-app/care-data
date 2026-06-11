@@ -1258,5 +1258,50 @@
         "name": "刈谷朝日地域包括支援センター",
         "tel": "0566-63-6700",
         "url": "https://www.city.kariya.lg.jp/kurashi/fukushikaigo/koureishafukushi/1003431/1003432.html"
+    },
+    {
+        "id": 2632,
+        "prefecture": "愛知県",
+        "city": "小牧市",
+        "area": "小牧南部圏域",
+        "name": "南部地域包括支援センターケアタウン小牧",
+        "tel": "0568-71-2100",
+        "url": "https://www.city.komaki.aichi.jp/admin/soshiki/fukushi/houkatsu/2/chiikihoukatsushiensenter/30951.html"
+    },
+    {
+        "id": 2633,
+        "prefecture": "愛知県",
+        "city": "小牧市",
+        "area": "小牧中部・西部圏域",
+        "name": "小牧地域包括支援センターふれあい",
+        "tel": "0568-77-2893",
+        "url": "https://www.city.komaki.aichi.jp/admin/soshiki/fukushi/houkatsu/2/chiikihoukatsushiensenter/30951.html"
+    },
+    {
+        "id": 2634,
+        "prefecture": "愛知県",
+        "city": "小牧市",
+        "area": "味岡圏域",
+        "name": "味岡地域包括支援センター岩崎あいの郷",
+        "tel": "0568-75-3956",
+        "url": "https://www.city.komaki.aichi.jp/admin/soshiki/fukushi/houkatsu/2/chiikihoukatsushiensenter/30951.html"
+    },
+    {
+        "id": 2635,
+        "prefecture": "愛知県",
+        "city": "小牧市",
+        "area": "篠岡圏域",
+        "name": "篠岡地域包括支援センター小牧苑",
+        "tel": "0568-78-7530",
+        "url": "https://www.city.komaki.aichi.jp/admin/soshiki/fukushi/houkatsu/2/chiikihoukatsushiensenter/30951.html"
+    },
+    {
+        "id": 2636,
+        "prefecture": "愛知県",
+        "city": "小牧市",
+        "area": "北里圏域",
+        "name": "北里地域包括支援センターゆうあい",
+        "tel": "0568-43-2260",
+        "url": "https://www.city.komaki.aichi.jp/admin/soshiki/fukushi/houkatsu/2/chiikihoukatsushiensenter/30951.html"
     }
 ]

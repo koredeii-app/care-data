@@ -910,5 +910,13 @@
     {"id":2502,"prefecture":"埼玉県","city":"狭山市","area":"堀兼・奥富・新狭山地区","name":"狭山市堀兼・奥富・新狭山地域包括支援センター","tel":"04-2933-7117","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/horiganehoukatu.html"},
     {"id":2503,"prefecture":"埼玉県","city":"狭山市","area":"柏原地区","name":"狭山市柏原地域包括支援センター","tel":"04-2933-6888","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/kasiwabarahoukatu.html"},
     {"id":2504,"prefecture":"埼玉県","city":"狭山市","area":"水富地区","name":"狭山市水富地域包括支援センター","tel":"04-2969-1630","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/mizutomihoukatsu.html"},
-    {"id":2505,"prefecture":"埼玉県","city":"狭山市","area":"狭山台地区","name":"狭山市狭山台地域包括支援センター","tel":"04-2999-3801","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/sayamadai_hokatsu.html"}
+    {"id":2505,"prefecture":"埼玉県","city":"狭山市","area":"狭山台地区","name":"狭山市狭山台地域包括支援センター","tel":"04-2999-3801","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/sayamadai_hokatsu.html"},
+    {"id":2617,"prefecture":"埼玉県","city":"新座市","area":"池田・道場・片山・野寺","name":"東部第一高齢者相談センター","tel":"048-480-5853","url":"https://www.city.niiza.lg.jp/map/toubudaiiti.html"},
+    {"id":2618,"prefecture":"埼玉県","city":"新座市","area":"畑中・馬場・栄・新塚","name":"東部第二高齢者相談センター","tel":"048-480-7808","url":"https://www.city.niiza.lg.jp/map/toubudaini.html"},
+    {"id":2619,"prefecture":"埼玉県","city":"新座市","area":"本多・あたご・菅沢・野火止一〜四丁目","name":"西部高齢者相談センター","tel":"048-477-1707","url":"https://www.city.niiza.lg.jp/map/seibu.html"},
+    {"id":2620,"prefecture":"埼玉県","city":"新座市","area":"西堀・新堀","name":"西堀・新堀高齢者相談センター","tel":"042-497-8106","url":"https://www.city.niiza.lg.jp/map/nisisin.html"},
+    {"id":2621,"prefecture":"埼玉県","city":"新座市","area":"石神・栗原・堀ノ内","name":"南部高齢者相談センター","tel":"048-487-8263","url":"https://www.city.niiza.lg.jp/map/nannbu.html"},
+    {"id":2622,"prefecture":"埼玉県","city":"新座市","area":"東北・東","name":"北部第一高齢者相談センター","tel":"048-486-5011","url":"https://www.city.niiza.lg.jp/map/hokubudaiiti.html"},
+    {"id":2623,"prefecture":"埼玉県","city":"新座市","area":"野火止五〜八丁目","name":"野火止五〜八丁目高齢者相談センター","tel":"048-485-8936","url":"https://www.city.niiza.lg.jp/map/nobitomegokarahattyoume.html"},
+    {"id":2624,"prefecture":"埼玉県","city":"新座市","area":"中野・大和田・新座・北野","name":"北部第二高齢者相談センター","tel":"048-485-8587","url":"https://www.city.niiza.lg.jp/map/hokubudaini.html"}
 ]

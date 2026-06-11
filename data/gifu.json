@@ -23,5 +23,12 @@
     {"id":2576,"prefecture":"岐阜県","city":"大垣市","area":"和合・三城・墨俣","name":"地域包括支援センター（東・墨俣地区）","tel":"0584-84-7111","url":"https://www.ogakishakyo.or.jp/shisetsu/"},
     {"id":2577,"prefecture":"岐阜県","city":"大垣市","area":"上石津","name":"地域包括支援センター（上石津地区）","tel":"0584-48-0068","url":"https://www.ogakishakyo.or.jp/shisetsu/"},
     {"id":2578,"prefecture":"岐阜県","city":"大垣市","area":"宇留生・赤坂・青墓","name":"大垣市地域包括支援センターお勝山","tel":"0584-71-5536","url":"https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"},
-    {"id":2579,"prefecture":"岐阜県","city":"大垣市","area":"北・中川","name":"大垣市地域包括支援センター中川ふれあい","tel":"0584-82-1701","url":"https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"}
+    {"id":2579,"prefecture":"岐阜県","city":"大垣市","area":"北・中川","name":"大垣市地域包括支援センター中川ふれあい","tel":"0584-82-1701","url":"https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"},
+    {"id":2625,"prefecture":"岐阜県","city":"各務原市","area":"各務・八木山・中央第一","name":"地域包括支援センター カーサ・レスペート","tel":"058-381-3800","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
+    {"id":2626,"prefecture":"岐阜県","city":"各務原市","area":"那加第一・尾崎・蘇原第一","name":"地域包括支援センター 飛鳥美谷苑","tel":"058-371-3081","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
+    {"id":2627,"prefecture":"岐阜県","city":"各務原市","area":"鵜沼第一・鵜沼第三・緑苑","name":"地域包括支援センター ジョイフル各務原","tel":"058-379-2521","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
+    {"id":2628,"prefecture":"岐阜県","city":"各務原市","area":"陵南・鵜沼第二・中央第二","name":"地域包括支援センター フェニックス・かかみ野","tel":"058-384-8844","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
+    {"id":2629,"prefecture":"岐阜県","city":"各務原市","area":"那加第二・那加第三・蘇原第二","name":"地域包括支援センター 社会福祉協議会","tel":"058-383-7624","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
+    {"id":2630,"prefecture":"岐阜県","city":"各務原市","area":"稲羽西・稲羽東","name":"地域包括支援センター つつじ苑","tel":"058-371-2226","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
+    {"id":2631,"prefecture":"岐阜県","city":"各務原市","area":"川島","name":"地域包括支援センター リバーサイド川島園","tel":"0586-89-2979","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"}
 ]

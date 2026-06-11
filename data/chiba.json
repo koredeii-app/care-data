@@ -796,5 +796,15 @@
     {"id":2479,"prefecture":"千葉県","city":"野田市","area":"山崎・今上・桜台・山崎貝塚町・山崎梅の台・みずき1～4丁目・桜木・山崎新町","name":"野田市南第1高齢者なんでも相談室","tel":"04-7123-7066","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023644.html"},
     {"id":2480,"prefecture":"千葉県","city":"野田市","area":"花井・堤根・花井一丁目・下三ケ尾・三ツ堀・瀬戸・瀬戸上灰毛・木野崎・上三ケ尾・二ツ塚・西三ケ尾","name":"野田市南第2高齢者なんでも相談室","tel":"04-7128-7627","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1030759.html"},
     {"id":2481,"prefecture":"千葉県","city":"野田市","area":"岩名・五木・谷津・吉春・番匠・座生・五木新田・七光台・川間地区","name":"野田市北高齢者なんでも相談室","tel":"04-7128-0113","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023645.html"},
-    {"id":2482,"prefecture":"千葉県","city":"野田市","area":"関宿台町・関宿江戸町・関宿町・関宿元町・関宿内町","name":"野田市関宿高齢者なんでも相談室","tel":"04-7196-5588","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023646.html"}
+    {"id":2482,"prefecture":"千葉県","city":"野田市","area":"関宿台町・関宿江戸町・関宿町・関宿元町・関宿内町","name":"野田市関宿高齢者なんでも相談室","tel":"04-7196-5588","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023646.html"},
+    {"id":2586,"prefecture":"千葉県","city":"流山市","area":"東深井・江戸川台","name":"北部高齢者なんでも相談室","tel":"04-7155-5366","url":"https://www.city.nagareyama.chiba.jp/institution/1004205/1004206/1004209.html"},
+    {"id":2587,"prefecture":"千葉県","city":"流山市","area":"西深井・新川","name":"北部西高齢者なんでも相談室","tel":"04-7197-1378","url":"https://www.city.nagareyama.chiba.jp/life/1000764/1000794/1000804.html"},
+    {"id":2588,"prefecture":"千葉県","city":"流山市","area":"東初石・西初石・おおたかの森","name":"中部高齢者なんでも相談室","tel":"04-7150-2953","url":"https://www.city.nagareyama.chiba.jp/institution/1004205/1004206/1004207.html"},
+    {"id":2589,"prefecture":"千葉県","city":"流山市","area":"東部・八木","name":"東部高齢者なんでも相談室","tel":"04-7148-5665","url":"https://www.city.nagareyama.chiba.jp/institution/1004205/1004206/1004210.html"},
+    {"id":2590,"prefecture":"千葉県","city":"流山市","area":"南部・南流山","name":"南部高齢者なんでも相談室","tel":"04-7159-9981","url":"https://www.city.nagareyama.chiba.jp/life/1000764/1000794/1000804.html"},
+    {"id":2591,"prefecture":"千葉県","city":"浦安市","area":"猫実一・二丁目・堀江・富士見・港・鉄鋼通り・千鳥","name":"猫実地域包括支援センター（ともづな猫実）","tel":"047-381-9037","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1005515.html"},
+    {"id":2592,"prefecture":"千葉県","city":"浦安市","area":"当代島・北栄・猫実三・四・五丁目","name":"浦安駅前地域包括支援センター（ともづな浦安駅前）","tel":"047-351-8950","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1016190.html"},
+    {"id":2593,"prefecture":"千葉県","city":"浦安市","area":"入船・美浜・海楽","name":"新浦安駅前地域包括支援センター（ともづな新浦安）","tel":"047-306-5171","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1005510.html"},
+    {"id":2594,"prefecture":"千葉県","city":"浦安市","area":"高洲・明海・日の出","name":"高洲地域包括支援センター（ともづな高洲）","tel":"047-382-2424","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1013107.html"},
+    {"id":2595,"prefecture":"千葉県","city":"浦安市","area":"舞浜・東野・弁天・富岡・今川","name":"富岡地域包括支援センター（ともづな富岡）","tel":"047-721-1027","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1017613.html"}
 ]

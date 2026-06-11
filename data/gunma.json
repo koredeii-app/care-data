@@ -49,5 +49,14 @@
     {"id":2370,"prefecture":"群馬県","city":"太田市","area":"宝泉","name":"宝泉地域包括支援センター","tel":"0276-55-1541","url":"https://www.city.ota.gunma.jp/page/1296.html"},
     {"id":2371,"prefecture":"群馬県","city":"太田市","area":"尾島","name":"尾島地域包括支援センター","tel":"0276-60-4907","url":"https://www.city.ota.gunma.jp/page/1296.html"},
     {"id":2372,"prefecture":"群馬県","city":"太田市","area":"木崎・生品・綿打","name":"新田地域包括支援センター","tel":"0276-56-1717","url":"https://www.city.ota.gunma.jp/page/1296.html"},
-    {"id":2373,"prefecture":"群馬県","city":"太田市","area":"藪塚東部・藪塚西部","name":"藪塚地域包括支援センター","tel":"0277-78-1096","url":"https://www.city.ota.gunma.jp/page/1296.html"}
+    {"id":2373,"prefecture":"群馬県","city":"太田市","area":"藪塚東部・藪塚西部","name":"藪塚地域包括支援センター","tel":"0277-78-1096","url":"https://www.city.ota.gunma.jp/page/1296.html"},
+    {"id":2596,"prefecture":"群馬県","city":"伊勢崎市","area":"北・三郷地区","name":"高齢者相談センター 北・三郷","tel":"0270-27-4548","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
+    {"id":2597,"prefecture":"群馬県","city":"伊勢崎市","area":"南・茂呂地区","name":"高齢者相談センター 南・茂呂","tel":"0270-61-7026","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
+    {"id":2598,"prefecture":"群馬県","city":"伊勢崎市","area":"殖蓮地区","name":"高齢者相談センター 殖蓮","tel":"0270-27-5039","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
+    {"id":2599,"prefecture":"群馬県","city":"伊勢崎市","area":"宮郷地区","name":"高齢者相談センター 宮郷","tel":"0270-23-6100","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
+    {"id":2600,"prefecture":"群馬県","city":"伊勢崎市","area":"名和地区","name":"高齢者相談センター 名和","tel":"0270-20-7575","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
+    {"id":2601,"prefecture":"群馬県","city":"伊勢崎市","area":"豊受地区","name":"高齢者相談センター 豊受","tel":"0270-27-7703","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
+    {"id":2602,"prefecture":"群馬県","city":"伊勢崎市","area":"赤堀地区","name":"高齢者相談センター 赤堀","tel":"0270-63-1500","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
+    {"id":2603,"prefecture":"群馬県","city":"伊勢崎市","area":"東地区","name":"高齢者相談センター 東","tel":"0270-75-5966","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
+    {"id":2604,"prefecture":"群馬県","city":"伊勢崎市","area":"境地区","name":"高齢者相談センター 境","tel":"0270-74-8039","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"}
 ]

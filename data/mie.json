@@ -20,5 +20,10 @@
     {"id":2215,"prefecture":"三重県","city":"鈴鹿市","area":"南玉垣町","name":"鈴鹿第5地域包括支援センターひいらぎ","tel":"059-392-5713","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
     {"id":2216,"prefecture":"三重県","city":"鈴鹿市","area":"地子町","name":"鈴鹿第6地域包括支援センターつゆくさ","tel":"059-389-5959","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
     {"id":2217,"prefecture":"三重県","city":"鈴鹿市","area":"南若松町","name":"鈴鹿第7地域包括支援センターりんどう","tel":"059-380-5280","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
-    {"id":2218,"prefecture":"三重県","city":"鈴鹿市","area":"長法寺町","name":"鈴鹿第8地域包括支援センターふじ","tel":"059-372-3128","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"}
+    {"id":2218,"prefecture":"三重県","city":"鈴鹿市","area":"長法寺町","name":"鈴鹿第8地域包括支援センターふじ","tel":"059-372-3128","url":"https://www.city.suzuka.lg.jp/fukushi/gaigo/1003265.html"},
+    {"id":2637,"prefecture":"三重県","city":"松阪市","area":"第一・第二・幸・神戸・徳和","name":"松阪市第一地域包括支援センター","tel":"0598-25-1070","url":"https://www.matsusaka.or.jp/kaigo/1.html"},
+    {"id":2638,"prefecture":"三重県","city":"松阪市","area":"嬉野管内・三雲管内・阿坂・伊勢寺","name":"松阪市第二地域包括支援センター","tel":"0598-42-7255","url":"https://matsusakawel.com/koureisha/chiikihoukatsu/"},
+    {"id":2639,"prefecture":"三重県","city":"松阪市","area":"飯南管内・飯高管内","name":"松阪市第三地域包括支援センター","tel":"0598-32-5083","url":"https://matsusakawel.com/koureisha/chiikihoukatsu/"},
+    {"id":2640,"prefecture":"三重県","city":"松阪市","area":"橋西・松ヶ崎・港・第四・東・朝見・櫛田・漕代・機殿・東黒部・西黒部","name":"松阪市第四地域包括支援センター","tel":"0598-51-5885","url":"http://www.kashouen.or.jp/m_dai4/index.html"},
+    {"id":2641,"prefecture":"三重県","city":"松阪市","area":"花岡・松尾・大河内・宇気郷・射和・大石・茅広江","name":"松阪市第五地域包括支援センター","tel":"0598-25-4300","url":"https://sawayaka-well.jp/wordpress/shisetu-service/matsusaka-dai5/"}
 ]

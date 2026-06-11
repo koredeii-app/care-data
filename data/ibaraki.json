@@ -24,5 +24,11 @@
     {"id":2534,"prefecture":"茨城県","city":"つくば市","area":"谷田部西地区","name":"谷田部西地域包括支援センター","tel":"029-893-3170","url":"https://www.city.tsukuba.lg.jp/kenko_iryo_fukushi/koureisha/houkatsu/1001335.html#3"},
     {"id":2535,"prefecture":"茨城県","city":"つくば市","area":"谷田部東地区","name":"谷田部東地域包括支援センター","tel":"029-897-3231","url":"https://ssv-tsukuba.jp/houkatsu/"},
     {"id":2536,"prefecture":"茨城県","city":"つくば市","area":"桜地区","name":"桜地域包括支援センター","tel":"029-829-6102","url":"https://seihoukai-group.jp/facility/sakura-houkatsu"},
-    {"id":2537,"prefecture":"茨城県","city":"つくば市","area":"茎崎地区","name":"茎崎地域包括支援センター","tel":"029-886-9500","url":"https://www.tsukuba-swc.or.jp/page/page000032.html"}
+    {"id":2537,"prefecture":"茨城県","city":"つくば市","area":"茎崎地区","name":"茎崎地域包括支援センター","tel":"029-886-9500","url":"https://www.tsukuba-swc.or.jp/page/page000032.html"},
+    {"id":2605,"prefecture":"茨城県","city":"ひたちなか市","area":"勝田第一中学校区","name":"勝田第一中学校区地域包括支援センター","tel":"029-354-5221","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"},
+    {"id":2606,"prefecture":"茨城県","city":"ひたちなか市","area":"大島中学校区","name":"大島中学校区地域包括支援センター","tel":"029-219-5775","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"},
+    {"id":2607,"prefecture":"茨城県","city":"ひたちなか市","area":"勝田第二中・田彦中学校区","name":"西部地域包括支援センター","tel":"029-276-0655","url":"https://www.city.hitachinaka.lg.jp/shisetsu/1007266/1007268/1005966.html"},
+    {"id":2608,"prefecture":"茨城県","city":"ひたちなか市","area":"勝田第三中・佐野中学校区","name":"北部地域包括支援センター","tel":"029-273-2255","url":"https://www.city.hitachinaka.lg.jp/shisetsu/1007266/1007268/1005967.html"},
+    {"id":2609,"prefecture":"茨城県","city":"ひたちなか市","area":"那珂湊中学校区","name":"那珂湊中学校区地域包括支援センター","tel":"029-264-1501","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"},
+    {"id":2610,"prefecture":"茨城県","city":"ひたちなか市","area":"美乃浜学園区","name":"美乃浜学園区地域包括支援センター","tel":"029-219-7020","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"}
 ]
