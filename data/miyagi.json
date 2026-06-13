@@ -487,5 +487,41 @@
     {"id":2242,"prefecture":"宮城県","city":"石巻市","area":"河南","name":"石巻市河南地域包括支援センター","tel":"0225-86-5501","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
     {"id":2243,"prefecture":"宮城県","city":"石巻市","area":"桃生","name":"石巻市ものう地域包括支援センター","tel":"0225-76-5581","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
     {"id":2244,"prefecture":"宮城県","city":"石巻市","area":"北上","name":"石巻市北上地域包括支援センター","tel":"0225-61-7023","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
-    {"id":2245,"prefecture":"宮城県","city":"石巻市","area":"牡鹿","name":"石巻市牡鹿地域包括支援センター","tel":"0225-44-1652","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"}
+    {"id":2245,"prefecture":"宮城県","city":"石巻市","area":"牡鹿","name":"石巻市牡鹿地域包括支援センター","tel":"0225-44-1652","url":"https://www.city.ishinomaki.lg.jp/cont/10354000/1570/1570.html"},
+    {
+        "id":  2683,
+        "prefecture":  "宮城県",
+        "city":  "大崎市",
+        "area":  "古川・荒雄・志田・西古川・東大崎・敷玉・高倉",
+        "name":  "古川地域包括支援センター",
+        "tel":  "0229-87-3113",
+        "url":  "https://www.city.osaki.miyagi.jp/shisei/lifescenebetsudesagasu/koreisha_kaigo/tiikihoukatu/16424.html"
+    },
+    {
+        "id":  2684,
+        "prefecture":  "宮城県",
+        "city":  "大崎市",
+        "area":  "三本木・松山・鹿島台",
+        "name":  "志田地域包括支援センター",
+        "tel":  "0229-53-1271",
+        "url":  "https://www.city.osaki.miyagi.jp/shisei/lifescenebetsudesagasu/koreisha_kaigo/tiikihoukatu/16424.html"
+    },
+    {
+        "id":  2685,
+        "prefecture":  "宮城県",
+        "city":  "大崎市",
+        "area":  "岩出山・鳴子温泉",
+        "name":  "玉造地域包括支援センター",
+        "tel":  "0229-72-4888",
+        "url":  "https://www.city.osaki.miyagi.jp/shisei/lifescenebetsudesagasu/koreisha_kaigo/tiikihoukatu/16424.html"
+    },
+    {
+        "id":  2686,
+        "prefecture":  "宮城県",
+        "city":  "大崎市",
+        "area":  "宮沢・富永・長岡・清滝・田尻",
+        "name":  "田尻地域包括支援センター",
+        "tel":  "0229-39-3601",
+        "url":  "https://www.city.osaki.miyagi.jp/shisei/lifescenebetsudesagasu/koreisha_kaigo/tiikihoukatu/16424.html"
+    }
 ]

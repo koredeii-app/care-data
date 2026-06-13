@@ -25,5 +25,11 @@
     {"id":2638,"prefecture":"三重県","city":"松阪市","area":"嬉野管内・三雲管内・阿坂・伊勢寺","name":"松阪市第二地域包括支援センター","tel":"0598-42-7255","url":"https://matsusakawel.com/koureisha/chiikihoukatsu/"},
     {"id":2639,"prefecture":"三重県","city":"松阪市","area":"飯南管内・飯高管内","name":"松阪市第三地域包括支援センター","tel":"0598-32-5083","url":"https://matsusakawel.com/koureisha/chiikihoukatsu/"},
     {"id":2640,"prefecture":"三重県","city":"松阪市","area":"橋西・松ヶ崎・港・第四・東・朝見・櫛田・漕代・機殿・東黒部・西黒部","name":"松阪市第四地域包括支援センター","tel":"0598-51-5885","url":"http://www.kashouen.or.jp/m_dai4/index.html"},
-    {"id":2641,"prefecture":"三重県","city":"松阪市","area":"花岡・松尾・大河内・宇気郷・射和・大石・茅広江","name":"松阪市第五地域包括支援センター","tel":"0598-25-4300","url":"https://sawayaka-well.jp/wordpress/shisetu-service/matsusaka-dai5/"}
+    {"id":2641,"prefecture":"三重県","city":"松阪市","area":"花岡・松尾・大河内・宇気郷・射和・大石・茅広江","name":"松阪市第五地域包括支援センター","tel":"0598-25-4300","url":"https://sawayaka-well.jp/wordpress/shisetu-service/matsusaka-dai5/"},
+    {"id":2687,"prefecture":"三重県","city":"桑名市","area":"精義・立教・城東・修徳・大成","name":"東部地域包括支援センター","tel":"0594-24-8080","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/001.html"},
+    {"id":2688,"prefecture":"三重県","city":"桑名市","area":"桑部・在良・七和・久米","name":"西部地域包括支援センター","tel":"0594-25-8660","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/002.html"},
+    {"id":2689,"prefecture":"三重県","city":"桑名市","area":"日進・益世・城南","name":"南部地域包括支援センター","tel":"0594-25-1011","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/003.html"},
+    {"id":2690,"prefecture":"三重県","city":"桑名市","area":"筒尾・大山田・野田・松ノ木・藤が丘・新西方・星見ヶ丘・陽だまりの丘・多度","name":"北部西地域包括支援センター（多度）","tel":"0594-49-2031","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/004.html"},
+    {"id":2691,"prefecture":"三重県","city":"桑名市","area":"","name":"北部西地域包括支援センター（大山田）","tel":"0594-41-2114","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/006.html"},
+    {"id":2692,"prefecture":"三重県","city":"桑名市","area":"深谷・大和・長島","name":"北部東地域包括支援センター","tel":"0594-42-2119","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/005.html"}
 ]

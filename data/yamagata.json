@@ -124,5 +124,194 @@
         "name":  "金井地域包括支援センター",
         "tel":  "023-664-2181",
         "url":  "https://www.city.yamagata-yamagata.lg.jp/kenkofukushi/koureisha/1006644/1005010.html"
+    },
+    {
+        "id":  2662,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "第一学区・第四学区",
+        "name":  "健楽園地域包括支援センター",
+        "tel":  "0235-25-0888",
+        "url":  "https://www.ikkoukai.or.jp/chiiki-houkatsu/"
+    },
+    {
+        "id":  2663,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "第二学区・斎・黄金",
+        "name":  "なえづ地域包括支援センター",
+        "tel":  "0235-26-9260",
+        "url":  "https://www.shk01.jp/jigyo/jigyo4-4/"
+    },
+    {
+        "id":  2664,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "第三学区・湯田川・田川",
+        "name":  "つくし地域包括支援センター",
+        "tel":  "0235-29-1256",
+        "url":  "http://tsuruoka-med.jp/kanren/tsukushi/"
+    },
+    {
+        "id":  2665,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "第五学区・京・田・栄",
+        "name":  "永寿荘地域包括支援センター",
+        "tel":  "0235-29-2900",
+        "url":  "http://www.keisen-swc.jp/takarada/regional/index.html"
+    },
+    {
+        "id":  2666,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "第六学区・大泉・上郷・三瀬・由良・小堅",
+        "name":  "かたりあい地域包括支援センター",
+        "tel":  "0235-29-1626",
+        "url":  "https://www.shk01.jp/jigyo/jigyo4-4/"
+    },
+    {
+        "id":  2667,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "大山・加茂・湯野浜・西郷",
+        "name":  "鶴岡西地域包括支援センター",
+        "tel":  "0235-35-0300",
+        "url":  "https://www.sionkai.or.jp/service/village/index.html?id=facility03"
+    },
+    {
+        "id":  2668,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "藤島",
+        "name":  "ふじしま地域包括支援センター",
+        "tel":  "0235-78-2370",
+        "url":  "https://www.fujino-sato.or.jp/hokatsu/"
+    },
+    {
+        "id":  2669,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "羽黒",
+        "name":  "はぐろ地域包括支援センター",
+        "tel":  "0235-64-8281",
+        "url":  "https://www.kamiji.or.jp/support"
+    },
+    {
+        "id":  2670,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "櫛引",
+        "name":  "くしびき地域包括支援センター",
+        "tel":  "0235-57-5003",
+        "url":  "https://www.shk01.jp/jigyo/jigyo4-4/"
+    },
+    {
+        "id":  2671,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "朝日",
+        "name":  "あさひ地域包括支援センター",
+        "tel":  "0235-58-1068",
+        "url":  "https://www.bunanoki.or.jp/service/hokatsu"
+    },
+    {
+        "id":  2672,
+        "prefecture":  "山形県",
+        "city":  "鶴岡市",
+        "area":  "温海",
+        "name":  "あつみ地域包括支援センター",
+        "tel":  "0235-43-3010",
+        "url":  "https://atumihukushikai.jp/houkatsu"
+    },
+    {
+        "id":  2673,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "琢成・松陵・西荒瀬",
+        "name":  "地域包括支援センターなかまち",
+        "tel":  "0234-23-5591",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-nakamachi.html"
+    },
+    {
+        "id":  2674,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "若浜・浜田・飛島",
+        "name":  "地域包括支援センターにいだ",
+        "tel":  "0234-22-2640",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-niida.html"
+    },
+    {
+        "id":  2675,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "亀ヶ崎・松原",
+        "name":  "地域包括支援センターはくちょう",
+        "tel":  "0234-21-0818",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-hakucyou.html"
+    },
+    {
+        "id":  2676,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "富士見・泉",
+        "name":  "地域包括支援センターあけぼの",
+        "tel":  "0234-26-7789",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-akebono.html"
+    },
+    {
+        "id":  2677,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "黒森・浜中・広野・新堀・十坂・宮野浦",
+        "name":  "地域包括支援センターかわみなみ",
+        "tel":  "0234-92-3451",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-kawaminami.html"
+    },
+    {
+        "id":  2678,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "鳥海",
+        "name":  "地域包括支援センターほくぶ",
+        "tel":  "0234-28-2002",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-hokubu.html"
+    },
+    {
+        "id":  2679,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "平田",
+        "name":  "地域包括支援センターひがし",
+        "tel":  "0234-94-2470",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-higashi.html"
+    },
+    {
+        "id":  2680,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "一條・八幡",
+        "name":  "地域包括支援センターやわた",
+        "tel":  "0234-64-3777",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-yawata.html"
+    },
+    {
+        "id":  2681,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "松山",
+        "name":  "地域包括支援センターまつやま",
+        "tel":  "0234-61-4033",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-mastuyama.html"
+    },
+    {
+        "id":  2682,
+        "prefecture":  "山形県",
+        "city":  "酒田市",
+        "area":  "南平田",
+        "name":  "地域包括支援センターひらた",
+        "tel":  "0234-52-3895",
+        "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-hirata.html"
     }
 ]

@@ -19,5 +19,12 @@
     {"id":2644,"prefecture":"滋賀県","city":"草津市","area":"老上・老上西","name":"草津市老上地域包括支援センター","tel":"077-561-8145","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/oikamihokatsu.html"},
     {"id":2645,"prefecture":"滋賀県","city":"草津市","area":"玉川・南笠東","name":"草津市玉川地域包括支援センター","tel":"077-561-8146","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/tamagawahokatsu.html"},
     {"id":2646,"prefecture":"滋賀県","city":"草津市","area":"山田・笠縫","name":"草津市松原地域包括支援センター","tel":"077-561-8147","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/matubarahokatsu.html"},
-    {"id":2647,"prefecture":"滋賀県","city":"草津市","area":"笠縫東・常盤","name":"草津市新堂地域包括支援センター","tel":"077-568-4148","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/sindouhokatsu.html"}
+    {"id":2647,"prefecture":"滋賀県","city":"草津市","area":"笠縫東・常盤","name":"草津市新堂地域包括支援センター","tel":"077-568-4148","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/sindouhokatsu.html"},
+    {"id":2693,"prefecture":"滋賀県","city":"彦根市","area":"鳥居本","name":"地域包括支援センターすばる","tel":"0749-21-5412","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
+    {"id":2694,"prefecture":"滋賀県","city":"彦根市","area":"城東・佐和山","name":"地域包括支援センターすばる","tel":"0749-24-0494","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
+    {"id":2695,"prefecture":"滋賀県","city":"彦根市","area":"城西・城北","name":"地域包括支援センターハピネス","tel":"0749-27-6702","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
+    {"id":2696,"prefecture":"滋賀県","city":"彦根市","area":"平田・金城","name":"地域包括支援センターふるさと","tel":"0749-47-3993","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
+    {"id":2697,"prefecture":"滋賀県","city":"彦根市","area":"城南・高宮・旭森","name":"地域包括支援センターゆうじん","tel":"0749-21-3341","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
+    {"id":2698,"prefecture":"滋賀県","city":"彦根市","area":"城陽・若葉・河瀬・亀山","name":"地域包括支援センターきらら","tel":"0749-28-9323","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
+    {"id":2699,"prefecture":"滋賀県","city":"彦根市","area":"稲枝東・稲枝北・稲枝西","name":"地域包括支援センターいなえ","tel":"0749-47-3320","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"}
 ]

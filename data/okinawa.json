@@ -160,5 +160,68 @@
         "name":  "那覇市地域包括支援センター高良",
         "tel":  "098-859-6633",
         "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  2702,
+        "prefecture":  "沖縄県",
+        "city":  "沖縄市",
+        "area":  "池原・登川・知花・明道・松本",
+        "name":  "北部地域包括支援センター",
+        "tel":  "098-938-9770",
+        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+    },
+    {
+        "id":  2703,
+        "prefecture":  "沖縄県",
+        "city":  "沖縄市",
+        "area":  "美里・東・宮里・吉原・城前・越来",
+        "name":  "中部北地域包括支援センター",
+        "tel":  "098-987-8025",
+        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+    },
+    {
+        "id":  2704,
+        "prefecture":  "沖縄県",
+        "city":  "沖縄市",
+        "area":  "嘉間良・住吉・室川・安慶田・照屋",
+        "name":  "中部南地域包括支援センター",
+        "tel":  "098-923-0603",
+        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+    },
+    {
+        "id":  2705,
+        "prefecture":  "沖縄県",
+        "city":  "沖縄市",
+        "area":  "八重島・センター・中の町・胡屋・園田",
+        "name":  "西部北地域包括支援センター",
+        "tel":  "098-988-5525",
+        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+    },
+    {
+        "id":  2706,
+        "prefecture":  "沖縄県",
+        "city":  "沖縄市",
+        "area":  "諸見里・久保田・山内・山里・南桃原",
+        "name":  "西部南地域包括支援センター",
+        "tel":  "098-982-2020",
+        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+    },
+    {
+        "id":  2707,
+        "prefecture":  "沖縄県",
+        "city":  "沖縄市",
+        "area":  "古謝・東桃原・大里・海邦町・泡瀬第一〜三",
+        "name":  "東部北地域包括支援センター",
+        "tel":  "098-937-1100",
+        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+    },
+    {
+        "id":  2708,
+        "prefecture":  "沖縄県",
+        "city":  "沖縄市",
+        "area":  "高原・泡瀬・比屋根・与儀",
+        "name":  "東部南地域包括支援センター",
+        "tel":  "098-923-0553",
+        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
     }
 ]

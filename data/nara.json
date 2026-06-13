@@ -11,5 +11,7 @@
     {"id":1874,"prefecture":"奈良県","city":"奈良市","area":"東登美ヶ丘・登美ヶ丘","name":"登美ヶ丘地域包括支援センター","tel":"0742-51-0012","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
     {"id":1875,"prefecture":"奈良県","city":"奈良市","area":"三碓・富雄南・あやめ池学園南","name":"富雄東地域包括支援センター","tel":"0742-52-2051","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
     {"id":1876,"prefecture":"奈良県","city":"奈良市","area":"鳥見・富雄第三","name":"富雄西地域包括支援センター","tel":"0742-44-6541","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1877,"prefecture":"奈良県","city":"奈良市","area":"田原・柳生・興東・都祁・月ヶ瀬","name":"東部地域包括支援センター","tel":"0742-81-5720","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"}
+    {"id":1877,"prefecture":"奈良県","city":"奈良市","area":"田原・柳生・興東・都祁・月ヶ瀬","name":"東部地域包括支援センター","tel":"0742-81-5720","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
+    {"id":2700,"prefecture":"奈良県","city":"橿原市","area":"","name":"地域包括支援センター（北エリア）","tel":"0744-20-3366","url":"https://www.city.kashihara.nara.jp/soshiki/1033/gyomu/3/7/2608.html"},
+    {"id":2701,"prefecture":"奈良県","city":"橿原市","area":"","name":"地域包括支援センター（南エリア）","tel":"0744-24-4301","url":"https://www.city.kashihara.nara.jp/soshiki/1033/gyomu/3/7/2608.html"}
 ]

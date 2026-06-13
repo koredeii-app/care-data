@@ -205,5 +205,68 @@
         "name":  "佐賀関・神崎地域包括支援センター",
         "tel":  "097-575-0337",
         "url":  "https://www.city.oita.oita.jp/o081/kenko/fukushi/1505449534483.html"
+    },
+    {
+        "id":  2709,
+        "prefecture":  "大分県",
+        "city":  "別府市",
+        "area":  "青山・東山",
+        "name":  "青山・東山地域包括支援センター",
+        "tel":  "0977-73-8989",
+        "url":  "https://www.city.beppu.oita.jp/seikatu/fukusi/koureisyafukusi/detail1.html"
+    },
+    {
+        "id":  2710,
+        "prefecture":  "大分県",
+        "city":  "別府市",
+        "area":  "中部",
+        "name":  "中部地域包括支援センター",
+        "tel":  "0977-76-5866",
+        "url":  "https://www.city.beppu.oita.jp/seikatu/fukusi/koureisyafukusi/detail1.html"
+    },
+    {
+        "id":  2711,
+        "prefecture":  "大分県",
+        "city":  "別府市",
+        "area":  "鶴見台",
+        "name":  "鶴見台地域包括支援センター",
+        "tel":  "0977-25-7722",
+        "url":  "https://www.city.beppu.oita.jp/seikatu/fukusi/koureisyafukusi/detail1.html"
+    },
+    {
+        "id":  2712,
+        "prefecture":  "大分県",
+        "city":  "別府市",
+        "area":  "朝日",
+        "name":  "朝日地域包括支援センター",
+        "tel":  "0977-85-8088",
+        "url":  "https://www.city.beppu.oita.jp/seikatu/fukusi/koureisyafukusi/detail1.html"
+    },
+    {
+        "id":  2713,
+        "prefecture":  "大分県",
+        "city":  "別府市",
+        "area":  "山の手",
+        "name":  "山の手地域包括支援センター",
+        "tel":  "0977-23-5582",
+        "url":  "https://www.city.beppu.oita.jp/seikatu/fukusi/koureisyafukusi/detail1.html"
+    },
+    {
+        "id":  2714,
+        "prefecture":  "大分県",
+        "city":  "別府市",
+        "area":  "北部",
+        "name":  "北部地域包括支援センター",
+        "tel":  "0977-66-8844",
+        "url":  "https://www.city.beppu.oita.jp/seikatu/fukusi/koureisyafukusi/detail1.html"
+    },
+    {
+        "id":  2715,
+        "prefecture":  "大分県",
+        "city":  "別府市",
+        "area":  "浜脇",
+        "name":  "浜脇地域包括支援センター",
+        "tel":  "0977-25-6811",
+        "url":  "https://www.city.beppu.oita.jp/seikatu/fukusi/koureisyafukusi/detail1.html"
     }
 ]
