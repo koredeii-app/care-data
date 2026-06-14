@@ -806,5 +806,167 @@
     {"id":2592,"prefecture":"千葉県","city":"浦安市","area":"当代島・北栄・猫実三・四・五丁目","name":"浦安駅前地域包括支援センター（ともづな浦安駅前）","tel":"047-351-8950","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1016190.html"},
     {"id":2593,"prefecture":"千葉県","city":"浦安市","area":"入船・美浜・海楽","name":"新浦安駅前地域包括支援センター（ともづな新浦安）","tel":"047-306-5171","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1005510.html"},
     {"id":2594,"prefecture":"千葉県","city":"浦安市","area":"高洲・明海・日の出","name":"高洲地域包括支援センター（ともづな高洲）","tel":"047-382-2424","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1013107.html"},
-    {"id":2595,"prefecture":"千葉県","city":"浦安市","area":"舞浜・東野・弁天・富岡・今川","name":"富岡地域包括支援センター（ともづな富岡）","tel":"047-721-1027","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1017613.html"}
+    {"id":2595,"prefecture":"千葉県","city":"浦安市","area":"舞浜・東野・弁天・富岡・今川","name":"富岡地域包括支援センター（ともづな富岡）","tel":"047-721-1027","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1017613.html"},
+    {
+        "id":  2716,
+        "prefecture":  "千葉県",
+        "city":  "木更津市",
+        "area":  "新田・富士見・中央・新宿・吾妻・朝日ほか",
+        "name":  "木更津市中部地域包括支援センター",
+        "tel":  "0438-97-7818",
+        "url":  "https://jishinkai.info/kisarazu-nanseien/houkatsu/"
+    },
+    {
+        "id":  2717,
+        "prefecture":  "千葉県",
+        "city":  "木更津市",
+        "area":  "請西・請西東・請西南・真舟・千束台",
+        "name":  "木更津市東部地域包括支援センター",
+        "tel":  "0438-97-6536",
+        "url":  "https://mori.kisarazu-kamome.com/houkatu/"
+    },
+    {
+        "id":  2718,
+        "prefecture":  "千葉県",
+        "city":  "木更津市",
+        "area":  "岩根地区・金田地区",
+        "name":  "木更津市西部地域包括支援センター",
+        "tel":  "0438-22-3422",
+        "url":  "https://www.nagasuka.com/pg2803234.html"
+    },
+    {
+        "id":  2719,
+        "prefecture":  "千葉県",
+        "city":  "木更津市",
+        "area":  "波岡地区・鎌足地区",
+        "name":  "木更津市南部地域包括支援センター",
+        "tel":  "0438-37-4811",
+        "url":  "http://www.ikumikai.org/chiiki.html"
+    },
+    {
+        "id":  2720,
+        "prefecture":  "千葉県",
+        "city":  "木更津市",
+        "area":  "中郷地区・清川地区",
+        "name":  "木更津市北部地域包括支援センター",
+        "tel":  "0438-97-2561",
+        "url":  "https://nakago.or.jp/service/welfare/houjin_03/"
+    },
+    {
+        "id":  2721,
+        "prefecture":  "千葉県",
+        "city":  "木更津市",
+        "area":  "富来田地区",
+        "name":  "木更津市富来田地域包括支援センター",
+        "tel":  "0438-53-8031",
+        "url":  "https://www.dotline-jp.com/fukuta-hokatsu/"
+    },
+    {
+        "id":  2722,
+        "prefecture":  "千葉県",
+        "city":  "成田市",
+        "area":  "成田・中郷地域",
+        "name":  "成田・中郷地域包括支援センター",
+        "tel":  "0476-23-7151",
+        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id":  2723,
+        "prefecture":  "千葉県",
+        "city":  "成田市",
+        "area":  "ニュータウン・はなのき台",
+        "name":  "ニュータウン地域包括支援センター",
+        "tel":  "0476-29-5005",
+        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id":  2724,
+        "prefecture":  "千葉県",
+        "city":  "成田市",
+        "area":  "八生・豊住地域",
+        "name":  "八生・豊住地域包括支援センター支所",
+        "tel":  "0476-20-3655",
+        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id":  2725,
+        "prefecture":  "千葉県",
+        "city":  "成田市",
+        "area":  "遠山地域",
+        "name":  "遠山地域包括支援センター",
+        "tel":  "0476-35-6081",
+        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id":  2726,
+        "prefecture":  "千葉県",
+        "city":  "成田市",
+        "area":  "公津地域（はなのき台を除く）",
+        "name":  "公津地域包括支援センター",
+        "tel":  "0476-36-4981",
+        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id":  2727,
+        "prefecture":  "千葉県",
+        "city":  "成田市",
+        "area":  "久住・下総地域",
+        "name":  "久住・下総地域包括支援センター",
+        "tel":  "0476-80-7007",
+        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id":  2728,
+        "prefecture":  "千葉県",
+        "city":  "成田市",
+        "area":  "大栄地域",
+        "name":  "大栄地域包括支援センター支所",
+        "tel":  "0476-94-5664",
+        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id":  2729,
+        "prefecture":  "千葉県",
+        "city":  "我孫子市",
+        "area":  "布施・布施下・弁天下・久寺家・根戸・つくし野・台田・我孫子・並木（根戸・我孫子は鉄道路線以北）",
+        "name":  "我孫子北地区高齢者なんでも相談室",
+        "tel":  "04-7179-7360",
+        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    },
+    {
+        "id":  2730,
+        "prefecture":  "千葉県",
+        "city":  "我孫子市",
+        "area":  "根戸・根戸新田・呼塚新田・船戸・我孫子・我孫子新田・白山・本町・緑・寿・栄・若松（根戸・我孫子は鉄道路線以南）",
+        "name":  "我孫子南地区高齢者なんでも相談室",
+        "tel":  "04-7199-8311",
+        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    },
+    {
+        "id":  2731,
+        "prefecture":  "千葉県",
+        "city":  "我孫子市",
+        "area":  "泉・天王台・東我孫子・柴崎・柴崎台・北新田ほか",
+        "name":  "天王台地区高齢者なんでも相談室",
+        "tel":  "04-7182-4100",
+        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    },
+    {
+        "id":  2732,
+        "prefecture":  "千葉県",
+        "city":  "我孫子市",
+        "area":  "湖北台・中峠台・中峠・中峠村下・中里ほか",
+        "name":  "湖北・湖北台地区高齢者なんでも相談室",
+        "tel":  "04-7187-6777",
+        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    },
+    {
+        "id":  2733,
+        "prefecture":  "千葉県",
+        "city":  "我孫子市",
+        "area":  "新木・新木野・新木村下・中沼田・南新木ほか",
+        "name":  "布佐・新木地区高齢者なんでも相談室",
+        "tel":  "04-7189-0294",
+        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    }
 ]

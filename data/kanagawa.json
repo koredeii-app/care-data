@@ -2377,5 +2377,59 @@
     {"id":2517,"prefecture":"神奈川県","city":"秦野市","area":"南矢名・南矢名1～5丁目・下大槻・北矢名（一部）","name":"大根地域高齢者支援センター","tel":"0463-76-5208","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
     {"id":2518,"prefecture":"神奈川県","city":"秦野市","area":"萩が丘・曲松1・2丁目・渋沢1～3丁目・千村・渋沢上1・2丁目","name":"渋沢地域高齢者支援センター","tel":"0463-79-6532","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
     {"id":2519,"prefecture":"神奈川県","city":"秦野市","area":"鶴巻・鶴巻北1～3丁目・鶴巻南1～5丁目","name":"鶴巻地域高齢者支援センター","tel":"0463-79-9040","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
-    {"id":2520,"prefecture":"神奈川県","city":"秦野市","area":"並木町・弥生町・春日町・松原町・堀西・堀川・菖蒲・三廻部・柳川・八沢","name":"西地域高齢者支援センター","tel":"0463-73-5751","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"}
+    {"id":2520,"prefecture":"神奈川県","city":"秦野市","area":"並木町・弥生町・春日町・松原町・堀西・堀川・菖蒲・三廻部・柳川・八沢","name":"西地域高齢者支援センター","tel":"0463-73-5751","url":"https://www.city.hadano.kanagawa.jp/soshiki/5/1036/3/2682.html"},
+    {
+        "id":  2743,
+        "prefecture":  "神奈川県",
+        "city":  "海老名市",
+        "area":  "上郷・扇町・上今泉・下今泉・泉・めぐみ町",
+        "name":  "海老名北地域包括支援センター",
+        "tel":  "046-231-6061",
+        "url":  "https://ebinakita.com/region/"
+    },
+    {
+        "id":  2744,
+        "prefecture":  "神奈川県",
+        "city":  "海老名市",
+        "area":  "柏ケ谷・東柏ケ谷・望地",
+        "name":  "海老名東地域包括支援センター",
+        "tel":  "046-292-1411",
+        "url":  "http://www.jinai.jp/staying_ebina/"
+    },
+    {
+        "id":  2745,
+        "prefecture":  "神奈川県",
+        "city":  "海老名市",
+        "area":  "勝瀬・中央・国分南・国分北",
+        "name":  "海老名中央地域包括支援センター",
+        "tel":  "046-234-2973",
+        "url":  "http://www.jinai.jp/staying_ebina/"
+    },
+    {
+        "id":  2746,
+        "prefecture":  "神奈川県",
+        "city":  "海老名市",
+        "area":  "中新田・さつき町・河原口・社家",
+        "name":  "さつき町地域包括支援センター",
+        "tel":  "046-234-7226",
+        "url":  "http://ebinaishikai.jp/houkatsusiencenter.html"
+    },
+    {
+        "id":  2747,
+        "prefecture":  "神奈川県",
+        "city":  "海老名市",
+        "area":  "大谷・国分寺台・浜田町・大谷南・大谷北",
+        "name":  "国分寺台地域包括支援センター",
+        "tel":  "046-233-8881",
+        "url":  "https://www.tomoni.or.jp/facility/?area=kenoarea&subarea=ebina"
+    },
+    {
+        "id":  2748,
+        "prefecture":  "神奈川県",
+        "city":  "海老名市",
+        "area":  "中河内・中野・今里・上河内・本郷・門沢橋・杉久保南・杉久保北",
+        "name":  "海老名南地域包括支援センター",
+        "tel":  "046-238-7691",
+        "url":  "https://ebinaminami.com/community-center/"
+    }
 ]

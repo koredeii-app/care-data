@@ -918,5 +918,86 @@
     {"id":2621,"prefecture":"埼玉県","city":"新座市","area":"石神・栗原・堀ノ内","name":"南部高齢者相談センター","tel":"048-487-8263","url":"https://www.city.niiza.lg.jp/map/nannbu.html"},
     {"id":2622,"prefecture":"埼玉県","city":"新座市","area":"東北・東","name":"北部第一高齢者相談センター","tel":"048-486-5011","url":"https://www.city.niiza.lg.jp/map/hokubudaiiti.html"},
     {"id":2623,"prefecture":"埼玉県","city":"新座市","area":"野火止五〜八丁目","name":"野火止五〜八丁目高齢者相談センター","tel":"048-485-8936","url":"https://www.city.niiza.lg.jp/map/nobitomegokarahattyoume.html"},
-    {"id":2624,"prefecture":"埼玉県","city":"新座市","area":"中野・大和田・新座・北野","name":"北部第二高齢者相談センター","tel":"048-485-8587","url":"https://www.city.niiza.lg.jp/map/hokubudaini.html"}
+    {"id":2624,"prefecture":"埼玉県","city":"新座市","area":"中野・大和田・新座・北野","name":"北部第二高齢者相談センター","tel":"048-485-8587","url":"https://www.city.niiza.lg.jp/map/hokubudaini.html"},
+    {
+        "id":  2734,
+        "prefecture":  "埼玉県",
+        "city":  "入間市",
+        "area":  "豊岡・東町・向陽台・大字黒須（東町5丁目2番の一部・6丁目2・3番除く）",
+        "name":  "豊岡東地域包括支援センター",
+        "tel":  "04-2960-1050",
+        "url":  "https://www.city.iruma.saitama.jp/soshiki/koreishashienka/kourei_fukushi_kaigo/koreisha_shisetsu/167.html"
+    },
+    {
+        "id":  2735,
+        "prefecture":  "埼玉県",
+        "city":  "入間市",
+        "area":  "扇町屋・扇台・久保稲荷・善蔵新田",
+        "name":  "豊岡西地域包括支援センター",
+        "tel":  "04-2960-5010",
+        "url":  "https://www.city.iruma.saitama.jp/soshiki/koreishashienka/kourei_fukushi_kaigo/koreisha_shisetsu/167.html"
+    },
+    {
+        "id":  2736,
+        "prefecture":  "埼玉県",
+        "city":  "入間市",
+        "area":  "黒須・河原町・春日町・宮前町・鍵山・高倉",
+        "name":  "豊岡北地域包括支援センター",
+        "tel":  "04-2901-2501",
+        "url":  "https://www.city.iruma.saitama.jp/soshiki/koreishashienka/kourei_fukushi_kaigo/koreisha_shisetsu/167.html"
+    },
+    {
+        "id":  2737,
+        "prefecture":  "埼玉県",
+        "city":  "入間市",
+        "area":  "牛沢町・小谷田・上小谷田・森坂・新久・狭山ケ原・狭山台4丁目",
+        "name":  "東金子地区地域包括支援センター",
+        "tel":  "04-2960-6322",
+        "url":  "https://f-eijinkai.jp/higashikaneko/"
+    },
+    {
+        "id":  2738,
+        "prefecture":  "埼玉県",
+        "city":  "入間市",
+        "area":  "木蓮寺・南峯・寺竹・金子中央・西三ツ木・三ツ木台・上谷ケ貫・下谷ケ貫・花ノ木・中神・根岸・狭山台3丁目",
+        "name":  "金子地区地域包括支援センター",
+        "tel":  "04-2935-7543",
+        "url":  "https://www.city.iruma.saitama.jp/soshiki/koreishashienka/kourei_fukushi_kaigo/koreisha_shisetsu/167.html"
+    },
+    {
+        "id":  2739,
+        "prefecture":  "埼玉県",
+        "city":  "入間市",
+        "area":  "宮寺・二本木・高根・駒形富士山・大字狭山台・狭山台1丁目・2丁目",
+        "name":  "宮寺・二本木地区地域包括支援センター",
+        "tel":  "04-2935-0082",
+        "url":  "https://www.city.iruma.saitama.jp/soshiki/koreishashienka/kourei_fukushi_kaigo/koreisha_shisetsu/167.html"
+    },
+    {
+        "id":  2740,
+        "prefecture":  "埼玉県",
+        "city":  "入間市",
+        "area":  "上藤沢・下藤沢・東町5丁目2番の一部・6丁目2・3番",
+        "name":  "藤沢地域包括支援センター",
+        "tel":  "04-2960-6307",
+        "url":  "https://www.eijinkai.jp/fujisawa/"
+    },
+    {
+        "id":  2741,
+        "prefecture":  "埼玉県",
+        "city":  "入間市",
+        "area":  "東藤沢",
+        "name":  "東藤沢地域包括支援センター",
+        "tel":  "04-2901-7025",
+        "url":  "https://www.city.iruma.saitama.jp/soshiki/koreishashienka/kourei_fukushi_kaigo/koreisha_shisetsu/167.html"
+    },
+    {
+        "id":  2742,
+        "prefecture":  "埼玉県",
+        "city":  "入間市",
+        "area":  "仏子・野田・新光",
+        "name":  "西武地区地域包括支援センター",
+        "tel":  "04-2931-3311",
+        "url":  "https://www.city.iruma.saitama.jp/soshiki/koreishashienka/kourei_fukushi_kaigo/koreisha_shisetsu/167.html"
+    }
 ]
