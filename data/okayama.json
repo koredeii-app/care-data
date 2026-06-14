@@ -367,5 +367,14 @@
         "name": "高齢者支援センター真備",
         "tel": "086-698-5999",
         "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id":  2767,
+        "prefecture":  "岡山県",
+        "city":  "津山市",
+        "area":  "市内全域",
+        "name":  "津山市地域包括支援センター",
+        "tel":  "0868-23-1004",
+        "url":  "https://www.tsuyamasyakyo.or.jp/office_list/houkatsu/"
     }
 ]

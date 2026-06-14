@@ -607,5 +607,50 @@
     {"id":2432,"prefecture":"広島県","city":"東広島市","area":"高屋町","name":"高屋地域包括支援センター","tel":"082-426-5211","url":"https://www.misonoryo.com/original12/contact2"},
     {"id":2433,"prefecture":"広島県","city":"東広島市","area":"黒瀬町","name":"黒瀬地域包括支援センター","tel":"0823-82-0203","url":"https://www.hakujukai.jp/s_chiiki.html"},
     {"id":2434,"prefecture":"広島県","city":"東広島市","area":"福富町・豊栄町・河内町","name":"北部地域包括支援センター","tel":"082-435-2240","url":"https://www.higashihiroshimashi-syakyo.jp/senior/shien.html"},
-    {"id":2435,"prefecture":"広島県","city":"東広島市","area":"安芸津町","name":"安芸津地域包括支援センター","tel":"0846-46-1305","url":"https://www.hakujukai.jp/s_chiiki.html"}
+    {"id":2435,"prefecture":"広島県","city":"東広島市","area":"安芸津町","name":"安芸津地域包括支援センター","tel":"0846-46-1305","url":"https://www.hakujukai.jp/s_chiiki.html"},
+    {
+        "id":  2749,
+        "prefecture":  "広島県",
+        "city":  "廿日市市",
+        "area":  "地御前・地御前北・阿品・阿品台・阿品台北・阿品台東・阿品台西・阿品台山の手",
+        "name":  "地域包括支援センターはつかいち西部",
+        "tel":  "0829-30-9066",
+        "url":  "https://www.city.hatsukaichi.hiroshima.jp/soshiki/138/126342.html"
+    },
+    {
+        "id":  2750,
+        "prefecture":  "広島県",
+        "city":  "廿日市市",
+        "area":  "串戸・宮園・宮園上・四季が丘・四季が丘上・峰高・宮内・六本松・宮内工業団地",
+        "name":  "地域包括支援センターはつかいち中部",
+        "tel":  "0829-20-4580",
+        "url":  "https://www.miyauchi.or.jp/im/hcb.html"
+    },
+    {
+        "id":  2751,
+        "prefecture":  "広島県",
+        "city":  "廿日市市",
+        "area":  "駅前・大東・可愛・佐方・桜尾・須賀・住吉・天神・廿日市・本町・木材港北・木材港南・山陽園・城内・平良・新宮・陽光台・原",
+        "name":  "地域包括支援センターはつかいち東部",
+        "tel":  "0829-30-9158",
+        "url":  "https://carecenter.jp/pages/47/"
+    },
+    {
+        "id":  2752,
+        "prefecture":  "広島県",
+        "city":  "廿日市市",
+        "area":  "佐伯・吉和",
+        "name":  "地域包括支援センターさいき",
+        "tel":  "0829-72-2828",
+        "url":  "https://www.city.hatsukaichi.hiroshima.jp/soshiki/138/126354.html"
+    },
+    {
+        "id":  2753,
+        "prefecture":  "広島県",
+        "city":  "廿日市市",
+        "area":  "大野・宮島",
+        "name":  "地域包括支援センターおおの",
+        "tel":  "0829-50-0251",
+        "url":  "https://www.city.hatsukaichi.hiroshima.jp/soshiki/138/126351.html"
+    }
 ]

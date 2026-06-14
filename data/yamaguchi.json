@@ -211,5 +211,122 @@
     {"id":2566,"prefecture":"山口県","city":"周南市","area":"周陽・桜木・秋月・岐山・大津島","name":"いきいきさぽーとつづみ園","tel":"0834-28-7055","url":"https://www.shunan-jigyodan.jp/service/regional-comprehensive-support/"},
     {"id":2567,"prefecture":"山口県","city":"周南市","area":"遠石・関門・中央・今宿","name":"いきいきさぽーと徳山医師会","tel":"0834-32-9035","url":"https://www.city.shunan.lg.jp/site/houkatsucare/101895.html"},
     {"id":2568,"prefecture":"山口県","city":"周南市","area":"富田・菊川・和田・福川・夜市・戸田・湯野","name":"いきいきさぽーと周南西部","tel":"0834-62-6301","url":"https://www.shunan-shakyo.or.jp/thema03/sougousoudan/"},
-    {"id":2569,"prefecture":"山口県","city":"周南市","area":"須々万・長穂・向道・中須・須金・鹿野","name":"いきいきさぽーと周南北部","tel":"0834-87-2000","url":"http://www.kanofukushikai.or.jp/service/regional-support-center/"}
+    {"id":2569,"prefecture":"山口県","city":"周南市","area":"須々万・長穂・向道・中須・須金・鹿野","name":"いきいきさぽーと周南北部","tel":"0834-87-2000","url":"http://www.kanofukushikai.or.jp/service/regional-support-center/"},
+    {
+        "id":  2754,
+        "prefecture":  "山口県",
+        "city":  "岩国市",
+        "area":  "麻里布・東・装港・小瀬・柱島",
+        "name":  "岩国市地域包括支援センター（第1班）",
+        "tel":  "0827-24-3781",
+        "url":  "https://www.city.iwakuni.lg.jp/soshiki/117/97092.html"
+    },
+    {
+        "id":  2755,
+        "prefecture":  "山口県",
+        "city":  "岩国市",
+        "area":  "川下・愛宕",
+        "name":  "岩国第一地域包括支援センター",
+        "tel":  "0827-34-1577",
+        "url":  "https://www.city.iwakuni.lg.jp/soshiki/117/97092.html"
+    },
+    {
+        "id":  2756,
+        "prefecture":  "山口県",
+        "city":  "岩国市",
+        "area":  "岩国・平田・藤河・御庄・師木野・北河内・南河内",
+        "name":  "岩国市地域包括支援センター（第2班）",
+        "tel":  "0827-24-3700",
+        "url":  "https://www.city.iwakuni.lg.jp/soshiki/117/97092.html"
+    },
+    {
+        "id":  2757,
+        "prefecture":  "山口県",
+        "city":  "岩国市",
+        "area":  "灘・通津",
+        "name":  "岩国第三地域包括支援センター",
+        "tel":  "0827-34-1313",
+        "url":  "https://www.city.iwakuni.lg.jp/soshiki/117/97092.html"
+    },
+    {
+        "id":  2758,
+        "prefecture":  "山口県",
+        "city":  "岩国市",
+        "area":  "由宇",
+        "name":  "岩国市地域包括支援センター（第3班）",
+        "tel":  "0827-63-3113",
+        "url":  "https://www.city.iwakuni.lg.jp/soshiki/117/97092.html"
+    },
+    {
+        "id":  2759,
+        "prefecture":  "山口県",
+        "city":  "岩国市",
+        "area":  "周東",
+        "name":  "岩国市地域包括支援センター（第4班周東）",
+        "tel":  "0827-84-3615",
+        "url":  "https://www.city.iwakuni.lg.jp/soshiki/117/97092.html"
+    },
+    {
+        "id":  2760,
+        "prefecture":  "山口県",
+        "city":  "岩国市",
+        "area":  "玖珂",
+        "name":  "岩国市地域包括支援センター（第4班玖珂）",
+        "tel":  "0827-82-0368",
+        "url":  "https://www.city.iwakuni.lg.jp/soshiki/117/97092.html"
+    },
+    {
+        "id":  2761,
+        "prefecture":  "山口県",
+        "city":  "岩国市",
+        "area":  "錦・美川・美和・本郷",
+        "name":  "岩国第五地域包括支援センター",
+        "tel":  "0827-71-0055",
+        "url":  "https://www.city.iwakuni.lg.jp/soshiki/117/97092.html"
+    },
+    {
+        "id":  2762,
+        "prefecture":  "山口県",
+        "city":  "防府市",
+        "area":  "牟礼・松崎・富海",
+        "name":  "防府東地域包括支援センター",
+        "tel":  "0835-27-0150",
+        "url":  "https://www.city.hofu.yamaguchi.jp/soshiki/60/0805kekka.html"
+    },
+    {
+        "id":  2763,
+        "prefecture":  "山口県",
+        "city":  "防府市",
+        "area":  "中関・華城・西浦・大道",
+        "name":  "防府西地域包括支援センター",
+        "tel":  "0835-32-3310",
+        "url":  "https://www.city.hofu.yamaguchi.jp/soshiki/60/0805kekka.html"
+    },
+    {
+        "id":  2764,
+        "prefecture":  "山口県",
+        "city":  "防府市",
+        "area":  "勝間・華浦・新田・向島",
+        "name":  "防府南地域包括支援センター",
+        "tel":  "0835-28-7002",
+        "url":  "https://www.city.hofu.yamaguchi.jp/soshiki/60/0805kekka.html"
+    },
+    {
+        "id":  2765,
+        "prefecture":  "山口県",
+        "city":  "防府市",
+        "area":  "佐波・右田・玉祖・小野",
+        "name":  "防府北地域包括支援センター",
+        "tel":  "0835-28-7215",
+        "url":  "https://www.city.hofu.yamaguchi.jp/soshiki/60/0805kekka.html"
+    },
+    {
+        "id":  2766,
+        "prefecture":  "山口県",
+        "city":  "防府市",
+        "area":  "野島",
+        "name":  "防府市地域包括支援センター（本センター）",
+        "tel":  "0835-25-2964",
+        "url":  "https://www.city.hofu.yamaguchi.jp/soshiki/60/0805kekka.html"
+    }
 ]
