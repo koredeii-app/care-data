@@ -13,5 +13,17 @@
     {"id":1876,"prefecture":"奈良県","city":"奈良市","area":"鳥見・富雄第三","name":"富雄西地域包括支援センター","tel":"0742-44-6541","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
     {"id":1877,"prefecture":"奈良県","city":"奈良市","area":"田原・柳生・興東・都祁・月ヶ瀬","name":"東部地域包括支援センター","tel":"0742-81-5720","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
     {"id":2700,"prefecture":"奈良県","city":"橿原市","area":"土橋町、小槻町、中曽司町（近鉄大阪線以北）、飯高町、大垣町、豊田町、十市町（国道24号以西）、葛本町（国道24号以西）、新賀町（国道24号以西）、上品寺町、新口町、西新堂町、兵部町、今井町1～4丁目、小綱町、四条町（橿原神宮参道以西）、大谷町、慈明寺町、寺田町、五井町、北妙法寺町、中曽司町（近鉄大阪線以南）、曽我町、地黄町、小房町、八木町1～3丁目、北八木町1～3丁目、南八木町1～3丁目、内膳町1～5丁目、十市町（国道24号以東）、葛本町（国道24号以東）、新賀町（国道24号以東）、東竹田町、中町、太田市町、常盤町、石原田町、山之坊町、木原町","name":"橿原市地域包括支援センター（北エリア）","tel":"0744-20-3366","url":"https://houkatsu-north.unebi.or.jp/"},
-    {"id":2701,"prefecture":"奈良県","city":"橿原市","area":"八木中学校区（南）、畝傍中学校区、白橿中学校区、光陽中学校区","name":"橿原市地域包括支援センター（南エリア）","tel":"0744-24-4301","url":"https://kashi-syakyou.or.jp/pages/90/"}
+    {"id":2701,"prefecture":"奈良県","city":"橿原市","area":"八木中学校区（南）、畝傍中学校区、白橿中学校区、光陽中学校区","name":"橿原市地域包括支援センター（南エリア）","tel":"0744-24-4301","url":"https://kashi-syakyou.or.jp/pages/90/"},
+    {"id":2778,"prefecture":"奈良県","city":"生駒市","area":"","name":"フォレスト地域包括支援センター","tel":"0743-78-4888","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
+    {"id":2779,"prefecture":"奈良県","city":"生駒市","area":"","name":"メディカル北地域包括支援センター","tel":"0743-71-3500","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
+    {"id":2780,"prefecture":"奈良県","city":"生駒市","area":"","name":"阪奈中央地域包括支援センター","tel":"0743-73-9448","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
+    {"id":2781,"prefecture":"奈良県","city":"生駒市","area":"","name":"東生駒地域包括支援センター","tel":"0743-75-3367","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
+    {"id":2782,"prefecture":"奈良県","city":"生駒市","area":"","name":"社会福祉協議会地域包括支援センター","tel":"0743-73-7272","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
+    {"id":2783,"prefecture":"奈良県","city":"生駒市","area":"","name":"梅寿荘地域包括支援センター","tel":"0743-74-8134","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
+    {"id":2784,"prefecture":"奈良県","city":"生駒市","area":"","name":"メディカル南地域包括支援センター","tel":"0743-77-7766","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
+    {"id":2785,"prefecture":"奈良県","city":"大和郡山市","area":"","name":"大和郡山市地域包括支援センター","tel":"0743-55-7733","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
+    {"id":2786,"prefecture":"奈良県","city":"大和郡山市","area":"片桐地区","name":"第二地域包括支援センター","tel":"0743-55-7011","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
+    {"id":2787,"prefecture":"奈良県","city":"大和郡山市","area":"","name":"第三地域包括支援センター","tel":"0743-57-2233","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
+    {"id":2788,"prefecture":"奈良県","city":"大和郡山市","area":"平和地区","name":"第四地域包括支援センター","tel":"0743-51-0700","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
+    {"id":2789,"prefecture":"奈良県","city":"大和郡山市","area":"矢田地区","name":"第五地域包括支援センター","tel":"0743-52-3480","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"}
 ]
