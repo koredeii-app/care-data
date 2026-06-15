@@ -313,5 +313,41 @@
         "name":  "地域包括支援センターひらた",
         "tel":  "0234-52-3895",
         "url":  "https://www.city.sakata.lg.jp/kenko/kaigohoken/chiikihoukatsu/hokatsu-hirata.html"
+    },
+    {
+        "id": 2811,
+        "prefecture": "山形県",
+        "city": "米沢市",
+        "area": "北地区",
+        "name": "成島園地域包括支援センター",
+        "tel": "0238-37-6667",
+        "url": "https://www.city.yonezawa.yamagata.jp/soshiki/4/1018/1/5/512.html"
+    },
+    {
+        "id": 2812,
+        "prefecture": "山形県",
+        "city": "米沢市",
+        "area": "中地区",
+        "name": "サンファミリア米沢地域包括支援センター",
+        "tel": "0238-26-8170",
+        "url": "https://www.city.yonezawa.yamagata.jp/soshiki/4/1018/1/5/512.html"
+    },
+    {
+        "id": 2813,
+        "prefecture": "山形県",
+        "city": "米沢市",
+        "area": "東地区",
+        "name": "おいたまの郷地域包括支援センター",
+        "tel": "0238-36-0363",
+        "url": "https://www.city.yonezawa.yamagata.jp/soshiki/4/1018/1/5/512.html"
+    },
+    {
+        "id": 2814,
+        "prefecture": "山形県",
+        "city": "米沢市",
+        "area": "西地区・南地区",
+        "name": "米沢市社会福祉協議会地域包括支援センター",
+        "tel": "0238-24-4165",
+        "url": "https://www.city.yonezawa.yamagata.jp/soshiki/4/1018/1/5/512.html"
     }
 ]

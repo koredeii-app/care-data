@@ -254,5 +254,12 @@
         "name": "郡山東部・中田地域包括支援センター",
         "tel": "024-956-8200",
         "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
-    }
+    },
+    {"id":2790,"prefecture":"福島県","city":"会津若松市","area":"行仁・鶴城・東山小学校区域","name":"若松第1地域包括支援センター","tel":"0242-36-6770","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100435/"},
+    {"id":2791,"prefecture":"福島県","city":"会津若松市","area":"謹教・城西・小金井小学校区域","name":"若松第2地域包括支援センター","tel":"0242-27-0211","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100442/"},
+    {"id":2792,"prefecture":"福島県","city":"会津若松市","area":"門田・城南・大戸小学校区域","name":"若松第3地域包括支援センター","tel":"0242-38-3090","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100459/"},
+    {"id":2793,"prefecture":"福島県","city":"会津若松市","area":"永和・神指・城北・日新小学校区域","name":"若松第4地域包括支援センター","tel":"0242-37-7711","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100466/"},
+    {"id":2794,"prefecture":"福島県","city":"会津若松市","area":"一箕・松長小学校・湊学園区域","name":"若松第5地域包括支援センター","tel":"0242-23-9402","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100473/"},
+    {"id":2795,"prefecture":"福島県","city":"会津若松市","area":"荒舘・川南小学校区域","name":"北会津地域包括支援センター","tel":"0242-56-5005","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100480/"},
+    {"id":2796,"prefecture":"福島県","city":"会津若松市","area":"河東学園区域","name":"河東地域包括支援センター","tel":"0242-75-4815","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100497/"}
 ]

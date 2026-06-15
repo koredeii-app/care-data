@@ -97,5 +97,131 @@
         "name":  "玉山地域包括支援センター",
         "tel":  "019-682-0088",
         "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028244.html"
+    },
+    {
+        "id": 2797,
+        "prefecture": "岩手県",
+        "city": "一関市",
+        "area": "一関・真滝・舞川・弥栄地区",
+        "name": "さくらまち地域包括支援センター",
+        "tel": "0191-48-3180",
+        "url": "https://www.city.ichinoseki.iwate.jp/kouiki-gyousei/insurance/13/74/"
+    },
+    {
+        "id": 2798,
+        "prefecture": "岩手県",
+        "city": "一関市",
+        "area": "山目・中里・厳美・萩荘地区",
+        "name": "一関西部地域包括支援センター",
+        "tel": "0191-21-8618",
+        "url": "https://www.city.ichinoseki.iwate.jp/kouiki-gyousei/insurance/13/74/"
+    },
+    {
+        "id": 2799,
+        "prefecture": "岩手県",
+        "city": "一関市",
+        "area": "花泉地域",
+        "name": "はないずみ地域包括支援センター",
+        "tel": "0191-36-3021",
+        "url": "https://www.city.ichinoseki.iwate.jp/kouiki-gyousei/insurance/13/74/"
+    },
+    {
+        "id": 2800,
+        "prefecture": "岩手県",
+        "city": "一関市",
+        "area": "大東・東山地域",
+        "name": "しぶたみ地域包括支援センター",
+        "tel": "0191-71-0053",
+        "url": "https://www.city.ichinoseki.iwate.jp/kouiki-gyousei/insurance/13/74/"
+    },
+    {
+        "id": 2801,
+        "prefecture": "岩手県",
+        "city": "一関市",
+        "area": "千厩・室根・川崎地域",
+        "name": "一関東部地域包括支援センター",
+        "tel": "0191-51-3040",
+        "url": "https://www.city.ichinoseki.iwate.jp/kouiki-gyousei/insurance/13/74/"
+    },
+    {
+        "id": 2802,
+        "prefecture": "岩手県",
+        "city": "一関市",
+        "area": "藤沢地域",
+        "name": "ふじさわ地域包括支援センター",
+        "tel": "0191-63-3181",
+        "url": "https://www.city.ichinoseki.iwate.jp/kouiki-gyousei/insurance/13/74/"
+    },
+    {
+        "id": 2803,
+        "prefecture": "岩手県",
+        "city": "奥州市",
+        "area": "水沢・佐倉河地区",
+        "name": "地域包括支援センターみずさわ中央",
+        "tel": "0197-25-6185",
+        "url": "https://www.city.oshu.iwate.jp/soshiki/8/tiikikyousei/tiikikyouseik/15708.html"
+    },
+    {
+        "id": 2804,
+        "prefecture": "岩手県",
+        "city": "奥州市",
+        "area": "常盤・羽田地区",
+        "name": "地域包括支援センターみずさわ東",
+        "tel": "0197-34-0073",
+        "url": "https://www.city.oshu.iwate.jp/soshiki/8/tiikikyousei/tiikikyouseik/15708.html"
+    },
+    {
+        "id": 2805,
+        "prefecture": "岩手県",
+        "city": "奥州市",
+        "area": "南・真城・姉体・黒石地区",
+        "name": "地域包括支援センターみずさわ南",
+        "tel": "0197-47-3908",
+        "url": "https://www.city.oshu.iwate.jp/soshiki/8/tiikikyousei/tiikikyouseik/15708.html"
+    },
+    {
+        "id": 2806,
+        "prefecture": "岩手県",
+        "city": "奥州市",
+        "area": "岩谷堂・米里・玉里・梁川・広瀬地区",
+        "name": "地域包括支援センターえさし中央",
+        "tel": "0197-34-4826",
+        "url": "https://www.city.oshu.iwate.jp/soshiki/8/tiikikyousei/tiikikyouseik/15708.html"
+    },
+    {
+        "id": 2807,
+        "prefecture": "岩手県",
+        "city": "奥州市",
+        "area": "愛宕・田原・藤里・伊手・稲瀬地区",
+        "name": "地域包括支援センターえさし南",
+        "tel": "0197-31-2700",
+        "url": "https://www.city.oshu.iwate.jp/soshiki/8/tiikikyousei/tiikikyouseik/15708.html"
+    },
+    {
+        "id": 2808,
+        "prefecture": "岩手県",
+        "city": "奥州市",
+        "area": "前沢全域",
+        "name": "まえさわ地域包括支援センター",
+        "tel": "0197-34-0702",
+        "url": "https://www.city.oshu.iwate.jp/soshiki/8/tiikikyousei/tiikikyouseik/15708.html"
+    },
+    {
+        "id": 2809,
+        "prefecture": "岩手県",
+        "city": "奥州市",
+        "area": "胆沢全域",
+        "name": "胆沢地域包括支援センター",
+        "tel": "0197-47-5228",
+        "url": "https://www.city.oshu.iwate.jp/soshiki/8/tiikikyousei/tiikikyouseik/15708.html"
+    },
+    {
+        "id": 2810,
+        "prefecture": "岩手県",
+        "city": "奥州市",
+        "area": "衣川全域",
+        "name": "地域包括支援センターころもがわ",
+        "tel": "0197-52-3810",
+        "url": "https://www.city.oshu.iwate.jp/soshiki/8/tiikikyousei/tiikikyouseik/15708.html"
     }
 ]
