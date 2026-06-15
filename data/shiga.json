@@ -32,7 +32,7 @@
     {"id":2770,"prefecture":"滋賀県","city":"長浜市","area":"浅井・びわ・虎姫","name":"浅井びわ虎姫地域包括支援センター","tel":"0749-73-2653","url":"https://www.city.nagahama.lg.jp/0000005163.html"},
     {"id":2771,"prefecture":"滋賀県","city":"長浜市","area":"湖北・高月","name":"湖北高月地域包括支援センター","tel":"0749-85-5702","url":"https://www.city.nagahama.lg.jp/0000005165.html"},
     {"id":2772,"prefecture":"滋賀県","city":"長浜市","area":"木之本・余呉・西浅井","name":"木之本余呉西浅井地域包括支援センター","tel":"0749-82-3570","url":"https://www.city.nagahama.lg.jp/0000005166.html"},
-    {"id":2773,"prefecture":"滋賀県","city":"東近江市","area":"永源寺・愛東・湖東","name":"東近江市地域包括支援センター","tel":"0748-24-5641（IP：050-5801-5641）","url":"https://www.city.higashiomi.shiga.jp/kennkou_iryou_fukushi/kaigo/1003029/1003033.html"},
+    {"id":2773,"prefecture":"滋賀県","city":"東近江市","area":"永源寺・愛東・湖東","name":"東近江市地域包括支援センター","tel":"0748-24-5641","tel_ip":"050-5801-5641","url":"https://www.city.higashiomi.shiga.jp/kennkou_iryou_fukushi/kaigo/1003029/1003033.html"},
     {"id":2774,"prefecture":"滋賀県","city":"東近江市","area":"平田・市辺・玉緒・御園・建部・中野・八日市南部","name":"八日市地域包括支援センター","tel":"050-5801-1278","url":"http://www.higashiomi-shakyo.or.jp/"},
     {"id":2775,"prefecture":"滋賀県","city":"東近江市","area":"能登川","name":"能登川地域包括支援センター","tel":"0748-29-3198","url":"https://shiga-shinjyukai.or.jp/houkatsushien/"},
     {"id":2776,"prefecture":"滋賀県","city":"東近江市","area":"五個荘","name":"五個荘地域包括支援センター","tel":"0748-48-5540","url":"https://www.rokushinkai.com/houkatsushien/"},

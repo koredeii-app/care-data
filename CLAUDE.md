@@ -3,7 +3,7 @@
 ## データ構造
 - `data/` 以下に都道府県別JSONファイル
 - `data/citylinks.json`: 市区町村名 → 公式センター一覧ページURL
-- JSONフィールド: `{id, prefecture, city, area, name, tel, url}`
+- JSONフィールド: `{id, prefecture, city, area, name, tel, url}`（IP電話がある場合は `tel_ip` を追加）
 - ID は全ファイル横断でユニーク
 
 ## URLルール
