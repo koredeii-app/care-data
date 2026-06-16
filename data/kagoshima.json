@@ -183,36 +183,90 @@
         "id":  2897,
         "prefecture":  "鹿児島県",
         "city":  "霧島市",
-        "area":  "",
+        "area":  "国分中央地区",
         "name":  "霧島市地域包括支援センター",
         "tel":  "0995-48-7979",
-        "url":  "https://www.city-kirishima.jp/kou-shou/kosodate/koresha/sodan/shiencenter.html"
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
     },
     {
         "id":  2898,
         "prefecture":  "鹿児島県",
         "city":  "霧島市",
-        "area":  "",
-        "name":  "霧島市地域包括支援センター 国分南支所",
-        "tel":  "0995-46-6500",
-        "url":  "https://www.city-kirishima.jp/kou-shou/kosodate/koresha/sodan/shiencenter.html"
+        "area":  "国分北部地区",
+        "name":  "霧島市地域包括支援センター 国分北支所",
+        "tel":  "0995-70-7120",
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
     },
     {
         "id":  2899,
         "prefecture":  "鹿児島県",
         "city":  "霧島市",
-        "area":  "",
-        "name":  "霧島市地域包括支援センター 横川支所",
-        "tel":  "0995-72-9718",
-        "url":  "https://www.city-kirishima.jp/kou-shou/kosodate/koresha/sodan/shiencenter.html"
+        "area":  "国分南部地区",
+        "name":  "霧島市地域包括支援センター 国分南支所",
+        "tel":  "0995-46-3717",
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
     },
     {
         "id":  2900,
         "prefecture":  "鹿児島県",
         "city":  "霧島市",
-        "area":  "",
+        "area":  "溝辺地区",
+        "name":  "霧島市地域包括支援センター 溝辺支所",
+        "tel":  "0995-58-2365",
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
+    },
+    {
+        "id":  2908,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "横川地区",
+        "name":  "霧島市地域包括支援センター 横川支所",
+        "tel":  "0995-72-9718",
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
+    },
+    {
+        "id":  2909,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "牧園地区",
+        "name":  "霧島市地域包括支援センター 牧園支所",
+        "tel":  "0995-78-3387",
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
+    },
+    {
+        "id":  2910,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "霧島地区",
+        "name":  "霧島市地域包括支援センター 霧島支所",
+        "tel":  "0995-57-0100",
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
+    },
+    {
+        "id":  2911,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "隼人北部地区",
         "name":  "霧島市地域包括支援センター 隼人北支所",
         "tel":  "0995-55-1255",
-        "url":  "https://www.city-kirishima.jp/kou-shou/kosodate/koresha/sodan/shiencenter.html"
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
+    },
+    {
+        "id":  2912,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "隼人南部地区",
+        "name":  "霧島市地域包括支援センター 隼人南支所",
+        "tel":  "0995-43-2363",
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
+    },
+    {
+        "id":  2913,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "福山地区",
+        "name":  "霧島市地域包括支援センター 福山支所",
+        "tel":  "0995-64-7165",
+        "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
     }
 ]
