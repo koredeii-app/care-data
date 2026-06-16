@@ -58,5 +58,14 @@
     {"id":2601,"prefecture":"群馬県","city":"伊勢崎市","area":"豊受地区","name":"高齢者相談センター 豊受","tel":"0270-27-7703","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
     {"id":2602,"prefecture":"群馬県","city":"伊勢崎市","area":"赤堀地区","name":"高齢者相談センター 赤堀","tel":"0270-63-1500","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
     {"id":2603,"prefecture":"群馬県","city":"伊勢崎市","area":"東地区","name":"高齢者相談センター 東","tel":"0270-75-5966","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
-    {"id":2604,"prefecture":"群馬県","city":"伊勢崎市","area":"境地区","name":"高齢者相談センター 境","tel":"0270-74-8039","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"}
+    {"id":2604,"prefecture":"群馬県","city":"伊勢崎市","area":"境地区","name":"高齢者相談センター 境","tel":"0270-74-8039","url":"https://www.city.isesaki.lg.jp/soshiki/tyozyu/hokatsu/2088.html"},
+    {"id":2914,"prefecture":"群馬県","city":"桐生市","area":"1区・2区・9区・10区・14区","name":"桐生市地域包括支援センター山育会","tel":"0277-46-6066","url":"https://www.city.kiryu.lg.jp/koureisha/fukushi/1001787.html"},
+    {"id":2915,"prefecture":"群馬県","city":"桐生市","area":"3区・4区・5区・8区","name":"桐生市包括支援センター社協","tel":"0277-46-4411","url":"https://www.city.kiryu.lg.jp/koureisha/fukushi/1001787.html"},
+    {"id":2916,"prefecture":"群馬県","city":"桐生市","area":"6区・7区・17区","name":"桐生市包括支援センター菱風園","tel":"0277-32-3321","url":"https://www.city.kiryu.lg.jp/koureisha/fukushi/1001787.html"},
+    {"id":2917,"prefecture":"群馬県","city":"桐生市","area":"11区・13区","name":"桐生市包括支援センターユートピア広沢","tel":"0277-53-1114","url":"https://www.city.kiryu.lg.jp/koureisha/fukushi/1001787.html"},
+    {"id":2918,"prefecture":"群馬県","city":"桐生市","area":"16区","name":"桐生市包括支援センター思いやり","tel":"0277-32-5889","url":"https://www.city.kiryu.lg.jp/koureisha/fukushi/1001787.html"},
+    {"id":2919,"prefecture":"群馬県","city":"桐生市","area":"22区","name":"桐生市包括支援センター思いやり黒保根","tel":"0277-46-8847","url":"https://www.city.kiryu.lg.jp/koureisha/fukushi/1001787.html"},
+    {"id":2920,"prefecture":"群馬県","city":"桐生市","area":"19区・20区・21区","name":"桐生市包括支援センターにいさと","tel":"0277-74-3032","url":"https://www.city.kiryu.lg.jp/koureisha/fukushi/1001787.html"},
+    {"id":2921,"prefecture":"群馬県","city":"桐生市","area":"15区","name":"桐生市包括支援センターのぞみの苑","tel":"0277-54-9537","url":"https://www.city.kiryu.lg.jp/koureisha/fukushi/1001787.html"},
+    {"id":2922,"prefecture":"群馬県","city":"桐生市","area":"12区・18区","name":"桐生市包括支援センター双葉苑","tel":"0277-54-8906","url":"https://www.city.kiryu.lg.jp/koureisha/fukushi/1001787.html"}
 ]

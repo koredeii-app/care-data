@@ -31,5 +31,11 @@
     {"id":2689,"prefecture":"三重県","city":"桑名市","area":"日進・益世・城南","name":"南部地域包括支援センター","tel":"0594-25-1011","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/003.html"},
     {"id":2690,"prefecture":"三重県","city":"桑名市","area":"筒尾・大山田・野田・松ノ木・藤が丘・新西方・星見ヶ丘・陽だまりの丘・多度","name":"北部西地域包括支援センター（多度）","tel":"0594-49-2031","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/004.html"},
     {"id":2691,"prefecture":"三重県","city":"桑名市","area":"筒尾・大山田・野田・松ノ木・藤が丘・新西方・星見ヶ丘・陽だまりの丘・多度","name":"北部西地域包括支援センター（大山田）","tel":"0594-41-2114","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/006.html"},
-    {"id":2692,"prefecture":"三重県","city":"桑名市","area":"深谷・大和・長島","name":"北部東地域包括支援センター","tel":"0594-42-2119","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/005.html"}
+    {"id":2692,"prefecture":"三重県","city":"桑名市","area":"深谷・大和・長島","name":"北部東地域包括支援センター","tel":"0594-42-2119","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/005.html"},
+    {"id":2923,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター東","tel":"0596-44-1165","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2924,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター五十鈴","tel":"0596-20-5500","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2925,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター北","tel":"0596-65-5070","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2926,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター中部","tel":"0596-27-2424","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2927,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター南","tel":"0596-21-0080","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2928,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター西","tel":"0596-20-5055","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"}
 ]

@@ -30,5 +30,8 @@
     {"id":2607,"prefecture":"茨城県","city":"ひたちなか市","area":"勝田第二中・田彦中学校区","name":"西部地域包括支援センター","tel":"029-276-0655","url":"https://www.city.hitachinaka.lg.jp/shisetsu/1007266/1007268/1005966.html"},
     {"id":2608,"prefecture":"茨城県","city":"ひたちなか市","area":"勝田第三中・佐野中学校区","name":"北部地域包括支援センター","tel":"029-229-2255","url":"https://www.city.hitachinaka.lg.jp/shisetsu/1007266/1007268/1005967.html"},
     {"id":2609,"prefecture":"茨城県","city":"ひたちなか市","area":"那珂湊中学校区","name":"那珂湊中学校区地域包括支援センター","tel":"029-264-1501","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"},
-    {"id":2610,"prefecture":"茨城県","city":"ひたちなか市","area":"美乃浜学園区","name":"美乃浜学園区地域包括支援センター","tel":"029-219-7020","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"}
+    {"id":2610,"prefecture":"茨城県","city":"ひたちなか市","area":"美乃浜学園区","name":"美乃浜学園区地域包括支援センター","tel":"029-219-7020","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"},
+    {"id":2930,"prefecture":"茨城県","city":"古河市","area":"古河地区","name":"古河市地域包括支援センター古河","tel":"0280-23-6517","url":"https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"},
+    {"id":2931,"prefecture":"茨城県","city":"古河市","area":"総和地区","name":"古河市地域包括支援センター総和","tel":"0280-23-5661","url":"https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"},
+    {"id":2932,"prefecture":"茨城県","city":"古河市","area":"三和地区","name":"古河市地域包括支援センター三和","tel":"0280-77-3740","url":"https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"}
 ]

@@ -160,5 +160,32 @@
         "name":  "下新城地域包括支援センターニコニコ",
         "tel":  "018-800-7075",
         "url":  "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id":  2940,
+        "prefecture":  "秋田県",
+        "city":  "横手市",
+        "area":  "横手・山内地区",
+        "name":  "横手市地域包括支援センター東部",
+        "tel":  "0182-35-2160",
+        "url":  "https://www.city.yokote.lg.jp/fukushi/1001153/1005402/index.html"
+    },
+    {
+        "id":  2941,
+        "prefecture":  "秋田県",
+        "city":  "横手市",
+        "area":  "大森・雄物川・大雄地区",
+        "name":  "横手市地域包括支援センター西部",
+        "tel":  "0182-35-2135",
+        "url":  "https://www.city.yokote.lg.jp/fukushi/1001153/1005402/index.html"
+    },
+    {
+        "id":  2942,
+        "prefecture":  "秋田県",
+        "city":  "横手市",
+        "area":  "十文字・増田・平鹿地区",
+        "name":  "横手市地域包括支援センター南部",
+        "tel":  "0182-35-2177",
+        "url":  "https://www.city.yokote.lg.jp/fukushi/1001153/1005402/index.html"
     }
 ]

@@ -652,5 +652,50 @@
         "name":  "地域包括支援センターおおの",
         "tel":  "0829-50-0251",
         "url":  "https://www.city.hatsukaichi.hiroshima.jp/soshiki/138/126351.html"
+    },
+    {
+        "id":  2955,
+        "prefecture":  "広島県",
+        "city":  "三原市",
+        "area":  "東町・館町・本町・港町・西町・宮沖・円一町・中之町・駒ケ原町・深町",
+        "name":  "三原市地域包括支援センターどりいむ",
+        "tel":  "0848-61-4410",
+        "url":  "https://www.city.mihara.hiroshima.jp/soshiki/15/sien.html"
+    },
+    {
+        "id":  2956,
+        "prefecture":  "広島県",
+        "city":  "三原市",
+        "area":  "旭町・古浜・城町・糸崎・木原・鉢ケ峰町・奥野山町・須波・幸崎地域・鷺浦町",
+        "name":  "三原市地域包括支援センター三恵苑",
+        "tel":  "0848-63-6775",
+        "url":  "https://www.city.mihara.hiroshima.jp/soshiki/15/sien.html"
+    },
+    {
+        "id":  2957,
+        "prefecture":  "広島県",
+        "city":  "三原市",
+        "area":  "宮浦・皆実・西宮・西野・頼兼・明神・田野浦地域・青葉台・沖浦町・宗郷・和田・貝野町",
+        "name":  "三原市地域包括支援センター三原市医師会",
+        "tel":  "0848-63-7100",
+        "url":  "https://www.city.mihara.hiroshima.jp/soshiki/15/sien.html"
+    },
+    {
+        "id":  2958,
+        "prefecture":  "広島県",
+        "city":  "三原市",
+        "area":  "小坂町・長谷・沼田地域・新倉・小泉町・高坂町・本郷地域・下北方・南方",
+        "name":  "三原市地域包括支援センター大空",
+        "tel":  "0848-86-2450",
+        "url":  "https://www.city.mihara.hiroshima.jp/soshiki/15/sien.html"
+    },
+    {
+        "id":  2959,
+        "prefecture":  "広島県",
+        "city":  "三原市",
+        "area":  "八幡町・久井町・大和町",
+        "name":  "三原市地域包括支援センターはーもにー",
+        "tel":  "0847-32-5007",
+        "url":  "https://www.city.mihara.hiroshima.jp/soshiki/15/sien.html"
     }
 ]

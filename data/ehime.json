@@ -141,5 +141,11 @@
     {"id":2131,"prefecture":"愛媛県","city":"今治市","area":"北郷・大西・菊間","name":"今治市地域包括支援センター北郷・大西・菊間","tel":"0898-53-5540","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
     {"id":2132,"prefecture":"愛媛県","city":"今治市","area":"吉海・宮窪・伯方・上浦・大三島・関前","name":"今治市伯方地域包括支援センター","tel":"0897-72-1065","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
     {"id":2133,"prefecture":"愛媛県","city":"今治市","area":"吉海・宮窪","name":"今治市伯方地域包括支援センターサブセンター大島","tel":"0897-84-4110","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
-    {"id":2134,"prefecture":"愛媛県","city":"今治市","area":"上浦・大三島","name":"今治市伯方地域包括支援センターサブセンター大三島","tel":"0897-83-1110","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"}
+    {"id":2134,"prefecture":"愛媛県","city":"今治市","area":"上浦・大三島","name":"今治市伯方地域包括支援センターサブセンター大三島","tel":"0897-83-1110","url":"https://www.city.imabari.ehime.jp/kaigo/center/ichiran.html"},
+    {"id":2929,"prefecture":"愛媛県","city":"新居浜市","area":"","name":"新居浜市地域包括支援センター","tel":"0897-65-1245","url":"https://www.city.niihama.lg.jp/soshiki/houkatu-sien/houkatsu.html"},
+    {"id":2943,"prefecture":"愛媛県","city":"西条市","area":"玉津・西条・神拝地区","name":"西条市地域包括支援センター西条北部","tel":"0897-55-5359","url":"https://www.city.saijo.ehime.jp/soshiki/hokatsushien/benri8-15.html"},
+    {"id":2944,"prefecture":"愛媛県","city":"西条市","area":"飯岡・大町・神戸・加茂地区","name":"西条市地域包括支援センター西条南部","tel":"0897-55-0630","url":"https://www.city.saijo.ehime.jp/soshiki/hokatsushien/benri8-15.html"},
+    {"id":2945,"prefecture":"愛媛県","city":"西条市","area":"氷見・橘・禎瑞・大保木・小松地区全域","name":"西条市地域包括支援センター西条西部・小松","tel":"0898-52-8221","url":"https://www.city.saijo.ehime.jp/soshiki/hokatsushien/benri8-15.html"},
+    {"id":2946,"prefecture":"愛媛県","city":"西条市","area":"東予地区全域","name":"西条市地域包括支援センター東予","tel":"0898-66-5520","url":"https://www.city.saijo.ehime.jp/soshiki/hokatsushien/benri8-15.html"},
+    {"id":2947,"prefecture":"愛媛県","city":"西条市","area":"丹原地区全域","name":"西条市地域包括支援センター丹原","tel":"0898-35-3427","url":"https://www.city.saijo.ehime.jp/soshiki/hokatsushien/benri8-15.html"}
 ]

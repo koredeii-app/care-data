@@ -241,5 +241,68 @@
         "name":  "熊本市高齢者支援センターささえりあ武蔵塚",
         "tel":  "096-339-8130",
         "url":  "https://www.city.kumamoto.jp/kiji0031758/index.html"
+    },
+    {
+        "id":  2948,
+        "prefecture":  "熊本県",
+        "city":  "天草市",
+        "area":  "本渡南・本渡北・本町地区",
+        "name":  "天草市地域包括支援センターなでしこ",
+        "tel":  "0969-66-9300",
+        "url":  "https://www.city.amakusa.kumamoto.jp/kiji003991/index.html"
+    },
+    {
+        "id":  2949,
+        "prefecture":  "熊本県",
+        "city":  "天草市",
+        "area":  "佐伊津・旭・五和地区",
+        "name":  "天草市地域包括支援センターきずな",
+        "tel":  "0969-32-2115",
+        "url":  "https://www.city.amakusa.kumamoto.jp/kiji003991/index.html"
+    },
+    {
+        "id":  2950,
+        "prefecture":  "熊本県",
+        "city":  "天草市",
+        "area":  "亀場・楠浦・波多島地区",
+        "name":  "天草市地域包括支援センターうぐいす",
+        "tel":  "0969-24-4115",
+        "url":  "https://www.city.amakusa.kumamoto.jp/kiji003991/index.html"
+    },
+    {
+        "id":  2951,
+        "prefecture":  "熊本県",
+        "city":  "天草市",
+        "area":  "天草・河浦地区",
+        "name":  "天草市地域包括支援センターさざんか",
+        "tel":  "0969-76-1611",
+        "url":  "https://www.city.amakusa.kumamoto.jp/kiji003991/index.html"
+    },
+    {
+        "id":  2952,
+        "prefecture":  "熊本県",
+        "city":  "天草市",
+        "area":  "牛深地区",
+        "name":  "天草市地域包括支援センターすいせん",
+        "tel":  "0969-72-1133",
+        "url":  "https://www.city.amakusa.kumamoto.jp/kiji003991/index.html"
+    },
+    {
+        "id":  2953,
+        "prefecture":  "熊本県",
+        "city":  "天草市",
+        "area":  "志柿・瀬戸・下浦地区",
+        "name":  "天草市地域包括支援センターあじさい",
+        "tel":  "0969-66-2266",
+        "url":  "https://www.city.amakusa.kumamoto.jp/kiji003991/index.html"
+    },
+    {
+        "id":  2954,
+        "prefecture":  "熊本県",
+        "city":  "天草市",
+        "area":  "御所浦地区",
+        "name":  "天草市地域包括支援センター御所浦",
+        "tel":  "0969-67-1777",
+        "url":  "https://www.city.amakusa.kumamoto.jp/kiji003991/index.html"
     }
 ]
