@@ -178,5 +178,32 @@
         "name":  "田辺市本宮地域型地域包括支援センター",
         "tel":  "0735-42-0082",
         "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+    },
+    {
+        "id":  2987,
+        "prefecture":  "和歌山県",
+        "city":  "白浜町",
+        "area":  "",
+        "name":  "白浜町地域包括支援センター",
+        "tel":  "0739-43-6596",
+        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+    },
+    {
+        "id":  2988,
+        "prefecture":  "和歌山県",
+        "city":  "上富田町",
+        "area":  "",
+        "name":  "上富田町地域包括支援センター",
+        "tel":  "0739-47-0550",
+        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+    },
+    {
+        "id":  2989,
+        "prefecture":  "和歌山県",
+        "city":  "すさみ町",
+        "area":  "",
+        "name":  "すさみ町地域包括支援センター",
+        "tel":  "0739-55-4670",
+        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
     }
 ]
