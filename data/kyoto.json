@@ -67,5 +67,12 @@
     {"id":2183,"prefecture":"京都府","city":"宇治市","area":"槇島・北槇島","name":"槇島地域包括支援センター","tel":"0774-21-6605","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
     {"id":2184,"prefecture":"京都府","city":"宇治市","area":"小倉・神明","name":"北宇治地域包括支援センター","tel":"0774-21-8123","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
     {"id":2185,"prefecture":"京都府","city":"宇治市","area":"北小倉・西小倉・南小倉・伊勢田","name":"西宇治地域包括支援センター","tel":"0774-28-6180","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
-    {"id":2186,"prefecture":"京都府","city":"宇治市","area":"大久保・西大久保・平盛","name":"南宇治地域包括支援センター","tel":"0774-45-1544","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"}
+    {"id":2186,"prefecture":"京都府","city":"宇治市","area":"大久保・西大久保・平盛","name":"南宇治地域包括支援センター","tel":"0774-45-1544","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
+    {"id":2187,"prefecture":"京都府","city":"舞鶴市","area":"大浦・朝来・志楽","name":"大浦・朝来・志楽地域包括支援センター","tel":"0773-64-0086","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
+    {"id":2188,"prefecture":"京都府","city":"舞鶴市","area":"新舞鶴・三笠","name":"新舞鶴・三笠地域包括支援センター","tel":"0773-77-5001","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
+    {"id":2189,"prefecture":"京都府","city":"舞鶴市","area":"倉梯・倉二・与保呂","name":"倉梯・倉二・与保呂地域包括支援センター","tel":"0773-77-5002","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
+    {"id":2190,"prefecture":"京都府","city":"舞鶴市","area":"中舞鶴","name":"中舞鶴地域包括支援センター","tel":"0773-77-5003","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
+    {"id":2191,"prefecture":"京都府","city":"舞鶴市","area":"福井・吉原・明倫・余内","name":"城北地域包括支援センター","tel":"0773-77-5004","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
+    {"id":2192,"prefecture":"京都府","city":"舞鶴市","area":"中筋・高野・池内","name":"城南地域包括支援センター","tel":"0773-77-5005","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
+    {"id":2193,"prefecture":"京都府","city":"舞鶴市","area":"由良川・岡田","name":"加佐地域包括支援センター","tel":"0773-82-9303","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"}
 ]
