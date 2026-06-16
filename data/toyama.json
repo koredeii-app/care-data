@@ -387,7 +387,7 @@
         "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
     },
     {
-        "id":  2146,
+        "id":  2999,
         "prefecture":  "富山県",
         "city":  "射水市",
         "area":  "庄西町・港町・庄川本町・本町一〜三丁目・放生津町・中央町・桜町・西新湊・三日曽根・善光寺・緑町・塚原地区・作道地区",
@@ -396,7 +396,7 @@
         "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
     },
     {
-        "id":  2147,
+        "id":  3000,
         "prefecture":  "富山県",
         "city":  "射水市",
         "area":  "立町・八幡町一〜三丁目・中新湊・二の丸町・越の潟町・海王町・片口地区・堀岡地区・海老江地区・本江地区・七美地区",
@@ -405,7 +405,7 @@
         "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
     },
     {
-        "id":  2148,
+        "id":  3001,
         "prefecture":  "富山県",
         "city":  "射水市",
         "area":  "三ケ地区・戸破地区・大江地区・下地区",
@@ -414,7 +414,7 @@
         "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
     },
     {
-        "id":  2149,
+        "id":  3002,
         "prefecture":  "富山県",
         "city":  "射水市",
         "area":  "橋下条地区・金山地区・黒河地区・池多地区・太閤山地区・中太閤山地区・南太閤山地区",
@@ -423,7 +423,7 @@
         "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
     },
     {
-        "id":  2150,
+        "id":  3003,
         "prefecture":  "富山県",
         "city":  "射水市",
         "area":  "浅井地区・櫛田地区・水戸田地区・二口地区・大門地区",
@@ -432,7 +432,7 @@
         "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
     },
     {
-        "id":  2151,
+        "id":  3004,
         "prefecture":  "富山県",
         "city":  "射水市",
         "area":  "大島地区",
