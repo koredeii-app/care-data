@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":  1532,
         "prefecture":  "大分県",
@@ -268,5 +268,50 @@
         "name":  "浜脇地域包括支援センター",
         "tel":  "0977-25-6811",
         "url":  "https://www.city.beppu.oita.jp/seikatu/fukusi/koureisyafukusi/detail1.html"
+    },
+    {
+        "id":  2716,
+        "prefecture":  "大分県",
+        "city":  "中津市",
+        "area":  "今津・大幡・如水",
+        "name":  "中津市地域包括支援センターいずみの園",
+        "tel":  "0979-62-9000",
+        "url":  "https://www.city-nakatsu.jp/doc/2016060200043/"
+    },
+    {
+        "id":  2717,
+        "prefecture":  "大分県",
+        "city":  "中津市",
+        "area":  "小楠・鶴居・三保・和田",
+        "name":  "中津市地域包括支援センター三光園",
+        "tel":  "0979-53-9820",
+        "url":  "https://www.sankouen-rk.com/"
+    },
+    {
+        "id":  2718,
+        "prefecture":  "大分県",
+        "city":  "中津市",
+        "area":  "豊田・沖代",
+        "name":  "中津市地域包括支援センター創生園",
+        "tel":  "0979-24-6015",
+        "url":  "https://www.city-nakatsu.jp/doc/2016060200043/"
+    },
+    {
+        "id":  2719,
+        "prefecture":  "大分県",
+        "city":  "中津市",
+        "area":  "北部・南部",
+        "name":  "中津市高齢者相談支援センター村上",
+        "tel":  "0979-23-0833",
+        "url":  "https://kyorinkai.net/nursing_care/ncare_senior"
+    },
+    {
+        "id":  2720,
+        "prefecture":  "大分県",
+        "city":  "中津市",
+        "area":  "三光・本耶馬渓・耶馬溪・山国",
+        "name":  "中津市地域包括支援センター社協",
+        "tel":  "0979-26-4040",
+        "url":  "https://nakatsu-s.or.jp/activity/orange-cafe/"
     }
 ]

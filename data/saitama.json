@@ -774,151 +774,527 @@
         "url":  "https://www.city.toda.saitama.jp/soshiki/234/chojukaigo-chiikihokatucenter.html"
     },
     {
-        "id": 1897,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "北部地域",
-        "name": "川越市地域包括支援センター きた",
-        "tel": "049-299-6760",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1897,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "北部地域",
+        "name":  "川越市地域包括支援センター きた",
+        "tel":  "049-299-6760",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1898,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "中央東部地域",
-        "name": "川越市地域包括支援センター 中央ひがし",
-        "tel": "049-227-7878",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1898,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "中央東部地域",
+        "name":  "川越市地域包括支援センター 中央ひがし",
+        "tel":  "049-227-7878",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1899,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "中央西部地域",
-        "name": "川越市地域包括支援センター 中央にし",
-        "tel": "049-229-5332",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1899,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "中央西部地域",
+        "name":  "川越市地域包括支援センター 中央にし",
+        "tel":  "049-229-5332",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1900,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "東部地域",
-        "name": "川越市地域包括支援センター ひがし",
-        "tel": "049-235-7731",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1900,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "東部地域",
+        "name":  "川越市地域包括支援センター ひがし",
+        "tel":  "049-235-7731",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1901,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "東部地域（鴨田地区）",
-        "name": "川越市地域包括支援センター ひがし分室",
-        "tel": "049-298-7807",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1901,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "東部地域（鴨田地区）",
+        "name":  "川越市地域包括支援センター ひがし分室",
+        "tel":  "049-298-7807",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1902,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "高階地域",
-        "name": "川越市地域包括支援センター たかしな",
-        "tel": "049-291-6003",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1902,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "高階地域",
+        "name":  "川越市地域包括支援センター たかしな",
+        "tel":  "049-291-6003",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1903,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "南部地域",
-        "name": "川越市地域包括支援センター みなみ",
-        "tel": "049-241-3676",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1903,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "南部地域",
+        "name":  "川越市地域包括支援センター みなみ",
+        "tel":  "049-241-3676",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1904,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "大東地域",
-        "name": "川越市地域包括支援センター だいとう",
-        "tel": "049-249-7766",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1904,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "大東地域",
+        "name":  "川越市地域包括支援センター だいとう",
+        "tel":  "049-249-7766",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1905,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "かすみ野地域",
-        "name": "川越市地域包括支援センター かすみ",
-        "tel": "049-234-8181",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1905,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "かすみ野地域",
+        "name":  "川越市地域包括支援センター かすみ",
+        "tel":  "049-234-8181",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1906,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "西部地域",
-        "name": "川越市地域包括支援センター にし",
-        "tel": "049-239-0003",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1906,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "西部地域",
+        "name":  "川越市地域包括支援センター にし",
+        "tel":  "049-239-0003",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
     {
-        "id": 1907,
-        "prefecture": "埼玉県",
-        "city": "川越市",
-        "area": "西部地域（霞ケ関地区）",
-        "name": "川越市地域包括支援センター にし分室",
-        "tel": "049-299-6161",
-        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+        "id":  1907,
+        "prefecture":  "埼玉県",
+        "city":  "川越市",
+        "area":  "西部地域（霞ケ関地区）",
+        "name":  "川越市地域包括支援センター にし分室",
+        "tel":  "049-299-6161",
+        "url":  "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     },
-    {"id":2374,"prefecture":"埼玉県","city":"熊谷市","area":"妻沼地域","name":"大里広域地域包括支援センターいこいの里","tel":"048-589-0001","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
-    {"id":2375,"prefecture":"埼玉県","city":"熊谷市","area":"大幡・奈良・別府","name":"大里広域地域包括支援センター永寿苑","tel":"048-533-2022","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
-    {"id":2376,"prefecture":"埼玉県","city":"熊谷市","area":"玉井・三尻・籠原南","name":"大里広域地域包括支援センターはなぶさ苑","tel":"048-533-8833","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
-    {"id":2377,"prefecture":"埼玉県","city":"熊谷市","area":"箱田・肥塚・成田・中条・星宮・中央","name":"大里広域地域包括支援センター玉の緒","tel":"048-525-5621","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
-    {"id":2378,"prefecture":"埼玉県","city":"熊谷市","area":"上石・荒川西・荒川東・大麻生","name":"大里広域地域包括支援センターはなぶさ苑荒川","tel":"048-522-1577","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
-    {"id":2379,"prefecture":"埼玉県","city":"熊谷市","area":"本町・星川・宮町・末広・筑波・銀座・本石・石原・大原・桜町・平戸","name":"大里広域地域包括支援センターぬくもり","tel":"048-529-2511","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
-    {"id":2380,"prefecture":"埼玉県","city":"熊谷市","area":"末広・上之・中西・佐谷田・久下","name":"大里広域地域包括支援センタークイーンズビラ","tel":"048-507-1515","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
-    {"id":2381,"prefecture":"埼玉県","city":"熊谷市","area":"吉岡・大里地区・江南地区","name":"大里広域地域包括支援センター立正たちばな","tel":"048-537-1155","url":"https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"},
-    {"id":2393,"prefecture":"埼玉県","city":"春日部市","area":"粕壁・中央・浜川戸","name":"春日部市第1地域包括支援センター","tel":"048-754-3775","url":"https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9817.html"},
-    {"id":2394,"prefecture":"埼玉県","city":"春日部市","area":"内牧・梅田・八丁目","name":"春日部市第2地域包括支援センター","tel":"048-753-2020","url":"https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9818.html"},
-    {"id":2395,"prefecture":"埼玉県","city":"春日部市","area":"花積・南中曽根・増富","name":"春日部市第3地域包括支援センター","tel":"048-753-1136","url":"https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9819.html"},
-    {"id":2396,"prefecture":"埼玉県","city":"春日部市","area":"上大増新田・備後西・谷原","name":"春日部市第4地域包括支援センター","tel":"048-738-5764","url":"https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9820.html"},
-    {"id":2397,"prefecture":"埼玉県","city":"春日部市","area":"一ノ割・緑町・南四～五丁目","name":"春日部市第5地域包括支援センター","tel":"048-734-7631","url":"https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9821.html"},
-    {"id":2398,"prefecture":"埼玉県","city":"春日部市","area":"大枝・千間一丁目・備後東五～八丁目","name":"春日部市第6地域包括支援センター","tel":"048-738-0021","url":"https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9822.html"},
-    {"id":2399,"prefecture":"埼玉県","city":"春日部市","area":"赤崎・牛島・藤塚","name":"春日部市第7地域包括支援センター","tel":"048-733-7771","url":"https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9823.html"},
-    {"id":2400,"prefecture":"埼玉県","city":"春日部市","area":"飯沼・米崎・立野","name":"春日部市第8地域包括支援センター","tel":"048-746-5190","url":"https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9824.html"},
-    {"id":2401,"prefecture":"埼玉県","city":"上尾市","area":"緑丘・上町・本町・原新町・上尾宿・上尾村・二ッ宮・平塚","name":"上尾市上尾東地域包括支援センター","tel":"048-778-4800","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2402,"prefecture":"埼玉県","city":"上尾市","area":"春日・柏座・谷津・富士見","name":"上尾市上尾西地域包括支援センター","tel":"048-778-2711","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2403,"prefecture":"埼玉県","city":"上尾市","area":"宮本町・仲町・愛宕・栄町・日の出・東町・上尾下","name":"上尾市上尾南地域包括支援センター","tel":"048-777-3301","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2404,"prefecture":"埼玉県","city":"上尾市","area":"平方・上野・平方領々家・上野本郷・西貝塚・西上尾第二団地","name":"上尾市平方地域包括支援センター","tel":"048-726-6504","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2405,"prefecture":"埼玉県","city":"上尾市","area":"原市（七区・八区）・瓦葺・尾山台団地","name":"上尾市原市南地域包括支援センター","tel":"048-720-2502","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2406,"prefecture":"埼玉県","city":"上尾市","area":"原市（七区・八区除く）・五番町・原市中・原市北・原市団地","name":"上尾市原市北地域包括支援センター","tel":"048-720-0022","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2407,"prefecture":"埼玉県","city":"上尾市","area":"中妻・浅間台・弁財・井戸木・泉台・小泉・今泉（一部）","name":"上尾市大石東地域包括支援センター","tel":"048-777-4201","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2408,"prefecture":"埼玉県","city":"上尾市","area":"中分・藤波・小敷谷・畔吉・領家・今泉（一部）・西上尾第一団地","name":"上尾市大石西地域包括支援センター","tel":"048-789-5077","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2409,"prefecture":"埼玉県","city":"上尾市","area":"上・久保・西門前・南・菅谷・須ケ谷・錦町・上平中央","name":"上尾市上平地域包括支援センター","tel":"048-778-5132","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2410,"prefecture":"埼玉県","city":"上尾市","area":"地頭方・今泉・東今泉・向山・大谷本郷・堤崎・中新井・戸崎・川・西宮下","name":"上尾市大谷地域包括支援センター","tel":"048-780-6363","url":"https://www.city.ageo.lg.jp/page/029112032901.html"},
-    {"id":2436,"prefecture":"埼玉県","city":"久喜市","area":"久喜西地区","name":"久喜中央地域包括支援センター","tel":"0480-22-1111","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"},
-    {"id":2437,"prefecture":"埼玉県","city":"久喜市","area":"久喜東地区","name":"久喜東地域包括支援センター","tel":"0480-23-8845","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"},
-    {"id":2438,"prefecture":"埼玉県","city":"久喜市","area":"菖蒲地区","name":"菖蒲地域包括支援センター","tel":"0480-85-8131","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"},
-    {"id":2439,"prefecture":"埼玉県","city":"久喜市","area":"栗橋地区","name":"栗橋地域包括支援センター","tel":"0480-52-7835","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"},
-    {"id":2440,"prefecture":"埼玉県","city":"久喜市","area":"鷲宮地区","name":"鷲宮地域包括支援センター","tel":"0480-58-9131","url":"https://www.city.kuki.lg.jp/kenko/korei/1003891.html"},
-    {"id":2498,"prefecture":"埼玉県","city":"狭山市","area":"入間川・入間川東地区","name":"狭山市入間川・入間川東地域包括支援センター","tel":"04-2955-1114","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/irumagawahoukatu.html"},
-    {"id":2499,"prefecture":"埼玉県","city":"狭山市","area":"富士見・中央地区","name":"狭山市富士見・中央地域包括支援センター","tel":"04-2941-4061","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/huzimihoukatu.html"},
-    {"id":2500,"prefecture":"埼玉県","city":"狭山市","area":"入曽地区","name":"狭山市入曽地域包括支援センター","tel":"04-2950-5300","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/irisohoukatu.html"},
-    {"id":2501,"prefecture":"埼玉県","city":"狭山市","area":"下水野・大工住・上水野・三ツ木・床尾台・若葉台・新水野・武蔵・御法田・むつみ台・松風台・三和台・フラワーヒル狭山","name":"狭山市水野地域包括支援センター","tel":"04-2937-7871","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/mizunohokatsuosirase.html"},
-    {"id":2502,"prefecture":"埼玉県","city":"狭山市","area":"堀兼・奥富・新狭山地区","name":"狭山市堀兼・奥富・新狭山地域包括支援センター","tel":"04-2933-7117","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/horiganehoukatu.html"},
-    {"id":2503,"prefecture":"埼玉県","city":"狭山市","area":"柏原地区","name":"狭山市柏原地域包括支援センター","tel":"04-2933-6888","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/kasiwabarahoukatu.html"},
-    {"id":2504,"prefecture":"埼玉県","city":"狭山市","area":"水富地区","name":"狭山市水富地域包括支援センター","tel":"04-2969-1630","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/mizutomihoukatsu.html"},
-    {"id":2505,"prefecture":"埼玉県","city":"狭山市","area":"狭山台地区","name":"狭山市狭山台地域包括支援センター","tel":"04-2999-3801","url":"https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/sayamadai_hokatsu.html"},
-    {"id":2617,"prefecture":"埼玉県","city":"新座市","area":"池田・道場・片山・野寺","name":"東部第一高齢者相談センター","tel":"048-480-5853","url":"https://www.city.niiza.lg.jp/map/toubudaiiti.html"},
-    {"id":2618,"prefecture":"埼玉県","city":"新座市","area":"畑中・馬場・栄・新塚","name":"東部第二高齢者相談センター","tel":"048-480-7808","url":"https://www.city.niiza.lg.jp/map/toubudaini.html"},
-    {"id":2619,"prefecture":"埼玉県","city":"新座市","area":"本多・あたご・菅沢・野火止一〜四丁目","name":"西部高齢者相談センター","tel":"048-477-1707","url":"https://www.city.niiza.lg.jp/map/seibu.html"},
-    {"id":2620,"prefecture":"埼玉県","city":"新座市","area":"西堀・新堀","name":"西堀・新堀高齢者相談センター","tel":"042-497-8106","url":"https://www.city.niiza.lg.jp/map/nisisin.html"},
-    {"id":2621,"prefecture":"埼玉県","city":"新座市","area":"石神・栗原・堀ノ内","name":"南部高齢者相談センター","tel":"048-487-8263","url":"https://www.city.niiza.lg.jp/map/nannbu.html"},
-    {"id":2622,"prefecture":"埼玉県","city":"新座市","area":"東北・東","name":"北部第一高齢者相談センター","tel":"048-486-5011","url":"https://www.city.niiza.lg.jp/map/hokubudaiiti.html"},
-    {"id":2623,"prefecture":"埼玉県","city":"新座市","area":"野火止五〜八丁目","name":"野火止五〜八丁目高齢者相談センター","tel":"048-485-8936","url":"https://www.city.niiza.lg.jp/map/nobitomegokarahattyoume.html"},
-    {"id":2624,"prefecture":"埼玉県","city":"新座市","area":"中野・大和田・新座・北野","name":"北部第二高齢者相談センター","tel":"048-485-8587","url":"https://www.city.niiza.lg.jp/map/hokubudaini.html"},
+    {
+        "id":  2374,
+        "prefecture":  "埼玉県",
+        "city":  "熊谷市",
+        "area":  "妻沼地域",
+        "name":  "大里広域地域包括支援センターいこいの里",
+        "tel":  "048-589-0001",
+        "url":  "https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"
+    },
+    {
+        "id":  2375,
+        "prefecture":  "埼玉県",
+        "city":  "熊谷市",
+        "area":  "大幡・奈良・別府",
+        "name":  "大里広域地域包括支援センター永寿苑",
+        "tel":  "048-533-2022",
+        "url":  "https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"
+    },
+    {
+        "id":  2376,
+        "prefecture":  "埼玉県",
+        "city":  "熊谷市",
+        "area":  "玉井・三尻・籠原南",
+        "name":  "大里広域地域包括支援センターはなぶさ苑",
+        "tel":  "048-533-8833",
+        "url":  "https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"
+    },
+    {
+        "id":  2377,
+        "prefecture":  "埼玉県",
+        "city":  "熊谷市",
+        "area":  "箱田・肥塚・成田・中条・星宮・中央",
+        "name":  "大里広域地域包括支援センター玉の緒",
+        "tel":  "048-525-5621",
+        "url":  "https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"
+    },
+    {
+        "id":  2378,
+        "prefecture":  "埼玉県",
+        "city":  "熊谷市",
+        "area":  "上石・荒川西・荒川東・大麻生",
+        "name":  "大里広域地域包括支援センターはなぶさ苑荒川",
+        "tel":  "048-522-1577",
+        "url":  "https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"
+    },
+    {
+        "id":  2379,
+        "prefecture":  "埼玉県",
+        "city":  "熊谷市",
+        "area":  "本町・星川・宮町・末広・筑波・銀座・本石・石原・大原・桜町・平戸",
+        "name":  "大里広域地域包括支援センターぬくもり",
+        "tel":  "048-529-2511",
+        "url":  "https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"
+    },
+    {
+        "id":  2380,
+        "prefecture":  "埼玉県",
+        "city":  "熊谷市",
+        "area":  "末広・上之・中西・佐谷田・久下",
+        "name":  "大里広域地域包括支援センタークイーンズビラ",
+        "tel":  "048-507-1515",
+        "url":  "https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"
+    },
+    {
+        "id":  2381,
+        "prefecture":  "埼玉県",
+        "city":  "熊谷市",
+        "area":  "吉岡・大里地区・江南地区",
+        "name":  "大里広域地域包括支援センター立正たちばな",
+        "tel":  "048-537-1155",
+        "url":  "https://www.city.kumagaya.lg.jp/faq/7/154/houkatu.html"
+    },
+    {
+        "id":  2393,
+        "prefecture":  "埼玉県",
+        "city":  "春日部市",
+        "area":  "粕壁・中央・浜川戸",
+        "name":  "春日部市第1地域包括支援センター",
+        "tel":  "048-754-3775",
+        "url":  "https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9817.html"
+    },
+    {
+        "id":  2394,
+        "prefecture":  "埼玉県",
+        "city":  "春日部市",
+        "area":  "内牧・梅田・八丁目",
+        "name":  "春日部市第2地域包括支援センター",
+        "tel":  "048-753-2020",
+        "url":  "https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9818.html"
+    },
+    {
+        "id":  2395,
+        "prefecture":  "埼玉県",
+        "city":  "春日部市",
+        "area":  "花積・南中曽根・増富",
+        "name":  "春日部市第3地域包括支援センター",
+        "tel":  "048-753-1136",
+        "url":  "https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9819.html"
+    },
+    {
+        "id":  2396,
+        "prefecture":  "埼玉県",
+        "city":  "春日部市",
+        "area":  "上大増新田・備後西・谷原",
+        "name":  "春日部市第4地域包括支援センター",
+        "tel":  "048-738-5764",
+        "url":  "https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9820.html"
+    },
+    {
+        "id":  2397,
+        "prefecture":  "埼玉県",
+        "city":  "春日部市",
+        "area":  "一ノ割・緑町・南四～五丁目",
+        "name":  "春日部市第5地域包括支援センター",
+        "tel":  "048-734-7631",
+        "url":  "https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9821.html"
+    },
+    {
+        "id":  2398,
+        "prefecture":  "埼玉県",
+        "city":  "春日部市",
+        "area":  "大枝・千間一丁目・備後東五～八丁目",
+        "name":  "春日部市第6地域包括支援センター",
+        "tel":  "048-738-0021",
+        "url":  "https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9822.html"
+    },
+    {
+        "id":  2399,
+        "prefecture":  "埼玉県",
+        "city":  "春日部市",
+        "area":  "赤崎・牛島・藤塚",
+        "name":  "春日部市第7地域包括支援センター",
+        "tel":  "048-733-7771",
+        "url":  "https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9823.html"
+    },
+    {
+        "id":  2400,
+        "prefecture":  "埼玉県",
+        "city":  "春日部市",
+        "area":  "飯沼・米崎・立野",
+        "name":  "春日部市第8地域包括支援センター",
+        "tel":  "048-746-5190",
+        "url":  "https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/4/9824.html"
+    },
+    {
+        "id":  2401,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "緑丘・上町・本町・原新町・上尾宿・上尾村・二ッ宮・平塚",
+        "name":  "上尾市上尾東地域包括支援センター",
+        "tel":  "048-778-4800",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2402,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "春日・柏座・谷津・富士見",
+        "name":  "上尾市上尾西地域包括支援センター",
+        "tel":  "048-778-2711",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2403,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "宮本町・仲町・愛宕・栄町・日の出・東町・上尾下",
+        "name":  "上尾市上尾南地域包括支援センター",
+        "tel":  "048-777-3301",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2404,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "平方・上野・平方領々家・上野本郷・西貝塚・西上尾第二団地",
+        "name":  "上尾市平方地域包括支援センター",
+        "tel":  "048-726-6504",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2405,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "原市（七区・八区）・瓦葺・尾山台団地",
+        "name":  "上尾市原市南地域包括支援センター",
+        "tel":  "048-720-2502",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2406,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "原市（七区・八区除く）・五番町・原市中・原市北・原市団地",
+        "name":  "上尾市原市北地域包括支援センター",
+        "tel":  "048-720-0022",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2407,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "中妻・浅間台・弁財・井戸木・泉台・小泉・今泉（一部）",
+        "name":  "上尾市大石東地域包括支援センター",
+        "tel":  "048-777-4201",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2408,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "中分・藤波・小敷谷・畔吉・領家・今泉（一部）・西上尾第一団地",
+        "name":  "上尾市大石西地域包括支援センター",
+        "tel":  "048-789-5077",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2409,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "上・久保・西門前・南・菅谷・須ケ谷・錦町・上平中央",
+        "name":  "上尾市上平地域包括支援センター",
+        "tel":  "048-778-5132",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2410,
+        "prefecture":  "埼玉県",
+        "city":  "上尾市",
+        "area":  "地頭方・今泉・東今泉・向山・大谷本郷・堤崎・中新井・戸崎・川・西宮下",
+        "name":  "上尾市大谷地域包括支援センター",
+        "tel":  "048-780-6363",
+        "url":  "https://www.city.ageo.lg.jp/page/029112032901.html"
+    },
+    {
+        "id":  2436,
+        "prefecture":  "埼玉県",
+        "city":  "久喜市",
+        "area":  "久喜西地区",
+        "name":  "久喜中央地域包括支援センター",
+        "tel":  "0480-22-1111",
+        "url":  "https://www.city.kuki.lg.jp/kenko/korei/1003891.html"
+    },
+    {
+        "id":  2437,
+        "prefecture":  "埼玉県",
+        "city":  "久喜市",
+        "area":  "久喜東地区",
+        "name":  "久喜東地域包括支援センター",
+        "tel":  "0480-23-8845",
+        "url":  "https://www.city.kuki.lg.jp/kenko/korei/1003891.html"
+    },
+    {
+        "id":  2438,
+        "prefecture":  "埼玉県",
+        "city":  "久喜市",
+        "area":  "菖蒲地区",
+        "name":  "菖蒲地域包括支援センター",
+        "tel":  "0480-85-8131",
+        "url":  "https://www.city.kuki.lg.jp/kenko/korei/1003891.html"
+    },
+    {
+        "id":  2439,
+        "prefecture":  "埼玉県",
+        "city":  "久喜市",
+        "area":  "栗橋地区",
+        "name":  "栗橋地域包括支援センター",
+        "tel":  "0480-52-7835",
+        "url":  "https://www.city.kuki.lg.jp/kenko/korei/1003891.html"
+    },
+    {
+        "id":  2440,
+        "prefecture":  "埼玉県",
+        "city":  "久喜市",
+        "area":  "鷲宮地区",
+        "name":  "鷲宮地域包括支援センター",
+        "tel":  "0480-58-9131",
+        "url":  "https://www.city.kuki.lg.jp/kenko/korei/1003891.html"
+    },
+    {
+        "id":  2498,
+        "prefecture":  "埼玉県",
+        "city":  "狭山市",
+        "area":  "入間川・入間川東地区",
+        "name":  "狭山市入間川・入間川東地域包括支援センター",
+        "tel":  "04-2955-1114",
+        "url":  "https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/irumagawahoukatu.html"
+    },
+    {
+        "id":  2499,
+        "prefecture":  "埼玉県",
+        "city":  "狭山市",
+        "area":  "富士見・中央地区",
+        "name":  "狭山市富士見・中央地域包括支援センター",
+        "tel":  "04-2941-4061",
+        "url":  "https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/huzimihoukatu.html"
+    },
+    {
+        "id":  2500,
+        "prefecture":  "埼玉県",
+        "city":  "狭山市",
+        "area":  "入曽地区",
+        "name":  "狭山市入曽地域包括支援センター",
+        "tel":  "04-2950-5300",
+        "url":  "https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/irisohoukatu.html"
+    },
+    {
+        "id":  2501,
+        "prefecture":  "埼玉県",
+        "city":  "狭山市",
+        "area":  "下水野・大工住・上水野・三ツ木・床尾台・若葉台・新水野・武蔵・御法田・むつみ台・松風台・三和台・フラワーヒル狭山",
+        "name":  "狭山市水野地域包括支援センター",
+        "tel":  "04-2937-7871",
+        "url":  "https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/mizunohokatsuosirase.html"
+    },
+    {
+        "id":  2502,
+        "prefecture":  "埼玉県",
+        "city":  "狭山市",
+        "area":  "堀兼・奥富・新狭山地区",
+        "name":  "狭山市堀兼・奥富・新狭山地域包括支援センター",
+        "tel":  "04-2933-7117",
+        "url":  "https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/horiganehoukatu.html"
+    },
+    {
+        "id":  2503,
+        "prefecture":  "埼玉県",
+        "city":  "狭山市",
+        "area":  "柏原地区",
+        "name":  "狭山市柏原地域包括支援センター",
+        "tel":  "04-2933-6888",
+        "url":  "https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/kasiwabarahoukatu.html"
+    },
+    {
+        "id":  2504,
+        "prefecture":  "埼玉県",
+        "city":  "狭山市",
+        "area":  "水富地区",
+        "name":  "狭山市水富地域包括支援センター",
+        "tel":  "04-2969-1630",
+        "url":  "https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/mizutomihoukatsu.html"
+    },
+    {
+        "id":  2505,
+        "prefecture":  "埼玉県",
+        "city":  "狭山市",
+        "area":  "狭山台地区",
+        "name":  "狭山市狭山台地域包括支援センター",
+        "tel":  "04-2999-3801",
+        "url":  "https://www.city.sayama.saitama.jp/fukushi/kaigo/kaigoyoboushien/kaigoyoboujigyousya/sayamadai_hokatsu.html"
+    },
+    {
+        "id":  2617,
+        "prefecture":  "埼玉県",
+        "city":  "新座市",
+        "area":  "池田・道場・片山・野寺",
+        "name":  "東部第一高齢者相談センター",
+        "tel":  "048-480-5853",
+        "url":  "https://www.city.niiza.lg.jp/map/toubudaiiti.html"
+    },
+    {
+        "id":  2618,
+        "prefecture":  "埼玉県",
+        "city":  "新座市",
+        "area":  "畑中・馬場・栄・新塚",
+        "name":  "東部第二高齢者相談センター",
+        "tel":  "048-480-7808",
+        "url":  "https://www.city.niiza.lg.jp/map/toubudaini.html"
+    },
+    {
+        "id":  2619,
+        "prefecture":  "埼玉県",
+        "city":  "新座市",
+        "area":  "本多・あたご・菅沢・野火止一〜四丁目",
+        "name":  "西部高齢者相談センター",
+        "tel":  "048-477-1707",
+        "url":  "https://www.city.niiza.lg.jp/map/seibu.html"
+    },
+    {
+        "id":  2620,
+        "prefecture":  "埼玉県",
+        "city":  "新座市",
+        "area":  "西堀・新堀",
+        "name":  "西堀・新堀高齢者相談センター",
+        "tel":  "042-497-8106",
+        "url":  "https://www.city.niiza.lg.jp/map/nisisin.html"
+    },
+    {
+        "id":  2621,
+        "prefecture":  "埼玉県",
+        "city":  "新座市",
+        "area":  "石神・栗原・堀ノ内",
+        "name":  "南部高齢者相談センター",
+        "tel":  "048-487-8263",
+        "url":  "https://www.city.niiza.lg.jp/map/nannbu.html"
+    },
+    {
+        "id":  2622,
+        "prefecture":  "埼玉県",
+        "city":  "新座市",
+        "area":  "東北・東",
+        "name":  "北部第一高齢者相談センター",
+        "tel":  "048-486-5011",
+        "url":  "https://www.city.niiza.lg.jp/map/hokubudaiiti.html"
+    },
+    {
+        "id":  2623,
+        "prefecture":  "埼玉県",
+        "city":  "新座市",
+        "area":  "野火止五〜八丁目",
+        "name":  "野火止五〜八丁目高齢者相談センター",
+        "tel":  "048-485-8936",
+        "url":  "https://www.city.niiza.lg.jp/map/nobitomegokarahattyoume.html"
+    },
+    {
+        "id":  2624,
+        "prefecture":  "埼玉県",
+        "city":  "新座市",
+        "area":  "中野・大和田・新座・北野",
+        "name":  "北部第二高齢者相談センター",
+        "tel":  "048-485-8587",
+        "url":  "https://www.city.niiza.lg.jp/map/hokubudaini.html"
+    },
     {
         "id":  2734,
         "prefecture":  "埼玉県",
@@ -1161,5 +1537,50 @@
         "name":  "地域包括支援センターあさか中央",
         "tel":  "048-423-2761",
         "url":  "https://www.city.asaka.lg.jp/soshiki/57/tiikihoukatusiennsennta-.html"
+    },
+    {
+        "id":  2858,
+        "prefecture":  "埼玉県",
+        "city":  "鴻巣市",
+        "area":  "本町・天神・生出塚・鴻巣・中央ほか",
+        "name":  "鴻巣地域包括支援センター川里苑",
+        "tel":  "048-569-2650",
+        "url":  "https://www.city.kounosu.saitama.jp/site/kaigohoken/1773.html"
+    },
+    {
+        "id":  2859,
+        "prefecture":  "埼玉県",
+        "city":  "鴻巣市",
+        "area":  "本宮町・雷電・加美・宮地・東ほか",
+        "name":  "鴻巣地域包括支援センターこうのとり",
+        "tel":  "048-596-2223",
+        "url":  "https://www.kounosu-hp.jp/group/kounotori/regional-support/"
+    },
+    {
+        "id":  2860,
+        "prefecture":  "埼玉県",
+        "city":  "鴻巣市",
+        "area":  "箕田・中井・大間・北中野・登戸ほか",
+        "name":  "鴻巣地域包括支援センター彩香らんど",
+        "tel":  "048-595-3331",
+        "url":  "https://care-net.biz/11/saikouland/rs01.php"
+    },
+    {
+        "id":  2861,
+        "prefecture":  "埼玉県",
+        "city":  "鴻巣市",
+        "area":  "人形・富士見町・原馬室・滝馬室ほか",
+        "name":  "鴻巣地域包括支援センターまむろ翔裕園",
+        "tel":  "048-540-0294",
+        "url":  "https://www.city.kounosu.saitama.jp/site/kaigohoken/1773.html"
+    },
+    {
+        "id":  2862,
+        "prefecture":  "埼玉県",
+        "city":  "鴻巣市",
+        "area":  "旧吹上町地域",
+        "name":  "鴻巣地域包括支援センター吹上苑",
+        "tel":  "048-548-8991",
+        "url":  "https://www.egarite.or.jp/nyukyo/area/"
     }
 ]

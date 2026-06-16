@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":  1620,
         "prefecture":  "富山県",
@@ -287,15 +287,157 @@
         "tel":  "076-469-1050",
         "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
     },
-    {"id":2135,"prefecture":"富山県","city":"高岡市","area":"伏木・太田","name":"伏木・太田地域包括支援センター","tel":"0766-44-7885","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2136,"prefecture":"富山県","city":"高岡市","area":"守山・二上・能町","name":"守山・二上・能町地域包括支援センター","tel":"0766-25-0809","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2137,"prefecture":"富山県","city":"高岡市","area":"牧野","name":"牧野地域包括支援センター","tel":"0766-53-5110","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2138,"prefecture":"富山県","city":"高岡市","area":"横田・西条・成美","name":"横田・西条・成美地域包括支援センター","tel":"0766-27-7363","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2139,"prefecture":"富山県","city":"高岡市","area":"野村","name":"野村地域包括支援センター","tel":"0766-20-8920","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2140,"prefecture":"富山県","city":"高岡市","area":"高陵・下関","name":"高陵・下関地域包括支援センター","tel":"0766-26-7062","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2141,"prefecture":"富山県","city":"高岡市","area":"博労・川原","name":"博労・川原地域包括支援センター","tel":"0766-28-7717","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2142,"prefecture":"富山県","city":"高岡市","area":"木津・福田・佐野・二塚","name":"木津・福田・佐野・二塚地域包括支援センター","tel":"0766-31-0700","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2143,"prefecture":"富山県","city":"高岡市","area":"国吉・五位","name":"国吉・五位地域包括支援センター","tel":"0766-50-9251","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2144,"prefecture":"富山県","city":"高岡市","area":"戸出・中田","name":"戸出・中田地域包括支援センター","tel":"0766-62-1777","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"},
-    {"id":2145,"prefecture":"富山県","city":"高岡市","area":"福岡","name":"福岡地域包括支援センター","tel":"0766-64-1186","url":"https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"}
+    {
+        "id":  2135,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "伏木・太田",
+        "name":  "伏木・太田地域包括支援センター",
+        "tel":  "0766-44-7885",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2136,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "守山・二上・能町",
+        "name":  "守山・二上・能町地域包括支援センター",
+        "tel":  "0766-25-0809",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2137,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "牧野",
+        "name":  "牧野地域包括支援センター",
+        "tel":  "0766-53-5110",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2138,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "横田・西条・成美",
+        "name":  "横田・西条・成美地域包括支援センター",
+        "tel":  "0766-27-7363",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2139,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "野村",
+        "name":  "野村地域包括支援センター",
+        "tel":  "0766-20-8920",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2140,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "高陵・下関",
+        "name":  "高陵・下関地域包括支援センター",
+        "tel":  "0766-26-7062",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2141,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "博労・川原",
+        "name":  "博労・川原地域包括支援センター",
+        "tel":  "0766-28-7717",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2142,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "木津・福田・佐野・二塚",
+        "name":  "木津・福田・佐野・二塚地域包括支援センター",
+        "tel":  "0766-31-0700",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2143,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "国吉・五位",
+        "name":  "国吉・五位地域包括支援センター",
+        "tel":  "0766-50-9251",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2144,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "戸出・中田",
+        "name":  "戸出・中田地域包括支援センター",
+        "tel":  "0766-62-1777",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2145,
+        "prefecture":  "富山県",
+        "city":  "高岡市",
+        "area":  "福岡",
+        "name":  "福岡地域包括支援センター",
+        "tel":  "0766-64-1186",
+        "url":  "https://www.city.takaoka.toyama.jp/soshiki/koreikaigoka/2/1/5/2432.html"
+    },
+    {
+        "id":  2146,
+        "prefecture":  "富山県",
+        "city":  "射水市",
+        "area":  "庄西町・港町・庄川本町・本町一〜三丁目・放生津町・中央町・桜町・西新湊・三日曽根・善光寺・緑町・塚原地区・作道地区",
+        "name":  "新湊西地域包括支援センター",
+        "tel":  "0766-83-7171",
+        "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
+    },
+    {
+        "id":  2147,
+        "prefecture":  "富山県",
+        "city":  "射水市",
+        "area":  "立町・八幡町一〜三丁目・中新湊・二の丸町・越の潟町・海王町・片口地区・堀岡地区・海老江地区・本江地区・七美地区",
+        "name":  "新湊東地域包括支援センター",
+        "tel":  "0766-86-8739",
+        "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
+    },
+    {
+        "id":  2148,
+        "prefecture":  "富山県",
+        "city":  "射水市",
+        "area":  "三ケ地区・戸破地区・大江地区・下地区",
+        "name":  "小杉・下地域包括支援センター",
+        "tel":  "0766-55-8217",
+        "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
+    },
+    {
+        "id":  2149,
+        "prefecture":  "富山県",
+        "city":  "射水市",
+        "area":  "橋下条地区・金山地区・黒河地区・池多地区・太閤山地区・中太閤山地区・南太閤山地区",
+        "name":  "小杉南地域包括支援センター",
+        "tel":  "0766-56-8725",
+        "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
+    },
+    {
+        "id":  2150,
+        "prefecture":  "富山県",
+        "city":  "射水市",
+        "area":  "浅井地区・櫛田地区・水戸田地区・二口地区・大門地区",
+        "name":  "大門地域包括支援センター",
+        "tel":  "0766-52-0800",
+        "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
+    },
+    {
+        "id":  2151,
+        "prefecture":  "富山県",
+        "city":  "射水市",
+        "area":  "大島地区",
+        "name":  "大島地域包括支援センター",
+        "tel":  "0766-52-8050",
+        "url":  "https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=5482"
+    }
 ]

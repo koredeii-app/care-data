@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":  1126,
         "prefecture":  "北海道",
@@ -252,234 +252,534 @@
         "url":  "https://www.city.sapporo.jp/shisetsuannai/227.html"
     },
     {
-        "id": 1945,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "宮前1条1丁目・宮前2条1〜2丁目・亀吉・曙・曙北・常磐公園・中常盤町・上常盤町・常盤通・宮下通10〜17丁目・2条通〜11条通18〜25丁目・2条西〜9条西",
-        "name": "中央地域包括支援センター",
-        "tel": "0166-23-6022",
-        "url": "https://www.asahikawa-shakyo.or.jp/shien/oldman/support-center"
+        "id":  1945,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "宮前1条1丁目・宮前2条1〜2丁目・亀吉・曙・曙北・常磐公園・中常盤町・上常盤町・常盤通・宮下通10〜17丁目・2条通〜11条通18〜25丁目・2条西〜9条西",
+        "name":  "中央地域包括支援センター",
+        "tel":  "0166-23-6022",
+        "url":  "https://www.asahikawa-shakyo.or.jp/shien/oldman/support-center"
     },
     {
-        "id": 1946,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "11条通23丁目朝日団地・豊岡1〜16条",
-        "name": "豊岡地域包括支援センター",
-        "tel": "0166-35-2275",
-        "url": "https://toyooka-houkatsu-k.jimdofree.com/"
+        "id":  1946,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "11条通23丁目朝日団地・豊岡1〜16条",
+        "name":  "豊岡地域包括支援センター",
+        "tel":  "0166-35-2275",
+        "url":  "https://toyooka-houkatsu-k.jimdofree.com/"
     },
     {
-        "id": 1947,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "豊岡1〜12条7〜11丁目・東光1〜27条7〜10丁目・工業団地・東旭川北・東旭川南・東旭川町（下兵村・上兵村・桜岡・瑞穂・倉沼・東桜岡・日ノ出・米原・豊田・旭正・共栄・忠別）",
-        "name": "東旭川・千代田地域包括支援センター",
-        "tel": "0166-36-5577",
-        "url": "https://higashiasahikawa-houkatsu.jimdofree.com/"
+        "id":  1947,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "豊岡1〜12条7〜11丁目・東光1〜27条7〜10丁目・工業団地・東旭川北・東旭川南・東旭川町（下兵村・上兵村・桜岡・瑞穂・倉沼・東桜岡・日ノ出・米原・豊田・旭正・共栄・忠別）",
+        "name":  "東旭川・千代田地域包括支援センター",
+        "tel":  "0166-36-5577",
+        "url":  "https://higashiasahikawa-houkatsu.jimdofree.com/"
     },
     {
-        "id": 1948,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "宮前1条2〜5丁目・宮前2条3丁目・宮下通18〜26丁目・1条通18〜25丁目・南・豊岡1〜4条5〜6丁目・東光1〜25条1〜6丁目",
-        "name": "東光地域包括支援センター",
-        "tel": "0166-76-6020",
-        "url": "https://dohoku-kinikyo.or.jp/toukou-houkatsu/"
+        "id":  1948,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "宮前1条2〜5丁目・宮前2条3丁目・宮下通18〜26丁目・1条通18〜25丁目・南・豊岡1〜4条5〜6丁目・東光1〜25条1〜6丁目",
+        "name":  "東光地域包括支援センター",
+        "tel":  "0166-76-6020",
+        "url":  "https://dohoku-kinikyo.or.jp/toukou-houkatsu/"
     },
     {
-        "id": 1949,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "金星町・東・新富・パルプ町・新星町・大雪通・秋月・流通団地・永山1〜14条・永山町2〜5丁目",
-        "name": "新旭川・永山南地域包括支援センター",
-        "tel": "0166-40-3003",
-        "url": "https://www.city.asahikawa.hokkaido.jp/kurashi/135/160/162/p002554.html"
+        "id":  1949,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "金星町・東・新富・パルプ町・新星町・大雪通・秋月・流通団地・永山1〜14条・永山町2〜5丁目",
+        "name":  "新旭川・永山南地域包括支援センター",
+        "tel":  "0166-40-3003",
+        "url":  "https://www.city.asahikawa.hokkaido.jp/kurashi/135/160/162/p002554.html"
     },
     {
-        "id": 1950,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "永山1〜10条11〜24丁目・永山北・永山町6〜16丁目",
-        "name": "永山地域包括支援センター",
-        "tel": "0166-40-2323",
-        "url": "https://nagayamahoukatsu.jinyukai.jp/"
+        "id":  1950,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "永山1〜10条11〜24丁目・永山北・永山町6〜16丁目",
+        "name":  "永山地域包括支援センター",
+        "tel":  "0166-40-2323",
+        "url":  "https://nagayamahoukatsu.jinyukai.jp/"
     },
     {
-        "id": 1951,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "末広1〜8条・末広東・東鷹栖・東鷹栖東・緑台・柏木・東山・春光1条9丁目一部・春光5〜6条9丁目北斗町内会地区",
-        "name": "末広・東鷹栖地域包括支援センター",
-        "tel": "0166-76-5065",
-        "url": "https://aizenkai-swc.jp/houkatsu/index.html"
+        "id":  1951,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "末広1〜8条・末広東・東鷹栖・東鷹栖東・緑台・柏木・東山・春光1条9丁目一部・春光5〜6条9丁目北斗町内会地区",
+        "name":  "末広・東鷹栖地域包括支援センター",
+        "tel":  "0166-76-5065",
+        "url":  "https://aizenkai-swc.jp/houkatsu/index.html"
     },
     {
-        "id": 1952,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "春光1〜7条1〜9丁目・春光町・春光台・住吉・花咲町4〜7丁目・末広8条2〜12丁目",
-        "name": "春光・春光台地域包括支援センター",
-        "tel": "0166-54-1165",
-        "url": "https://kunimoto.company-hp.com/"
+        "id":  1952,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "春光1〜7条1〜9丁目・春光町・春光台・住吉・花咲町4〜7丁目・末広8条2〜12丁目",
+        "name":  "春光・春光台地域包括支援センター",
+        "tel":  "0166-54-1165",
+        "url":  "https://kunimoto.company-hp.com/"
     },
     {
-        "id": 1953,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "旭町・大町・本町・緑町・錦町・北門町・近文町・川端町・旭岡・花咲町1〜4丁目",
-        "name": "北星・旭星地域包括支援センター",
-        "tel": "0166-46-6500",
-        "url": "https://hokuseikyokusei.wixsite.com/asahikawa"
+        "id":  1953,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "旭町・大町・本町・緑町・錦町・北門町・近文町・川端町・旭岡・花咲町1〜4丁目",
+        "name":  "北星・旭星地域包括支援センター",
+        "tel":  "0166-46-6500",
+        "url":  "https://hokuseikyokusei.wixsite.com/asahikawa"
     },
     {
-        "id": 1954,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "神居・忠和・神居町（雨紛・共栄・御料・春志内・上雨紛・神岡・神華・神居古潭・西丘・台場・忠和・富岡・富沢・豊里）・高砂台・台場・台場東・南が丘・江丹別町（共和・春日・清水・西里・拓北・中園・中央・富原・芳野・嵐山）",
-        "name": "神居・江丹別地域包括支援センター",
-        "tel": "0166-76-5511",
-        "url": "http://www.kamui-houkatu.com/"
+        "id":  1954,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "神居・忠和・神居町（雨紛・共栄・御料・春志内・上雨紛・神岡・神華・神居古潭・西丘・台場・忠和・富岡・富沢・豊里）・高砂台・台場・台場東・南が丘・江丹別町（共和・春日・清水・西里・拓北・中園・中央・富原・芳野・嵐山）",
+        "name":  "神居・江丹別地域包括支援センター",
+        "tel":  "0166-76-5511",
+        "url":  "http://www.kamui-houkatu.com/"
     },
     {
-        "id": 1955,
-        "prefecture": "北海道",
-        "city": "旭川市",
-        "area": "神楽・神楽岡・旭神・旭神町・緑が丘・緑が丘東・緑が丘南・西御料・西神楽・西神楽南・西神楽北・新開",
-        "name": "神楽・西神楽地域包括支援センター",
-        "tel": "0166-66-5351",
-        "url": "http://www.kagurahoukatsu.org"
+        "id":  1955,
+        "prefecture":  "北海道",
+        "city":  "旭川市",
+        "area":  "神楽・神楽岡・旭神・旭神町・緑が丘・緑が丘東・緑が丘南・西御料・西神楽・西神楽南・西神楽北・新開",
+        "name":  "神楽・西神楽地域包括支援センター",
+        "tel":  "0166-66-5351",
+        "url":  "http://www.kagurahoukatsu.org"
     },
     {
-        "id": 1995,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "西部",
-        "name": "函館市地域包括支援センターあさひ",
-        "tel": "0138-27-8880",
-        "url": "http://www.seijinkai-mori.jp/seijinkai/asahi/hohkatu/hohkatu-top.htm"
+        "id":  1995,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "西部",
+        "name":  "函館市地域包括支援センターあさひ",
+        "tel":  "0138-27-8880",
+        "url":  "http://www.seijinkai-mori.jp/seijinkai/asahi/hohkatu/hohkatu-top.htm"
     },
     {
-        "id": 1996,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "中央部第1",
-        "name": "函館市地域包括支援センターこん中央",
-        "tel": "0138-27-0777",
-        "url": "http://www.kon-jp.com/facilities/kon5/"
+        "id":  1996,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "中央部第1",
+        "name":  "函館市地域包括支援センターこん中央",
+        "tel":  "0138-27-0777",
+        "url":  "http://www.kon-jp.com/facilities/kon5/"
     },
     {
-        "id": 1997,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "中央部第2",
-        "name": "函館市地域包括支援センターときとう",
-        "tel": "0138-33-0555",
-        "url": "http://www.kon-jp.com/facilities/tokito5/"
+        "id":  1997,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "中央部第2",
+        "name":  "函館市地域包括支援センターときとう",
+        "tel":  "0138-33-0555",
+        "url":  "http://www.kon-jp.com/facilities/tokito5/"
     },
     {
-        "id": 1998,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "東央部第1",
-        "name": "函館市地域包括支援センターゆのかわ",
-        "tel": "0138-36-4300",
-        "url": "http://houkatsu-yuno.koseiin.or.jp/"
+        "id":  1998,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "東央部第1",
+        "name":  "函館市地域包括支援センターゆのかわ",
+        "tel":  "0138-36-4300",
+        "url":  "http://houkatsu-yuno.koseiin.or.jp/"
     },
     {
-        "id": 1999,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "東央部第2",
-        "name": "函館市地域包括支援センターたかおか",
-        "tel": "0138-57-7740",
-        "url": "http://houkatsu.koseiin.or.jp/"
+        "id":  1999,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "東央部第2",
+        "name":  "函館市地域包括支援センターたかおか",
+        "tel":  "0138-57-7740",
+        "url":  "http://houkatsu.koseiin.or.jp/"
     },
     {
-        "id": 2000,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "北東部第1",
-        "name": "函館市地域包括支援センター西堀",
-        "tel": "0138-78-0123",
-        "url": "https://www.nishibori-hosp.or.jp/chiiki-houkatsu/houkatsu-n/"
+        "id":  2000,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "北東部第1",
+        "name":  "函館市地域包括支援センター西堀",
+        "tel":  "0138-78-0123",
+        "url":  "https://www.nishibori-hosp.or.jp/chiiki-houkatsu/houkatsu-n/"
     },
     {
-        "id": 2001,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "北東部第2",
-        "name": "函館市地域包括支援センター亀田",
-        "tel": "0138-40-7755",
-        "url": "http://www.hakodate-kameda-hp.com/supportcenter/"
+        "id":  2001,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "北東部第2",
+        "name":  "函館市地域包括支援センター亀田",
+        "tel":  "0138-40-7755",
+        "url":  "http://www.hakodate-kameda-hp.com/supportcenter/"
     },
     {
-        "id": 2002,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "北東部第3",
-        "name": "函館市地域包括支援センター神山",
-        "tel": "0138-76-0820",
-        "url": "https://www.nishibori-hosp.or.jp/chiiki-houkatsu/houkatsu-k/"
+        "id":  2002,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "北東部第3",
+        "name":  "函館市地域包括支援センター神山",
+        "tel":  "0138-76-0820",
+        "url":  "https://www.nishibori-hosp.or.jp/chiiki-houkatsu/houkatsu-k/"
     },
     {
-        "id": 2003,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "北部",
-        "name": "函館市地域包括支援センターよろこび",
-        "tel": "0138-34-6868",
-        "url": "http://yorokobi.kojinkai1968.com/"
+        "id":  2003,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "北部",
+        "name":  "函館市地域包括支援センターよろこび",
+        "tel":  "0138-34-6868",
+        "url":  "http://yorokobi.kojinkai1968.com/"
     },
     {
-        "id": 2004,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "東部（戸井・恵山・椴法華・南茅部地区）",
-        "name": "函館市地域包括支援センター社協",
-        "tel": "0138-82-4700",
-        "url": "http://www.hakodatesyakyo.net/consul/consul-center/"
+        "id":  2004,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "東部（戸井・恵山・椴法華・南茅部地区）",
+        "name":  "函館市地域包括支援センター社協",
+        "tel":  "0138-82-4700",
+        "url":  "http://www.hakodatesyakyo.net/consul/consul-center/"
     },
     {
-        "id": 2005,
-        "prefecture": "北海道",
-        "city": "函館市",
-        "area": "東部（南茅部地区）",
-        "name": "函館市地域包括支援センターブランチかやべ",
-        "tel": "0138-25-6034",
-        "url": "http://www.hakodatesyakyo.net/consul/consul-center/"
+        "id":  2005,
+        "prefecture":  "北海道",
+        "city":  "函館市",
+        "area":  "東部（南茅部地区）",
+        "name":  "函館市地域包括支援センターブランチかやべ",
+        "tel":  "0138-25-6034",
+        "url":  "http://www.hakodatesyakyo.net/consul/consul-center/"
     },
-    {"id":2146,"prefecture":"北海道","city":"釧路市","area":"西部","name":"西部地域包括支援センター","tel":"0154-55-2666","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
-    {"id":2147,"prefecture":"北海道","city":"釧路市","area":"中部北","name":"中部北地域包括支援センター","tel":"0154-36-1233","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
-    {"id":2148,"prefecture":"北海道","city":"釧路市","area":"中部南","name":"中部南地域包括支援センター","tel":"0154-24-1102","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
-    {"id":2149,"prefecture":"北海道","city":"釧路市","area":"東部北","name":"東部北地域包括支援センター","tel":"0154-42-0600","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
-    {"id":2150,"prefecture":"北海道","city":"釧路市","area":"東部南","name":"東部南地域包括支援センター","tel":"0154-42-8222","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
-    {"id":2151,"prefecture":"北海道","city":"釧路市","area":"阿寒","name":"阿寒地域包括支援センター","tel":"0154-66-1234","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
-    {"id":2152,"prefecture":"北海道","city":"釧路市","area":"音別","name":"音別地域包括支援センター","tel":"01547-9-5252","url":"https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"},
-    {"id":2197,"prefecture":"北海道","city":"苫小牧市","area":"樽前、錦岡、澄川町、青雲町、ときわ町、のぞみ町、美原町、宮前町、明徳町、もえぎ町、錦西町、北星町","name":"西地域包括支援センター","tel":"0144-61-7600","url":"https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"},
-    {"id":2198,"prefecture":"北海道","city":"苫小牧市","area":"糸井（一部）、柏木町、川沿町、桜坂町、しらかば町、日新町、はまなす町、宮の森町","name":"しらかば地域包括支援センター","tel":"0144-71-5225","url":"https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"},
-    {"id":2199,"prefecture":"北海道","city":"苫小牧市","area":"青葉町、糸井（一部）、有明町、永福町、小糸井町、光洋町、白金町、新富町、大成町、浜町、日吉町、元町、矢代町、弥生町","name":"南地域包括支援センター","tel":"0144-71-5005","url":"https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"},
-    {"id":2200,"prefecture":"北海道","city":"苫小牧市","area":"高丘（一部）、有珠の沢町、啓北町、桜木町、豊川町、花園町、北光町、松風町、見山町、山手町","name":"山手地域包括支援センター","tel":"0144-71-5565","url":"https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"},
-    {"id":2201,"prefecture":"北海道","city":"苫小牧市","area":"旭町、一本松町、入船町、王子町、大町、表町、春日町、木場町、寿町、幸町、栄町、汐見町、清水町、新中野町、末広町、高砂町、錦町、晴海町、船見町、本町、本幸町、緑町、港町、元中野町、若草町","name":"中央地域包括支援センター","tel":"0144-36-3712","url":"https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"},
-    {"id":2202,"prefecture":"北海道","city":"苫小牧市","area":"明野新町、高丘（一部）、丸山、泉町、音羽町、三光町、新明町、住吉町、日の出町、双葉町、美園町、柳町","name":"明野地域包括支援センター","tel":"0144-53-4165","url":"https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"},
-    {"id":2203,"prefecture":"北海道","city":"苫小牧市","area":"明野元町、あけぼの町、植苗、柏原、ウトナイ北、ウトナイ南、沼ノ端、美沢、勇払、新開町、拓勇西町、拓勇東町、東開町、沼ノ端中央、北栄町","name":"東地域包括支援センター","tel":"0144-52-1155","url":"https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"},
-    {"id":2226,"prefecture":"北海道","city":"帯広市","area":"鉄南","name":"帯広至心寮地域包括支援センター","tel":"0155-24-1150","url":"http://shinsyukyoukai.jp/shishinryou/shishinryou-service5/"},
-    {"id":2227,"prefecture":"北海道","city":"帯広市","area":"東","name":"帯広至心寮地域包括支援センター（東）","tel":"0155-66-4613","url":"http://shinsyukyoukai.jp/shishinryou/shishinryou-service5/"},
-    {"id":2228,"prefecture":"北海道","city":"帯広市","area":"広陽・若葉","name":"愛仁園地域包括支援センター","tel":"0155-49-2338","url":"http://fujikai.or.jp/publics/index/55/"},
-    {"id":2229,"prefecture":"北海道","city":"帯広市","area":"西帯広・開西","name":"愛仁園地域包括支援センター（西）","tel":"0155-61-1616","url":"http://fujikai.or.jp/publics/index/55/"},
-    {"id":2230,"prefecture":"北海道","city":"帯広市","area":"西","name":"帯広市社会福祉協議会地域包括支援センター","tel":"0155-21-3292","url":"http://www.obihiro-shakyo.jp/houkatsu.html"},
-    {"id":2231,"prefecture":"北海道","city":"帯広市","area":"川北","name":"帯広市社会福祉協議会地域包括支援センター（北）","tel":"0155-66-4535","url":"http://www.obihiro-shakyo.jp/houkatsu.html"},
-    {"id":2232,"prefecture":"北海道","city":"帯広市","area":"川西・大正","name":"帯広けいせい苑地域包括支援センター","tel":"0155-53-4771","url":"https://keiseien.or.jp/facilities/obihiro_keiseien/service/service06.html"},
-    {"id":2233,"prefecture":"北海道","city":"帯広市","area":"南","name":"帯広けいせい苑地域包括支援センター（南）","tel":"0155-67-8437","url":"https://keiseien.or.jp/facilities/obihiro_keiseien/service/service06.html"},
-    {"id":2255,"prefecture":"北海道","city":"小樽市","area":"朝里、朝里川温泉、桂岡町、桜、新光、新光町、銭函、張碓町、春香町、船浜町、星野町、望洋台、見晴町","name":"東南部地域包括支援センター","tel":"0134-51-2301","url":"http://www.otaru-hokubenkai.or.jp/our-service/ccs-otaru-nanbu.php"},
-    {"id":2256,"prefecture":"北海道","city":"小樽市","area":"有幌町、住吉町、住ノ江、入船、松ヶ枝、最上、信香町、若松、奥沢、天神、天狗山、新富町、真栄、築港、勝納町、若竹町、潮見台","name":"南部地域包括支援センター","tel":"0134-61-7268","url":"http://www.saiseikai-otaru.jp/hotnews/detail/00000376.html"},
-    {"id":2257,"prefecture":"北海道","city":"小樽市","area":"港町、堺町、東雲町、相生町、山田町、花園、色内、稲穂、富岡、緑、錦町、豊川町、石山町、手宮、末広町、梅ヶ枝町、清水町、長橋1・2丁目","name":"中部地域包括支援センター","tel":"0134-24-2525","url":"http://www.otaru-shakyo.jp/nursing/#04"},
-    {"id":2258,"prefecture":"北海道","city":"小樽市","area":"赤岩、忍路、オタモイ、幸、塩谷、祝津、高島、桃内、蘭島、旭町、長橋3・4・5丁目","name":"北西部地域包括支援センター","tel":"0134-28-2522","url":"http://www.otaru-ikuseiin.com/hokatsu"},
-    {"id":2901,"prefecture":"北海道","city":"北見市","area":"中央地区","name":"高齢者相談支援センター中央","tel":"0157-26-0061","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
-    {"id":2902,"prefecture":"北海道","city":"北見市","area":"東部・端野地区","name":"高齢者相談支援センター東部・端野","tel":"0157-69-5111","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
-    {"id":2903,"prefecture":"北海道","city":"北見市","area":"西部・相内地区","name":"高齢者相談支援センター西部・相内","tel":"0157-66-0166","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
-    {"id":2904,"prefecture":"北海道","city":"北見市","area":"南部地区","name":"高齢者相談支援センター南部","tel":"0157-57-3161","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
-    {"id":2905,"prefecture":"北海道","city":"北見市","area":"北部地区","name":"高齢者相談支援センター北部","tel":"0157-22-7800","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
-    {"id":2906,"prefecture":"北海道","city":"北見市","area":"常呂地区","name":"高齢者相談支援センター常呂","tel":"0152-63-2026","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
-    {"id":2907,"prefecture":"北海道","city":"北見市","area":"留辺蘂地区","name":"高齢者相談支援センター留辺蘂","tel":"0157-42-5008","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"}
+    {
+        "id":  2146,
+        "prefecture":  "北海道",
+        "city":  "釧路市",
+        "area":  "西部",
+        "name":  "西部地域包括支援センター",
+        "tel":  "0154-55-2666",
+        "url":  "https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"
+    },
+    {
+        "id":  2147,
+        "prefecture":  "北海道",
+        "city":  "釧路市",
+        "area":  "中部北",
+        "name":  "中部北地域包括支援センター",
+        "tel":  "0154-36-1233",
+        "url":  "https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"
+    },
+    {
+        "id":  2148,
+        "prefecture":  "北海道",
+        "city":  "釧路市",
+        "area":  "中部南",
+        "name":  "中部南地域包括支援センター",
+        "tel":  "0154-24-1102",
+        "url":  "https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"
+    },
+    {
+        "id":  2149,
+        "prefecture":  "北海道",
+        "city":  "釧路市",
+        "area":  "東部北",
+        "name":  "東部北地域包括支援センター",
+        "tel":  "0154-42-0600",
+        "url":  "https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"
+    },
+    {
+        "id":  2150,
+        "prefecture":  "北海道",
+        "city":  "釧路市",
+        "area":  "東部南",
+        "name":  "東部南地域包括支援センター",
+        "tel":  "0154-42-8222",
+        "url":  "https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"
+    },
+    {
+        "id":  2151,
+        "prefecture":  "北海道",
+        "city":  "釧路市",
+        "area":  "阿寒",
+        "name":  "阿寒地域包括支援センター",
+        "tel":  "0154-66-1234",
+        "url":  "https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"
+    },
+    {
+        "id":  2152,
+        "prefecture":  "北海道",
+        "city":  "釧路市",
+        "area":  "音別",
+        "name":  "音別地域包括支援センター",
+        "tel":  "01547-9-5252",
+        "url":  "https://www.city.kushiro.lg.jp/kenfuku/fukushi/1004926/1004953/1004954.html"
+    },
+    {
+        "id":  2197,
+        "prefecture":  "北海道",
+        "city":  "苫小牧市",
+        "area":  "樽前、錦岡、澄川町、青雲町、ときわ町、のぞみ町、美原町、宮前町、明徳町、もえぎ町、錦西町、北星町",
+        "name":  "西地域包括支援センター",
+        "tel":  "0144-61-7600",
+        "url":  "https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"
+    },
+    {
+        "id":  2198,
+        "prefecture":  "北海道",
+        "city":  "苫小牧市",
+        "area":  "糸井（一部）、柏木町、川沿町、桜坂町、しらかば町、日新町、はまなす町、宮の森町",
+        "name":  "しらかば地域包括支援センター",
+        "tel":  "0144-71-5225",
+        "url":  "https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"
+    },
+    {
+        "id":  2199,
+        "prefecture":  "北海道",
+        "city":  "苫小牧市",
+        "area":  "青葉町、糸井（一部）、有明町、永福町、小糸井町、光洋町、白金町、新富町、大成町、浜町、日吉町、元町、矢代町、弥生町",
+        "name":  "南地域包括支援センター",
+        "tel":  "0144-71-5005",
+        "url":  "https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"
+    },
+    {
+        "id":  2200,
+        "prefecture":  "北海道",
+        "city":  "苫小牧市",
+        "area":  "高丘（一部）、有珠の沢町、啓北町、桜木町、豊川町、花園町、北光町、松風町、見山町、山手町",
+        "name":  "山手地域包括支援センター",
+        "tel":  "0144-71-5565",
+        "url":  "https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"
+    },
+    {
+        "id":  2201,
+        "prefecture":  "北海道",
+        "city":  "苫小牧市",
+        "area":  "旭町、一本松町、入船町、王子町、大町、表町、春日町、木場町、寿町、幸町、栄町、汐見町、清水町、新中野町、末広町、高砂町、錦町、晴海町、船見町、本町、本幸町、緑町、港町、元中野町、若草町",
+        "name":  "中央地域包括支援センター",
+        "tel":  "0144-36-3712",
+        "url":  "https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"
+    },
+    {
+        "id":  2202,
+        "prefecture":  "北海道",
+        "city":  "苫小牧市",
+        "area":  "明野新町、高丘（一部）、丸山、泉町、音羽町、三光町、新明町、住吉町、日の出町、双葉町、美園町、柳町",
+        "name":  "明野地域包括支援センター",
+        "tel":  "0144-53-4165",
+        "url":  "https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"
+    },
+    {
+        "id":  2203,
+        "prefecture":  "北海道",
+        "city":  "苫小牧市",
+        "area":  "明野元町、あけぼの町、植苗、柏原、ウトナイ北、ウトナイ南、沼ノ端、美沢、勇払、新開町、拓勇西町、拓勇東町、東開町、沼ノ端中央、北栄町",
+        "name":  "東地域包括支援センター",
+        "tel":  "0144-52-1155",
+        "url":  "https://www.city.tomakomai.hokkaido.jp/kenko/kaigo/kaigoyobou/hokatsu-tomahot.html"
+    },
+    {
+        "id":  2226,
+        "prefecture":  "北海道",
+        "city":  "帯広市",
+        "area":  "鉄南",
+        "name":  "帯広至心寮地域包括支援センター",
+        "tel":  "0155-24-1150",
+        "url":  "http://shinsyukyoukai.jp/shishinryou/shishinryou-service5/"
+    },
+    {
+        "id":  2227,
+        "prefecture":  "北海道",
+        "city":  "帯広市",
+        "area":  "東",
+        "name":  "帯広至心寮地域包括支援センター（東）",
+        "tel":  "0155-66-4613",
+        "url":  "http://shinsyukyoukai.jp/shishinryou/shishinryou-service5/"
+    },
+    {
+        "id":  2228,
+        "prefecture":  "北海道",
+        "city":  "帯広市",
+        "area":  "広陽・若葉",
+        "name":  "愛仁園地域包括支援センター",
+        "tel":  "0155-49-2338",
+        "url":  "http://fujikai.or.jp/publics/index/55/"
+    },
+    {
+        "id":  2229,
+        "prefecture":  "北海道",
+        "city":  "帯広市",
+        "area":  "西帯広・開西",
+        "name":  "愛仁園地域包括支援センター（西）",
+        "tel":  "0155-61-1616",
+        "url":  "http://fujikai.or.jp/publics/index/55/"
+    },
+    {
+        "id":  2230,
+        "prefecture":  "北海道",
+        "city":  "帯広市",
+        "area":  "西",
+        "name":  "帯広市社会福祉協議会地域包括支援センター",
+        "tel":  "0155-21-3292",
+        "url":  "http://www.obihiro-shakyo.jp/houkatsu.html"
+    },
+    {
+        "id":  2231,
+        "prefecture":  "北海道",
+        "city":  "帯広市",
+        "area":  "川北",
+        "name":  "帯広市社会福祉協議会地域包括支援センター（北）",
+        "tel":  "0155-66-4535",
+        "url":  "http://www.obihiro-shakyo.jp/houkatsu.html"
+    },
+    {
+        "id":  2232,
+        "prefecture":  "北海道",
+        "city":  "帯広市",
+        "area":  "川西・大正",
+        "name":  "帯広けいせい苑地域包括支援センター",
+        "tel":  "0155-53-4771",
+        "url":  "https://keiseien.or.jp/facilities/obihiro_keiseien/service/service06.html"
+    },
+    {
+        "id":  2233,
+        "prefecture":  "北海道",
+        "city":  "帯広市",
+        "area":  "南",
+        "name":  "帯広けいせい苑地域包括支援センター（南）",
+        "tel":  "0155-67-8437",
+        "url":  "https://keiseien.or.jp/facilities/obihiro_keiseien/service/service06.html"
+    },
+    {
+        "id":  2255,
+        "prefecture":  "北海道",
+        "city":  "小樽市",
+        "area":  "朝里、朝里川温泉、桂岡町、桜、新光、新光町、銭函、張碓町、春香町、船浜町、星野町、望洋台、見晴町",
+        "name":  "東南部地域包括支援センター",
+        "tel":  "0134-51-2301",
+        "url":  "http://www.otaru-hokubenkai.or.jp/our-service/ccs-otaru-nanbu.php"
+    },
+    {
+        "id":  2256,
+        "prefecture":  "北海道",
+        "city":  "小樽市",
+        "area":  "有幌町、住吉町、住ノ江、入船、松ヶ枝、最上、信香町、若松、奥沢、天神、天狗山、新富町、真栄、築港、勝納町、若竹町、潮見台",
+        "name":  "南部地域包括支援センター",
+        "tel":  "0134-61-7268",
+        "url":  "http://www.saiseikai-otaru.jp/hotnews/detail/00000376.html"
+    },
+    {
+        "id":  2257,
+        "prefecture":  "北海道",
+        "city":  "小樽市",
+        "area":  "港町、堺町、東雲町、相生町、山田町、花園、色内、稲穂、富岡、緑、錦町、豊川町、石山町、手宮、末広町、梅ヶ枝町、清水町、長橋1・2丁目",
+        "name":  "中部地域包括支援センター",
+        "tel":  "0134-24-2525",
+        "url":  "http://www.otaru-shakyo.jp/nursing/#04"
+    },
+    {
+        "id":  2258,
+        "prefecture":  "北海道",
+        "city":  "小樽市",
+        "area":  "赤岩、忍路、オタモイ、幸、塩谷、祝津、高島、桃内、蘭島、旭町、長橋3・4・5丁目",
+        "name":  "北西部地域包括支援センター",
+        "tel":  "0134-28-2522",
+        "url":  "http://www.otaru-ikuseiin.com/hokatsu"
+    },
+    {
+        "id":  2901,
+        "prefecture":  "北海道",
+        "city":  "北見市",
+        "area":  "中央地区",
+        "name":  "高齢者相談支援センター中央",
+        "tel":  "0157-26-0061",
+        "url":  "https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"
+    },
+    {
+        "id":  2902,
+        "prefecture":  "北海道",
+        "city":  "北見市",
+        "area":  "東部・端野地区",
+        "name":  "高齢者相談支援センター東部・端野",
+        "tel":  "0157-69-5111",
+        "url":  "https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"
+    },
+    {
+        "id":  2903,
+        "prefecture":  "北海道",
+        "city":  "北見市",
+        "area":  "西部・相内地区",
+        "name":  "高齢者相談支援センター西部・相内",
+        "tel":  "0157-66-0166",
+        "url":  "https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"
+    },
+    {
+        "id":  2904,
+        "prefecture":  "北海道",
+        "city":  "北見市",
+        "area":  "南部地区",
+        "name":  "高齢者相談支援センター南部",
+        "tel":  "0157-57-3161",
+        "url":  "https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"
+    },
+    {
+        "id":  2905,
+        "prefecture":  "北海道",
+        "city":  "北見市",
+        "area":  "北部地区",
+        "name":  "高齢者相談支援センター北部",
+        "tel":  "0157-22-7800",
+        "url":  "https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"
+    },
+    {
+        "id":  2906,
+        "prefecture":  "北海道",
+        "city":  "北見市",
+        "area":  "常呂地区",
+        "name":  "高齢者相談支援センター常呂",
+        "tel":  "0152-63-2026",
+        "url":  "https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"
+    },
+    {
+        "id":  2907,
+        "prefecture":  "北海道",
+        "city":  "北見市",
+        "area":  "留辺蘂地区",
+        "name":  "高齢者相談支援センター留辺蘂",
+        "tel":  "0157-42-5008",
+        "url":  "https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"
+    },
+    {
+        "id":  2908,
+        "prefecture":  "北海道",
+        "city":  "室蘭市",
+        "area":  "絵鞆町・祝津町・港南町・増市町・小橋内町・築地町・緑町・西小路町・沢町・幕西町・海岸町・中央町・常盤町・清水町・幸町・本町・栄町・舟見町・山手町・入江町・茶津町・新富町・母恋北町・母恋南町・御前水町・御崎町",
+        "name":  "室蘭市地域包括支援センター母恋",
+        "tel":  "0143-24-2112",
+        "url":  "https://www.city.muroran.lg.jp/welfare/?content=63"
+    },
+    {
+        "id":  2909,
+        "prefecture":  "北海道",
+        "city":  "室蘭市",
+        "area":  "大沢町・輪西町・みゆき町・東町・寿町・日の出町・高砂町",
+        "name":  "室蘭市地域包括支援センターことぶき",
+        "tel":  "0143-46-2121",
+        "url":  "https://www.city.muroran.lg.jp/welfare/?content=63"
+    },
+    {
+        "id":  2910,
+        "prefecture":  "北海道",
+        "city":  "室蘭市",
+        "area":  "中島町・中島本町・知利別町・宮の森町・八丁平・水元町・天神町・高平町",
+        "name":  "室蘭市地域包括支援センター憩",
+        "tel":  "0143-41-3076",
+        "url":  "https://www.nshp-muroran.or.jp/ikoi/i06/i06-01.html"
+    },
+    {
+        "id":  2911,
+        "prefecture":  "北海道",
+        "city":  "室蘭市",
+        "area":  "本輪西町・港北町・柏木町・幌萌町・陣屋町・神代町・香川町・白鳥台・崎守町・石川町",
+        "name":  "室蘭市地域包括支援センター白鳥ハイツ",
+        "tel":  "0143-59-3100",
+        "url":  "https://www.city.muroran.lg.jp/welfare/?content=63"
+    }
 ]

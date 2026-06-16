@@ -1368,294 +1368,715 @@
         "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
     },
     {
-        "id": 1295,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "八尾中学校区",
-        "name": "高齢者あんしんセンター萱振苑",
-        "tel": "072-928-7080",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1295,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "八尾中学校区",
+        "name":  "高齢者あんしんセンター萱振苑",
+        "tel":  "072-928-7080",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1296,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "桂中学校区",
-        "name": "高齢者あんしんセンタースローライフ北",
-        "tel": "072-924-3344",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1296,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "桂中学校区",
+        "name":  "高齢者あんしんセンタースローライフ北",
+        "tel":  "072-924-3344",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1297,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "上之島中学校区",
-        "name": "高齢者あんしんセンタースローライフ八尾",
-        "tel": "072-990-1220",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1297,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "上之島中学校区",
+        "name":  "高齢者あんしんセンタースローライフ八尾",
+        "tel":  "072-990-1220",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1298,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "龍華中学校区",
-        "name": "高齢者あんしんセンターりゅうげ",
-        "tel": "072-943-0261",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1298,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "龍華中学校区",
+        "name":  "高齢者あんしんセンターりゅうげ",
+        "tel":  "072-943-0261",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1299,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "亀井中学校区",
-        "name": "高齢者あんしんセンターホーム太子堂",
-        "tel": "072-996-0262",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1299,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "亀井中学校区",
+        "name":  "高齢者あんしんセンターホーム太子堂",
+        "tel":  "072-996-0262",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1300,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "久宝寺中学校区",
-        "name": "高齢者あんしんセンター久宝寺愛の郷",
-        "tel": "072-990-0337",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1300,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "久宝寺中学校区",
+        "name":  "高齢者あんしんセンター久宝寺愛の郷",
+        "tel":  "072-990-0337",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1301,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "志紀中学校区",
-        "name": "高齢者あんしんセンター楽寿",
-        "tel": "072-920-3612",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1301,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "志紀中学校区",
+        "name":  "高齢者あんしんセンター楽寿",
+        "tel":  "072-920-3612",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1302,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "大正中学校区",
-        "name": "高齢者あんしんセンターあおぞら",
-        "tel": "072-948-8222",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1302,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "大正中学校区",
+        "name":  "高齢者あんしんセンターあおぞら",
+        "tel":  "072-948-8222",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1303,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "曙川南中学校区",
-        "name": "高齢者あんしんセンター緑風園",
-        "tel": "072-949-6670",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1303,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "曙川南中学校区",
+        "name":  "高齢者あんしんセンター緑風園",
+        "tel":  "072-949-6670",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1304,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "成法中学校区",
-        "name": "高齢者あんしんセンター長生園",
-        "tel": "072-991-0182",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1304,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "成法中学校区",
+        "name":  "高齢者あんしんセンター長生園",
+        "tel":  "072-991-0182",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1305,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "曙川中学校区",
-        "name": "高齢者あんしんセンターサポートやお",
-        "tel": "072-925-1199",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1305,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "曙川中学校区",
+        "name":  "高齢者あんしんセンターサポートやお",
+        "tel":  "072-925-1199",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1306,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "高美中学校区",
-        "name": "高齢者あんしんセンター成法苑",
-        "tel": "072-994-8030",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1306,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "高美中学校区",
+        "name":  "高齢者あんしんセンター成法苑",
+        "tel":  "072-994-8030",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1307,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "高安中学校区",
-        "name": "高齢者あんしんセンター寿光園",
-        "tel": "072-940-5505",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1307,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "高安中学校区",
+        "name":  "高齢者あんしんセンター寿光園",
+        "tel":  "072-940-5505",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1308,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "南高安中学校区",
-        "name": "高齢者あんしんセンター信貴の里",
-        "tel": "072-940-5727",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1308,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "南高安中学校区",
+        "name":  "高齢者あんしんセンター信貴の里",
+        "tel":  "072-940-5727",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1309,
-        "prefecture": "大阪府",
-        "city": "八尾市",
-        "area": "東中学校区",
-        "name": "高齢者あんしんセンター中谷",
-        "tel": "072-943-0801",
-        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+        "id":  1309,
+        "prefecture":  "大阪府",
+        "city":  "八尾市",
+        "area":  "東中学校区",
+        "name":  "高齢者あんしんセンター中谷",
+        "tel":  "072-943-0801",
+        "url":  "https://www.city.yao.osaka.jp/0000008231.html"
     },
     {
-        "id": 1908,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "安岡寺町・大字原・樫田地区・花林苑・芝谷町・清水台・高見台・寺谷町・成合北の町・成合西の町・日吉台二〜五番町・日吉台七番町・真上町6丁目・松が丘3〜4丁目・緑が丘2丁目・弥生が丘町",
-        "name": "高槻北地域包括支援センター",
-        "tel": "072-687-0303",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1908,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "安岡寺町・大字原・樫田地区・花林苑・芝谷町・清水台・高見台・寺谷町・成合北の町・成合西の町・日吉台二〜五番町・日吉台七番町・真上町6丁目・松が丘3〜4丁目・緑が丘2丁目・弥生が丘町",
+        "name":  "高槻北地域包括支援センター",
+        "tel":  "072-687-0303",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1909,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "浦堂・浦堂本町・黄金の里・大蔵司・塚脇・南平台・西之川原・西真上・東城山町・真上町3〜5丁目・松が丘1〜2丁目・緑が丘1・3丁目・宮之川原・宮之川原元町・名神町",
-        "name": "清水地域包括支援センター",
-        "tel": "072-680-2239",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1909,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "浦堂・浦堂本町・黄金の里・大蔵司・塚脇・南平台・西之川原・西真上・東城山町・真上町3〜5丁目・松が丘1〜2丁目・緑が丘1・3丁目・宮之川原・宮之川原元町・名神町",
+        "name":  "清水地域包括支援センター",
+        "tel":  "072-680-2239",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1910,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "安満磐手町・安満北の町・安満御所の町・安満新町・安満中の町・安満西の町・安満東の町・美しが丘・大字川久保・大字成合・奥天神町・古曽部町・高垣町・月見町・天神町・成合中の町・成合東の町・成合南の町・八丁畷町・日吉台一番町・日吉台六番町・別所新町・別所中の町・別所本町・紅茸町・宮が谷町・山手町",
-        "name": "日吉台東地域包括支援センター",
-        "tel": "072-689-0184",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1910,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "安満磐手町・安満北の町・安満御所の町・安満新町・安満中の町・安満西の町・安満東の町・美しが丘・大字川久保・大字成合・奥天神町・古曽部町・高垣町・月見町・天神町・成合中の町・成合東の町・成合南の町・八丁畷町・日吉台一番町・日吉台六番町・別所新町・別所中の町・別所本町・紅茸町・宮が谷町・山手町",
+        "name":  "日吉台東地域包括支援センター",
+        "tel":  "072-689-0184",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1911,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "明野町・井尻・梶原・梶原中村町・上牧町・上牧北駅前町・上牧南駅前町・上牧山手町・神内・五領町・千代田町・天王町・道鵜町・野田・野田東・萩之庄・東天川4〜5丁目・東上牧・緑町・宮野町・淀の原町",
-        "name": "五領・上牧地域包括支援センター",
-        "tel": "072-660-3100",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1911,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "明野町・井尻・梶原・梶原中村町・上牧町・上牧北駅前町・上牧南駅前町・上牧山手町・神内・五領町・千代田町・天王町・道鵜町・野田・野田東・萩之庄・東天川4〜5丁目・東上牧・緑町・宮野町・淀の原町",
+        "name":  "五領・上牧地域包括支援センター",
+        "tel":  "072-660-3100",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1912,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "天川町・天川新町・永楽町・大手町・春日町・上本町・京口町・高西町・沢良木町・下田部町1丁目・城東町・城内町・城南町・須賀町・土橋町・東天川1〜3丁目・日向町・藤の里町・本町・前島・松原町・南松原町・八幡町",
-        "name": "天川地域包括支援センター",
-        "tel": "072-669-5703",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1912,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "天川町・天川新町・永楽町・大手町・春日町・上本町・京口町・高西町・沢良木町・下田部町1丁目・城東町・城内町・城南町・須賀町・土橋町・東天川1〜3丁目・日向町・藤の里町・本町・前島・松原町・南松原町・八幡町",
+        "name":  "天川地域包括支援センター",
+        "tel":  "072-669-5703",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1913,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "大冠町・大塚町・北大樋町・辻子・竹の内町・東和町・西冠・番田・深沢町・深沢本町・松川町・南大樋町・若松町",
-        "name": "冠・大塚地域包括支援センター",
-        "tel": "072-662-6363",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1913,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "大冠町・大塚町・北大樋町・辻子・竹の内町・東和町・西冠・番田・深沢町・深沢本町・松川町・南大樋町・若松町",
+        "name":  "冠・大塚地域包括支援センター",
+        "tel":  "072-662-6363",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1914,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "川添・寿町3丁目・栄町2〜4丁目・芝生町・下田部町2丁目・堤町・西大樋町・登町",
-        "name": "富田南・下田部地域包括支援センター",
-        "tel": "072-673-7011",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1914,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "川添・寿町3丁目・栄町2〜4丁目・芝生町・下田部町2丁目・堤町・西大樋町・登町",
+        "name":  "富田南・下田部地域包括支援センター",
+        "tel":  "072-673-7011",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1915,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "大字唐崎・大字西面・大字三島江・唐崎北・唐崎中・唐崎西・唐崎南・西面北町・西面中町・西面南町・三箇牧・玉川・玉川新町・西町・柱本・柱本新町・柱本南町・牧田町・三島江",
-        "name": "三箇牧地域包括支援センター",
-        "tel": "072-679-1770",
-        "phones": [
-            { "label": "電話番号1", "number": "072-679-1770" },
-            { "label": "電話番号2", "number": "072-679-1771" }
-        ],
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1915,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "大字唐崎・大字西面・大字三島江・唐崎北・唐崎中・唐崎西・唐崎南・西面北町・西面中町・西面南町・三箇牧・玉川・玉川新町・西町・柱本・柱本新町・柱本南町・牧田町・三島江",
+        "name":  "三箇牧地域包括支援センター",
+        "tel":  "072-679-1770",
+        "phones":  [
+                       {
+                           "label":  "電話番号1",
+                           "number":  "072-679-1770"
+                       },
+                       {
+                           "label":  "電話番号2",
+                           "number":  "072-679-1771"
+                       }
+                   ],
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1916,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "芥川町1丁目・明田町・上田辺町・川西町3丁目・北園町・紺屋町・桜町・城西町・庄所町・城北町・大学町・高槻町・津之江町・津之江北町・出丸町・桃園町・中川町・如是町・野見町・白梅町・八丁西町・南庄所町",
-        "name": "高槻中央地域包括支援センター",
-        "tel": "072-676-9522",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1916,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "芥川町1丁目・明田町・上田辺町・川西町3丁目・北園町・紺屋町・桜町・城西町・庄所町・城北町・大学町・高槻町・津之江町・津之江北町・出丸町・桃園町・中川町・如是町・野見町・白梅町・八丁西町・南庄所町",
+        "name":  "高槻中央地域包括支援センター",
+        "tel":  "072-676-9522",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1917,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "北昭和台町・北柳川町・寿町1〜2丁目・栄町1丁目・桜ケ丘北町・桜ケ丘南町・昭和台町・登美の里町・富田町・西五百住町・東五百住町・南総持寺町・柳川町",
-        "name": "富田地域包括支援センター",
-        "tel": "072-694-2434",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1917,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "北昭和台町・北柳川町・寿町1〜2丁目・栄町1丁目・桜ケ丘北町・桜ケ丘南町・昭和台町・登美の里町・富田町・西五百住町・東五百住町・南総持寺町・柳川町",
+        "name":  "富田地域包括支援センター",
+        "tel":  "072-694-2434",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1918,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "赤大路町・芥川町2〜4丁目・朝日町・今城町・大畑町・岡本町・川西町1〜2丁目・郡家新町・郡家本町・幸町・清福寺町・殿町・富田丘町・氷室町1丁目・真上町1〜2丁目・南芥川町・宮田町3丁目・紫町",
-        "name": "郡家地域包括支援センター",
-        "tel": "072-681-8181",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1918,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "赤大路町・芥川町2〜4丁目・朝日町・今城町・大畑町・岡本町・川西町1〜2丁目・郡家新町・郡家本町・幸町・清福寺町・殿町・富田丘町・氷室町1丁目・真上町1〜2丁目・南芥川町・宮田町3丁目・紫町",
+        "name":  "郡家地域包括支援センター",
+        "tel":  "072-681-8181",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
     {
-        "id": 1919,
-        "prefecture": "大阪府",
-        "city": "高槻市",
-        "area": "阿武野・大字奈佐原・大字萩谷・上土室・大和・塚原・奈佐原・奈佐原元町・萩谷月見台・土室町・氷室町2〜6丁目・宮田町1〜2丁目・霊仙寺町",
-        "name": "阿武山地域包括支援センター",
-        "tel": "072-692-3112",
-        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+        "id":  1919,
+        "prefecture":  "大阪府",
+        "city":  "高槻市",
+        "area":  "阿武野・大字奈佐原・大字萩谷・上土室・大和・塚原・奈佐原・奈佐原元町・萩谷月見台・土室町・氷室町2〜6丁目・宮田町1〜2丁目・霊仙寺町",
+        "name":  "阿武山地域包括支援センター",
+        "tel":  "072-692-3112",
+        "url":  "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     },
-    {"id":2269,"prefecture":"大阪府","city":"寝屋川市","area":"第三・北・田井","name":"第三中学校区地域包括支援センター","tel":"072-831-2839","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2270,"prefecture":"大阪府","city":"寝屋川市","area":"友呂岐・木屋・石津","name":"友呂岐中学校区地域包括支援センター","tel":"072-827-2277","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2271,"prefecture":"大阪府","city":"寝屋川市","area":"第六・第五・国松緑丘","name":"第六中学校区地域包括支援センター","tel":"072-800-6237","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2272,"prefecture":"大阪府","city":"寝屋川市","area":"第十・三井・宇谷","name":"第十中学校区地域包括支援センター","tel":"072-825-8020","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2273,"prefecture":"大阪府","city":"寝屋川市","area":"第一・東・中央","name":"第一中学校区地域包括支援センター","tel":"072-821-2261","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2274,"prefecture":"大阪府","city":"寝屋川市","area":"望が丘","name":"望が丘中学校区地域包括支援センター","tel":"072-814-5112","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2275,"prefecture":"大阪府","city":"寝屋川市","area":"第七・南・堀溝","name":"第七中学校区地域包括支援センター","tel":"072-824-3000","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2276,"prefecture":"大阪府","city":"寝屋川市","area":"中木田・木田・楠根","name":"中木田中学校区地域包括支援センター","tel":"072-814-6006","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2277,"prefecture":"大阪府","city":"寝屋川市","area":"第五・神田・和光","name":"第五中学校区地域包括支援センター","tel":"072-839-6700","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2278,"prefecture":"大阪府","city":"寝屋川市","area":"第九・成美・啓明","name":"第九中学校区地域包括支援センター","tel":"072-827-8200","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2279,"prefecture":"大阪府","city":"寝屋川市","area":"第二・池田・桜","name":"第二中学校区地域包括支援センター","tel":"072-829-8899","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2280,"prefecture":"大阪府","city":"寝屋川市","area":"第八・西・点野","name":"第八中学校区地域包括支援センター","tel":"072-839-5500","url":"https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"},
-    {"id":2307,"prefecture":"大阪府","city":"茨木市","area":"清溪・忍頂寺・山手台","name":"清溪・忍頂寺・山手台地域包括支援センター","tel":"072-649-1808","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2308,"prefecture":"大阪府","city":"茨木市","area":"安威・福井・耳原","name":"安威・福井・耳原地域包括支援センター","tel":"072-640-3960","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2309,"prefecture":"大阪府","city":"茨木市","area":"豊川・郡山・彩都西","name":"豊川・郡山・彩都西地域包括支援センター","tel":"072-641-3164","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2310,"prefecture":"大阪府","city":"茨木市","area":"太田・西河原","name":"太田・西河原地域包括支援センター","tel":"072-631-5200","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2311,"prefecture":"大阪府","city":"茨木市","area":"三島・庄栄","name":"三島・庄栄地域包括支援センター","tel":"072-631-5566","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2312,"prefecture":"大阪府","city":"茨木市","area":"東・白川","name":"東・白川地域包括支援センター","tel":"072-636-8686","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2313,"prefecture":"大阪府","city":"茨木市","area":"春日・郡・畑田","name":"春日・郡・畑田地域包括支援センター","tel":"072-646-5685","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2314,"prefecture":"大阪府","city":"茨木市","area":"沢池・西","name":"沢池・西地域包括支援センター","tel":"072-625-6575","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2315,"prefecture":"大阪府","city":"茨木市","area":"春日丘・穂積","name":"春日丘・穂積地域包括支援センター","tel":"072-646-5406","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2316,"prefecture":"大阪府","city":"茨木市","area":"茨木・中条","name":"茨木・中条地域包括支援センター","tel":"072-646-5399","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2317,"prefecture":"大阪府","city":"茨木市","area":"大池・中津","name":"大池・中津地域包括支援センター","tel":"072-697-8067","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2318,"prefecture":"大阪府","city":"茨木市","area":"天王・東奈良","name":"天王・東奈良地域包括支援センター","tel":"072-648-7071","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2319,"prefecture":"大阪府","city":"茨木市","area":"玉櫛・水尾","name":"玉櫛・水尾地域包括支援センター","tel":"072-652-5810","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2320,"prefecture":"大阪府","city":"茨木市","area":"玉島・葦原","name":"玉島・葦原地域包括支援センター","tel":"072-636-8000","url":"https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"},
-    {"id":2417,"prefecture":"大阪府","city":"和泉市","area":"信太・富秋中学校区","name":"和泉市社会福祉協議会地域包括支援センター","tel":"0725-40-5377","url":"https://www.city.osaka-izumi.lg.jp/kakukano/fukusibu/koureikaigo/gyoumu/madoguti/tiikihoukatu.html"},
-    {"id":2418,"prefecture":"大阪府","city":"和泉市","area":"和泉・郷荘中学校区","name":"ビオラ和泉地域包括支援センター","tel":"0725-46-0463","url":"https://www.city.osaka-izumi.lg.jp/kakukano/fukusibu/koureikaigo/gyoumu/madoguti/tiikihoukatu.html"},
-    {"id":2419,"prefecture":"大阪府","city":"和泉市","area":"北池田・石尾中学校区","name":"光明荘地域包括支援センター","tel":"0725-56-1886","url":"https://www.city.osaka-izumi.lg.jp/kakukano/fukusibu/koureikaigo/gyoumu/madoguti/tiikihoukatu.html"},
-    {"id":2420,"prefecture":"大阪府","city":"和泉市","area":"光明台・南池田・南松尾・初芽・槙尾中学校区","name":"貴生会地域包括支援センター","tel":"0725-58-7002","url":"https://www.city.osaka-izumi.lg.jp/kakukano/fukusibu/koureikaigo/gyoumu/madoguti/tiikihoukatu.html"},
-    {"id":2441,"prefecture":"大阪府","city":"守口市","area":"よつば・梶・藤田・八雲東（大日東町1番～10番）","name":"守口第1地域包括支援センター","tel":"06-6904-8900","url":"https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"},
-    {"id":2442,"prefecture":"大阪府","city":"守口市","area":"庭窪・金田・佐太","name":"守口第2地域包括支援センター","tel":"06-4393-8401","url":"https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"},
-    {"id":2443,"prefecture":"大阪府","city":"守口市","area":"八雲・下島","name":"守口第3地域包括支援センター","tel":"06-6908-2808","url":"https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"},
-    {"id":2444,"prefecture":"大阪府","city":"守口市","area":"八雲東（大日東町11番以降）・守口・さつき（旧滝井）","name":"守口第4地域包括支援センター","tel":"06-4250-7878","url":"https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"},
-    {"id":2445,"prefecture":"大阪府","city":"守口市","area":"さつき（旧春日）・さくら（旧三郷・旧橋波）","name":"守口第5地域包括支援センター","tel":"06-6992-1180","url":"https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"},
-    {"id":2446,"prefecture":"大阪府","city":"守口市","area":"寺方南・錦","name":"守口第6地域包括支援センター","tel":"06-6997-3336","url":"https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"},
-    {"id":2447,"prefecture":"大阪府","city":"岸和田市","area":"中央・朝陽・東光・大宮校区","name":"岸和田市地域包括支援センター社協","tel":"072-439-0361","url":"https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"},
-    {"id":2448,"prefecture":"大阪府","city":"岸和田市","area":"春木・城北・新条・大芝校区","name":"岸和田市地域包括支援センターいなば荘北部","tel":"072-447-4178","url":"https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"},
-    {"id":2449,"prefecture":"大阪府","city":"岸和田市","area":"旭・太田・天神山・修斉・東葛城校区","name":"岸和田市地域包括支援センター萬寿園葛城の谷","tel":"072-430-5800","url":"https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"},
-    {"id":2450,"prefecture":"大阪府","city":"岸和田市","area":"光明・常盤・八木南・城内・浜校区","name":"岸和田市地域包括支援センター萬寿園中部","tel":"072-445-7789","url":"https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"},
-    {"id":2451,"prefecture":"大阪府","city":"岸和田市","area":"八木・八木北・八木南・山直北校区","name":"岸和田市地域包括支援センター社協久米田","tel":"072-445-6616","url":"https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"},
-    {"id":2452,"prefecture":"大阪府","city":"岸和田市","area":"山直北・岡山・城東・山直南・山滝校区","name":"岸和田市地域包括支援センターいなば荘牛滝の谷","tel":"072-479-1212","url":"https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"},
-    {"id":2933,"prefecture":"大阪府","city":"松原市","area":"国道309号東側","name":"松原市地域包括支援センター社会福祉協議会","tel":"072-349-2112","url":"https://www.city.matsubara.lg.jp/soshiki/kourei_kaigo/kaigohoken/2814.html"},
-    {"id":2934,"prefecture":"大阪府","city":"松原市","area":"国道309号西側","name":"松原市地域包括支援センター徳洲会","tel":"072-334-3439","url":"https://www.city.matsubara.lg.jp/soshiki/kourei_kaigo/kaigohoken/2814.html"}
+    {
+        "id":  2269,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "第三・北・田井",
+        "name":  "第三中学校区地域包括支援センター",
+        "tel":  "072-831-2839",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2270,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "友呂岐・木屋・石津",
+        "name":  "友呂岐中学校区地域包括支援センター",
+        "tel":  "072-827-2277",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2271,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "第六・第五・国松緑丘",
+        "name":  "第六中学校区地域包括支援センター",
+        "tel":  "072-800-6237",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2272,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "第十・三井・宇谷",
+        "name":  "第十中学校区地域包括支援センター",
+        "tel":  "072-825-8020",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2273,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "第一・東・中央",
+        "name":  "第一中学校区地域包括支援センター",
+        "tel":  "072-821-2261",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2274,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "望が丘",
+        "name":  "望が丘中学校区地域包括支援センター",
+        "tel":  "072-814-5112",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2275,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "第七・南・堀溝",
+        "name":  "第七中学校区地域包括支援センター",
+        "tel":  "072-824-3000",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2276,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "中木田・木田・楠根",
+        "name":  "中木田中学校区地域包括支援センター",
+        "tel":  "072-814-6006",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2277,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "第五・神田・和光",
+        "name":  "第五中学校区地域包括支援センター",
+        "tel":  "072-839-6700",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2278,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "第九・成美・啓明",
+        "name":  "第九中学校区地域包括支援センター",
+        "tel":  "072-827-8200",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2279,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "第二・池田・桜",
+        "name":  "第二中学校区地域包括支援センター",
+        "tel":  "072-829-8899",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2280,
+        "prefecture":  "大阪府",
+        "city":  "寝屋川市",
+        "area":  "第八・西・点野",
+        "name":  "第八中学校区地域包括支援センター",
+        "tel":  "072-839-5500",
+        "url":  "https://www.city.neyagawa.osaka.jp/organization_list/fukushi/koreikaigoka/chiiki/houkatu/1454388077114.html"
+    },
+    {
+        "id":  2307,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "清溪・忍頂寺・山手台",
+        "name":  "清溪・忍頂寺・山手台地域包括支援センター",
+        "tel":  "072-649-1808",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2308,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "安威・福井・耳原",
+        "name":  "安威・福井・耳原地域包括支援センター",
+        "tel":  "072-640-3960",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2309,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "豊川・郡山・彩都西",
+        "name":  "豊川・郡山・彩都西地域包括支援センター",
+        "tel":  "072-641-3164",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2310,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "太田・西河原",
+        "name":  "太田・西河原地域包括支援センター",
+        "tel":  "072-631-5200",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2311,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "三島・庄栄",
+        "name":  "三島・庄栄地域包括支援センター",
+        "tel":  "072-631-5566",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2312,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "東・白川",
+        "name":  "東・白川地域包括支援センター",
+        "tel":  "072-636-8686",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2313,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "春日・郡・畑田",
+        "name":  "春日・郡・畑田地域包括支援センター",
+        "tel":  "072-646-5685",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2314,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "沢池・西",
+        "name":  "沢池・西地域包括支援センター",
+        "tel":  "072-625-6575",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2315,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "春日丘・穂積",
+        "name":  "春日丘・穂積地域包括支援センター",
+        "tel":  "072-646-5406",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2316,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "茨木・中条",
+        "name":  "茨木・中条地域包括支援センター",
+        "tel":  "072-646-5399",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2317,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "大池・中津",
+        "name":  "大池・中津地域包括支援センター",
+        "tel":  "072-697-8067",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2318,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "天王・東奈良",
+        "name":  "天王・東奈良地域包括支援センター",
+        "tel":  "072-648-7071",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2319,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "玉櫛・水尾",
+        "name":  "玉櫛・水尾地域包括支援センター",
+        "tel":  "072-652-5810",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2320,
+        "prefecture":  "大阪府",
+        "city":  "茨木市",
+        "area":  "玉島・葦原",
+        "name":  "玉島・葦原地域包括支援センター",
+        "tel":  "072-636-8000",
+        "url":  "https://www.city.ibaraki.osaka.jp/kikou/kenkof/soudanshien/menu/chikihokatsushien/hokatsushiensentatoha.html"
+    },
+    {
+        "id":  2417,
+        "prefecture":  "大阪府",
+        "city":  "和泉市",
+        "area":  "信太・富秋中学校区",
+        "name":  "和泉市社会福祉協議会地域包括支援センター",
+        "tel":  "0725-40-5377",
+        "url":  "https://www.city.osaka-izumi.lg.jp/kakukano/fukusibu/koureikaigo/gyoumu/madoguti/tiikihoukatu.html"
+    },
+    {
+        "id":  2418,
+        "prefecture":  "大阪府",
+        "city":  "和泉市",
+        "area":  "和泉・郷荘中学校区",
+        "name":  "ビオラ和泉地域包括支援センター",
+        "tel":  "0725-46-0463",
+        "url":  "https://www.city.osaka-izumi.lg.jp/kakukano/fukusibu/koureikaigo/gyoumu/madoguti/tiikihoukatu.html"
+    },
+    {
+        "id":  2419,
+        "prefecture":  "大阪府",
+        "city":  "和泉市",
+        "area":  "北池田・石尾中学校区",
+        "name":  "光明荘地域包括支援センター",
+        "tel":  "0725-56-1886",
+        "url":  "https://www.city.osaka-izumi.lg.jp/kakukano/fukusibu/koureikaigo/gyoumu/madoguti/tiikihoukatu.html"
+    },
+    {
+        "id":  2420,
+        "prefecture":  "大阪府",
+        "city":  "和泉市",
+        "area":  "光明台・南池田・南松尾・初芽・槙尾中学校区",
+        "name":  "貴生会地域包括支援センター",
+        "tel":  "0725-58-7002",
+        "url":  "https://www.city.osaka-izumi.lg.jp/kakukano/fukusibu/koureikaigo/gyoumu/madoguti/tiikihoukatu.html"
+    },
+    {
+        "id":  2441,
+        "prefecture":  "大阪府",
+        "city":  "守口市",
+        "area":  "よつば・梶・藤田・八雲東（大日東町1番～10番）",
+        "name":  "守口第1地域包括支援センター",
+        "tel":  "06-6904-8900",
+        "url":  "https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"
+    },
+    {
+        "id":  2442,
+        "prefecture":  "大阪府",
+        "city":  "守口市",
+        "area":  "庭窪・金田・佐太",
+        "name":  "守口第2地域包括支援センター",
+        "tel":  "06-4393-8401",
+        "url":  "https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"
+    },
+    {
+        "id":  2443,
+        "prefecture":  "大阪府",
+        "city":  "守口市",
+        "area":  "八雲・下島",
+        "name":  "守口第3地域包括支援センター",
+        "tel":  "06-6908-2808",
+        "url":  "https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"
+    },
+    {
+        "id":  2444,
+        "prefecture":  "大阪府",
+        "city":  "守口市",
+        "area":  "八雲東（大日東町11番以降）・守口・さつき（旧滝井）",
+        "name":  "守口第4地域包括支援センター",
+        "tel":  "06-4250-7878",
+        "url":  "https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"
+    },
+    {
+        "id":  2445,
+        "prefecture":  "大阪府",
+        "city":  "守口市",
+        "area":  "さつき（旧春日）・さくら（旧三郷・旧橋波）",
+        "name":  "守口第5地域包括支援センター",
+        "tel":  "06-6992-1180",
+        "url":  "https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"
+    },
+    {
+        "id":  2446,
+        "prefecture":  "大阪府",
+        "city":  "守口市",
+        "area":  "寺方南・錦",
+        "name":  "守口第6地域包括支援センター",
+        "tel":  "06-6997-3336",
+        "url":  "https://www.city.moriguchi.osaka.jp/kakukanoannai/kenkofukushibu/koreikaigoka/koureikaigo/kaigohoken/jigyosya/1/1049.html"
+    },
+    {
+        "id":  2447,
+        "prefecture":  "大阪府",
+        "city":  "岸和田市",
+        "area":  "中央・朝陽・東光・大宮校区",
+        "name":  "岸和田市地域包括支援センター社協",
+        "tel":  "072-439-0361",
+        "url":  "https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"
+    },
+    {
+        "id":  2448,
+        "prefecture":  "大阪府",
+        "city":  "岸和田市",
+        "area":  "春木・城北・新条・大芝校区",
+        "name":  "岸和田市地域包括支援センターいなば荘北部",
+        "tel":  "072-447-4178",
+        "url":  "https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"
+    },
+    {
+        "id":  2449,
+        "prefecture":  "大阪府",
+        "city":  "岸和田市",
+        "area":  "旭・太田・天神山・修斉・東葛城校区",
+        "name":  "岸和田市地域包括支援センター萬寿園葛城の谷",
+        "tel":  "072-430-5800",
+        "url":  "https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"
+    },
+    {
+        "id":  2450,
+        "prefecture":  "大阪府",
+        "city":  "岸和田市",
+        "area":  "光明・常盤・八木南・城内・浜校区",
+        "name":  "岸和田市地域包括支援センター萬寿園中部",
+        "tel":  "072-445-7789",
+        "url":  "https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"
+    },
+    {
+        "id":  2451,
+        "prefecture":  "大阪府",
+        "city":  "岸和田市",
+        "area":  "八木・八木北・八木南・山直北校区",
+        "name":  "岸和田市地域包括支援センター社協久米田",
+        "tel":  "072-445-6616",
+        "url":  "https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"
+    },
+    {
+        "id":  2452,
+        "prefecture":  "大阪府",
+        "city":  "岸和田市",
+        "area":  "山直北・岡山・城東・山直南・山滝校区",
+        "name":  "岸和田市地域包括支援センターいなば荘牛滝の谷",
+        "tel":  "072-479-1212",
+        "url":  "https://www.city.kishiwada.lg.jp/page/30-houkatsu3006.html"
+    },
+    {
+        "id":  2933,
+        "prefecture":  "大阪府",
+        "city":  "松原市",
+        "area":  "国道309号東側",
+        "name":  "松原市地域包括支援センター社会福祉協議会",
+        "tel":  "072-349-2112",
+        "url":  "https://www.city.matsubara.lg.jp/soshiki/kourei_kaigo/kaigohoken/2814.html"
+    },
+    {
+        "id":  2934,
+        "prefecture":  "大阪府",
+        "city":  "松原市",
+        "area":  "国道309号西側",
+        "name":  "松原市地域包括支援センター徳洲会",
+        "tel":  "072-334-3439",
+        "url":  "https://www.city.matsubara.lg.jp/soshiki/kourei_kaigo/kaigohoken/2814.html"
+    },
+    {
+        "id":  2935,
+        "prefecture":  "大阪府",
+        "city":  "大東市",
+        "area":  "西部",
+        "name":  "大東市西部地域包括支援センター",
+        "tel":  "072-800-3161",
+        "url":  "https://www.wakakoukai.or.jp/zaitaku/daitoushicyuubuhhoukatsushien/chiikihoukatsushien/"
+    },
+    {
+        "id":  2936,
+        "prefecture":  "大阪府",
+        "city":  "大東市",
+        "area":  "南部",
+        "name":  "大東市南部地域包括支援センター",
+        "tel":  "072-800-3402",
+        "url":  "https://www.wakakoukai.or.jp/zaitaku/daitoushicyuubuhhoukatsushien/chiikihoukatsushien/"
+    },
+    {
+        "id":  2937,
+        "prefecture":  "大阪府",
+        "city":  "大東市",
+        "area":  "北部",
+        "name":  "大東市北部地域包括支援センター",
+        "tel":  "072-800-3766",
+        "url":  "https://www.advance0207.co.jp/facility/daitosupportcenter/"
+    },
+    {
+        "id":  2938,
+        "prefecture":  "大阪府",
+        "city":  "大東市",
+        "area":  "東部",
+        "name":  "大東市東部地域包括支援センター",
+        "tel":  "072-800-3923",
+        "url":  "https://www.tokushukai.or.jp/introduction/facility/ns-daitoshisiencenter"
+    },
+    {
+        "id":  2939,
+        "prefecture":  "大阪府",
+        "city":  "羽曳野市",
+        "area":  "東圏域（古市・古市南・駒ヶ谷・白鳥・西浦・西浦東）",
+        "name":  "羽曳野市東圏域地域包括支援センター",
+        "tel":  "072-958-1188",
+        "url":  "https://www.city.habikino.lg.jp/soshiki/hokenfukushi/tiikihoukatsu/houkatucenter/15138.html"
+    },
+    {
+        "id":  2940,
+        "prefecture":  "大阪府",
+        "city":  "羽曳野市",
+        "area":  "西圏域（高鷲・高鷲北・高鷲南・恵我ノ荘・丹比）",
+        "name":  "羽曳野市西圏域地域包括支援センター",
+        "tel":  "072-953-1003",
+        "url":  "https://www.heartful-health.or.jp/chiikihoukatsu/"
+    },
+    {
+        "id":  2941,
+        "prefecture":  "大阪府",
+        "city":  "羽曳野市",
+        "area":  "中圏域（はびきの埴生学園・羽曳が丘・埴生南）",
+        "name":  "羽曳野市中圏域地域包括支援センター",
+        "tel":  "072-959-2006",
+        "url":  "https://www.shitennoji-fukushi.jp/aged/hidenin-zaitaku/"
+    }
 ]

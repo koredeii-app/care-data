@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":  1106,
         "prefecture":  "石川県",
@@ -178,5 +178,86 @@
         "name":  "金沢市地域包括支援センター かみあらや",
         "tel":  "076-269-0850",
         "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1126,
+        "prefecture":  "石川県",
+        "city":  "小松市",
+        "area":  "芦城、第一（糸町・白江町・白松町を除く）",
+        "name":  "丸内・芦城高齢者総合相談センター",
+        "tel":  "0761-23-5225",
+        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+    },
+    {
+        "id":  1127,
+        "prefecture":  "石川県",
+        "city":  "小松市",
+        "area":  "稚松（上牧町・下牧町を除く）、第一（糸町・白江町・白松町）",
+        "name":  "丸内・芦城第二高齢者総合相談センター",
+        "tel":  "0761-22-5070",
+        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+    },
+    {
+        "id":  1128,
+        "prefecture":  "石川県",
+        "city":  "小松市",
+        "area":  "安宅（上牧町・下牧町を含む）",
+        "name":  "安宅・板津高齢者総合相談センター",
+        "tel":  "0761-41-6055",
+        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+    },
+    {
+        "id":  1129,
+        "prefecture":  "石川県",
+        "city":  "小松市",
+        "area":  "犬丸・荒屋・能美",
+        "name":  "安宅・板津第二高齢者総合相談センター",
+        "tel":  "0761-46-6192",
+        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+    },
+    {
+        "id":  1130,
+        "prefecture":  "石川県",
+        "city":  "小松市",
+        "area":  "向本折町・苗代・蓮代寺・今江・串・日末",
+        "name":  "松陽・御幸高齢者総合相談センター",
+        "tel":  "0761-22-2280",
+        "url":  "https://syoujyuen.jp/service1/detail1-1/"
+    },
+    {
+        "id":  1131,
+        "prefecture":  "石川県",
+        "city":  "小松市",
+        "area":  "国府・中海・東陵",
+        "name":  "国府・中海高齢者総合相談センター",
+        "tel":  "0761-47-2921",
+        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+    },
+    {
+        "id":  1132,
+        "prefecture":  "石川県",
+        "city":  "小松市",
+        "area":  "金野・波佐谷・西尾",
+        "name":  "松東高齢者総合相談センター",
+        "tel":  "0761-46-8211",
+        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+    },
+    {
+        "id":  1133,
+        "prefecture":  "石川県",
+        "city":  "小松市",
+        "area":  "粟津・那谷・矢田野",
+        "name":  "南部高齢者総合相談センター",
+        "tel":  "0761-65-3131",
+        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+    },
+    {
+        "id":  1134,
+        "prefecture":  "石川県",
+        "city":  "小松市",
+        "area":  "月津・木場・符津",
+        "name":  "南部第二高齢者総合相談センター",
+        "tel":  "0761-44-5750",
+        "url":  "https://choureikai.com/pages/87/"
     }
 ]
