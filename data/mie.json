@@ -32,10 +32,10 @@
     {"id":2690,"prefecture":"三重県","city":"桑名市","area":"筒尾・大山田・野田・松ノ木・藤が丘・新西方・星見ヶ丘・陽だまりの丘・多度","name":"北部西地域包括支援センター（多度）","tel":"0594-49-2031","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/004.html"},
     {"id":2691,"prefecture":"三重県","city":"桑名市","area":"筒尾・大山田・野田・松ノ木・藤が丘・新西方・星見ヶ丘・陽だまりの丘・多度","name":"北部西地域包括支援センター（大山田）","tel":"0594-41-2114","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/006.html"},
     {"id":2692,"prefecture":"三重県","city":"桑名市","area":"深谷・大和・長島","name":"北部東地域包括支援センター","tel":"0594-42-2119","url":"https://www.city.kuwana.lg.jp/shisetsu/houkatsushien/005.html"},
-    {"id":2923,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター東","tel":"0596-44-1165","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
-    {"id":2924,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター五十鈴","tel":"0596-20-5500","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
-    {"id":2925,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター北","tel":"0596-65-5070","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
-    {"id":2926,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター中部","tel":"0596-27-2424","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
-    {"id":2927,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター南","tel":"0596-21-0080","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
-    {"id":2928,"prefecture":"三重県","city":"伊勢市","area":"","name":"伊勢市地域包括支援センター西","tel":"0596-20-5055","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"}
+    {"id":2923,"prefecture":"三重県","city":"伊勢市","area":"黒瀬町・通町・一色町・田尻町・二見町","name":"伊勢市地域包括支援センター東","tel":"0596-44-1165","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2924,"prefecture":"三重県","city":"伊勢市","area":"宇治館町・宇治今在家町・宇治中之切町・宇治浦田1～3丁目・桜木町・中之町・中村町桜が丘・古市町・久世戸町・倭町・中村町・楠部町・一宇田町・朝熊町・鹿海町","name":"伊勢市地域包括支援センター五十鈴","tel":"0596-20-5500","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2925,"prefecture":"三重県","city":"伊勢市","area":"神社港・竹ヶ鼻町・小木町・馬瀬町・下野町・大湊町・御薗町","name":"伊勢市地域包括支援センター北","tel":"0596-65-5070","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2926,"prefecture":"三重県","city":"伊勢市","area":"尾上町・岡本1～3丁目・岩渕町・岩渕1～3丁目・吹上1～2丁目・河崎1～3丁目・船江1～4丁目・豊川町・本町・宮後1～3丁目・一之木1～5丁目・一志町・八日市場町・大世古1～4丁目・曽祢1～2丁目・神田久志本町・神久1～6丁目","name":"伊勢市地域包括支援センター中部","tel":"0596-27-2424","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2927,"prefecture":"三重県","city":"伊勢市","area":"宮町1～2丁目・常磐町・常磐1～3丁目・浦口町・浦口1～4丁目・二俣町・二俣1～4丁目・辻久留町・辻久留1～3丁目・中島1～2丁目・宮川1～2丁目・勢田町・旭町・藤里町・前山町・大倉町・佐八町・津村町・上野町・円座町・神薗町・横輪町・矢持町","name":"伊勢市地域包括支援センター南","tel":"0596-21-0080","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"},
+    {"id":2928,"prefecture":"三重県","city":"伊勢市","area":"西豊浜町・植山町・磯町・東豊浜町・樫原町・有滝町・村松町・東大淀町・柏町・上地町・粟野町・中須町・川端町・小俣町・野村町","name":"伊勢市地域包括支援センター西","tel":"0596-20-5055","url":"https://www.city.ise.mie.jp/kenkou_fukushi/koureisya/houkatsu/index.html"}
 ]
