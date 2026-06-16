@@ -1303,5 +1303,86 @@
         "name": "北里地域包括支援センターゆうあい",
         "tel": "0568-43-2260",
         "url": "https://www.city.komaki.aichi.jp/admin/soshiki/fukushi/houkatsu/2/chiikihoukatsushiensenter/30951.html"
+    },
+    {
+        "id": 2831,
+        "prefecture": "愛知県",
+        "city": "瀬戸市",
+        "area": "陶原・長根",
+        "name": "やすらぎ地域包括支援センター",
+        "tel": "0561-84-2287",
+        "url": "https://www.city.seto.aichi.jp/docs/2010/11/10/01871/"
+    },
+    {
+        "id": 2832,
+        "prefecture": "愛知県",
+        "city": "瀬戸市",
+        "area": "效範・水南",
+        "name": "ふたば地域包括支援センター",
+        "tel": "0561-87-4139",
+        "url": "https://www.city.seto.aichi.jp/docs/2010/11/10/01873/"
+    },
+    {
+        "id": 2833,
+        "prefecture": "愛知県",
+        "city": "瀬戸市",
+        "area": "山口・本地・菱野・新郷",
+        "name": "はたやま地域包括支援センター",
+        "tel": "0561-89-6165",
+        "url": "https://www.city.seto.aichi.jp/docs/2010/11/10/01874/"
+    },
+    {
+        "id": 2834,
+        "prefecture": "愛知県",
+        "city": "瀬戸市",
+        "area": "東明・品野・下品野",
+        "name": "地域包括支援センターしなの",
+        "tel": "0561-41-3231",
+        "url": "https://www.city.seto.aichi.jp/docs/2010/11/10/01875/"
+    },
+    {
+        "id": 2835,
+        "prefecture": "愛知県",
+        "city": "瀬戸市",
+        "area": "祖母懐・原山台・萩山台・八幡台",
+        "name": "地域包括支援センターせと",
+        "tel": "0561-97-0552",
+        "url": "https://www.city.seto.aichi.jp/docs/2010/11/10/01876/"
+    },
+    {
+        "id": 2836,
+        "prefecture": "愛知県",
+        "city": "瀬戸市",
+        "area": "水野・西陵",
+        "name": "水野地域包括支援センター",
+        "tel": "0561-86-8770",
+        "url": "https://www.city.seto.aichi.jp/docs/2010/11/10/01877/"
+    },
+    {
+        "id": 2837,
+        "prefecture": "愛知県",
+        "city": "瀬戸市",
+        "area": "道泉・深川・古瀬戸",
+        "name": "地域包括支援センター中央東",
+        "tel": "0561-87-5083",
+        "url": "https://www.city.seto.aichi.jp/docs/2010/11/10/01872/"
+    },
+    {
+        "id": 2838,
+        "prefecture": "愛知県",
+        "city": "東海市",
+        "area": "緑陽・名和・渡内・平州・大田・横須賀小学校区",
+        "name": "東海包括支援センター",
+        "tel": "052-689-1606",
+        "url": "https://www.city.tokai.aichi.jp/shisei/1003503/1006687/1003528/1008075/1008107.html"
+    },
+    {
+        "id": 2839,
+        "prefecture": "愛知県",
+        "city": "東海市",
+        "area": "明倫・富木島・船島・加木屋・三ツ池・加木屋南小学校区",
+        "name": "加木屋包括支援センター",
+        "tel": "0562-31-3312",
+        "url": "https://www.city.tokai.aichi.jp/shisei/1003503/1006687/1003528/1008075/1008107.html"
     }
 ]

@@ -999,5 +999,167 @@
         "name":  "西武地区地域包括支援センター",
         "tel":  "04-2931-3311",
         "url":  "https://www.city.iruma.saitama.jp/soshiki/koreishashienka/kourei_fukushi_kaigo/koreisha_shisetsu/167.html"
+    },
+    {
+        "id":  2840,
+        "prefecture":  "埼玉県",
+        "city":  "深谷市",
+        "area":  "岡部",
+        "name":  "エンゼルの丘地域包括支援センター",
+        "tel":  "048-546-1216",
+        "url":  "https://www.city.fukaya.saitama.jp/soshiki/fukushikenko/chojufukushi/tanto/soudansakinogosyoukai/1391580541073.html"
+    },
+    {
+        "id":  2841,
+        "prefecture":  "埼玉県",
+        "city":  "深谷市",
+        "area":  "深谷・大寄・明戸",
+        "name":  "深谷市社会福祉協議会地域包括支援センター",
+        "tel":  "048-573-6869",
+        "url":  "https://www.city.fukaya.saitama.jp/soshiki/fukushikenko/chojufukushi/tanto/soudansakinogosyoukai/1391580541073.html"
+    },
+    {
+        "id":  2842,
+        "prefecture":  "埼玉県",
+        "city":  "深谷市",
+        "area":  "幡羅・豊里・八基",
+        "name":  "医師会なごみ地域包括支援センター",
+        "tel":  "048-577-5371",
+        "url":  "https://www.city.fukaya.saitama.jp/soshiki/fukushikenko/chojufukushi/tanto/soudansakinogosyoukai/1391580541073.html"
+    },
+    {
+        "id":  2843,
+        "prefecture":  "埼玉県",
+        "city":  "深谷市",
+        "area":  "上柴",
+        "name":  "はなみずき地域包括支援センター",
+        "tel":  "048-551-1113",
+        "url":  "https://www.city.fukaya.saitama.jp/soshiki/fukushikenko/chojufukushi/tanto/soudansakinogosyoukai/1391580541073.html"
+    },
+    {
+        "id":  2844,
+        "prefecture":  "埼玉県",
+        "city":  "深谷市",
+        "area":  "人見・柏合・樫合",
+        "name":  "あねとす病院地域包括支援センター",
+        "tel":  "048-577-3201",
+        "url":  "https://www.city.fukaya.saitama.jp/soshiki/fukushikenko/chojufukushi/tanto/soudansakinogosyoukai/1391580541073.html"
+    },
+    {
+        "id":  2845,
+        "prefecture":  "埼玉県",
+        "city":  "深谷市",
+        "area":  "川本・花園",
+        "name":  "ふじさわ苑地域包括支援センター",
+        "tel":  "048-571-1234",
+        "url":  "https://www.city.fukaya.saitama.jp/soshiki/fukushikenko/chojufukushi/tanto/soudansakinogosyoukai/1391580541073.html"
+    },
+    {
+        "id":  2846,
+        "prefecture":  "埼玉県",
+        "city":  "三郷市",
+        "area":  "",
+        "name":  "みずぬま地域包括支援センター",
+        "tel":  "048-950-3322",
+        "url":  "https://www.city.misato.lg.jp/soshiki/ikiikikenko/chojuikigai/8/560.html"
+    },
+    {
+        "id":  2847,
+        "prefecture":  "埼玉県",
+        "city":  "三郷市",
+        "area":  "",
+        "name":  "早稲田地域包括支援センター",
+        "tel":  "048-950-3201",
+        "url":  "https://www.city.misato.lg.jp/soshiki/ikiikikenko/chojuikigai/8/560.html"
+    },
+    {
+        "id":  2848,
+        "prefecture":  "埼玉県",
+        "city":  "三郷市",
+        "area":  "",
+        "name":  "ひこなり北地域包括支援センター",
+        "tel":  "048-950-6777",
+        "url":  "https://www.city.misato.lg.jp/soshiki/ikiikikenko/chojuikigai/8/560.html"
+    },
+    {
+        "id":  2849,
+        "prefecture":  "埼玉県",
+        "city":  "三郷市",
+        "area":  "",
+        "name":  "みさと中央地域包括支援センター",
+        "tel":  "048-949-0090",
+        "url":  "https://www.city.misato.lg.jp/soshiki/ikiikikenko/chojuikigai/8/560.html"
+    },
+    {
+        "id":  2850,
+        "prefecture":  "埼玉県",
+        "city":  "三郷市",
+        "area":  "",
+        "name":  "みさと南地域包括支援センター",
+        "tel":  "048-956-8813",
+        "url":  "https://www.city.misato.lg.jp/soshiki/ikiikikenko/chojuikigai/8/560.html"
+    },
+    {
+        "id":  2851,
+        "prefecture":  "埼玉県",
+        "city":  "三郷市",
+        "area":  "",
+        "name":  "しんわ地域包括支援センター",
+        "tel":  "048-949-5522",
+        "url":  "https://www.city.misato.lg.jp/soshiki/ikiikikenko/chojuikigai/8/560.html"
+    },
+    {
+        "id":  2852,
+        "prefecture":  "埼玉県",
+        "city":  "朝霞市",
+        "area":  "大字上内間木・大字下内間木・宮戸・大字宮戸・朝志ヶ丘",
+        "name":  "地域包括支援センター内間木苑",
+        "tel":  "048-458-2022",
+        "url":  "https://www.city.asaka.lg.jp/soshiki/57/tiikihoukatusiennsennta-.html"
+    },
+    {
+        "id":  2853,
+        "prefecture":  "埼玉県",
+        "city":  "朝霞市",
+        "area":  "東弁財・西弁財・三原・泉水",
+        "name":  "地域包括支援センターつつじの郷",
+        "tel":  "048-472-1574",
+        "url":  "https://www.city.asaka.lg.jp/soshiki/57/tiikihoukatusiennsennta-.html"
+    },
+    {
+        "id":  2854,
+        "prefecture":  "埼玉県",
+        "city":  "朝霞市",
+        "area":  "本町1・2丁目・溝沼1〜5丁目・大字溝沼・膝折町3〜5丁目",
+        "name":  "地域包括支援センターモーニングパーク",
+        "tel":  "048-451-7355",
+        "url":  "https://www.city.asaka.lg.jp/soshiki/57/tiikihoukatusiennsennta-.html"
+    },
+    {
+        "id":  2855,
+        "prefecture":  "埼玉県",
+        "city":  "朝霞市",
+        "area":  "仲町・根岸台・大字根岸・大字台",
+        "name":  "地域包括支援センターひいらぎの里",
+        "tel":  "048-291-9111",
+        "url":  "https://www.hiiragi-sato.co.jp/contact/"
+    },
+    {
+        "id":  2856,
+        "prefecture":  "埼玉県",
+        "city":  "朝霞市",
+        "area":  "青葉台・栄町・幸町・膝折町1・2丁目・大字膝折・本町3丁目",
+        "name":  "地域包括支援センター朝光苑",
+        "tel":  "048-450-0855",
+        "url":  "https://www.a-fukushikai.org/facility/choukouen#contact"
+    },
+    {
+        "id":  2857,
+        "prefecture":  "埼玉県",
+        "city":  "朝霞市",
+        "area":  "北原・西原・浜崎・大字浜崎・田島・大字田島・岡・大字岡・溝沼6・7丁目",
+        "name":  "地域包括支援センターあさか中央",
+        "tel":  "048-423-2761",
+        "url":  "https://www.city.asaka.lg.jp/soshiki/57/tiikihoukatusiennsennta-.html"
     }
 ]

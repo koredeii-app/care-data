@@ -259,5 +259,50 @@
         "name": "宇久地域包括支援センター",
         "tel": "0959-57-3450",
         "url": "https://www.city.sasebo.lg.jp/hokenhukusi/chojyu/zosetsu.html"
+    },
+    {
+        "id": 2815,
+        "prefecture": "長崎県",
+        "city": "諫早市",
+        "area": "中央部",
+        "name": "中央部地域包括支援センター",
+        "tel": "0957-27-0730",
+        "url": "https://www.city.isahaya.nagasaki.jp/soshiki/25/32228.html"
+    },
+    {
+        "id": 2816,
+        "prefecture": "長崎県",
+        "city": "諫早市",
+        "area": "北部",
+        "name": "北部地域包括支援センター",
+        "tel": "0957-25-7030",
+        "url": "https://www.city.isahaya.nagasaki.jp/soshiki/25/32228.html"
+    },
+    {
+        "id": 2817,
+        "prefecture": "長崎県",
+        "city": "諫早市",
+        "area": "西部",
+        "name": "西部地域包括支援センター",
+        "tel": "0957-43-3330",
+        "url": "https://www.city.isahaya.nagasaki.jp/soshiki/25/32228.html"
+    },
+    {
+        "id": 2818,
+        "prefecture": "長崎県",
+        "city": "諫早市",
+        "area": "南部",
+        "name": "南部地域包括支援センター",
+        "tel": "0957-35-2887",
+        "url": "https://www.city.isahaya.nagasaki.jp/soshiki/25/32228.html"
+    },
+    {
+        "id": 2819,
+        "prefecture": "長崎県",
+        "city": "諫早市",
+        "area": "東部",
+        "name": "東部地域包括支援センター",
+        "tel": "0957-32-6556",
+        "url": "https://www.city.isahaya.nagasaki.jp/soshiki/25/32228.html"
     }
 ]

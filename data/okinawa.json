@@ -223,5 +223,68 @@
         "name":  "東部南地域包括支援センター",
         "tel":  "098-923-0553",
         "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+    },
+    {
+        "id":  2890,
+        "prefecture":  "沖縄県",
+        "city":  "うるま市",
+        "area":  "石川地区",
+        "name":  "うるま市地域包括支援センターいしかわ",
+        "tel":  "098-965-6121",
+        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+    },
+    {
+        "id":  2891,
+        "prefecture":  "沖縄県",
+        "city":  "うるま市",
+        "area":  "具志川北地区",
+        "name":  "うるま市地域包括支援センター具志川北",
+        "tel":  "098-972-3595",
+        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+    },
+    {
+        "id":  2892,
+        "prefecture":  "沖縄県",
+        "city":  "うるま市",
+        "area":  "具志川東地区",
+        "name":  "うるま市地域包括支援センター具志川ひがし",
+        "tel":  "098-974-4001",
+        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+    },
+    {
+        "id":  2893,
+        "prefecture":  "沖縄県",
+        "city":  "うるま市",
+        "area":  "具志川西地区",
+        "name":  "うるま市地域包括支援センター具志川にし",
+        "tel":  "098-989-3788",
+        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+    },
+    {
+        "id":  2894,
+        "prefecture":  "沖縄県",
+        "city":  "うるま市",
+        "area":  "具志川南地区",
+        "name":  "うるま市地域包括支援センター具志川みなみ",
+        "tel":  "098-979-5698",
+        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+    },
+    {
+        "id":  2895,
+        "prefecture":  "沖縄県",
+        "city":  "うるま市",
+        "area":  "与勝西地区",
+        "name":  "うるま市地域包括支援センターかつれん",
+        "tel":  "098-978-1551",
+        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+    },
+    {
+        "id":  2896,
+        "prefecture":  "沖縄県",
+        "city":  "うるま市",
+        "area":  "与勝東地区",
+        "name":  "うるま市地域包括支援センターよなしろ",
+        "tel":  "098-923-5117",
+        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
     }
 ]

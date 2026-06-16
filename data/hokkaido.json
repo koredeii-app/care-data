@@ -474,5 +474,12 @@
     {"id":2255,"prefecture":"北海道","city":"小樽市","area":"朝里、朝里川温泉、桂岡町、桜、新光、新光町、銭函、張碓町、春香町、船浜町、星野町、望洋台、見晴町","name":"東南部地域包括支援センター","tel":"0134-51-2301","url":"http://www.otaru-hokubenkai.or.jp/our-service/ccs-otaru-nanbu.php"},
     {"id":2256,"prefecture":"北海道","city":"小樽市","area":"有幌町、住吉町、住ノ江、入船、松ヶ枝、最上、信香町、若松、奥沢、天神、天狗山、新富町、真栄、築港、勝納町、若竹町、潮見台","name":"南部地域包括支援センター","tel":"0134-61-7268","url":"http://www.saiseikai-otaru.jp/hotnews/detail/00000376.html"},
     {"id":2257,"prefecture":"北海道","city":"小樽市","area":"港町、堺町、東雲町、相生町、山田町、花園、色内、稲穂、富岡、緑、錦町、豊川町、石山町、手宮、末広町、梅ヶ枝町、清水町、長橋1・2丁目","name":"中部地域包括支援センター","tel":"0134-24-2525","url":"http://www.otaru-shakyo.jp/nursing/#04"},
-    {"id":2258,"prefecture":"北海道","city":"小樽市","area":"赤岩、忍路、オタモイ、幸、塩谷、祝津、高島、桃内、蘭島、旭町、長橋3・4・5丁目","name":"北西部地域包括支援センター","tel":"0134-28-2522","url":"http://www.otaru-ikuseiin.com/hokatsu"}
+    {"id":2258,"prefecture":"北海道","city":"小樽市","area":"赤岩、忍路、オタモイ、幸、塩谷、祝津、高島、桃内、蘭島、旭町、長橋3・4・5丁目","name":"北西部地域包括支援センター","tel":"0134-28-2522","url":"http://www.otaru-ikuseiin.com/hokatsu"},
+    {"id":2901,"prefecture":"北海道","city":"北見市","area":"中央地区","name":"高齢者相談支援センター中央","tel":"0157-26-0061","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
+    {"id":2902,"prefecture":"北海道","city":"北見市","area":"東部・端野地区","name":"高齢者相談支援センター東部・端野","tel":"0157-69-5111","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
+    {"id":2903,"prefecture":"北海道","city":"北見市","area":"西部・相内地区","name":"高齢者相談支援センター西部・相内","tel":"0157-66-0166","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
+    {"id":2904,"prefecture":"北海道","city":"北見市","area":"南部地区","name":"高齢者相談支援センター南部","tel":"0157-57-3161","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
+    {"id":2905,"prefecture":"北海道","city":"北見市","area":"北部地区","name":"高齢者相談支援センター北部","tel":"0157-22-7800","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
+    {"id":2906,"prefecture":"北海道","city":"北見市","area":"常呂地区","name":"高齢者相談支援センター常呂","tel":"0152-63-2026","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"},
+    {"id":2907,"prefecture":"北海道","city":"北見市","area":"留辺蘂地区","name":"高齢者相談支援センター留辺蘂","tel":"0157-42-5008","url":"https://www.city.kitami.lg.jp/administration/welfare/detail.php?content=3897"}
 ]

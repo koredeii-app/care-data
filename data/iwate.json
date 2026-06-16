@@ -223,5 +223,59 @@
         "name": "地域包括支援センターころもがわ",
         "tel": "0197-52-3810",
         "url": "https://www.city.oshu.iwate.jp/soshiki/8/tiikikyousei/tiikikyouseik/15708.html"
+    },
+    {
+        "id": 2884,
+        "prefecture": "岩手県",
+        "city": "北上市",
+        "area": "黒沢尻北・黒沢尻西",
+        "name": "地域包括支援センター本通り",
+        "tel": "0197-72-7254",
+        "url": "https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/chojukaigoka/hokatsushiengakari/3/4566.html"
+    },
+    {
+        "id": 2885,
+        "prefecture": "岩手県",
+        "city": "北上市",
+        "area": "黒沢尻東・相去・鬼柳",
+        "name": "地域包括支援センター北上中央",
+        "tel": "0197-72-6178",
+        "url": "https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/chojukaigoka/hokatsushiengakari/3/4566.html"
+    },
+    {
+        "id": 2886,
+        "prefecture": "岩手県",
+        "city": "北上市",
+        "area": "飯豊・立花・黒岩・口内・稲瀬・二子・更木",
+        "name": "地域包括支援センター展勝地",
+        "tel": "0197-61-0225",
+        "url": "https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/chojukaigoka/hokatsushiengakari/3/4566.html"
+    },
+    {
+        "id": 2887,
+        "prefecture": "岩手県",
+        "city": "北上市",
+        "area": "更木",
+        "name": "地域包括支援センター展勝地サテライト",
+        "tel": "0197-62-5603",
+        "url": "https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/chojukaigoka/hokatsushiengakari/3/4566.html"
+    },
+    {
+        "id": 2888,
+        "prefecture": "岩手県",
+        "city": "北上市",
+        "area": "江釣子・和賀",
+        "name": "地域包括支援センターわっこ",
+        "tel": "0197-77-5055",
+        "url": "https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/chojukaigoka/hokatsushiengakari/3/4566.html"
+    },
+    {
+        "id": 2889,
+        "prefecture": "岩手県",
+        "city": "北上市",
+        "area": "和賀町",
+        "name": "地域包括支援センターわっこのわ",
+        "tel": "0197-62-3247",
+        "url": "https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/chojukaigoka/hokatsushiengakari/3/4566.html"
     }
 ]

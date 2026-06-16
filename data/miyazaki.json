@@ -176,5 +176,16 @@
     {"id":2175,"prefecture":"宮崎県","city":"都城市","area":"千町、立野町、早水町、神之山町、年見町、上川東一丁目～四丁目、下川東一丁目～四丁目、郡元町、郡元一丁目～四丁目、祝吉町、祝吉一丁目～三丁目、吉尾町、金田町、太郎坊町、高木町、都北町","name":"祝吉・沖水地区地域包括支援センター","tel":"0986-26-4212","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
     {"id":2176,"prefecture":"宮崎県","city":"都城市","area":"上水流町、下水流町、岩満町、丸谷町、野々美谷町、乙房町、関之尾町、庄内町、菓子野町、美川町、高野町、吉之元町、御池町、夏尾町","name":"志和池・庄内・西岳地区地域包括支援センター","tel":"0986-45-4180","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
     {"id":2177,"prefecture":"宮崎県","city":"都城市","area":"山之口町山之口、山之口町富吉、山之口町花木、高城町大井手、高城町桜木、高城町高城、高城町穂満坊、高城町石山、高城町有水、高城町四家","name":"山之口・高城地区地域包括支援センター","tel":"0986-29-1682","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
-    {"id":2178,"prefecture":"宮崎県","city":"都城市","area":"山田町山田、山田町中霧島、高崎町前田、高崎町大牟田、高崎町東霧島、高崎町縄瀬、高崎町江平、高崎町笛水","name":"山田・高崎地区地域包括支援センター","tel":"0986-45-8411","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"}
+    {"id":2178,"prefecture":"宮崎県","city":"都城市","area":"山田町山田、山田町中霧島、高崎町前田、高崎町大牟田、高崎町東霧島、高崎町縄瀬、高崎町江平、高崎町笛水","name":"山田・高崎地区地域包括支援センター","tel":"0986-45-8411","url":"https://www.city.miyakonojo.miyazaki.jp/soshiki/110/3263.html"},
+    {"id":2820,"prefecture":"宮崎県","city":"延岡市","area":"中央","name":"延岡市中央地域包括支援センター","tel":"0982-26-7206","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2821,"prefecture":"宮崎県","city":"延岡市","area":"東海","name":"延岡市東海地域包括支援センター","tel":"0982-32-5677","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2822,"prefecture":"宮崎県","city":"延岡市","area":"土々呂","name":"延岡市土々呂地域包括支援センター","tel":"0982-20-2244","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2823,"prefecture":"宮崎県","city":"延岡市","area":"南方","name":"延岡市南方地域包括支援センター","tel":"0982-39-0591","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2824,"prefecture":"宮崎県","city":"延岡市","area":"恒富南","name":"延岡市恒富南地域包括支援センター","tel":"0982-35-0010","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2825,"prefecture":"宮崎県","city":"延岡市","area":"岡富","name":"延岡市岡富地域包括支援センター","tel":"0982-21-8568","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2826,"prefecture":"宮崎県","city":"延岡市","area":"恒富東","name":"延岡市恒富東地域包括支援センター","tel":"0982-26-2330","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2827,"prefecture":"宮崎県","city":"延岡市","area":"恒富西","name":"延岡市恒富西地域包括支援センター","tel":"0982-32-6550","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2828,"prefecture":"宮崎県","city":"延岡市","area":"北方","name":"延岡市北方地域包括支援センター","tel":"0982-47-2381","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2829,"prefecture":"宮崎県","city":"延岡市","area":"北浦","name":"延岡市北浦地域包括支援センター","tel":"0982-45-2457","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":2830,"prefecture":"宮崎県","city":"延岡市","area":"北川","name":"延岡市北川地域包括支援センター","tel":"0982-46-2127","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"}
 ]

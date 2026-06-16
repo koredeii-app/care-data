@@ -178,5 +178,41 @@
         "name":  "鹿児島市長寿あんしん相談センター喜入",
         "tel":  "099-343-5131",
         "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  2897,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "",
+        "name":  "霧島市地域包括支援センター",
+        "tel":  "0995-48-7979",
+        "url":  "https://www.city-kirishima.jp/kou-shou/kosodate/koresha/sodan/shiencenter.html"
+    },
+    {
+        "id":  2898,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "",
+        "name":  "霧島市地域包括支援センター 国分南支所",
+        "tel":  "0995-46-6500",
+        "url":  "https://www.city-kirishima.jp/kou-shou/kosodate/koresha/sodan/shiencenter.html"
+    },
+    {
+        "id":  2899,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "",
+        "name":  "霧島市地域包括支援センター 横川支所",
+        "tel":  "0995-72-9718",
+        "url":  "https://www.city-kirishima.jp/kou-shou/kosodate/koresha/sodan/shiencenter.html"
+    },
+    {
+        "id":  2900,
+        "prefecture":  "鹿児島県",
+        "city":  "霧島市",
+        "area":  "",
+        "name":  "霧島市地域包括支援センター 隼人北支所",
+        "tel":  "0995-55-1255",
+        "url":  "https://www.city-kirishima.jp/kou-shou/kosodate/koresha/sodan/shiencenter.html"
     }
 ]
