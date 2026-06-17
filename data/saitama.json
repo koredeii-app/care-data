@@ -1582,5 +1582,50 @@
         "name":  "鴻巣地域包括支援センター吹上苑",
         "tel":  "048-548-8991",
         "url":  "https://www.egarite.or.jp/nyukyo/area/"
+    },
+    {
+        "id":  3083,
+        "prefecture":  "埼玉県",
+        "city":  "富士見市",
+        "area":  "羽沢1・2丁目・渡戸1・2・3丁目・ふじみ野東1・2・3・4丁目・みどり野東・西・南・北ほか",
+        "name":  "高齢者あんしん相談センターむさしの",
+        "tel":  "049-255-6320",
+        "url":  "https://www.city.fujimi.saitama.jp/kenko_fukushi_iryo/04koureisya/soudan/2010-1007-1350-39.html"
+    },
+    {
+        "id":  3084,
+        "prefecture":  "埼玉県",
+        "city":  "富士見市",
+        "area":  "山室1・2丁目・諏訪1・2丁目・鶴馬1・2・3丁目・鶴瀬東1・2丁目ほか",
+        "name":  "高齢者あんしん相談センターふじみ苑",
+        "tel":  "049-293-1168",
+        "url":  "https://www.city.fujimi.saitama.jp/kenko_fukushi_iryo/04koureisya/soudan/2010-1007-1350-39.html"
+    },
+    {
+        "id":  3085,
+        "prefecture":  "埼玉県",
+        "city":  "富士見市",
+        "area":  "勝瀬西町会・ふじみ野西1・2・3・4丁目・鶴瀬西2・3丁目・上沢1・2・3丁目",
+        "name":  "高齢者あんしん相談センターえぶりわん鶴瀬Nisi",
+        "tel":  "049-293-8330",
+        "url":  "https://www.city.fujimi.saitama.jp/kenko_fukushi_iryo/04koureisya/soudan/2010-1007-1350-39.html"
+    },
+    {
+        "id":  3086,
+        "prefecture":  "埼玉県",
+        "city":  "富士見市",
+        "area":  "関沢2・3丁目・西みずほ台1・2・3丁目・針ヶ谷1・2丁目ほか",
+        "name":  "高齢者あんしん相談センターみずほ苑",
+        "tel":  "049-256-7423",
+        "url":  "https://www.city.fujimi.saitama.jp/kenko_fukushi_iryo/04koureisya/soudan/2010-1007-1350-39.html"
+    },
+    {
+        "id":  3087,
+        "prefecture":  "埼玉県",
+        "city":  "富士見市",
+        "area":  "水谷1・2丁目・貝塚1・2丁目・榎町・東みずほ台1・2・3・4丁目ほか",
+        "name":  "高齢者あんしん相談センターひだまりの庭むさしの",
+        "tel":  "049-268-5005",
+        "url":  "https://www.city.fujimi.saitama.jp/kenko_fukushi_iryo/04koureisya/soudan/2010-1007-1350-39.html"
     }
 ]

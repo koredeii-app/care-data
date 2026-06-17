@@ -520,5 +520,68 @@
         "name":  "新発田北地域包括支援センター",
         "tel":  "0254-41-4646",
         "url":  "https://www.city.shibata.lg.jp/shisetsu/kenko/kaigo/1004914.html"
+    },
+    {
+        "id":  3093,
+        "prefecture":  "新潟県",
+        "city":  "柏崎市",
+        "area":  "比角・田尻・北鯖石",
+        "name":  "柏崎市中地域包括支援センター",
+        "tel":  "0257-24-6715",
+        "url":  "https://www.city.kashiwazaki.lg.jp/soshikiichiran/fukushihokembu/kaigokoreika/4/2/1/3866.html"
+    },
+    {
+        "id":  3094,
+        "prefecture":  "新潟県",
+        "city":  "柏崎市",
+        "area":  "北条・南鯖石・中鯖石・高柳町",
+        "name":  "柏崎市東地域包括支援センター",
+        "tel":  "0257-31-2122",
+        "url":  "https://www.city.kashiwazaki.lg.jp/soshikiichiran/fukushihokembu/kaigokoreika/4/2/1/3866.html"
+    },
+    {
+        "id":  3095,
+        "prefecture":  "新潟県",
+        "city":  "柏崎市",
+        "area":  "中央",
+        "name":  "柏崎市西地域包括支援センターまちなか",
+        "tel":  "0257-20-1535",
+        "url":  "https://www.city.kashiwazaki.lg.jp/soshikiichiran/fukushihokembu/kaigokoreika/4/2/1/3866.html"
+    },
+    {
+        "id":  3096,
+        "prefecture":  "新潟県",
+        "city":  "柏崎市",
+        "area":  "大洲・剣野・鯨波・米山・上米山",
+        "name":  "柏崎市西地域包括支援センターあかさかやま",
+        "tel":  "0257-41-5612",
+        "url":  "https://www.city.kashiwazaki.lg.jp/soshikiichiran/fukushihokembu/kaigokoreika/4/2/1/3866.html"
+    },
+    {
+        "id":  3097,
+        "prefecture":  "新潟県",
+        "city":  "柏崎市",
+        "area":  "半田・枇杷島・高田・上条・野田・別俣・鵜川",
+        "name":  "柏崎市南地域包括支援センター",
+        "tel":  "0257-31-4515",
+        "url":  "https://www.city.kashiwazaki.lg.jp/soshikiichiran/fukushihokembu/kaigokoreika/4/2/1/3866.html"
+    },
+    {
+        "id":  3098,
+        "prefecture":  "新潟県",
+        "city":  "柏崎市",
+        "area":  "松波・荒浜・高浜・西中通・中通",
+        "name":  "柏崎市北地域包括支援センターはらまち",
+        "tel":  "0257-24-4201",
+        "url":  "https://www.city.kashiwazaki.lg.jp/soshikiichiran/fukushihokembu/kaigokoreika/4/2/1/3866.html"
+    },
+    {
+        "id":  3099,
+        "prefecture":  "新潟県",
+        "city":  "柏崎市",
+        "area":  "西山町",
+        "name":  "柏崎市北地域包括支援センターにしやま",
+        "tel":  "0257-47-7424",
+        "url":  "https://www.city.kashiwazaki.lg.jp/soshikiichiran/fukushihokembu/kaigokoreika/4/2/1/3866.html"
     }
 ]

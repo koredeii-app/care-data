@@ -30,5 +30,11 @@
     {"id":2628,"prefecture":"岐阜県","city":"各務原市","area":"陵南・鵜沼第二・中央第二","name":"地域包括支援センター フェニックス・かかみ野","tel":"058-384-8844","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
     {"id":2629,"prefecture":"岐阜県","city":"各務原市","area":"那加第二・那加第三・蘇原第二","name":"地域包括支援センター 社会福祉協議会","tel":"058-383-7624","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
     {"id":2630,"prefecture":"岐阜県","city":"各務原市","area":"稲羽西・稲羽東","name":"地域包括支援センター つつじ苑","tel":"058-371-2226","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
-    {"id":2631,"prefecture":"岐阜県","city":"各務原市","area":"川島","name":"地域包括支援センター リバーサイド川島園","tel":"0586-89-2979","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"}
+    {"id":2631,"prefecture":"岐阜県","city":"各務原市","area":"川島","name":"地域包括支援センター リバーサイド川島園","tel":"0586-89-2979","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
+    {"id":3039,"prefecture":"岐阜県","city":"多治見市","area":"昭和・脇之島・池田","name":"太平地域包括支援センター","tel":"0572-25-1135","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
+    {"id":3040,"prefecture":"岐阜県","city":"多治見市","area":"養正・滝呂","name":"滝呂地域包括支援センター","tel":"0572-24-5562","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
+    {"id":3041,"prefecture":"岐阜県","city":"多治見市","area":"根本・南姫","name":"南姫地域包括支援センター","tel":"0572-20-2021","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
+    {"id":3042,"prefecture":"岐阜県","city":"多治見市","area":"市之倉・笠原","name":"笠原地域包括支援センター","tel":"0572-45-0007","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
+    {"id":3043,"prefecture":"岐阜県","city":"多治見市","area":"精華・共栄","name":"精華地域包括支援センター","tel":"0572-25-2511","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
+    {"id":3044,"prefecture":"岐阜県","city":"多治見市","area":"小泉・北栄","name":"北栄地域包括支援センター","tel":"0572-27-2211","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"}
 ]

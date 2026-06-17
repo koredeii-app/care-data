@@ -259,5 +259,68 @@
         "name":  "南部第二高齢者総合相談センター",
         "tel":  "0761-44-5750",
         "url":  "https://choureikai.com/pages/87/"
+    },
+    {
+        "id":  3076,
+        "prefecture":  "石川県",
+        "city":  "白山市",
+        "area":  "松任・一木・林中・山島",
+        "name":  "白山市地域包括支援センター松任中央",
+        "tel":  "076-272-5999",
+        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+    },
+    {
+        "id":  3077,
+        "prefecture":  "石川県",
+        "city":  "白山市",
+        "area":  "旭・中奥・郷",
+        "name":  "白山市地域包括支援センター光野",
+        "tel":  "076-274-7718",
+        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+    },
+    {
+        "id":  3078,
+        "prefecture":  "石川県",
+        "city":  "白山市",
+        "area":  "出城・御手洗・千代野",
+        "name":  "白山市地域包括支援センター千代野",
+        "tel":  "076-276-1011",
+        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+    },
+    {
+        "id":  3079,
+        "prefecture":  "石川県",
+        "city":  "白山市",
+        "area":  "石川・柏野・笠間・宮保・加賀野",
+        "name":  "白山市地域包括支援センター笠間",
+        "tel":  "076-274-6771",
+        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+    },
+    {
+        "id":  3080,
+        "prefecture":  "石川県",
+        "city":  "白山市",
+        "area":  "美川・蝶屋・湊",
+        "name":  "白山市地域包括支援センター美川",
+        "tel":  "076-278-8585",
+        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+    },
+    {
+        "id":  3081,
+        "prefecture":  "石川県",
+        "city":  "白山市",
+        "area":  "一ノ宮・鶴来・蔵山・林・舘畑",
+        "name":  "白山市地域包括支援センター鶴来",
+        "tel":  "076-272-3950",
+        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+    },
+    {
+        "id":  3082,
+        "prefecture":  "石川県",
+        "city":  "白山市",
+        "area":  "河内・吉野谷・鳥越・尾口・白峰",
+        "name":  "白山市地域包括支援センター大門園",
+        "tel":  "076-255-5225",
+        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
     }
 ]

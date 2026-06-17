@@ -1093,5 +1093,50 @@
         "name": "駛馬・勝立地区地域包括支援センター",
         "tel": "0944-41-2020",
         "url": "https://www.city.omuta.lg.jp/hpKiji/pub/detail.aspx?c_id=5&id=2099&class_set_id=1&class_id=135"
+    },
+    {
+        "id": 3088,
+        "prefecture": "福岡県",
+        "city": "糸島市",
+        "area": "前原・南風・加布里校区",
+        "name": "糸島市前原西地域包括支援センター",
+        "tel": "092-324-5600",
+        "url": "https://www.city.itoshima.lg.jp/s014/010/010/020/060/tiikihoukatusiensenta-.html"
+    },
+    {
+        "id": 3089,
+        "prefecture": "福岡県",
+        "city": "糸島市",
+        "area": "前原南・長糸・雷山校区",
+        "name": "糸島市前原地域包括支援センター",
+        "tel": "092-329-1503",
+        "url": "https://www.city.itoshima.lg.jp/s014/010/010/020/060/tiikihoukatusiensenta-.html"
+    },
+    {
+        "id": 3090,
+        "prefecture": "福岡県",
+        "city": "糸島市",
+        "area": "波多江・東風・怡土校区",
+        "name": "糸島市前原東地域包括支援センター",
+        "tel": "092-321-0543",
+        "url": "https://www.city.itoshima.lg.jp/s014/010/010/020/060/tiikihoukatusiensenta-.html"
+    },
+    {
+        "id": 3091,
+        "prefecture": "福岡県",
+        "city": "糸島市",
+        "area": "一貴山・深江・福吉校区",
+        "name": "糸島市二丈地域包括支援センター",
+        "tel": "092-325-2338",
+        "url": "https://www.city.itoshima.lg.jp/s014/010/010/020/060/tiikihoukatusiensenta-.html"
+    },
+    {
+        "id": 3092,
+        "prefecture": "福岡県",
+        "city": "糸島市",
+        "area": "可也・桜野・引津校区（姫島含む）",
+        "name": "糸島市志摩地域包括支援センター",
+        "tel": "092-328-8020",
+        "url": "https://www.city.itoshima.lg.jp/s014/010/010/020/060/tiikihoukatusiensenta-.html"
     }
 ]

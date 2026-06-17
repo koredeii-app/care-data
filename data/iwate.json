@@ -277,5 +277,50 @@
         "name": "地域包括支援センターわっこのわ",
         "tel": "0197-62-3247",
         "url": "https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/chojukaigoka/hokatsushiengakari/3/4566.html"
+    },
+    {
+        "id": 3100,
+        "prefecture": "岩手県",
+        "city": "花巻市",
+        "area": "花巻北・花巻東・花巻西・花巻南・矢沢・宮野目",
+        "name": "花巻中央地域包括支援センター",
+        "tel": "0198-24-7246",
+        "url": "https://www.city.hanamaki.iwate.jp/kenko_iryo_fukushi/kaigohoken/1019847/1001795.html"
+    },
+    {
+        "id": 3101,
+        "prefecture": "岩手県",
+        "city": "花巻市",
+        "area": "湯口・湯本・太田・笹間",
+        "name": "花巻西地域包括支援センター",
+        "tel": "0198-29-4873",
+        "url": "https://www.city.hanamaki.iwate.jp/kenko_iryo_fukushi/kaigohoken/1019847/1001795.html"
+    },
+    {
+        "id": 3102,
+        "prefecture": "岩手県",
+        "city": "花巻市",
+        "area": "大迫",
+        "name": "大迫地域包括支援センター",
+        "tel": "0198-29-4856",
+        "url": "https://www.city.hanamaki.iwate.jp/kenko_iryo_fukushi/kaigohoken/1019847/1001795.html"
+    },
+    {
+        "id": 3103,
+        "prefecture": "岩手県",
+        "city": "花巻市",
+        "area": "石鳥谷",
+        "name": "石鳥谷地域包括支援センター",
+        "tel": "0198-41-4012",
+        "url": "https://www.city.hanamaki.iwate.jp/kenko_iryo_fukushi/kaigohoken/1019847/1001795.html"
+    },
+    {
+        "id": 3104,
+        "prefecture": "岩手県",
+        "city": "花巻市",
+        "area": "東和",
+        "name": "東和地域包括支援センター",
+        "tel": "0198-29-4817",
+        "url": "https://www.city.hanamaki.iwate.jp/kenko_iryo_fukushi/kaigohoken/1019847/1001795.html"
     }
 ]
