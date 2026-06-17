@@ -3985,5 +3985,41 @@
     "name": "国立市地域包括支援センター 泉窓口",
     "tel": "042-577-6888",
     "url": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html"
+  },
+  {
+    "id": 511,
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "area": "梶野町・関野町・緑町・本町2・3丁目・桜町1・3丁目",
+    "name": "小金井きた地域包括支援センター",
+    "tel": "042-388-2440",
+    "url": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/koreishafukushi/chiikihoukatsu/houkatushien.html"
+  },
+  {
+    "id": 512,
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "area": "前原町・貫井南町・本町6丁目",
+    "name": "小金井みなみ地域包括支援センター",
+    "tel": "042-388-8400",
+    "url": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/koreishafukushi/chiikihoukatsu/houkatushien.html"
+  },
+  {
+    "id": 513,
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "area": "東町・中町・本町1丁目",
+    "name": "小金井ひがし地域包括支援センター",
+    "tel": "042-386-6514",
+    "url": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/koreishafukushi/chiikihoukatsu/houkatushien.html"
+  },
+  {
+    "id": 514,
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "area": "本町4・5丁目・桜町2丁目・貫井北町",
+    "name": "小金井にし地域包括支援センター",
+    "tel": "042-386-7373",
+    "url": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/koreishafukushi/chiikihoukatsu/houkatushien.html"
   }
 ]
