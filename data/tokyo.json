@@ -4021,5 +4021,185 @@
     "name": "小金井にし地域包括支援センター",
     "tel": "042-386-7373",
     "url": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/koreishafukushi/chiikihoukatsu/houkatushien.html"
+  },
+  {
+    "id": 3105,
+    "prefecture": "東京都",
+    "city": "福生市",
+    "area": "牛浜第一・志茂第一・二・本町第一・中央・六・永田・長沢・加美・加美平",
+    "name": "福生市地域包括支援センター加美",
+    "tel": "042-553-3720",
+    "url": "https://www.city.fussa.tokyo.jp/life/health/elderlypeople/1020205.html"
+  },
+  {
+    "id": 3106,
+    "prefecture": "東京都",
+    "city": "福生市",
+    "area": "牛浜第二・原々谷戸・本町第七・八第一・八第二・武蔵野台一丁目",
+    "name": "福生市地域包括支援センター武蔵野",
+    "tel": "042-553-6695",
+    "url": "https://www.city.fussa.tokyo.jp/life/health/elderlypeople/1020205.html"
+  },
+  {
+    "id": 3107,
+    "prefecture": "東京都",
+    "city": "福生市",
+    "area": "福生熊川住宅・南・内出・武蔵野・南田園一～三丁目・富士見台・福栄・福東・玉川台・福生団地・鍋々谷戸第一・二・熊川牛浜",
+    "name": "福生市地域包括支援センター熊川",
+    "tel": "042-510-2945",
+    "url": "https://www.city.fussa.tokyo.jp/life/health/elderlypeople/1020205.html"
+  },
+  {
+    "id": 3108,
+    "prefecture": "東京都",
+    "city": "狛江市",
+    "area": "中和泉・西和泉・元和泉・東和泉",
+    "name": "あいとぴあ地域包括支援センター",
+    "tel": "03-5438-3565",
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/41,28095,308,1972,html"
+  },
+  {
+    "id": 3109,
+    "prefecture": "東京都",
+    "city": "狛江市",
+    "area": "和泉本町・東野川・西野川",
+    "name": "地域包括支援センターこまえ正吉苑",
+    "tel": "03-5438-2522",
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/41,28095,308,1972,html"
+  },
+  {
+    "id": 3110,
+    "prefecture": "東京都",
+    "city": "狛江市",
+    "area": "岩戸南・岩戸北・猪方・駒井町",
+    "name": "地域包括支援センターこまえ苑",
+    "tel": "03-3489-2422",
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/41,28095,308,1972,html"
+  },
+  {
+    "id": 3111,
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "area": "緑が丘地域",
+    "name": "緑が丘地域包括支援センター",
+    "tel": "042-590-5151",
+    "url": "https://www.city.musashimurayama.lg.jp/koureisha/soudan/1003863.html"
+  },
+  {
+    "id": 3112,
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "area": "伊奈平・岸・残堀・中原・三ツ木・三ツ藤・大字三ツ木（横田基地内）",
+    "name": "西部地域包括支援センター",
+    "tel": "042-560-3931",
+    "url": "https://www.city.musashimurayama.lg.jp/koureisha/soudan/1003863.html"
+  },
+  {
+    "id": 3113,
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "area": "榎・大南・学園",
+    "name": "南部地域包括支援センター",
+    "tel": "042-590-1477",
+    "url": "https://www.city.musashimurayama.lg.jp/koureisha/soudan/1003863.html"
+  },
+  {
+    "id": 3114,
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "area": "神明・中央・中藤・本町",
+    "name": "北部地域包括支援センター",
+    "tel": "042-516-0062",
+    "url": "https://www.city.musashimurayama.lg.jp/koureisha/soudan/1003863.html"
+  },
+  {
+    "id": 3115,
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "area": "坂浜・平尾",
+    "name": "地域包括支援センターひらお",
+    "tel": "042-331-6088",
+    "url": "https://www.city.inagi.tokyo.jp/kurashi/soudan/1002762/1002819.html"
+  },
+  {
+    "id": 3116,
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "area": "押立・矢野口",
+    "name": "地域包括支援センターやのくち",
+    "tel": "042-379-8575",
+    "url": "https://www.city.inagi.tokyo.jp/kurashi/soudan/1002762/1002819.html"
+  },
+  {
+    "id": 3117,
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "area": "大丸・東長沼・百村",
+    "name": "地域包括支援センターエレガントもむら",
+    "tel": "042-379-5500",
+    "url": "https://www.city.inagi.tokyo.jp/kurashi/soudan/1002762/1002819.html"
+  },
+  {
+    "id": 3118,
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "area": "向陽台・長峰・若葉台",
+    "name": "地域包括支援センターこうようだい",
+    "tel": "042-370-0040",
+    "url": "https://www.city.inagi.tokyo.jp/kurashi/soudan/1002762/1002819.html"
+  },
+  {
+    "id": 3119,
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "area": "緑ヶ丘・富士見平・神明台3・4丁目・双葉町・五ノ神（300番地台）・羽（4000番地台）・川崎（600番地台）・横田基地内",
+    "name": "地域包括支援センターあさひ",
+    "tel": "042-555-8815",
+    "url": "https://www.city.hamura.tokyo.jp/0000014107.html"
+  },
+  {
+    "id": 3120,
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "area": "栄町・小作台・羽西・羽加美・羽中",
+    "name": "地域包括支援センターあゆみ",
+    "tel": "042-570-1200",
+    "url": "https://www.city.hamura.tokyo.jp/0000014107.html"
+  },
+  {
+    "id": 3121,
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "area": "五ノ神（1～4丁目）・神明台1・2丁目・川崎・羽東・玉川・羽（清流）",
+    "name": "地域包括支援センターあかしあ",
+    "tel": "042-578-5508",
+    "url": "https://www.city.hamura.tokyo.jp/0000014107.html"
+  },
+  {
+    "id": 3122,
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "area": "雨間・野辺・小川・二宮・平沢・秋留地域",
+    "name": "東部高齢者はつらつセンター",
+    "tel": "042-533-2311",
+    "url": "https://www.city.akiruno.tokyo.jp/0000005078.html"
+  },
+  {
+    "id": 3123,
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "area": "草花・菅生・瀬戸岡・原小宮・引田・秋川地域",
+    "name": "中部高齢者はつらつセンター",
+    "tel": "042-550-6101",
+    "url": "https://www.city.akiruno.tokyo.jp/0000005078.html"
+  },
+  {
+    "id": 3124,
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "area": "山田・上ノ台・網代・伊奈・横沢・五日市・戸倉・養沢地域",
+    "name": "五日市はつらつセンター",
+    "tel": "042-588-4400",
+    "url": "https://www.city.akiruno.tokyo.jp/0000005078.html"
   }
 ]
