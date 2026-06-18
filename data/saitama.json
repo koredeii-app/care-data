@@ -1659,7 +1659,7 @@
         "id":  3138,
         "prefecture":  "埼玉県",
         "city":  "毛呂山町",
-        "area":  "",
+        "area":  "毛呂山町内",
         "name":  "毛呂山町地域包括支援センター",
         "tel":  "049-295-2112",
         "url":  "https://www.town.moroyama.saitama.jp/soshikikarasagasu/koreishashienka/chiikihoukatu/2/2441.html"
@@ -1698,7 +1698,7 @@
         "area":  "上富全域・北永井全域・藤久保第3区・第6区",
         "name":  "地域包括支援センター埼玉セントラル",
         "tel":  "049-274-2080",
-        "url":  "https://www.town.saitama-miyoshi.lg.jp/health/kaigo/houkatu.html"
+        "url":  "https://saitama-central-hospital.com/about/community-center/"
     },
     {
         "id":  3143,
@@ -1707,6 +1707,6 @@
         "area":  "藤久保第1区・第2区・第4区・第5区・竹間沢第1区・みよし台第1区",
         "name":  "地域包括支援センターみずほ苑みよし",
         "tel":  "049-293-7341",
-        "url":  "https://www.town.saitama-miyoshi.lg.jp/health/kaigo/houkatu.html"
+        "url":  "https://mizuhoen.com/misakikai/mizuhoen/comprehensive/"
     }
 ]
