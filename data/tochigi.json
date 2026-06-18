@@ -637,5 +637,23 @@
         "name":  "藤原・栗山地域包括支援センター",
         "tel":  "0288-76-3333",
         "url":  "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/738.html"
+    },
+    {
+        "id":  3144,
+        "prefecture":  "栃木県",
+        "city":  "壬生町",
+        "area":  "南犬飼中学校区",
+        "name":  "壬生北地区地域包括支援センター",
+        "tel":  "0282-86-3579",
+        "url":  "https://www.town.mibu.tochigi.jp/docs/2018083000020/file_contents/R7.pdf"
+    },
+    {
+        "id":  3145,
+        "prefecture":  "栃木県",
+        "city":  "壬生町",
+        "area":  "壬生中学校区",
+        "name":  "壬生南地区地域包括支援センター",
+        "tel":  "0282-82-2119",
+        "url":  "https://www.town.mibu.tochigi.jp/docs/2018083000020/file_contents/R7.pdf"
     }
 ]

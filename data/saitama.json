@@ -1627,5 +1627,86 @@
         "name":  "高齢者あんしん相談センターひだまりの庭むさしの",
         "tel":  "049-268-5005",
         "url":  "https://www.city.fujimi.saitama.jp/kenko_fukushi_iryo/04koureisya/soudan/2010-1007-1350-39.html"
+    },
+    {
+        "id":  3125,
+        "prefecture":  "埼玉県",
+        "city":  "杉戸町",
+        "area":  "中央地区（杉戸・内田・清地・倉松・本島）",
+        "name":  "杉戸町役場庁舎内地域包括支援センター",
+        "tel":  "0480-36-2620",
+        "url":  "https://www.town.sugito.lg.jp/soshiki/20/"
+    },
+    {
+        "id":  3126,
+        "prefecture":  "埼玉県",
+        "city":  "杉戸町",
+        "area":  "南地区（堤根・本郷）・東地区（大塚・北蓮沼・才羽・佐左エ門・遠野・並塚・広戸沼）・泉地区（木津内・鷲巣・木野川・宮前・目沼・屏風・深輪・椿）",
+        "name":  "良宝園地域包括支援センター",
+        "tel":  "0480-38-1120",
+        "url":  "https://www.town.sugito.lg.jp/soshiki/20/"
+    },
+    {
+        "id":  3127,
+        "prefecture":  "埼玉県",
+        "city":  "杉戸町",
+        "area":  "下野・下高野・大島・茨島・高野台東・高野台南・高野台西",
+        "name":  "杉戸町JMA地域包括支援センター",
+        "tel":  "0480-37-0002",
+        "url":  "https://www.town.sugito.lg.jp/soshiki/20/"
+    },
+    {
+        "id":  3138,
+        "prefecture":  "埼玉県",
+        "city":  "毛呂山町",
+        "area":  "",
+        "name":  "毛呂山町地域包括支援センター",
+        "tel":  "049-295-2112",
+        "url":  "https://www.town.moroyama.saitama.jp/soshikikarasagasu/koreishashienka/chiikihoukatu/2/2441.html"
+    },
+    {
+        "id":  3139,
+        "prefecture":  "埼玉県",
+        "city":  "毛呂山町",
+        "area":  "",
+        "name":  "地域包括支援センター悠久園支所",
+        "tel":  "049-295-2000",
+        "url":  "https://www.town.moroyama.saitama.jp/soshikikarasagasu/koreishashienka/chiikihoukatu/2/2441.html"
+    },
+    {
+        "id":  3140,
+        "prefecture":  "埼玉県",
+        "city":  "毛呂山町",
+        "area":  "",
+        "name":  "地域包括支援センター支所HAPPINESS館",
+        "tel":  "049-276-1878",
+        "url":  "https://www.town.moroyama.saitama.jp/soshikikarasagasu/koreishashienka/chiikihoukatu/2/2441.html"
+    },
+    {
+        "id":  3141,
+        "prefecture":  "埼玉県",
+        "city":  "毛呂山町",
+        "area":  "",
+        "name":  "地域包括支援センターななふく苑支所",
+        "tel":  "049-276-5313",
+        "url":  "https://www.town.moroyama.saitama.jp/soshikikarasagasu/koreishashienka/chiikihoukatu/2/2441.html"
+    },
+    {
+        "id":  3142,
+        "prefecture":  "埼玉県",
+        "city":  "三芳町",
+        "area":  "上富全域・北永井全域・藤久保第3区・第6区",
+        "name":  "地域包括支援センター埼玉セントラル",
+        "tel":  "049-274-2080",
+        "url":  "https://www.town.saitama-miyoshi.lg.jp/health/kaigo/houkatu.html"
+    },
+    {
+        "id":  3143,
+        "prefecture":  "埼玉県",
+        "city":  "三芳町",
+        "area":  "藤久保第1区・第2区・第4区・第5区・竹間沢第1区・みよし台第1区",
+        "name":  "地域包括支援センターみずほ苑みよし",
+        "tel":  "049-293-7341",
+        "url":  "https://www.town.saitama-miyoshi.lg.jp/health/kaigo/houkatu.html"
     }
 ]

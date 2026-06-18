@@ -781,5 +781,32 @@
         "name":  "室蘭市地域包括支援センター白鳥ハイツ",
         "tel":  "0143-59-3100",
         "url":  "https://www.city.muroran.lg.jp/welfare/?content=63"
+    },
+    {
+        "id":  3132,
+        "prefecture":  "北海道",
+        "city":  "音更町",
+        "area":  "音更中学校区・駒場中学校区",
+        "name":  "音更町地域包括支援センターらんらん",
+        "tel":  "0155-67-7090",
+        "url":  "https://www.town.otofuke.hokkaido.jp/fukushi/kaigo/soudanmadoguchi/seikatsu_kaigo/tiikihoukatsusiencentertoha.html"
+    },
+    {
+        "id":  3133,
+        "prefecture":  "北海道",
+        "city":  "音更町",
+        "area":  "共栄中学校区・下音更中学校区の一部",
+        "name":  "音更町地域包括支援センターほほえみ",
+        "tel":  "0155-32-5151",
+        "url":  "https://www.town.otofuke.hokkaido.jp/fukushi/kaigo/soudanmadoguchi/seikatsu_kaigo/tiikihoukatsusiencentertoha.html"
+    },
+    {
+        "id":  3134,
+        "prefecture":  "北海道",
+        "city":  "音更町",
+        "area":  "緑南中学校区・下音更中学校区の一部",
+        "name":  "音更町地域包括支援センターロータス音更",
+        "tel":  "0155-67-7863",
+        "url":  "https://www.town.otofuke.hokkaido.jp/fukushi/kaigo/soudanmadoguchi/seikatsu_kaigo/tiikihoukatsusiencentertoha.html"
     }
 ]

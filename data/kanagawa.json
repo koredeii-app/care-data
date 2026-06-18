@@ -2431,5 +2431,41 @@
         "name":  "海老名南地域包括支援センター",
         "tel":  "046-238-7691",
         "url":  "https://ebinaminami.com/community-center/"
+    },
+    {
+        "id":  3129,
+        "prefecture":  "神奈川県",
+        "city":  "寒川町",
+        "area":  "中央地域",
+        "name":  "寒川町地域包括支援センター",
+        "tel":  "0467-72-1294",
+        "url":  "https://www.town.samukawa.kanagawa.jp/soshiki/fukushi/koreikaigo/kaigohoken/info/kaigo/1497234789905.html"
+    },
+    {
+        "id":  3130,
+        "prefecture":  "神奈川県",
+        "city":  "寒川町",
+        "area":  "南部地域",
+        "name":  "寒川町地域包括支援センター南部相談室",
+        "tel":  "0467-38-8258",
+        "url":  "https://www.town.samukawa.kanagawa.jp/soshiki/fukushi/koreikaigo/kaigohoken/info/kaigo/1497234789905.html"
+    },
+    {
+        "id":  3131,
+        "prefecture":  "神奈川県",
+        "city":  "寒川町",
+        "area":  "北部地域",
+        "name":  "寒川町地域包括支援センター北部相談室",
+        "tel":  "0467-72-1294",
+        "url":  "https://www.town.samukawa.kanagawa.jp/soshiki/fukushi/koreikaigo/kaigohoken/info/kaigo/1497234789905.html"
+    },
+    {
+        "id":  3137,
+        "prefecture":  "神奈川県",
+        "city":  "愛川町",
+        "area":  "町内全域",
+        "name":  "愛川町地域包括支援センター",
+        "tel":  "046-285-2111",
+        "url":  "https://www.town.aikawa.kanagawa.jp/soshiki/minsei/kourei_kaigo/kaigo/event/14004.html"
     }
 ]

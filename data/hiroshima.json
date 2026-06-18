@@ -697,5 +697,14 @@
         "name":  "三原市地域包括支援センターはーもにー",
         "tel":  "0847-32-5007",
         "url":  "https://www.city.mihara.hiroshima.jp/soshiki/15/sien.html"
+    },
+    {
+        "id":  3136,
+        "prefecture":  "広島県",
+        "city":  "府中町",
+        "area":  "町内全域",
+        "name":  "府中町地域包括支援センター",
+        "tel":  "082-285-7290",
+        "url":  "https://www.town.fuchu.hiroshima.jp/soshiki/10/1654.html"
     }
 ]
