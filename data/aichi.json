@@ -1393,5 +1393,32 @@
         "name": "東浦町高齢者相談支援センター",
         "tel": "0562-82-2941",
         "url": "https://www.chiikihoukatu-portal.pref.aichi.jp/centers/detail/133/"
+    },
+    {
+        "id": 3152,
+        "prefecture": "愛知県",
+        "city": "武豊町",
+        "area": "町内全域",
+        "name": "武豊町地域包括支援センター",
+        "tel": "0569-74-3305",
+        "url": "https://www.town.taketoyo.lg.jp/contents_detail.php?co=kak&frmId=334"
+    },
+    {
+        "id": 3153,
+        "prefecture": "愛知県",
+        "city": "東郷町",
+        "area": "諸輪・和合・和合台・諸輪団地・白鳥・音貝・押草南・押草北・北山台",
+        "name": "東郷町北部地域包括支援センター",
+        "tel": "0561-38-8551",
+        "url": "https://www.chiikihoukatu-portal.pref.aichi.jp/centers/detail/136/"
+    },
+    {
+        "id": 3154,
+        "prefecture": "愛知県",
+        "city": "東郷町",
+        "area": "法ノ木・夕方寺・米田・白鉢・春木台・西白鉢・米田山・清水",
+        "name": "東郷町南部地域包括支援センター東郷苑",
+        "tel": "0561-56-3112",
+        "url": "https://www.chiikihoukatu-portal.pref.aichi.jp/centers/detail/286/"
     }
 ]

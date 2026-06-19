@@ -523,5 +523,32 @@
         "name":  "田尻地域包括支援センター",
         "tel":  "0229-39-3601",
         "url":  "https://www.city.osaki.miyagi.jp/shisei/lifescenebetsudesagasu/koreisha_kaigo/tiikihoukatu/16424.html"
+    },
+    {
+        "id":  3146,
+        "prefecture":  "宮城県",
+        "city":  "柴田町",
+        "area":  "柴田地区（槻木地区を除く）",
+        "name":  "柴田町地域包括支援センター",
+        "tel":  "0224-86-3340",
+        "url":  "https://www.s-shakyo.jp/business/entrustment/support_center/"
+    },
+    {
+        "id":  3147,
+        "prefecture":  "宮城県",
+        "city":  "柴田町",
+        "area":  "槻木地区（槻木中学校区）",
+        "name":  "槻木地域包括支援センター",
+        "tel":  "0224-56-5764",
+        "url":  "https://www.s-shakyo.jp/business/entrustment/support_center/"
+    },
+    {
+        "id":  3156,
+        "prefecture":  "宮城県",
+        "city":  "亘理町",
+        "area":  "町内全域",
+        "name":  "地域包括支援センターやすらぎ",
+        "tel":  "0223-34-1331",
+        "url":  "https://www.town.watari.miyagi.jp/welfare/detail.php?content=800"
     }
 ]

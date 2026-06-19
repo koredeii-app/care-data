@@ -34,5 +34,6 @@
     {"id":2930,"prefecture":"茨城県","city":"古河市","area":"古河地区","name":"古河市地域包括支援センター古河","tel":"0280-23-6517","url":"https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"},
     {"id":2931,"prefecture":"茨城県","city":"古河市","area":"総和地区","name":"古河市地域包括支援センター総和","tel":"0280-23-5661","url":"https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"},
     {"id":2932,"prefecture":"茨城県","city":"古河市","area":"三和地区","name":"古河市地域包括支援センター三和","tel":"0280-77-3740","url":"https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"},
-    {"id":3128,"prefecture":"茨城県","city":"阿見町","area":"町内全域","name":"阿見町地域包括支援センター","tel":"029-887-8124","url":"https://www.town.ami.lg.jp/0000007036.html"}
+    {"id":3128,"prefecture":"茨城県","city":"阿見町","area":"町内全域","name":"阿見町地域包括支援センター","tel":"029-887-8124","url":"https://www.town.ami.lg.jp/0000007036.html"},
+    {"id":3148,"prefecture":"茨城県","city":"茨城町","area":"町内全域","name":"茨城町地域包括支援センター","tel":"029-292-8577","url":"https://www.town.ibaraki.lg.jp/gyousei/kenkoukaigo/kaigo/000524.html"}
 ]
