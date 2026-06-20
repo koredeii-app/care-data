@@ -304,5 +304,14 @@
         "name":  "天草市地域包括支援センター御所浦",
         "tel":  "0969-67-1777",
         "url":  "https://www.city.amakusa.kumamoto.jp/kiji003991/index.html"
+    },
+    {
+        "id":  3168,
+        "prefecture":  "熊本県",
+        "city":  "菊陽町",
+        "area":  "町内全域",
+        "name":  "菊陽町地域包括支援センター",
+        "tel":  "096-232-2366",
+        "url":  "https://www.town.kikuyo.lg.jp/kiji0031090/index.html"
     }
 ]

@@ -2078,5 +2078,14 @@
         "name":  "羽曳野市中圏域地域包括支援センター",
         "tel":  "072-959-2006",
         "url":  "https://www.shitennoji-fukushi.jp/aged/hidenin-zaitaku/"
+    },
+    {
+        "id":  3160,
+        "prefecture":  "大阪府",
+        "city":  "熊取町",
+        "area":  "町内全域",
+        "name":  "熊取町地域包括支援センターやさか",
+        "tel":  "072-453-8330",
+        "url":  "https://www.town.kumatori.lg.jp/soshiki/kaigo_hoken/gyomu/kaigo/1/1517.html"
     }
 ]

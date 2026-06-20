@@ -4201,5 +4201,23 @@
     "name": "五日市はつらつセンター",
     "tel": "042-588-4400",
     "url": "https://www.city.akiruno.tokyo.jp/0000005078.html"
+  },
+  {
+    "id": 3164,
+    "prefecture": "東京都",
+    "city": "瑞穂町",
+    "area": "殿ケ谷・石畑・箱根ケ崎（中3丁目・西3丁目・松原町除く）・元狭山（栗原町除く）",
+    "name": "東部高齢者支援センター",
+    "tel": "042-557-3852",
+    "url": "https://www.town.mizuho.tokyo.jp/tyosei/022/004/p002889.html"
+  },
+  {
+    "id": 3165,
+    "prefecture": "東京都",
+    "city": "瑞穂町",
+    "area": "長岡・武蔵野・箱根ケ崎（中3丁目・西3丁目・松原町）・元狭山（栗原町）",
+    "name": "西部高齢者支援センター",
+    "tel": "042-557-0609",
+    "url": "https://www.town.mizuho.tokyo.jp/tyosei/022/004/p002889.html"
   }
 ]

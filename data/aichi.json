@@ -1420,5 +1420,59 @@
         "name": "東郷町南部地域包括支援センター東郷苑",
         "tel": "0561-56-3112",
         "url": "https://www.chiikihoukatu-portal.pref.aichi.jp/centers/detail/286/"
+    },
+    {
+        "id": 3166,
+        "prefecture": "愛知県",
+        "city": "蟹江町",
+        "area": "蟹江川より東",
+        "name": "蟹江町東地域包括支援センター",
+        "tel": "0567-94-3320",
+        "url": "https://www.town.kanie.aichi.jp/soshiki/9/sougoujigyouh30-10.html"
+    },
+    {
+        "id": 3167,
+        "prefecture": "愛知県",
+        "city": "蟹江町",
+        "area": "蟹江川より西",
+        "name": "蟹江町西地域包括支援センター",
+        "tel": "0567-94-1165",
+        "url": "https://www.town.kanie.aichi.jp/soshiki/9/sougoujigyouh30-10.html"
+    },
+    {
+        "id": 3172,
+        "prefecture": "愛知県",
+        "city": "幸田町",
+        "area": "坂崎学区・幸田学区",
+        "name": "幸田町北部地域包括支援センター",
+        "tel": "0564-62-5516",
+        "url": "https://www.town.kota.lg.jp/soshiki/10/22042.html"
+    },
+    {
+        "id": 3173,
+        "prefecture": "愛知県",
+        "city": "幸田町",
+        "area": "中央学区・荻谷学区",
+        "name": "幸田町中部地域包括支援センター",
+        "tel": "0564-62-7331",
+        "url": "https://www.town.kota.lg.jp/soshiki/10/22042.html"
+    },
+    {
+        "id": 3174,
+        "prefecture": "愛知県",
+        "city": "幸田町",
+        "area": "豊坂学区・深溝学区",
+        "name": "幸田町南部地域包括支援センター",
+        "tel": "0564-46-7370",
+        "url": "https://www.town.kota.lg.jp/soshiki/10/22042.html"
+    },
+    {
+        "id": 3176,
+        "prefecture": "愛知県",
+        "city": "扶桑町",
+        "area": "町内全域",
+        "name": "扶桑町社会福祉協議会地域包括支援センター",
+        "tel": "0587-91-1171",
+        "url": "https://www.town.fuso.lg.jp/kaigo/houkatsu.html"
     }
 ]

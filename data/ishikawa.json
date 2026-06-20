@@ -322,5 +322,14 @@
         "name":  "白山市地域包括支援センター大門園",
         "tel":  "076-255-5225",
         "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+    },
+    {
+        "id":  3175,
+        "prefecture":  "石川県",
+        "city":  "津幡町",
+        "area":  "町内全域",
+        "name":  "津幡町地域包括支援センター",
+        "tel":  "076-288-7952",
+        "url":  "https://www.town.tsubata.lg.jp/division/fukushi/houkatsu_center.html"
     }
 ]
