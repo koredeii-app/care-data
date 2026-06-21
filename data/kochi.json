@@ -142,5 +142,14 @@
         "name":  "高知市春野地域包括支援センター",
         "tel":  "088-894-3322",
         "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+    },
+    {
+        "id":  3208,
+        "prefecture":  "高知県",
+        "city":  "南国市",
+        "area":  "南国市全域",
+        "name":  "南国市地域包括支援センター",
+        "tel":  "088-804-6010",
+        "url":  "https://www.city.nankoku.lg.jp/life/life_dtl.php?hdnKey=1485"
     }
 ]

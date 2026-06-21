@@ -61,5 +61,23 @@
         "name":  "高松市地域包括支援センター香川",
         "tel":  "087-879-0991",
         "url":  "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kenkou/koreisha_shien/sodan/hokatsu/h_hokatsu20180202.html"
+    },
+    {
+        "id":  3206,
+        "prefecture":  "香川県",
+        "city":  "丸亀市",
+        "area":  "丸亀市（飯山町を除く）",
+        "name":  "丸亀市地域包括支援センター",
+        "tel":  "0877-24-8933",
+        "url":  "https://www.city.marugame.lg.jp/page/2569.html"
+    },
+    {
+        "id":  3207,
+        "prefecture":  "香川県",
+        "city":  "丸亀市",
+        "area":  "飯山町",
+        "name":  "丸亀市地域包括支援センター南部センター",
+        "tel":  "0877-85-3350",
+        "url":  "https://www.city.marugame.lg.jp/page/2569.html"
     }
 ]

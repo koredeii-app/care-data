@@ -79,5 +79,14 @@
         "name":  "甲府市笛南地域包括支援センター",
         "tel":  "055-266-4220",
         "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/tekinan.html"
+    },
+    {
+        "id":  3221,
+        "prefecture":  "山梨県",
+        "city":  "甲斐市",
+        "area":  "甲斐市全域",
+        "name":  "甲斐市地域包括支援センター",
+        "tel":  "055-278-1693",
+        "url":  "https://www.city.kai.yamanashi.jp/soshikinogoannai/chojusuishinka/kaigoyobosuishingakari/1_1/2/963.html"
     }
 ]

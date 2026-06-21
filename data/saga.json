@@ -133,5 +133,50 @@
         "name":  "おたっしゃ本舗久保田",
         "tel":  "0952-51-3993",
         "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1244.html"
+    },
+    {
+        "id":  3209,
+        "prefecture":  "佐賀県",
+        "city":  "唐津市",
+        "area":  "久里・鬼塚・成和・外町・東唐津・高島・大志・長松・竹木場・西唐津・佐志・大良・湊・神集島",
+        "name":  "唐津市地域包括支援センター",
+        "tel":  "0955-72-9191",
+        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+    },
+    {
+        "id":  3210,
+        "prefecture":  "佐賀県",
+        "city":  "唐津市",
+        "area":  "浜玉・七山・鏡",
+        "name":  "唐津市地域包括支援センター浜玉サブセンター",
+        "tel":  "0955-53-7056",
+        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+    },
+    {
+        "id":  3211,
+        "prefecture":  "佐賀県",
+        "city":  "唐津市",
+        "area":  "相知・厳木・北波多",
+        "name":  "唐津市地域包括支援センター相知サブセンター",
+        "tel":  "0955-53-7057",
+        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+    },
+    {
+        "id":  3212,
+        "prefecture":  "佐賀県",
+        "city":  "唐津市",
+        "area":  "鎮西・呼子",
+        "name":  "唐津市地域包括支援センター鎮西サブセンター",
+        "tel":  "0955-53-7058",
+        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+    },
+    {
+        "id":  3213,
+        "prefecture":  "佐賀県",
+        "city":  "唐津市",
+        "area":  "肥前",
+        "name":  "唐津市地域包括支援センター肥前出張所",
+        "tel":  "0955-53-7059",
+        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
     }
 ]

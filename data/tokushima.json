@@ -133,5 +133,68 @@
         "name":  "在宅介護支援センターとみだ",
         "tel":  "0120-65-0070",
         "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  3214,
+        "prefecture":  "徳島県",
+        "city":  "阿南市",
+        "area":  "阿南市全域（基幹型）",
+        "name":  "阿南市中央高齢者お世話センター",
+        "tel":  "0884-23-7288",
+        "url":  "https://www.city.anan.tokushima.jp/docs/2016100500034/"
+    },
+    {
+        "id":  3215,
+        "prefecture":  "徳島県",
+        "city":  "阿南市",
+        "area":  "富岡・学原・日開野・七見ほか",
+        "name":  "阿南市東部高齢者お世話センター",
+        "tel":  "0884-22-4577",
+        "url":  "https://www.city.anan.tokushima.jp/docs/2016100500034/"
+    },
+    {
+        "id":  3216,
+        "prefecture":  "徳島県",
+        "city":  "阿南市",
+        "area":  "才見・中林・見能林・大潟ほか",
+        "name":  "阿南市中部高齢者お世話センター",
+        "tel":  "0884-23-3728",
+        "url":  "https://www.city.anan.tokushima.jp/docs/2016100500034/"
+    },
+    {
+        "id":  3217,
+        "prefecture":  "徳島県",
+        "city":  "阿南市",
+        "area":  "長生・上大野・中大野ほか",
+        "name":  "阿南市西部高齢者お世話センター",
+        "tel":  "0884-44-6836",
+        "url":  "https://www.city.anan.tokushima.jp/docs/2016100500034/"
+    },
+    {
+        "id":  3218,
+        "prefecture":  "徳島県",
+        "city":  "阿南市",
+        "area":  "新野・福井・椿・椿泊",
+        "name":  "阿南市南部高齢者お世話センター",
+        "tel":  "0884-36-3634",
+        "url":  "https://www.city.anan.tokushima.jp/docs/2016100500034/"
+    },
+    {
+        "id":  3219,
+        "prefecture":  "徳島県",
+        "city":  "阿南市",
+        "area":  "伊島・那賀川・羽ノ浦の一部",
+        "name":  "阿南市北部第1高齢者お世話センター",
+        "tel":  "0884-42-2900",
+        "url":  "https://www.city.anan.tokushima.jp/docs/2016100500034/"
+    },
+    {
+        "id":  3220,
+        "prefecture":  "徳島県",
+        "city":  "阿南市",
+        "area":  "羽ノ浦の一部（宮倉・中庄）",
+        "name":  "阿南市北部第2高齢者お世話センター",
+        "tel":  "0884-44-6836",
+        "url":  "https://www.city.anan.tokushima.jp/docs/2016100500034/"
     }
 ]

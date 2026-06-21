@@ -115,5 +115,41 @@
         "name":  "ほやねっと東足羽",
         "tel":  "0776-41-4135",
         "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  3202,
+        "prefecture":  "福井県",
+        "city":  "坂井市",
+        "area":  "三国町",
+        "name":  "三国地域包括支援センター",
+        "tel":  "0776-82-1616",
+        "url":  "http://www.s-shinseikai.jp/support_center/"
+    },
+    {
+        "id":  3203,
+        "prefecture":  "福井県",
+        "city":  "坂井市",
+        "area":  "丸岡町",
+        "name":  "丸岡地域包括支援センター",
+        "tel":  "0776-68-1130",
+        "url":  "https://fj-g.jp/comprehensive/maruoka"
+    },
+    {
+        "id":  3204,
+        "prefecture":  "福井県",
+        "city":  "坂井市",
+        "area":  "春江町",
+        "name":  "春江地域包括支援センター",
+        "tel":  "0776-43-0227",
+        "url":  "http://fj-g.jp/comprehensive/"
+    },
+    {
+        "id":  3205,
+        "prefecture":  "福井県",
+        "city":  "坂井市",
+        "area":  "坂井町",
+        "name":  "坂井地域包括支援センター",
+        "tel":  "0776-67-5000",
+        "url":  "http://www.sakaicityshakyo.jp/wsus/20170403-3/"
     }
 ]
