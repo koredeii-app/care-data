@@ -178,5 +178,41 @@
         "name":  "唐津市地域包括支援センター肥前出張所",
         "tel":  "0955-53-7059",
         "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+    },
+    {
+        "id":  3232,
+        "prefecture":  "佐賀県",
+        "city":  "鳥栖市",
+        "area":  "鳥栖地区・鳥栖北地区",
+        "name":  "鳥栖市鳥栖地区地域包括支援センター",
+        "tel":  "0942-81-3113",
+        "url":  "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
+    },
+    {
+        "id":  3233,
+        "prefecture":  "佐賀県",
+        "city":  "鳥栖市",
+        "area":  "田代地区・基里地区",
+        "name":  "鳥栖市田代基里地区地域包括支援センター",
+        "tel":  "0942-85-3440",
+        "url":  "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
+    },
+    {
+        "id":  3234,
+        "prefecture":  "佐賀県",
+        "city":  "鳥栖市",
+        "area":  "若葉地区・弥生が丘地区",
+        "name":  "鳥栖市若葉弥生が丘地区地域包括支援センター",
+        "tel":  "0942-85-8815",
+        "url":  "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
+    },
+    {
+        "id":  3235,
+        "prefecture":  "佐賀県",
+        "city":  "鳥栖市",
+        "area":  "麓地区・旭地区",
+        "name":  "鳥栖市鳥栖西地区地域包括支援センター",
+        "tel":  "0942-82-2188",
+        "url":  "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
     }
 ]

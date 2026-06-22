@@ -77,5 +77,10 @@
     {"id":2222,"prefecture":"島根県","city":"出雲市","area":"多伎","name":"多伎高齢者あんしん支援センター","tel":"0853-86-7122","url":"https://www.pref.shimane.lg.jp/medical/fukushi/kourei/kourei_sien/csc/"},
     {"id":2223,"prefecture":"島根県","city":"出雲市","area":"湖陵","name":"湖陵高齢者あんしん支援センター","tel":"0853-43-7611","url":"https://www.pref.shimane.lg.jp/medical/fukushi/kourei/kourei_sien/csc/"},
     {"id":2224,"prefecture":"島根県","city":"出雲市","area":"大社","name":"大社高齢者あんしん支援センター","tel":"0853-53-3232","url":"https://www.pref.shimane.lg.jp/medical/fukushi/kourei/kourei_sien/csc/"},
-    {"id":2225,"prefecture":"島根県","city":"出雲市","area":"斐川","name":"斐川高齢者あんしん支援センター","tel":"0853-73-9125","url":"https://www.pref.shimane.lg.jp/medical/fukushi/kourei/kourei_sien/csc/"}
+    {"id":2225,"prefecture":"島根県","city":"出雲市","area":"斐川","name":"斐川高齢者あんしん支援センター","tel":"0853-73-9125","url":"https://www.pref.shimane.lg.jp/medical/fukushi/kourei/kourei_sien/csc/"},
+    {"id":3236,"prefecture":"島根県","city":"浜田市","area":"浜田地区","name":"浜田市高齢者相談支援センター","tel":"0855-22-3900","url":"https://www.city.hamada.shimane.jp/www/contents/1001000001947/index.html"},
+    {"id":3237,"prefecture":"島根県","city":"浜田市","area":"金城地区","name":"高齢者相談支援センター金城","tel":"0855-42-2301","url":"https://www.city.hamada.shimane.jp/www/contents/1001000001947/index.html"},
+    {"id":3238,"prefecture":"島根県","city":"浜田市","area":"旭地区","name":"高齢者相談支援センター旭","tel":"0855-45-0189","url":"https://www.city.hamada.shimane.jp/www/contents/1001000001947/index.html"},
+    {"id":3239,"prefecture":"島根県","city":"浜田市","area":"弥栄地区","name":"高齢者相談支援センター弥栄","tel":"0855-48-2194","url":"https://www.city.hamada.shimane.jp/www/contents/1001000001947/index.html"},
+    {"id":3240,"prefecture":"島根県","city":"浜田市","area":"三隅地区","name":"高齢者相談支援センター三隅","tel":"0855-32-1831","url":"https://www.city.hamada.shimane.jp/www/contents/1001000001947/index.html"}
 ]

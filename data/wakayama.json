@@ -205,5 +205,14 @@
         "name":  "すさみ町地域包括支援センター",
         "tel":  "0739-55-4670",
         "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+    },
+    {
+        "id":  3252,
+        "prefecture":  "和歌山県",
+        "city":  "橋本市",
+        "area":  "橋本市全域",
+        "name":  "橋本市地域包括支援センター",
+        "tel":  "0736-32-1957",
+        "url":  "https://www.city.hashimoto.lg.jp/guide/kenko_fukushibu/ikiiki_kenko/houkatusiennsennta/1533009952349.html"
     }
 ]

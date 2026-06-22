@@ -268,5 +268,14 @@
         "name":  "霧島市地域包括支援センター 福山支所",
         "tel":  "0995-64-7165",
         "url":  "https://kiri-houkatu.sakura.ne.jp/contact.htm"
+    },
+    {
+        "id":  3229,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿屋市",
+        "area":  "鹿屋市全域",
+        "name":  "鹿屋市地域包括支援センター",
+        "tel":  "0994-45-6969",
+        "url":  "https://www.city.kanoya.lg.jp/houkatu/kenko/fukushi/koresha/chiikihokatsu.html"
     }
 ]

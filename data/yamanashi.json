@@ -88,5 +88,50 @@
         "name":  "甲斐市地域包括支援センター",
         "tel":  "055-278-1689",
         "url":  "https://www.city.kai.yamanashi.jp/page/4332.html"
+    },
+    {
+        "id":  3253,
+        "prefecture":  "山梨県",
+        "city":  "富士吉田市",
+        "area":  "富士吉田市全域（基幹型）",
+        "name":  "富士吉田市地域包括支援センター",
+        "tel":  "0555-22-1111",
+        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+    },
+    {
+        "id":  3254,
+        "prefecture":  "山梨県",
+        "city":  "富士吉田市",
+        "area":  "白糸町・寿町・寿団地・富士見町・小明見・向原・東町",
+        "name":  "富士吉田市地域包括支援センターブランチなごやか",
+        "tel":  "0555-24-7088",
+        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+    },
+    {
+        "id":  3255,
+        "prefecture":  "山梨県",
+        "city":  "富士吉田市",
+        "area":  "幸町・中村・仲町・西町・曙町・お茶屋町・宮下町・弁天町・しんや・大明見・中央区・西吉田団地",
+        "name":  "富士吉田市地域包括支援センターブランチすこやか",
+        "tel":  "0555-21-1213",
+        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+    },
+    {
+        "id":  3256,
+        "prefecture":  "山梨県",
+        "city":  "富士吉田市",
+        "area":  "赤坂・ときわ台・西丸尾・緑ケ丘・浅間町・竜ヶ丘・旭町・新町・松山・中曽根",
+        "name":  "富士吉田市地域包括支援センターブランチほがらか",
+        "tel":  "0555-24-5334",
+        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+    },
+    {
+        "id":  3257,
+        "prefecture":  "山梨県",
+        "city":  "富士吉田市",
+        "area":  "上宿・中宿・下宿・新屋・鐘山",
+        "name":  "富士吉田市地域包括支援センターブランチさわやか",
+        "tel":  "0555-22-4111",
+        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
     }
 ]

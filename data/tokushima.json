@@ -196,5 +196,59 @@
         "name":  "阿南市北部第2高齢者お世話センター",
         "tel":  "0884-44-6836",
         "url":  "https://www.city.anan.tokushima.jp/docs/2016100500034/"
+    },
+    {
+        "id":  3241,
+        "prefecture":  "徳島県",
+        "city":  "鳴門市",
+        "area":  "鳴門市全域（基幹型）",
+        "name":  "鳴門市基幹型地域包括支援センター",
+        "tel":  "088-615-1417",
+        "url":  "http://www.narutoshi-shakyo.com/jigyo_kikangata.html"
+    },
+    {
+        "id":  3242,
+        "prefecture":  "徳島県",
+        "city":  "鳴門市",
+        "area":  "瀬戸町全域・北灘町全域・鳴門東地区",
+        "name":  "鳴門市地域包括支援センターやまかみ",
+        "tel":  "088-683-6727",
+        "url":  "http://www.narutoshi-shakyo.com/jigyo_kikangata.html"
+    },
+    {
+        "id":  3243,
+        "prefecture":  "徳島県",
+        "city":  "鳴門市",
+        "area":  "大麻町全域",
+        "name":  "鳴門市地域包括支援センターおおあさ",
+        "tel":  "088-689-3738",
+        "url":  "http://www.narutoshi-shakyo.com/jigyo_kikangata.html"
+    },
+    {
+        "id":  3244,
+        "prefecture":  "徳島県",
+        "city":  "鳴門市",
+        "area":  "大津町全域・撫養町木津地区",
+        "name":  "鳴門市地域包括支援センターひだまり",
+        "tel":  "088-686-1139",
+        "url":  "http://www.narutoshi-shakyo.com/jigyo_kikangata.html"
+    },
+    {
+        "id":  3245,
+        "prefecture":  "徳島県",
+        "city":  "鳴門市",
+        "area":  "撫養町川西地区（木津を除く）・鳴門西地区",
+        "name":  "鳴門市地域包括支援センター緑会",
+        "tel":  "088-685-1555",
+        "url":  "http://www.narutoshi-shakyo.com/jigyo_kikangata.html"
+    },
+    {
+        "id":  3246,
+        "prefecture":  "徳島県",
+        "city":  "鳴門市",
+        "area":  "撫養町川東地区・里浦町全域",
+        "name":  "鳴門市地域包括支援センター貴洋会",
+        "tel":  "088-683-1075",
+        "url":  "http://www.narutoshi-shakyo.com/jigyo_kikangata.html"
     }
 ]

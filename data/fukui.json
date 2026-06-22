@@ -151,5 +151,59 @@
         "name":  "坂井地域包括支援センター",
         "tel":  "0776-67-5000",
         "url":  "http://www.sakaicityshakyo.jp/wsus/20170403-3/"
+    },
+    {
+        "id":  3222,
+        "prefecture":  "福井県",
+        "city":  "越前市",
+        "area":  "北新庄・北日野・味真野",
+        "name":  "越前市社会福祉協議会地域包括支援センター",
+        "tel":  "0778-22-6111",
+        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+    },
+    {
+        "id":  3223,
+        "prefecture":  "福井県",
+        "city":  "越前市",
+        "area":  "坂口・王子保・南",
+        "name":  "しくら地域包括支援センター",
+        "tel":  "0778-29-1188",
+        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+    },
+    {
+        "id":  3224,
+        "prefecture":  "福井県",
+        "city":  "越前市",
+        "area":  "西・神山・白山",
+        "name":  "あいの樹地域包括支援センター",
+        "tel":  "0778-42-5725",
+        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+    },
+    {
+        "id":  3225,
+        "prefecture":  "福井県",
+        "city":  "越前市",
+        "area":  "粟田部・岡本・南中山・服間",
+        "name":  "地域包括支援センターいまだて",
+        "tel":  "0778-43-1888",
+        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+    },
+    {
+        "id":  3226,
+        "prefecture":  "福井県",
+        "city":  "越前市",
+        "area":  "国高・東",
+        "name":  "地域包括支援センター和上苑",
+        "tel":  "0778-23-5255",
+        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+    },
+    {
+        "id":  3227,
+        "prefecture":  "福井県",
+        "city":  "越前市",
+        "area":  "吉野・大虫",
+        "name":  "地域包括支援センター丹南きらめき",
+        "tel":  "0778-22-7776",
+        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
     }
 ]

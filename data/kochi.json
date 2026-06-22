@@ -151,5 +151,23 @@
         "name":  "南国市地域包括支援センター",
         "tel":  "088-804-6010",
         "url":  "https://www.city.nankoku.lg.jp/life/life_dtl.php?hdnKey=1485"
+    },
+    {
+        "id":  3230,
+        "prefecture":  "高知県",
+        "city":  "四万十市",
+        "area":  "中村地域",
+        "name":  "四万十市地域包括支援センター中村",
+        "tel":  "0880-34-0170",
+        "url":  "https://www.city.shimanto.lg.jp/soshiki/10/3327.html"
+    },
+    {
+        "id":  3231,
+        "prefecture":  "高知県",
+        "city":  "四万十市",
+        "area":  "西土佐地域",
+        "name":  "四万十市地域包括支援センター西土佐",
+        "tel":  "0880-52-1000",
+        "url":  "https://www.city.shimanto.lg.jp/soshiki/10/3327.html"
     }
 ]
