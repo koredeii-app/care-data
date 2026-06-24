@@ -222,7 +222,11 @@
         "city":  "紀の川市",
         "area":  "紀の川市全域",
         "name":  "紀の川市地域包括支援センター愛の手",
-        "tel":  "0736-78-3314",
-        "url":  "https://www.city.kinokawa.lg.jp/024/houkatsushientoha.html"
+        "tel":  "0736-77-0350",
+        "phones":  [
+            { "label":  "平日の午前8時45分～午後5時30分", "number":  "0736-77-0350" },
+            { "label":  "夜間・休日等の緊急連絡先", "number":  "0736-78-3314" }
+        ],
+        "url":  "https://www.city.kinokawa.lg.jp/024/2021-0310-1459-68.html"
     }
 ]
