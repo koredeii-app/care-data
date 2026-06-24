@@ -304,5 +304,14 @@
         "name": "東部地域包括支援センター",
         "tel": "0957-32-6556",
         "url": "https://www.city.isahaya.nagasaki.jp/soshiki/25/32228.html"
+    },
+    {
+        "id": 3270,
+        "prefecture": "長崎県",
+        "city": "大村市",
+        "area": "大村市全域",
+        "name": "大村市地域包括支援センター",
+        "tel": "0957-53-8141",
+        "url": "https://www.city.omura.nagasaki.jp/choujuhokatsu/kenko/fukushi/koresha/center.html"
     }
 ]

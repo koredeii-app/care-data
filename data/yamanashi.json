@@ -133,5 +133,14 @@
         "name":  "富士吉田市地域包括支援センターブランチさわやか",
         "tel":  "0555-22-4111",
         "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+    },
+    {
+        "id":  3294,
+        "prefecture":  "山梨県",
+        "city":  "山梨市",
+        "area":  "山梨市全域",
+        "name":  "山梨市地域包括支援センター",
+        "tel":  "0553-23-0294",
+        "url":  "https://www.city.yamanashi.yamanashi.jp/citizen/docs/hokatu.html"
     }
 ]

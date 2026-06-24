@@ -169,5 +169,14 @@
         "name":  "四万十市地域包括支援センター西土佐",
         "tel":  "0880-52-1000",
         "url":  "https://www.city.shimanto.lg.jp/soshiki/10/3327.html"
+    },
+    {
+        "id":  3293,
+        "prefecture":  "高知県",
+        "city":  "香南市",
+        "area":  "香南市全域",
+        "name":  "香南市地域包括支援センター",
+        "tel":  "0887-57-8511",
+        "url":  "https://www.city.kochi-konan.lg.jp/soshikikarasagasu/koreishakaigoka/index.html"
     }
 ]

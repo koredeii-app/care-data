@@ -250,5 +250,14 @@
         "name":  "鳴門市地域包括支援センター貴洋会",
         "tel":  "088-683-1075",
         "url":  "https://www.city.naruto.lg.jp/docs/2025120100056/"
+    },
+    {
+        "id":  3292,
+        "prefecture":  "徳島県",
+        "city":  "吉野川市",
+        "area":  "吉野川市全域",
+        "name":  "吉野川市地域包括支援センター",
+        "tel":  "0883-22-2744",
+        "url":  "https://www.city.yoshinogawa.lg.jp/docs/2010100700814/"
     }
 ]

@@ -286,5 +286,50 @@
         "name":  "うるま市地域包括支援センターよなしろ",
         "tel":  "098-923-5117",
         "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+    },
+    {
+        "id":  3271,
+        "prefecture":  "沖縄県",
+        "city":  "浦添市",
+        "area":  "浦添地区",
+        "name":  "浦添市地域包括支援センターさっとん",
+        "tel":  "098-877-3103",
+        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+    },
+    {
+        "id":  3272,
+        "prefecture":  "沖縄県",
+        "city":  "浦添市",
+        "area":  "浦西地区",
+        "name":  "浦添市地域包括支援センターゆいまぁる",
+        "tel":  "098-917-5320",
+        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+    },
+    {
+        "id":  3273,
+        "prefecture":  "沖縄県",
+        "city":  "浦添市",
+        "area":  "神森地区",
+        "name":  "浦添市地域包括支援センターてぃだ",
+        "tel":  "098-870-0150",
+        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+    },
+    {
+        "id":  3274,
+        "prefecture":  "沖縄県",
+        "city":  "浦添市",
+        "area":  "仲西地区",
+        "name":  "浦添市地域包括支援センターライフサポート",
+        "tel":  "098-875-2560",
+        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+    },
+    {
+        "id":  3275,
+        "prefecture":  "沖縄県",
+        "city":  "浦添市",
+        "area":  "港川地区",
+        "name":  "浦添市地域包括支援センターみなとん",
+        "tel":  "098-876-3710",
+        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
     }
 ]

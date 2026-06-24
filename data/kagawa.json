@@ -88,5 +88,14 @@
         "name":  "観音寺市地域包括支援センター",
         "tel":  "0875-25-7791",
         "url":  "https://www.city.kanonji.kagawa.jp/life/12/82/280/"
+    },
+    {
+        "id":  3291,
+        "prefecture":  "香川県",
+        "city":  "坂出市",
+        "area":  "坂出市全域",
+        "name":  "坂出市地域包括支援センター",
+        "tel":  "0877-44-5091",
+        "url":  "https://www.city.sakaide.lg.jp/soshiki/kaigo/houkatusienn-center.html"
     }
 ]

@@ -187,5 +187,10 @@
     {"id":2827,"prefecture":"宮崎県","city":"延岡市","area":"恒富西","name":"延岡市恒富西地域包括支援センター","tel":"0982-32-6550","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
     {"id":2828,"prefecture":"宮崎県","city":"延岡市","area":"北方","name":"延岡市北方地域包括支援センター","tel":"0982-47-2381","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
     {"id":2829,"prefecture":"宮崎県","city":"延岡市","area":"北浦","name":"延岡市北浦地域包括支援センター","tel":"0982-45-2457","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
-    {"id":2830,"prefecture":"宮崎県","city":"延岡市","area":"北川","name":"延岡市北川地域包括支援センター","tel":"0982-46-2127","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"}
+    {"id":2830,"prefecture":"宮崎県","city":"延岡市","area":"北川","name":"延岡市北川地域包括支援センター","tel":"0982-46-2127","url":"https://www.city.nobeoka.miyazaki.jp/soshiki/33/1882.html"},
+    {"id":3280,"prefecture":"宮崎県","city":"日向市","area":"富高ほか中央地区","name":"日向市中央地域包括支援センター","tel":"0982-53-8518","url":"https://www.hyugacity.jp/display.php?cont=240731092737"},
+    {"id":3281,"prefecture":"宮崎県","city":"日向市","area":"日知屋地区","name":"日向市日知屋地域包括支援センター","tel":"0982-50-3505","url":"https://www.hyugacity.jp/display.php?cont=240731092737"},
+    {"id":3282,"prefecture":"宮崎県","city":"日向市","area":"財光寺地区","name":"日向市財光寺地域包括支援センター","tel":"0982-66-1066","url":"https://www.hyugacity.jp/display.php?cont=240731092737"},
+    {"id":3283,"prefecture":"宮崎県","city":"日向市","area":"南部地区（美々津等）","name":"日向市南部地域包括支援センター","tel":"0982-58-1106","url":"https://www.hyugacity.jp/display.php?cont=240731092737"},
+    {"id":3284,"prefecture":"宮崎県","city":"日向市","area":"東郷地区","name":"日向市東郷地域包括支援センター","tel":"0982-69-3367","url":"https://www.hyugacity.jp/display.php?cont=240731092737"}
 ]

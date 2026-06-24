@@ -214,5 +214,14 @@
         "name":  "鳥栖市鳥栖西地区地域包括支援センター",
         "tel":  "0942-82-2188",
         "url":  "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
+    },
+    {
+        "id":  3289,
+        "prefecture":  "佐賀県",
+        "city":  "伊万里市",
+        "area":  "伊万里市全域",
+        "name":  "伊万里市地域包括支援センター",
+        "tel":  "0955-23-2122",
+        "url":  "https://www.city.imari.lg.jp/23689.htm"
     }
 ]
