@@ -753,7 +753,7 @@
         "area":  "風早・高柳",
         "name":  "柏市沼南地域包括支援センター",
         "tel":  "04-7190-1900",
-        "url":  "http://kashiwa-shakyo.com/publics/index/112/"
+        "url":  "https://kashiwa-shakyo.com/pages/112/"
     },
     {
         "id":  898,
@@ -762,7 +762,7 @@
         "area":  "風早・高柳（高柳相談窓口）",
         "name":  "柏市沼南地域包括支援センター高柳相談窓口",
         "tel":  "04-7199-3660",
-        "url":  "http://kashiwa-shakyo.com/publics/index/112/"
+        "url":  "https://kashiwa-shakyo.com/pages/112/"
     },
     {"id":2382,"prefecture":"千葉県","city":"市原市","area":"姉崎","name":"市原市地域包括支援センターあねさき","tel":"0436-37-2151","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
     {"id":2383,"prefecture":"千葉県","city":"市原市","area":"千種・五井西","name":"市原市地域包括支援センターしおみ","tel":"0436-26-5151","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
