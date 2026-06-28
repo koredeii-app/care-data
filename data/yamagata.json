@@ -367,32 +367,5 @@
         "name": "天童市地域包括支援センターめいこうえん",
         "tel": "023-664-0600",
         "url": "https://www.city.tendo.yamagata.jp/lifeinfo/fukushi/houkatu.html"
-    },
-    {
-        "id": 3349,
-        "prefecture": "山形県",
-        "city": "天童市",
-        "area": "天童（天童市立天童中部公民館区域）・成生",
-        "name": "天童市在宅介護支援センター清幸園",
-        "tel": "023-656-9878",
-        "url": "https://www.city.tendo.yamagata.jp/lifeinfo/fukushi/houkatu.html"
-    },
-    {
-        "id": 3350,
-        "prefecture": "山形県",
-        "city": "天童市",
-        "area": "天童（天童市立天童北部公民館区域）・津山・山口・田麦野",
-        "name": "天童市在宅介護支援センターラ・フォーレ天童",
-        "tel": "023-653-8217",
-        "url": "https://www.city.tendo.yamagata.jp/lifeinfo/fukushi/houkatu.html"
-    },
-    {
-        "id": 3351,
-        "prefecture": "山形県",
-        "city": "天童市",
-        "area": "長岡・干布・荒谷",
-        "name": "天童市在宅介護支援センターあこがれ",
-        "tel": "023-652-3330",
-        "url": "https://www.city.tendo.yamagata.jp/lifeinfo/fukushi/houkatu.html"
     }
 ]
