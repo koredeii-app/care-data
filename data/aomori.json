@@ -216,9 +216,7 @@
     {"id":3276,"prefecture":"青森県","city":"十和田市","area":"三本木・東・藤坂・高清水小学校区","name":"十和田市東地域包括支援センター","tel":"0176-27-1513","url":"https://www.city.towada.lg.jp/fukushi/kaigo/houkatu.html"},
     {"id":3277,"prefecture":"青森県","city":"十和田市","area":"北園・宝来内・深持・正親・千若小学校区","name":"十和田市北地域包括支援センター","tel":"0176-51-6056","url":"https://www.city.towada.lg.jp/fukushi/kaigo/houkatu.html"},
     {"id":3278,"prefecture":"青森県","city":"十和田市","area":"南・西・下北・四和・沢田・法奥・十和田湖小学校区","name":"十和田市西南地域包括支援センター","tel":"0176-51-4250","url":"https://www.city.towada.lg.jp/fukushi/kaigo/houkatu.html"},
-    {"id":3337,"prefecture":"青森県","city":"むつ市","area":"むつ市中心部","name":"むつ市地域包括支援センター","tel":"0175-33-2355","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
-    {"id":3338,"prefecture":"青森県","city":"むつ市","area":"金谷地区","name":"むつ市地域包括支援センター金谷地区センター","tel":"0175-23-7930","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
-    {"id":3339,"prefecture":"青森県","city":"むつ市","area":"新町地区","name":"むつ市地域包括支援センター新町地区センター","tel":"0175-33-8020","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
-    {"id":3340,"prefecture":"青森県","city":"むつ市","area":"川内町地区","name":"むつ市地域包括支援センター川内町地区センター","tel":"0175-31-2555","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
-    {"id":3341,"prefecture":"青森県","city":"むつ市","area":"奥内地区","name":"むつ市地域包括支援センター奥内地区センター","tel":"0175-26-2681","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"}
+    {"id":3337,"prefecture":"青森県","city":"むつ市","area":"むつ市全域（基幹型）","name":"むつ市地域包括支援センター","tel":"0175-22-1111","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
+    {"id":3338,"prefecture":"青森県","city":"むつ市","area":"緑ヶ丘・十二林・美里町・長坂・金谷・中央・越葉沢・海老川町・昭和町・緑町・下北町・仲町・若松町・港町・赤川町・南町・松原町・南赤川町・大湊地区・川内地区・脇野沢地区","name":"むつ市地域包括支援センターみちのく","tel":"0175-23-7930","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
+    {"id":3339,"prefecture":"青森県","city":"むつ市","area":"本町・田名部町・柳町・新町・横迎町・上川町・小川町・栗山町・女舘・宮ノ後・尻釜・椛山・赤坂・土手内・斗南岡・最花・品ノ木・酪農・岩菜・松山町・苫生町・金曲・大曲・一里小屋・南名古平・清平・名古平・南関根・北関根・高梨・水川目・美付・浜関根・出戸・川代・烏沢・新田川目・大室平・金谷沢・神山・二又・今泉・石蕨平・奥内・浜奥内・近川・中野沢・中野沢開拓・大畑地区","name":"むつ市地域包括支援センター社協","tel":"0175-33-2355","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"}
 ]

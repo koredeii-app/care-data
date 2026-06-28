@@ -84,5 +84,6 @@
     {"id":3239,"prefecture":"島根県","city":"浜田市","area":"弥栄地区","name":"高齢者相談支援センター弥栄","tel":"0855-48-2194","url":"https://www.city.hamada.shimane.jp/www/contents/1001000001947/index.html"},
     {"id":3240,"prefecture":"島根県","city":"浜田市","area":"三隅地区","name":"高齢者相談支援センター三隅","tel":"0855-32-1831","url":"https://www.city.hamada.shimane.jp/www/contents/1001000001947/index.html"},
     {"id":3288,"prefecture":"島根県","city":"益田市","area":"益田市西部（高津・西益田・二条・美濃・小野・中西）","name":"益田市西部地域包括支援センター","tel":"0856-22-2028","url":"https://www.baijukai.jp/facility_all/masuda-supportcenter/"},
-    {"id":3336,"prefecture":"島根県","city":"雲南市","area":"木次町・三刀屋町・吉田町・掛合町","name":"雲南市地域包括支援センター","tel":"0854-47-7799","url":"https://www.city.unnan.shimane.jp/unnan/kurashinodekigoto/koureifukushi.html"}
+    {"id":3336,"prefecture":"島根県","city":"雲南市","area":"雲南市全域","name":"雲南市地域包括支援センター","tel":"0854-47-7799","url":"https://www.unnan.jp/files/original/20260514190339564084c6aed.pdf"},
+    {"id":3352,"prefecture":"島根県","city":"雲南市","area":"大東町・加茂町","name":"雲南市地域包括支援センター大東","tel":"0854-43-5671","url":"https://www.unnan.jp/files/original/20260514190339564084c6aed.pdf"}
 ]

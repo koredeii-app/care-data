@@ -37,10 +37,10 @@
     {"id":3042,"prefecture":"岐阜県","city":"多治見市","area":"市之倉・笠原","name":"笠原地域包括支援センター","tel":"0572-45-0007","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
     {"id":3043,"prefecture":"岐阜県","city":"多治見市","area":"精華・共栄","name":"精華地域包括支援センター","tel":"0572-25-2511","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
     {"id":3044,"prefecture":"岐阜県","city":"多治見市","area":"小泉・北栄","name":"北栄地域包括支援センター","tel":"0572-27-2211","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
-    {"id":3300,"prefecture":"岐阜県","city":"可児市","area":"広見地区","name":"可児市広見地域包括支援センター","tel":"0574-62-1111","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3301,"prefecture":"岐阜県","city":"可児市","area":"久々利地区","name":"可児市久々利地域包括支援センター","tel":"0574-64-5115","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3302,"prefecture":"岐阜県","city":"可児市","area":"帷子地区","name":"可児市帷子地域包括支援センター","tel":"0574-66-3377","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3303,"prefecture":"岐阜県","city":"可児市","area":"土田地区","name":"可児市土田地域包括支援センター","tel":"0574-66-7171","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3304,"prefecture":"岐阜県","city":"可児市","area":"塩河・姫治地区","name":"可児市塩河姫治地域包括支援センター","tel":"0574-66-6722","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3305,"prefecture":"岐阜県","city":"可児市","area":"北部地区","name":"可児市北部地域包括支援センター","tel":"0574-63-6200","url":"https://www.city.kani.lg.jp/9563.htm"}
+    {"id":3300,"prefecture":"岐阜県","city":"可児市","area":"石井・石森・柿田・瀬田・中恵土・平貝戸・広見・広眺ケ丘・渕之上","name":"可児市地域包括支援センター","tel":"0574-62-1111","url":"https://www.city.kani.lg.jp/9563.htm"},
+    {"id":3301,"prefecture":"岐阜県","city":"可児市","area":"大森・大森台・柿下・桂ケ丘・久々利・久々利柿下入会・桜ケ丘・皐ケ丘・二野・羽崎・羽生ケ丘・星見台・松伏・緑ケ丘","name":"可児市東部地域包括支援センター","tel":"0574-64-5115","url":"https://www.city.kani.lg.jp/9563.htm"},
+    {"id":3302,"prefecture":"岐阜県","city":"可児市","area":"愛岐ケ丘・帷子新町・光陽台・菅刈・長坂・西帷子・虹ケ丘・鳩吹台・東帷子・緑・若葉台","name":"可児市帷子地域包括支援センター","tel":"0574-66-3377","url":"https://www.city.kani.lg.jp/9563.htm"},
+    {"id":3303,"prefecture":"岐阜県","city":"可児市","area":"土田","name":"可児市土田地域包括支援センター","tel":"0574-66-7171","url":"https://www.city.kani.lg.jp/9563.htm"},
+    {"id":3304,"prefecture":"岐阜県","city":"可児市","area":"今・塩・清水ケ丘・下切・塩河・長洞・姫ケ丘・美里ケ丘・みずきケ丘・室原・矢戸・谷迫間","name":"可児市南部地域包括支援センター","tel":"0574-66-6722","url":"https://www.city.kani.lg.jp/9563.htm"},
+    {"id":3305,"prefecture":"岐阜県","city":"可児市","area":"今渡・兼山・川合・川合北・下恵土・禅台寺・徳野南","name":"可児市北部地域包括支援センター","tel":"0574-63-6200","url":"https://www.city.kani.lg.jp/9563.htm"}
 ]
