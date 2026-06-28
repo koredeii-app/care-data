@@ -448,5 +448,14 @@
         "name":  "砺波市地域包括支援センター",
         "tel":  "0763-33-1345",
         "url":  "https://www.city.tonami.lg.jp/section/1580p/"
+    },
+    {
+        "id":  3330,
+        "prefecture":  "富山県",
+        "city":  "南砺市",
+        "area":  "南砺市全域",
+        "name":  "南砺市地域包括支援センター",
+        "tel":  "0763-23-2034",
+        "url":  "https://www.city.nanto.toyama.jp/soshiki/chiikihokatsushiencenter/3/725.html"
     }
 ]

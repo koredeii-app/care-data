@@ -228,5 +228,23 @@
             { "label":  "夜間・休日等の緊急連絡先", "number":  "0736-78-3314" }
         ],
         "url":  "https://www.city.kinokawa.lg.jp/024/2021-0310-1459-68.html"
+    },
+    {
+        "id":  3343,
+        "prefecture":  "和歌山県",
+        "city":  "新宮市",
+        "area":  "新宮市（熊野川地域を除く）",
+        "name":  "新宮市地域包括支援センター",
+        "tel":  "0735-23-3306",
+        "url":  "https://www.city.shingu.lg.jp/info/144"
+    },
+    {
+        "id":  3344,
+        "prefecture":  "和歌山県",
+        "city":  "新宮市",
+        "area":  "熊野川地域",
+        "name":  "新宮市地域包括支援センター熊野川",
+        "tel":  "0735-44-0370",
+        "url":  "https://www.city.shingu.lg.jp/info/144"
     }
 ]

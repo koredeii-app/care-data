@@ -97,5 +97,32 @@
         "name":  "坂出市地域包括支援センター",
         "tel":  "0877-44-5091",
         "url":  "https://www.city.sakaide.lg.jp/soshiki/kaigo/houkatusienn-center.html"
+    },
+    {
+        "id":  3327,
+        "prefecture":  "香川県",
+        "city":  "三豊市",
+        "area":  "高瀬・三野・豊中地区",
+        "name":  "三豊市地域包括支援センター",
+        "tel":  "0875-73-3021",
+        "url":  "https://www.city.mitoyo.lg.jp/kakuka/kenkofukushi/kaigo_hoken/1/index.html"
+    },
+    {
+        "id":  3328,
+        "prefecture":  "香川県",
+        "city":  "三豊市",
+        "area":  "財田・山本地区",
+        "name":  "三豊市地域包括支援センター南部高齢者サポート",
+        "tel":  "0875-67-3788",
+        "url":  "https://www.city.mitoyo.lg.jp/kakuka/kenkofukushi/kaigo_hoken/1/index.html"
+    },
+    {
+        "id":  3329,
+        "prefecture":  "香川県",
+        "city":  "三豊市",
+        "area":  "詫間・仁尾地区",
+        "name":  "三豊市地域包括支援センター北部高齢者サポート",
+        "tel":  "0875-24-8820",
+        "url":  "https://www.city.mitoyo.lg.jp/kakuka/kenkofukushi/kaigo_hoken/1/index.html"
     }
 ]

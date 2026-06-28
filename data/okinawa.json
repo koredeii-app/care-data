@@ -331,5 +331,41 @@
         "name":  "浦添市地域包括支援センターみなとん",
         "tel":  "098-876-3710",
         "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+    },
+    {
+        "id":  3296,
+        "prefecture":  "沖縄県",
+        "city":  "宜野湾市",
+        "area":  "野嵩1～3区・普天間1～3区・新城・喜友名",
+        "name":  "地域包括支援センターふてんま",
+        "tel":  "098-943-4165",
+        "url":  "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
+    },
+    {
+        "id":  3297,
+        "prefecture":  "沖縄県",
+        "city":  "宜野湾市",
+        "area":  "伊佐・大山・真志喜・宇地泊・大謝名・大謝名団地・嘉数ハイツ",
+        "name":  "地域包括支援センターかいほう",
+        "tel":  "098-942-8377",
+        "url":  "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
+    },
+    {
+        "id":  3298,
+        "prefecture":  "沖縄県",
+        "city":  "宜野湾市",
+        "area":  "真栄原・佐真下・嘉数・我如古・上大謝名",
+        "name":  "地域包括支援センターふれあい",
+        "tel":  "098-897-4165",
+        "url":  "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
+    },
+    {
+        "id":  3299,
+        "prefecture":  "沖縄県",
+        "city":  "宜野湾市",
+        "area":  "中原（赤道・上原）・19区（愛知・神山）・宜野湾・長田・志真志",
+        "name":  "地域包括支援センターぎのわん",
+        "tel":  "098-896-1339",
+        "url":  "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
     }
 ]

@@ -142,5 +142,14 @@
         "name":  "山梨市地域包括支援センター",
         "tel":  "0553-23-0294",
         "url":  "https://www.city.yamanashi.yamanashi.jp/life/3/15/67/"
+    },
+    {
+        "id":  3342,
+        "prefecture":  "山梨県",
+        "city":  "都留市",
+        "area":  "都留市全域",
+        "name":  "都留市地域包括支援センター",
+        "tel":  "0554-46-5114",
+        "url":  "https://www.city.tsuru.yamanashi.jp/soshiki/choujukaigo/koreifukushi_hokatsu_t/11092.html"
     }
 ]

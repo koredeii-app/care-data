@@ -25,5 +25,8 @@
     {"id":2786,"prefecture":"奈良県","city":"大和郡山市","area":"片桐地区","name":"第二地域包括支援センター","tel":"0743-55-7011","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
     {"id":2787,"prefecture":"奈良県","city":"大和郡山市","area":"昭和地区・治道地区・筒井地区","name":"第三地域包括支援センター","tel":"0743-57-2233","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
     {"id":2788,"prefecture":"奈良県","city":"大和郡山市","area":"平和地区","name":"第四地域包括支援センター","tel":"0743-51-0700","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
-    {"id":2789,"prefecture":"奈良県","city":"大和郡山市","area":"矢田地区","name":"第五地域包括支援センター","tel":"0743-52-3480","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"}
+    {"id":2789,"prefecture":"奈良県","city":"大和郡山市","area":"矢田地区","name":"第五地域包括支援センター","tel":"0743-52-3480","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
+    {"id":3308,"prefecture":"奈良県","city":"香芝市","area":"香芝／香芝北中学校区（下田・三和・鎌田・志都美・旭ヶ丘小学校区域）","name":"香芝市中央地域包括支援センター","tel":"0745-79-0802","url":"https://www.city.kashiba.lg.jp/life/7/41/180/"},
+    {"id":3309,"prefecture":"奈良県","city":"香芝市","area":"香芝西中学校区（二上・関屋小学校区域）","name":"香芝市西地域包括支援センター","tel":"0745-71-3201","url":"https://www.city.kashiba.lg.jp/life/7/41/180/"},
+    {"id":3310,"prefecture":"奈良県","city":"香芝市","area":"香芝東中学校区","name":"香芝市東地域包括支援センター","tel":"0745-71-3120","url":"https://www.city.kashiba.lg.jp/life/7/41/180/"}
 ]

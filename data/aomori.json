@@ -215,5 +215,10 @@
     {"id":2171,"prefecture":"青森県","city":"弘前市","area":"新和・北辰・船沢・裾野中学校区","name":"北部地域包括支援センター","tel":"0172-95-2100","url":"http://www.sunapplehome.jp/houkatsushien.html"},
     {"id":3276,"prefecture":"青森県","city":"十和田市","area":"三本木・東・藤坂・高清水小学校区","name":"十和田市東地域包括支援センター","tel":"0176-27-1513","url":"https://www.city.towada.lg.jp/fukushi/kaigo/houkatu.html"},
     {"id":3277,"prefecture":"青森県","city":"十和田市","area":"北園・宝来内・深持・正親・千若小学校区","name":"十和田市北地域包括支援センター","tel":"0176-51-6056","url":"https://www.city.towada.lg.jp/fukushi/kaigo/houkatu.html"},
-    {"id":3278,"prefecture":"青森県","city":"十和田市","area":"南・西・下北・四和・沢田・法奥・十和田湖小学校区","name":"十和田市西南地域包括支援センター","tel":"0176-51-4250","url":"https://www.city.towada.lg.jp/fukushi/kaigo/houkatu.html"}
+    {"id":3278,"prefecture":"青森県","city":"十和田市","area":"南・西・下北・四和・沢田・法奥・十和田湖小学校区","name":"十和田市西南地域包括支援センター","tel":"0176-51-4250","url":"https://www.city.towada.lg.jp/fukushi/kaigo/houkatu.html"},
+    {"id":3337,"prefecture":"青森県","city":"むつ市","area":"むつ市中心部","name":"むつ市地域包括支援センター","tel":"0175-33-2355","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
+    {"id":3338,"prefecture":"青森県","city":"むつ市","area":"金谷地区","name":"むつ市地域包括支援センター金谷地区センター","tel":"0175-23-7930","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
+    {"id":3339,"prefecture":"青森県","city":"むつ市","area":"新町地区","name":"むつ市地域包括支援センター新町地区センター","tel":"0175-33-8020","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
+    {"id":3340,"prefecture":"青森県","city":"むつ市","area":"川内町地区","name":"むつ市地域包括支援センター川内町地区センター","tel":"0175-31-2555","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"},
+    {"id":3341,"prefecture":"青森県","city":"むつ市","area":"奥内地区","name":"むつ市地域包括支援センター奥内地区センター","tel":"0175-26-2681","url":"https://www.city.mutsu.lg.jp/kurashi/fukushi/koureisha/houkatsusiennsennta.html"}
 ]

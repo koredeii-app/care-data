@@ -192,5 +192,8 @@
     {"id":3281,"prefecture":"宮崎県","city":"日向市","area":"細島全区・永江・江良・公園通り・曽根・堀一方・塩田・幡浦・鶴町・亀崎・大王谷・梶木・庄手・向江・日向台・不動寺","name":"日向市日知屋地域包括支援センター","tel":"0982-50-3505","url":"https://www.hyugacity.jp/display.php?cont=240731092737"},
     {"id":3282,"prefecture":"宮崎県","city":"日向市","area":"財光寺全区・秋山・向洋台","name":"日向市財光寺地域包括支援センター","tel":"0982-57-3535","url":"https://www.hyugacity.jp/display.php?cont=240731092737"},
     {"id":3283,"prefecture":"宮崎県","city":"日向市","area":"平岩（秋山・向洋台除く）・南部全区（寺迫含む）","name":"日向市南部地域包括支援センター","tel":"0982-58-1106","url":"http://tachinuikai.or.jp/inclusive-support"},
-    {"id":3284,"prefecture":"宮崎県","city":"日向市","area":"東郷全区（寺迫除く）","name":"日向市東郷地域包括支援センター","tel":"0982-69-3367","url":"http://tachinuikai.or.jp/archives/1741"}
+    {"id":3284,"prefecture":"宮崎県","city":"日向市","area":"東郷全区（寺迫除く）","name":"日向市東郷地域包括支援センター","tel":"0982-69-3367","url":"http://tachinuikai.or.jp/archives/1741"},
+    {"id":3333,"prefecture":"宮崎県","city":"小林市","area":"小林地区","name":"小林市地域包括支援センター","tel":"0984-25-0707","url":"https://www.city.kobayashi.lg.jp/soshikikarasagasu/kenkofukushibuchokotobukikaigoka/koreishafukushi_kaigo/2/1926.html"},
+    {"id":3334,"prefecture":"宮崎県","city":"小林市","area":"野尻地区","name":"のじり地域包括支援センター","tel":"0984-44-2271","url":"https://www.city.kobayashi.lg.jp/soshikikarasagasu/kenkofukushibuchokotobukikaigoka/koreishafukushi_kaigo/2/1926.html"},
+    {"id":3335,"prefecture":"宮崎県","city":"小林市","area":"西部地区","name":"小林市西部地域包括支援センター","tel":"0984-27-2552","url":"https://www.city.kobayashi.lg.jp/soshikikarasagasu/kenkofukushibuchokotobukikaigoka/koreishafukushi_kaigo/2/1926.html"}
 ]

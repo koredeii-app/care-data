@@ -331,5 +331,14 @@
         "name":  "津幡町地域包括支援センター",
         "tel":  "076-288-7952",
         "url":  "https://www.town.tsubata.lg.jp/page/1471.html"
+    },
+    {
+        "id":  3320,
+        "prefecture":  "石川県",
+        "city":  "加賀市",
+        "area":  "加賀市全域",
+        "name":  "加賀市地域包括支援センター（高齢者こころまちセンター）",
+        "tel":  "0761-72-8186",
+        "url":  "https://www.city.kaga.ishikawa.jp/soshiki/shiminkenko/chiikihokatsu_shien/2/3/961.html"
     }
 ]

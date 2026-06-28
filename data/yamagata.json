@@ -349,5 +349,23 @@
         "name": "米沢市社会福祉協議会地域包括支援センター",
         "tel": "0238-24-4165",
         "url": "https://www.city.yonezawa.yamagata.jp/soshiki/4/1018/1/5/512.html"
+    },
+    {
+        "id": 3325,
+        "prefecture": "山形県",
+        "city": "天童市",
+        "area": "天童市全域",
+        "name": "天童市地域包括支援センター中央",
+        "tel": "023-658-8190",
+        "url": "https://www.city.tendo.yamagata.jp/lifeinfo/fukushi/houkatu.html"
+    },
+    {
+        "id": 3326,
+        "prefecture": "山形県",
+        "city": "天童市",
+        "area": "天童市全域",
+        "name": "天童市地域包括支援センター明幸園",
+        "tel": "023-664-0600",
+        "url": "https://www.city.tendo.yamagata.jp/lifeinfo/fukushi/houkatu.html"
     }
 ]

@@ -232,5 +232,41 @@
         "name":  "敦賀市地域包括支援センターなごみ",
         "tel":  "0770-21-7530",
         "url":  "https://www.city.tsuruga.lg.jp/page/2642.html"
+    },
+    {
+        "id":  3315,
+        "prefecture":  "福井県",
+        "city":  "鯖江市",
+        "area":  "鯖江・新横江",
+        "name":  "地域包括支援センターさばえ",
+        "tel":  "0778-51-0112",
+        "url":  "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
+    },
+    {
+        "id":  3316,
+        "prefecture":  "福井県",
+        "city":  "鯖江市",
+        "area":  "神明",
+        "name":  "鯖江市社会福祉協議会地域包括支援センター神明",
+        "tel":  "0778-51-2840",
+        "url":  "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
+    },
+    {
+        "id":  3317,
+        "prefecture":  "福井県",
+        "city":  "鯖江市",
+        "area":  "立待・吉川・豊",
+        "name":  "鯖江西地域包括支援センター",
+        "tel":  "0778-53-2776",
+        "url":  "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
+    },
+    {
+        "id":  3318,
+        "prefecture":  "福井県",
+        "city":  "鯖江市",
+        "area":  "中河・片上・北中山・河和田",
+        "name":  "鯖江東地域包括支援センター",
+        "tel":  "0778-54-0513",
+        "url":  "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
     }
 ]

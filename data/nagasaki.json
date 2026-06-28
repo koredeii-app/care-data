@@ -313,5 +313,14 @@
         "name": "大村市地域包括支援センター",
         "tel": "0957-53-8141",
         "url": "https://www.city.omura.nagasaki.jp/choujuhokatsu/kenko/fukushi/koresha/center.html"
+    },
+    {
+        "id": 3332,
+        "prefecture": "長崎県",
+        "city": "島原市",
+        "area": "島原市全域",
+        "name": "島原市地域包括支援センター",
+        "tel": "0957-65-5110",
+        "url": "https://www.simaisihoukatu.com/"
     }
 ]

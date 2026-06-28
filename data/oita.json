@@ -394,5 +394,41 @@
         "name":  "佐伯市蒲江地域包括支援センター",
         "tel":  "0972-42-0154",
         "url":  "https://www.city.saiki.oita.jp/kiji0032467/index.html"
+    },
+    {
+        "id":  3321,
+        "prefecture":  "大分県",
+        "city":  "日田市",
+        "area":  "隈・三本・玉江・豆田",
+        "name":  "日田市中央地域包括支援センター",
+        "tel":  "0973-23-2552",
+        "url":  "https://www.pref.oita.jp/site/144/houkatsuichiran.html"
+    },
+    {
+        "id":  3322,
+        "prefecture":  "大分県",
+        "city":  "日田市",
+        "area":  "三芳・三和・大鶴・夜明・旭",
+        "name":  "日田市西部地域包括支援センター",
+        "tel":  "0973-26-0036",
+        "url":  "https://www.pref.oita.jp/site/144/houkatsuichiran.html"
+    },
+    {
+        "id":  3323,
+        "prefecture":  "大分県",
+        "city":  "日田市",
+        "area":  "五和・高瀬・三和・西有田・東有田",
+        "name":  "日田市東部地域包括支援センター",
+        "tel":  "0973-22-0248",
+        "url":  "https://www.pref.oita.jp/site/144/houkatsuichiran.html"
+    },
+    {
+        "id":  3324,
+        "prefecture":  "大分県",
+        "city":  "日田市",
+        "area":  "上津江・中津江・前津江・大山・天瀬",
+        "name":  "日田市南部地域包括支援センター",
+        "tel":  "0973-57-9012",
+        "url":  "https://www.pref.oita.jp/site/144/houkatsuichiran.html"
     }
 ]

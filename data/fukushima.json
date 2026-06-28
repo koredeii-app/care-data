@@ -261,5 +261,9 @@
     {"id":2793,"prefecture":"福島県","city":"会津若松市","area":"永和・神指・城北・日新小学校区域","name":"若松第4地域包括支援センター","tel":"0242-37-7711","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100466/"},
     {"id":2794,"prefecture":"福島県","city":"会津若松市","area":"一箕・松長小学校・湊学園区域","name":"若松第5地域包括支援センター","tel":"0242-23-9402","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100473/"},
     {"id":2795,"prefecture":"福島県","city":"会津若松市","area":"荒舘・川南小学校区域","name":"北会津地域包括支援センター","tel":"0242-56-5005","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100480/"},
-    {"id":2796,"prefecture":"福島県","city":"会津若松市","area":"河東学園区域","name":"河東地域包括支援センター","tel":"0242-75-4815","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100497/"}
+    {"id":2796,"prefecture":"福島県","city":"会津若松市","area":"河東学園区域","name":"河東地域包括支援センター","tel":"0242-75-4815","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100497/"},
+    {"id":3311,"prefecture":"福島県","city":"須賀川市","area":"旧市街地・浜田地区","name":"須賀川中央地域包括支援センター","tel":"0248-88-8215","url":"https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"},
+    {"id":3312,"prefecture":"福島県","city":"須賀川市","area":"西袋・稲田・滑川地区","name":"須賀川西部地域包括支援センター","tel":"0248-75-3222","url":"https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"},
+    {"id":3313,"prefecture":"福島県","city":"須賀川市","area":"小塩江・大東地区","name":"須賀川東部地域包括支援センター","tel":"0248-79-1551","url":"https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"},
+    {"id":3314,"prefecture":"福島県","city":"須賀川市","area":"長沼・岩瀬地区","name":"須賀川長沼・岩瀬地域包括支援センター","tel":"0248-67-3113","url":"https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"}
 ]

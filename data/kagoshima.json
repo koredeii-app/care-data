@@ -304,5 +304,23 @@
         "name":  "薩摩川内市地域包括支援センター甑島圏域サブセンター下甑事務所",
         "tel":  "09969-5-1751",
         "url":  "https://www.city.satsumasendai.lg.jp/soshiki/1042/2/15/1/330.html"
+    },
+    {
+        "id":  3306,
+        "prefecture":  "鹿児島県",
+        "city":  "姶良市",
+        "area":  "姶良地区",
+        "name":  "姶良市地域包括支援センター",
+        "tel":  "0995-64-5537",
+        "url":  "http://www.city.aira.lg.jp/hokatsu/kurashi/fukushi/hokatsushien/hokatsushie.html"
+    },
+    {
+        "id":  3307,
+        "prefecture":  "鹿児島県",
+        "city":  "姶良市",
+        "area":  "加治木地区",
+        "name":  "姶良市地域包括支援センター加治木",
+        "tel":  "0995-62-0821",
+        "url":  "http://www.city.aira.lg.jp/hokatsu/kurashi/fukushi/hokatsushien/hokatsushie.html"
     }
 ]

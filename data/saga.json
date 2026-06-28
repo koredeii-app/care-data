@@ -223,5 +223,14 @@
         "name":  "伊万里市地域包括支援センター",
         "tel":  "0955-23-2122",
         "url":  "https://www.city.imari.lg.jp/23689.htm"
+    },
+    {
+        "id":  3331,
+        "prefecture":  "佐賀県",
+        "city":  "武雄市",
+        "area":  "武雄市全域",
+        "name":  "武雄市地域包括支援センター",
+        "tel":  "0954-22-3344",
+        "url":  "https://tk-med.or.jp/care/takeo-chiikihoukatsu/"
     }
 ]

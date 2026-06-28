@@ -259,5 +259,14 @@
         "name":  "吉野川市地域包括支援センター",
         "tel":  "0883-22-2744",
         "url":  "https://www.city.yoshinogawa.lg.jp/docs/2010100700814/"
+    },
+    {
+        "id":  3345,
+        "prefecture":  "徳島県",
+        "city":  "美馬市",
+        "area":  "美馬市全域",
+        "name":  "美馬市地域包括支援センター",
+        "tel":  "0883-52-5613",
+        "url":  "https://www.city.mima.lg.jp/gyosei/docs/15920.html"
     }
 ]
