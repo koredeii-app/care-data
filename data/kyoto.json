@@ -1,99 +1,1244 @@
 [
-    {"id":1804,"prefecture":"京都府","city":"京都市","area":"原谷・鷹峯・金閣・衣笠","name":"高齢サポート原谷","tel":"075-463-1686","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1805,"prefecture":"京都府","city":"京都市","area":"大宮・紫竹・待鳳","name":"高齢サポート紫竹","tel":"075-495-6638","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1806,"prefecture":"京都府","city":"京都市","area":"鳳徳・紫明・出雲路","name":"高齢サポート鳳徳","tel":"075-223-3511","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1807,"prefecture":"京都府","city":"京都市","area":"柊野・上賀茂・元町","name":"高齢サポート柊野","tel":"075-712-8621","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1808,"prefecture":"京都府","city":"京都市","area":"楽只・柏野・紫野","name":"高齢サポート紫野","tel":"075-494-3346","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1809,"prefecture":"京都府","city":"京都市","area":"乾隆・嘉楽・正親・翔鸞","name":"高齢サポート乾隆","tel":"075-432-8677","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1810,"prefecture":"京都府","city":"京都市","area":"待賢・小川・中立・滋野・春日","name":"高齢サポート小川","tel":"075-415-8866","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1811,"prefecture":"京都府","city":"京都市","area":"仁和・出水","name":"高齢サポート仁和","tel":"075-465-7500","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1812,"prefecture":"京都府","city":"京都市","area":"室町・成逸・西陣・桃薗・聚楽","name":"高齢サポート成逸","tel":"075-415-8770","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1813,"prefecture":"京都府","city":"京都市","area":"久多・大原・八瀬・松ヶ崎","name":"高齢サポート大原","tel":"075-744-4055","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1814,"prefecture":"京都府","city":"京都市","area":"吉田・聖護院・岡崎","name":"高齢サポート左京南","tel":"075-771-6300","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1815,"prefecture":"京都府","city":"京都市","area":"広河原・花脊・鞍馬・下鴨","name":"高齢サポート左京北","tel":"075-706-7280","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1816,"prefecture":"京都府","city":"京都市","area":"岩倉北・岩倉明徳・岩倉南","name":"高齢サポート岩倉","tel":"075-723-0800","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1817,"prefecture":"京都府","city":"京都市","area":"修学院第一・修学院第二","name":"高齢サポート修学院","tel":"075-723-8077","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1818,"prefecture":"京都府","city":"京都市","area":"北白川・浄楽・錦林東山","name":"高齢サポート白川","tel":"075-762-5510","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1819,"prefecture":"京都府","city":"京都市","area":"養徳・養正","name":"高齢サポート高野","tel":"075-724-0397","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1820,"prefecture":"京都府","city":"京都市","area":"教業・朱雀第一・朱雀第二・朱雀第六","name":"高齢サポート朱雀","tel":"075-801-1384","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1821,"prefecture":"京都府","city":"京都市","area":"朱雀第四・朱雀第五・朱雀第八","name":"高齢サポート西ノ京","tel":"075-841-0883","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1822,"prefecture":"京都府","city":"京都市","area":"城巽・本能・乾・朱雀第三","name":"高齢サポート本能","tel":"075-254-0021","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1823,"prefecture":"京都府","city":"京都市","area":"銅駝・立誠・富有・龍池・明倫","name":"高齢サポート御池","tel":"075-257-5810","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1824,"prefecture":"京都府","city":"京都市","area":"今熊野・一橋・月輪","name":"高齢サポート洛東","tel":"075-561-1356","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1825,"prefecture":"京都府","city":"京都市","area":"清水・六原・修道・貞教","name":"高齢サポート東山","tel":"075-541-6171","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1826,"prefecture":"京都府","city":"京都市","area":"有済・粟田・弥栄・新道","name":"高齢サポート粟田","tel":"075-761-8010","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1827,"prefecture":"京都府","city":"京都市","area":"音羽・音羽川・大塚","name":"高齢サポート音羽","tel":"075-595-8139","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1828,"prefecture":"京都府","city":"京都市","area":"安朱・山階・西野","name":"高齢サポート山階","tel":"075-583-5833","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1829,"prefecture":"京都府","city":"京都市","area":"山階南・百々・勧修","name":"高齢サポート勧修","tel":"075-595-7736","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1830,"prefecture":"京都府","city":"京都市","area":"大宅・小野","name":"高齢サポート大宅","tel":"075-572-6660","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1831,"prefecture":"京都府","city":"京都市","area":"陵ヶ岡・鏡山","name":"高齢サポート日ノ岡","tel":"075-595-5575","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1832,"prefecture":"京都府","city":"京都市","area":"大内・七条・西大路","name":"高齢サポート下京西部","tel":"075-326-3639","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1833,"prefecture":"京都府","city":"京都市","area":"格致・醒泉・植柳・安寧","name":"高齢サポート下京中部","tel":"075-361-2141","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1834,"prefecture":"京都府","city":"京都市","area":"有隣・稚松・皆山・菊浜・崇仁","name":"高齢サポート下京東部","tel":"075-342-2698","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1835,"prefecture":"京都府","city":"京都市","area":"永松・開智・豊園・成徳・修徳","name":"高齢サポート修徳","tel":"075-351-2153","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1836,"prefecture":"京都府","city":"京都市","area":"郁文・淳風・光徳・七条第三","name":"高齢サポート島原","tel":"075-351-4850","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1837,"prefecture":"京都府","city":"京都市","area":"山王・九条・九条弘道・九条塔南","name":"高齢サポート東九条","tel":"075-662-3009","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1838,"prefecture":"京都府","city":"京都市","area":"祥栄・久世","name":"高齢サポート久世","tel":"075-933-5787","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1839,"prefecture":"京都府","city":"京都市","area":"陶化・東和・上鳥羽","name":"高齢サポート陶化","tel":"075-671-2343","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1840,"prefecture":"京都府","city":"京都市","area":"南大内・唐橋・祥豊・吉祥院","name":"高齢サポート唐橋","tel":"075-694-6222","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1841,"prefecture":"京都府","city":"京都市","area":"水尾・宕陰・嵯峨・広沢","name":"高齢サポート嵯峨","tel":"075-873-3085","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1842,"prefecture":"京都府","city":"京都市","area":"高雄・宇多野・御室・花園","name":"高齢サポート花園","tel":"075-466-2711","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1843,"prefecture":"京都府","city":"京都市","area":"嵐山・嵯峨野","name":"高齢サポート嵐山","tel":"075-871-0200","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1844,"prefecture":"京都府","city":"京都市","area":"北梅津・梅津","name":"高齢サポート梅津","tel":"075-862-5171","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1845,"prefecture":"京都府","city":"京都市","area":"常磐野・太秦・南太秦","name":"高齢サポート常磐野","tel":"075-873-3156","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1846,"prefecture":"京都府","city":"京都市","area":"安井・山ノ内・西院第一・西院第二","name":"高齢サポート西院","tel":"075-812-6712","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1847,"prefecture":"京都府","city":"京都市","area":"京北第一・京北第二・京北第三","name":"高齢サポート京北","tel":"075-852-5222","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1848,"prefecture":"京都府","city":"京都市","area":"葛野・西京極・西京極西","name":"高齢サポート葛野","tel":"075-322-2236","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1849,"prefecture":"京都府","city":"京都市","area":"嵐山東・松尾・松陽","name":"高齢サポート西京北部","tel":"075-392-7817","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1850,"prefecture":"京都府","city":"京都市","area":"桂徳・桂東・川岡・川岡東","name":"高齢サポート桂川","tel":"075-391-1772","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1851,"prefecture":"京都府","city":"京都市","area":"桂川・桂・樫原","name":"高齢サポート西京南部","tel":"075-382-1127","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1852,"prefecture":"京都府","city":"京都市","area":"桂坂・大枝・新林・福西","name":"高齢サポート沓掛","tel":"075-335-2201","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1853,"prefecture":"京都府","city":"京都市","area":"境谷・竹の里・大原野","name":"高齢サポート境谷","tel":"075-331-8781","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1854,"prefecture":"京都府","city":"京都市","area":"下鳥羽・板橋・南浜","name":"高齢サポート下鳥羽","tel":"075-604-5011","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1855,"prefecture":"京都府","city":"京都市","area":"久我・久我の杜・羽束師・横大路","name":"高齢サポート久我の杜","tel":"075-931-8024","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1856,"prefecture":"京都府","city":"京都市","area":"向島・向島藤ノ木・向島南","name":"高齢サポート向島","tel":"075-622-8845","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1857,"prefecture":"京都府","city":"京都市","area":"竹田・住吉","name":"高齢サポート東高瀬川","tel":"075-622-7745","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1858,"prefecture":"京都府","city":"京都市","area":"納所・淀・美豆","name":"高齢サポート淀","tel":"075-633-6557","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1859,"prefecture":"京都府","city":"京都市","area":"桃山・桃山東・桃山南","name":"高齢サポート桃山","tel":"075-605-4707","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1860,"prefecture":"京都府","city":"京都市","area":"稲荷・砂川","name":"高齢サポート深草北部","tel":"075-641-2544","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1861,"prefecture":"京都府","city":"京都市","area":"藤ノ森・藤城","name":"高齢サポート深草南部","tel":"075-641-9301","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1862,"prefecture":"京都府","city":"京都市","area":"深草","name":"高齢サポート深草中部","tel":"075-642-5155","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1863,"prefecture":"京都府","city":"京都市","area":"小栗栖・石田・春日野・日野","name":"高齢サポート醍醐南部","tel":"075-572-6572","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":1864,"prefecture":"京都府","city":"京都市","area":"北醍醐・醍醐西・醍醐・池田","name":"高齢サポート醍醐北部","tel":"075-571-3560","url":"https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"},
-    {"id":2179,"prefecture":"京都府","city":"宇治市","area":"笠取・笠取第二・木幡・御蔵山","name":"東宇治北地域包括支援センター","tel":"0774-33-8270","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
-    {"id":2180,"prefecture":"京都府","city":"宇治市","area":"宇治・岡屋","name":"東宇治南地域包括支援センター","tel":"0774-38-1250","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
-    {"id":2181,"prefecture":"京都府","city":"宇治市","area":"南部・三室戸","name":"南部・三室戸地域包括支援センター","tel":"0774-23-6115","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
-    {"id":2182,"prefecture":"京都府","city":"宇治市","area":"菟道・菟道第二・大開","name":"中宇治地域包括支援センター","tel":"0774-28-3180","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
-    {"id":2183,"prefecture":"京都府","city":"宇治市","area":"槇島・北槇島","name":"槇島地域包括支援センター","tel":"0774-21-6605","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
-    {"id":2184,"prefecture":"京都府","city":"宇治市","area":"小倉・神明","name":"北宇治地域包括支援センター","tel":"0774-21-8123","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
-    {"id":2185,"prefecture":"京都府","city":"宇治市","area":"北小倉・西小倉・南小倉・伊勢田","name":"西宇治地域包括支援センター","tel":"0774-28-6180","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
-    {"id":2186,"prefecture":"京都府","city":"宇治市","area":"大久保・西大久保・平盛","name":"南宇治地域包括支援センター","tel":"0774-45-1544","url":"https://www.city.uji.kyoto.jp/site/choju/25478.html"},
-    {"id":2187,"prefecture":"京都府","city":"舞鶴市","area":"大浦・朝来・志楽","name":"大浦・朝来・志楽地域包括支援センター","tel":"0773-64-0086","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
-    {"id":2188,"prefecture":"京都府","city":"舞鶴市","area":"新舞鶴・三笠","name":"新舞鶴・三笠地域包括支援センター","tel":"0773-77-5001","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
-    {"id":2189,"prefecture":"京都府","city":"舞鶴市","area":"倉梯・倉二・与保呂","name":"倉梯・倉二・与保呂地域包括支援センター","tel":"0773-77-5002","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
-    {"id":2190,"prefecture":"京都府","city":"舞鶴市","area":"中舞鶴","name":"中舞鶴地域包括支援センター","tel":"0773-77-5003","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
-    {"id":2191,"prefecture":"京都府","city":"舞鶴市","area":"福井・吉原・明倫・余内","name":"城北地域包括支援センター","tel":"0773-77-5004","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
-    {"id":2192,"prefecture":"京都府","city":"舞鶴市","area":"中筋・高野・池内","name":"城南地域包括支援センター","tel":"0773-77-5005","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
-    {"id":2193,"prefecture":"京都府","city":"舞鶴市","area":"由良川・岡田","name":"加佐地域包括支援センター","tel":"0773-82-9303","url":"https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"},
-    {"id":2194,"prefecture":"京都府","city":"亀岡市","area":"亀岡地区","name":"亀岡地域包括支援センター","tel":"0771-29-5155","url":"https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"},
-    {"id":2195,"prefecture":"京都府","city":"亀岡市","area":"東別院町・西別院町・曽我部町","name":"南部地域包括支援センター","tel":"0771-23-1600","url":"https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"},
-    {"id":2196,"prefecture":"京都府","city":"亀岡市","area":"吉川町・薭田野町・大井町・千代川町","name":"中部地域包括支援センター","tel":"0771-29-0015","url":"https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"},
-    {"id":2197,"prefecture":"京都府","city":"亀岡市","area":"本梅町・畑野町・宮前町・東本梅町","name":"西部地域包括支援センター","tel":"0771-26-0056","url":"https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"},
-    {"id":2198,"prefecture":"京都府","city":"亀岡市","area":"馬路町・旭町・千歳町・河原林町・保津町","name":"川東地域包括支援センター","tel":"0771-25-0863","url":"https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"},
-    {"id":2199,"prefecture":"京都府","city":"亀岡市","area":"篠町","name":"篠地域包括支援センター","tel":"0771-25-3841","url":"https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"},
-    {"id":2200,"prefecture":"京都府","city":"亀岡市","area":"東つつじケ丘・西つつじケ丘・南つつじケ丘","name":"つつじケ丘地域包括支援センター","tel":"0771-22-9336","url":"https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"},
-    {"id":2201,"prefecture":"京都府","city":"長岡京市","area":"長岡中学校区","name":"長岡京市東地域包括支援センター","tel":"075-963-5508","url":"https://www.city.nagaokakyo.lg.jp/0000002427.html"},
-    {"id":2202,"prefecture":"京都府","city":"長岡京市","area":"長岡第二中学校区","name":"長岡京市北地域包括支援センター","tel":"075-955-9007","url":"https://www.city.nagaokakyo.lg.jp/0000002427.html"},
-    {"id":2203,"prefecture":"京都府","city":"長岡京市","area":"長岡第三中学校区","name":"長岡京市南地域包括支援センター","tel":"075-957-1119","url":"https://www.city.nagaokakyo.lg.jp/0000002427.html"},
-    {"id":2204,"prefecture":"京都府","city":"長岡京市","area":"長岡第四中学校区","name":"長岡京市西地域包括支援センター","tel":"075-323-7889","url":"https://www.city.nagaokakyo.lg.jp/0000002427.html"},
-    {"id":2205,"prefecture":"京都府","city":"城陽市","area":"東城陽中学校圏域・城陽中学校圏域・南城陽中学校圏域","name":"城陽市中部地域包括支援センター","tel":"0774-54-7330","url":"https://jyoshakyo.or.jp/pages/60/"},
-    {"id":2206,"prefecture":"京都府","city":"城陽市","area":"西城陽中学校圏域","name":"城陽市西部地域包括支援センター","tel":"0774-55-7222","url":"https://jyoshakyo.or.jp/pages/64/"},
-    {"id":2207,"prefecture":"京都府","city":"城陽市","area":"北城陽中学校圏域","name":"城陽市北部地域包括支援センターひだまり","tel":"0774-55-5180","url":"https://joyofukushikai.com/facility/hidamari-hirakawa.php"},
-    {"id":2208,"prefecture":"京都府","city":"向日市","area":"物集女町・寺戸町北部（八反田・石田、正田、東御泥、七ノ坪、八ノ坪、志賀見、三ノ坪、寺田、蔵ノ町、永田、修理式、二ノ坪〔永田通以北・阪急電鉄京都線以西〕、芝山・大牧・西野〔大原野通以北〕、乾垣内、里垣内、北前田、新田、向畑・小佃〔駅前通以北〕、飛龍・笹屋・西田中瀬〔阪急電鉄京都線以西〕、寺山、北野、中村垣内、北垣内・中垣内〔物集女街道以西〕、西垣内）","name":"向日市北地域包括支援センター","tel":"075-934-6887","url":"https://www.city.muko.kyoto.jp/soshiki/18/1798.html"},
-    {"id":2209,"prefecture":"京都府","city":"向日市","area":"寺戸町南部・森本町・向日台団地","name":"向日市中地域包括支援センター","tel":"075-921-1550","url":"https://www.city.muko.kyoto.jp/soshiki/18/1798.html"},
-    {"id":2210,"prefecture":"京都府","city":"向日市","area":"鶏冠井町・上植野町・向日町（向日台団地を除く）","name":"向日市南地域包括支援センター","tel":"075-921-0061","url":"https://www.city.muko.kyoto.jp/soshiki/18/1798.html"},
-    {"id":2211,"prefecture":"京都府","city":"八幡市","area":"男山中学校圏域","name":"ほっとあんしんネット梨の里","tel":"075-982-0125","url":"https://www.city.yawata.kyoto.jp/0000001964.html"},
-    {"id":2212,"prefecture":"京都府","city":"八幡市","area":"男山第二中学校圏域","name":"ほっとあんしんネットやまばと","tel":"075-982-8000","url":"https://www.city.yawata.kyoto.jp/0000001964.html"},
-    {"id":2213,"prefecture":"京都府","city":"八幡市","area":"男山第三中学校圏域","name":"ほっとあんしんネット美杉会","tel":"075-971-3576","url":"https://www.city.yawata.kyoto.jp/0000001964.html"},
-    {"id":2214,"prefecture":"京都府","city":"八幡市","area":"男山東中学校圏域","name":"ほっとあんしんネット有智の郷","tel":"075-972-1000","url":"https://www.city.yawata.kyoto.jp/0000001964.html"}
+    {
+        "id": 1804,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "原谷・鷹峯・金閣・衣笠",
+        "name": "高齢サポート原谷",
+        "tel": "075-463-1686",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1805,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "大宮・紫竹・待鳳",
+        "name": "高齢サポート紫竹",
+        "tel": "075-495-6638",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1806,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "鳳徳・紫明・出雲路",
+        "name": "高齢サポート鳳徳",
+        "tel": "075-223-3511",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1807,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "柊野・上賀茂・元町",
+        "name": "高齢サポート柊野",
+        "tel": "075-712-8621",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1808,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "楽只・柏野・紫野",
+        "name": "高齢サポート紫野",
+        "tel": "075-494-3346",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1809,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "乾隆・嘉楽・正親・翔鸞",
+        "name": "高齢サポート乾隆",
+        "tel": "075-432-8677",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1810,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "待賢・小川・中立・滋野・春日",
+        "name": "高齢サポート小川",
+        "tel": "075-415-8866",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1811,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "仁和・出水",
+        "name": "高齢サポート仁和",
+        "tel": "075-465-7500",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1812,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "室町・成逸・西陣・桃薗・聚楽",
+        "name": "高齢サポート成逸",
+        "tel": "075-415-8770",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1813,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "久多・大原・八瀬・松ヶ崎",
+        "name": "高齢サポート大原",
+        "tel": "075-744-4055",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1814,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "吉田・聖護院・岡崎",
+        "name": "高齢サポート左京南",
+        "tel": "075-771-6300",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1815,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "広河原・花脊・鞍馬・下鴨",
+        "name": "高齢サポート左京北",
+        "tel": "075-706-7280",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1816,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "岩倉北・岩倉明徳・岩倉南",
+        "name": "高齢サポート岩倉",
+        "tel": "075-723-0800",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1817,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "修学院第一・修学院第二",
+        "name": "高齢サポート修学院",
+        "tel": "075-723-8077",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1818,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "北白川・浄楽・錦林東山",
+        "name": "高齢サポート白川",
+        "tel": "075-762-5510",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1819,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "養徳・養正",
+        "name": "高齢サポート高野",
+        "tel": "075-724-0397",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1820,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "教業・朱雀第一・朱雀第二・朱雀第六",
+        "name": "高齢サポート朱雀",
+        "tel": "075-801-1384",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1821,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "朱雀第四・朱雀第五・朱雀第八",
+        "name": "高齢サポート西ノ京",
+        "tel": "075-841-0883",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1822,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "城巽・本能・乾・朱雀第三",
+        "name": "高齢サポート本能",
+        "tel": "075-254-0021",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1823,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "銅駝・立誠・富有・龍池・明倫",
+        "name": "高齢サポート御池",
+        "tel": "075-257-5810",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1824,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "今熊野・一橋・月輪",
+        "name": "高齢サポート洛東",
+        "tel": "075-561-1356",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1825,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "清水・六原・修道・貞教",
+        "name": "高齢サポート東山",
+        "tel": "075-541-6171",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1826,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "有済・粟田・弥栄・新道",
+        "name": "高齢サポート粟田",
+        "tel": "075-761-8010",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1827,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "音羽・音羽川・大塚",
+        "name": "高齢サポート音羽",
+        "tel": "075-595-8139",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1828,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "安朱・山階・西野",
+        "name": "高齢サポート山階",
+        "tel": "075-583-5833",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1829,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "山階南・百々・勧修",
+        "name": "高齢サポート勧修",
+        "tel": "075-595-7736",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1830,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "大宅・小野",
+        "name": "高齢サポート大宅",
+        "tel": "075-572-6660",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1831,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "陵ヶ岡・鏡山",
+        "name": "高齢サポート日ノ岡",
+        "tel": "075-595-5575",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1832,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "大内・七条・西大路",
+        "name": "高齢サポート下京西部",
+        "tel": "075-326-3639",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1833,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "格致・醒泉・植柳・安寧",
+        "name": "高齢サポート下京中部",
+        "tel": "075-361-2141",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1834,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "有隣・稚松・皆山・菊浜・崇仁",
+        "name": "高齢サポート下京東部",
+        "tel": "075-342-2698",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1835,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "永松・開智・豊園・成徳・修徳",
+        "name": "高齢サポート修徳",
+        "tel": "075-351-2153",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1836,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "郁文・淳風・光徳・七条第三",
+        "name": "高齢サポート島原",
+        "tel": "075-351-4850",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1837,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "山王・九条・九条弘道・九条塔南",
+        "name": "高齢サポート東九条",
+        "tel": "075-662-3009",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1838,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "祥栄・久世",
+        "name": "高齢サポート久世",
+        "tel": "075-933-5787",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1839,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "陶化・東和・上鳥羽",
+        "name": "高齢サポート陶化",
+        "tel": "075-671-2343",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1840,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "南大内・唐橋・祥豊・吉祥院",
+        "name": "高齢サポート唐橋",
+        "tel": "075-694-6222",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1841,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "水尾・宕陰・嵯峨・広沢",
+        "name": "高齢サポート嵯峨",
+        "tel": "075-873-3085",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1842,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "高雄・宇多野・御室・花園",
+        "name": "高齢サポート花園",
+        "tel": "075-466-2711",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1843,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "嵐山・嵯峨野",
+        "name": "高齢サポート嵐山",
+        "tel": "075-871-0200",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1844,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "北梅津・梅津",
+        "name": "高齢サポート梅津",
+        "tel": "075-862-5171",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1845,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "常磐野・太秦・南太秦",
+        "name": "高齢サポート常磐野",
+        "tel": "075-873-3156",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1846,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "安井・山ノ内・西院第一・西院第二",
+        "name": "高齢サポート西院",
+        "tel": "075-812-6712",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1847,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "京北第一・京北第二・京北第三",
+        "name": "高齢サポート京北",
+        "tel": "075-852-5222",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1848,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "葛野・西京極・西京極西",
+        "name": "高齢サポート葛野",
+        "tel": "075-322-2236",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1849,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "嵐山東・松尾・松陽",
+        "name": "高齢サポート西京北部",
+        "tel": "075-392-7817",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1850,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "桂徳・桂東・川岡・川岡東",
+        "name": "高齢サポート桂川",
+        "tel": "075-391-1772",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1851,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "桂川・桂・樫原",
+        "name": "高齢サポート西京南部",
+        "tel": "075-382-1127",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1852,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "桂坂・大枝・新林・福西",
+        "name": "高齢サポート沓掛",
+        "tel": "075-335-2201",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1853,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "境谷・竹の里・大原野",
+        "name": "高齢サポート境谷",
+        "tel": "075-331-8781",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1854,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "下鳥羽・板橋・南浜",
+        "name": "高齢サポート下鳥羽",
+        "tel": "075-604-5011",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1855,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "久我・久我の杜・羽束師・横大路",
+        "name": "高齢サポート久我の杜",
+        "tel": "075-931-8024",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1856,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "向島・向島藤ノ木・向島南",
+        "name": "高齢サポート向島",
+        "tel": "075-622-8845",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1857,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "竹田・住吉",
+        "name": "高齢サポート東高瀬川",
+        "tel": "075-622-7745",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1858,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "納所・淀・美豆",
+        "name": "高齢サポート淀",
+        "tel": "075-633-6557",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1859,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "桃山・桃山東・桃山南",
+        "name": "高齢サポート桃山",
+        "tel": "075-605-4707",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1860,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "稲荷・砂川",
+        "name": "高齢サポート深草北部",
+        "tel": "075-641-2544",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1861,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "藤ノ森・藤城",
+        "name": "高齢サポート深草南部",
+        "tel": "075-641-9301",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1862,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "深草",
+        "name": "高齢サポート深草中部",
+        "tel": "075-642-5155",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1863,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "小栗栖・石田・春日野・日野",
+        "name": "高齢サポート醍醐南部",
+        "tel": "075-572-6572",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 1864,
+        "prefecture": "京都府",
+        "city": "京都市",
+        "area": "北醍醐・醍醐西・醍醐・池田",
+        "name": "高齢サポート醍醐北部",
+        "tel": "075-571-3560",
+        "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000214261.html"
+    },
+    {
+        "id": 2179,
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "area": "笠取・笠取第二・木幡・御蔵山",
+        "name": "東宇治北地域包括支援センター",
+        "tel": "0774-33-8270",
+        "url": "https://www.city.uji.kyoto.jp/site/choju/25478.html"
+    },
+    {
+        "id": 2180,
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "area": "宇治・岡屋",
+        "name": "東宇治南地域包括支援センター",
+        "tel": "0774-38-1250",
+        "url": "https://www.city.uji.kyoto.jp/site/choju/25478.html"
+    },
+    {
+        "id": 2181,
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "area": "南部・三室戸",
+        "name": "南部・三室戸地域包括支援センター",
+        "tel": "0774-23-6115",
+        "url": "https://www.city.uji.kyoto.jp/site/choju/25478.html"
+    },
+    {
+        "id": 2182,
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "area": "菟道・菟道第二・大開",
+        "name": "中宇治地域包括支援センター",
+        "tel": "0774-28-3180",
+        "url": "https://www.city.uji.kyoto.jp/site/choju/25478.html"
+    },
+    {
+        "id": 2183,
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "area": "槇島・北槇島",
+        "name": "槇島地域包括支援センター",
+        "tel": "0774-21-6605",
+        "url": "https://www.city.uji.kyoto.jp/site/choju/25478.html"
+    },
+    {
+        "id": 2184,
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "area": "小倉・神明",
+        "name": "北宇治地域包括支援センター",
+        "tel": "0774-21-8123",
+        "url": "https://www.city.uji.kyoto.jp/site/choju/25478.html"
+    },
+    {
+        "id": 2185,
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "area": "北小倉・西小倉・南小倉・伊勢田",
+        "name": "西宇治地域包括支援センター",
+        "tel": "0774-28-6180",
+        "url": "https://www.city.uji.kyoto.jp/site/choju/25478.html"
+    },
+    {
+        "id": 2186,
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "area": "大久保・西大久保・平盛",
+        "name": "南宇治地域包括支援センター",
+        "tel": "0774-45-1544",
+        "url": "https://www.city.uji.kyoto.jp/site/choju/25478.html"
+    },
+    {
+        "id": 2187,
+        "prefecture": "京都府",
+        "city": "舞鶴市",
+        "area": "大浦・朝来・志楽",
+        "name": "大浦・朝来・志楽地域包括支援センター",
+        "tel": "0773-64-0086",
+        "url": "https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"
+    },
+    {
+        "id": 2188,
+        "prefecture": "京都府",
+        "city": "舞鶴市",
+        "area": "新舞鶴・三笠",
+        "name": "新舞鶴・三笠地域包括支援センター",
+        "tel": "0773-77-5001",
+        "url": "https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"
+    },
+    {
+        "id": 2189,
+        "prefecture": "京都府",
+        "city": "舞鶴市",
+        "area": "倉梯・倉二・与保呂",
+        "name": "倉梯・倉二・与保呂地域包括支援センター",
+        "tel": "0773-77-5002",
+        "url": "https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"
+    },
+    {
+        "id": 2190,
+        "prefecture": "京都府",
+        "city": "舞鶴市",
+        "area": "中舞鶴",
+        "name": "中舞鶴地域包括支援センター",
+        "tel": "0773-77-5003",
+        "url": "https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"
+    },
+    {
+        "id": 2191,
+        "prefecture": "京都府",
+        "city": "舞鶴市",
+        "area": "福井・吉原・明倫・余内",
+        "name": "城北地域包括支援センター",
+        "tel": "0773-77-5004",
+        "url": "https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"
+    },
+    {
+        "id": 2192,
+        "prefecture": "京都府",
+        "city": "舞鶴市",
+        "area": "中筋・高野・池内",
+        "name": "城南地域包括支援センター",
+        "tel": "0773-77-5005",
+        "url": "https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"
+    },
+    {
+        "id": 2193,
+        "prefecture": "京都府",
+        "city": "舞鶴市",
+        "area": "由良川・岡田",
+        "name": "加佐地域包括支援センター",
+        "tel": "0773-82-9303",
+        "url": "https://www.city.maizuru.kyoto.jp/kenkou/0000009200.html"
+    },
+    {
+        "id": 2194,
+        "prefecture": "京都府",
+        "city": "亀岡市",
+        "area": "亀岡地区",
+        "name": "亀岡地域包括支援センター",
+        "tel": "0771-29-5155",
+        "url": "https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"
+    },
+    {
+        "id": 2195,
+        "prefecture": "京都府",
+        "city": "亀岡市",
+        "area": "東別院町・西別院町・曽我部町",
+        "name": "南部地域包括支援センター",
+        "tel": "0771-23-1600",
+        "url": "https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"
+    },
+    {
+        "id": 2196,
+        "prefecture": "京都府",
+        "city": "亀岡市",
+        "area": "吉川町・薭田野町・大井町・千代川町",
+        "name": "中部地域包括支援センター",
+        "tel": "0771-29-0015",
+        "url": "https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"
+    },
+    {
+        "id": 2197,
+        "prefecture": "京都府",
+        "city": "亀岡市",
+        "area": "本梅町・畑野町・宮前町・東本梅町",
+        "name": "西部地域包括支援センター",
+        "tel": "0771-26-0056",
+        "url": "https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"
+    },
+    {
+        "id": 2198,
+        "prefecture": "京都府",
+        "city": "亀岡市",
+        "area": "馬路町・旭町・千歳町・河原林町・保津町",
+        "name": "川東地域包括支援センター",
+        "tel": "0771-25-0863",
+        "url": "https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"
+    },
+    {
+        "id": 2199,
+        "prefecture": "京都府",
+        "city": "亀岡市",
+        "area": "篠町",
+        "name": "篠地域包括支援センター",
+        "tel": "0771-25-3841",
+        "url": "https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"
+    },
+    {
+        "id": 2200,
+        "prefecture": "京都府",
+        "city": "亀岡市",
+        "area": "東つつじケ丘・西つつじケ丘・南つつじケ丘",
+        "name": "つつじケ丘地域包括支援センター",
+        "tel": "0771-22-9336",
+        "url": "https://www.city.kameoka.kyoto.jp/soshiki/25/3273.html"
+    },
+    {
+        "id": 2201,
+        "prefecture": "京都府",
+        "city": "長岡京市",
+        "area": "長岡中学校区",
+        "name": "長岡京市東地域包括支援センター",
+        "tel": "075-963-5508",
+        "url": "https://www.city.nagaokakyo.lg.jp/0000002427.html"
+    },
+    {
+        "id": 2202,
+        "prefecture": "京都府",
+        "city": "長岡京市",
+        "area": "長岡第二中学校区",
+        "name": "長岡京市北地域包括支援センター",
+        "tel": "075-955-9007",
+        "url": "https://www.city.nagaokakyo.lg.jp/0000002427.html"
+    },
+    {
+        "id": 2203,
+        "prefecture": "京都府",
+        "city": "長岡京市",
+        "area": "長岡第三中学校区",
+        "name": "長岡京市南地域包括支援センター",
+        "tel": "075-957-1119",
+        "url": "https://www.city.nagaokakyo.lg.jp/0000002427.html"
+    },
+    {
+        "id": 2204,
+        "prefecture": "京都府",
+        "city": "長岡京市",
+        "area": "長岡第四中学校区",
+        "name": "長岡京市西地域包括支援センター",
+        "tel": "075-323-7889",
+        "url": "https://www.city.nagaokakyo.lg.jp/0000002427.html"
+    },
+    {
+        "id": 2205,
+        "prefecture": "京都府",
+        "city": "城陽市",
+        "area": "東城陽中学校圏域・城陽中学校圏域・南城陽中学校圏域",
+        "name": "城陽市中部地域包括支援センター",
+        "tel": "0774-54-7330",
+        "url": "https://jyoshakyo.or.jp/pages/60/"
+    },
+    {
+        "id": 2206,
+        "prefecture": "京都府",
+        "city": "城陽市",
+        "area": "西城陽中学校圏域",
+        "name": "城陽市西部地域包括支援センター",
+        "tel": "0774-55-7222",
+        "url": "https://jyoshakyo.or.jp/pages/64/"
+    },
+    {
+        "id": 2207,
+        "prefecture": "京都府",
+        "city": "城陽市",
+        "area": "北城陽中学校圏域",
+        "name": "城陽市北部地域包括支援センターひだまり",
+        "tel": "0774-55-5180",
+        "url": "https://joyofukushikai.com/facility/hidamari-hirakawa.php"
+    },
+    {
+        "id": 2208,
+        "prefecture": "京都府",
+        "city": "向日市",
+        "area": "物集女町・寺戸町北部（八反田・石田、正田、東御泥、七ノ坪、八ノ坪、志賀見、三ノ坪、寺田、蔵ノ町、永田、修理式、二ノ坪〔永田通以北・阪急電鉄京都線以西〕、芝山・大牧・西野〔大原野通以北〕、乾垣内、里垣内、北前田、新田、向畑・小佃〔駅前通以北〕、飛龍・笹屋・西田中瀬〔阪急電鉄京都線以西〕、寺山、北野、中村垣内、北垣内・中垣内〔物集女街道以西〕、西垣内）",
+        "name": "向日市北地域包括支援センター",
+        "tel": "075-934-6887",
+        "url": "https://www.city.muko.kyoto.jp/soshiki/18/1798.html"
+    },
+    {
+        "id": 2209,
+        "prefecture": "京都府",
+        "city": "向日市",
+        "area": "寺戸町南部・森本町・向日台団地",
+        "name": "向日市中地域包括支援センター",
+        "tel": "075-921-1550",
+        "url": "https://www.city.muko.kyoto.jp/soshiki/18/1798.html"
+    },
+    {
+        "id": 2210,
+        "prefecture": "京都府",
+        "city": "向日市",
+        "area": "鶏冠井町・上植野町・向日町（向日台団地を除く）",
+        "name": "向日市南地域包括支援センター",
+        "tel": "075-921-0061",
+        "url": "https://www.city.muko.kyoto.jp/soshiki/18/1798.html"
+    },
+    {
+        "id": 2211,
+        "prefecture": "京都府",
+        "city": "八幡市",
+        "area": "男山中学校圏域",
+        "name": "ほっとあんしんネット梨の里",
+        "tel": "075-982-0125",
+        "url": "https://www.city.yawata.kyoto.jp/0000001964.html"
+    },
+    {
+        "id": 2212,
+        "prefecture": "京都府",
+        "city": "八幡市",
+        "area": "男山第二中学校圏域",
+        "name": "ほっとあんしんネットやまばと",
+        "tel": "075-982-8000",
+        "url": "https://www.city.yawata.kyoto.jp/0000001964.html"
+    },
+    {
+        "id": 2213,
+        "prefecture": "京都府",
+        "city": "八幡市",
+        "area": "男山第三中学校圏域",
+        "name": "ほっとあんしんネット美杉会",
+        "tel": "075-971-3576",
+        "url": "https://www.city.yawata.kyoto.jp/0000001964.html"
+    },
+    {
+        "id": 2214,
+        "prefecture": "京都府",
+        "city": "八幡市",
+        "area": "男山東中学校圏域",
+        "name": "ほっとあんしんネット有智の郷",
+        "tel": "075-972-1000",
+        "url": "https://www.city.yawata.kyoto.jp/0000001964.html"
+    },
+    {
+        "id": 3710,
+        "prefecture": "京都府",
+        "city": "大山崎町",
+        "area": "",
+        "name": "大山崎町地域包括支援センター",
+        "tel": "075-952-6533",
+        "url": ""
+    },
+    {
+        "id": 3711,
+        "prefecture": "京都府",
+        "city": "久御山町",
+        "area": "",
+        "name": "久御山町地域包括支援センター",
+        "tel": "075-631-9902",
+        "url": ""
+    },
+    {
+        "id": 3712,
+        "prefecture": "京都府",
+        "city": "京田辺市",
+        "area": "",
+        "name": "京田辺市地域包括支援センター （あんあん常磐苑）",
+        "tel": "0774-68-1310",
+        "url": ""
+    },
+    {
+        "id": 3713,
+        "prefecture": "京都府",
+        "city": "京田辺市",
+        "area": "",
+        "name": "京田辺市地域包括支援センター （あんあん市役所）",
+        "tel": "0774-63-1268",
+        "url": ""
+    },
+    {
+        "id": 3714,
+        "prefecture": "京都府",
+        "city": "京田辺市",
+        "area": "",
+        "name": "京田辺市地域包括支援センター （あんあん宝生苑）",
+        "tel": "0774-68-0705",
+        "url": ""
+    },
+    {
+        "id": 3715,
+        "prefecture": "京都府",
+        "city": "井手町",
+        "area": "",
+        "name": "井手町地域包括支援センター",
+        "tel": "0774-82-3690",
+        "url": ""
+    },
+    {
+        "id": 3716,
+        "prefecture": "京都府",
+        "city": "宇治田原町",
+        "area": "",
+        "name": "宇治田原町地域包括支援センター",
+        "tel": "0774-88-3719",
+        "url": ""
+    },
+    {
+        "id": 3717,
+        "prefecture": "京都府",
+        "city": "木津川市",
+        "area": "",
+        "name": "木津川市地域包括支援センター木津東",
+        "tel": "0774-75-2003",
+        "url": ""
+    },
+    {
+        "id": 3718,
+        "prefecture": "京都府",
+        "city": "木津川市",
+        "area": "",
+        "name": "木津川市地域包括支援センター木津西",
+        "tel": "0774-75-1294",
+        "url": ""
+    },
+    {
+        "id": 3719,
+        "prefecture": "京都府",
+        "city": "木津川市",
+        "area": "",
+        "name": "木津川市地域包括支援センター加茂",
+        "tel": "0774-76-0001",
+        "url": ""
+    },
+    {
+        "id": 3720,
+        "prefecture": "京都府",
+        "city": "木津川市",
+        "area": "",
+        "name": "木津川市地域包括支援センター山城",
+        "tel": "0774-86-3500",
+        "url": ""
+    },
+    {
+        "id": 3721,
+        "prefecture": "京都府",
+        "city": "笠置町",
+        "area": "",
+        "name": "笠置町地域包括支援センター",
+        "tel": "0743-95-2890",
+        "url": ""
+    },
+    {
+        "id": 3722,
+        "prefecture": "京都府",
+        "city": "和束町",
+        "area": "",
+        "name": "和束町地域包括支援センター",
+        "tel": "0774-78-4169",
+        "url": ""
+    },
+    {
+        "id": 3723,
+        "prefecture": "京都府",
+        "city": "精華町",
+        "area": "",
+        "name": "精華町北部地域包括支援センター",
+        "tel": "0774-94-5677",
+        "url": ""
+    },
+    {
+        "id": 3724,
+        "prefecture": "京都府",
+        "city": "精華町",
+        "area": "",
+        "name": "精華町中部地域包括支援センター",
+        "tel": "0774-94-4573",
+        "url": ""
+    },
+    {
+        "id": 3725,
+        "prefecture": "京都府",
+        "city": "精華町",
+        "area": "",
+        "name": "精華町南部地域包括支援センター",
+        "tel": "0774-75-1833",
+        "url": ""
+    },
+    {
+        "id": 3726,
+        "prefecture": "京都府",
+        "city": "南山城村",
+        "area": "",
+        "name": "南山城村地域包括支援センター",
+        "tel": "0743-93-0294",
+        "url": ""
+    },
+    {
+        "id": 3727,
+        "prefecture": "京都府",
+        "city": "南丹市",
+        "area": "",
+        "name": "南丹地域包括支援センター 園部事務所",
+        "tel": "0771-68-3150",
+        "url": ""
+    },
+    {
+        "id": 3728,
+        "prefecture": "京都府",
+        "city": "南丹市",
+        "area": "",
+        "name": "南丹地域包括支援センター 八木事務所",
+        "tel": "0771-43-0551",
+        "url": ""
+    },
+    {
+        "id": 3729,
+        "prefecture": "京都府",
+        "city": "南丹市",
+        "area": "",
+        "name": "南丹地域包括支援センター 日吉事務所",
+        "tel": "0771-72-0214",
+        "url": ""
+    },
+    {
+        "id": 3730,
+        "prefecture": "京都府",
+        "city": "南丹市",
+        "area": "",
+        "name": "南丹地域包括支援センター 美山事務所",
+        "tel": "0771-75-1006",
+        "url": ""
+    },
+    {
+        "id": 3731,
+        "prefecture": "京都府",
+        "city": "京丹波町",
+        "area": "",
+        "name": "京丹波町地域包括支援センター",
+        "tel": "0771-82-0001",
+        "url": ""
+    },
+    {
+        "id": 3732,
+        "prefecture": "京都府",
+        "city": "福知山市",
+        "area": "",
+        "name": "福知山市地域包括支援センター",
+        "tel": "0773-48-9252",
+        "url": ""
+    },
+    {
+        "id": 3733,
+        "prefecture": "京都府",
+        "city": "福知山市",
+        "area": "",
+        "name": "夜久野地域包括支援センター",
+        "tel": "0773-37-1108",
+        "url": ""
+    },
+    {
+        "id": 3734,
+        "prefecture": "京都府",
+        "city": "福知山市",
+        "area": "",
+        "name": "川口地域包括支援センター",
+        "tel": "0773-45-3904",
+        "url": ""
+    },
+    {
+        "id": 3735,
+        "prefecture": "京都府",
+        "city": "福知山市",
+        "area": "",
+        "name": "成和地域包括支援センター",
+        "tel": "0773-45-3906",
+        "url": ""
+    },
+    {
+        "id": 3736,
+        "prefecture": "京都府",
+        "city": "福知山市",
+        "area": "",
+        "name": "大江地域包括支援センター",
+        "tel": "0773-56-1106",
+        "url": ""
+    },
+    {
+        "id": 3737,
+        "prefecture": "京都府",
+        "city": "福知山市",
+        "area": "",
+        "name": "六人部地域包括支援センター",
+        "tel": "0773-45-3905",
+        "url": ""
+    },
+    {
+        "id": 3738,
+        "prefecture": "京都府",
+        "city": "福知山市",
+        "area": "",
+        "name": "三和地域包括支援センター",
+        "tel": "0773-58-3010",
+        "url": ""
+    },
+    {
+        "id": 3739,
+        "prefecture": "京都府",
+        "city": "福知山市",
+        "area": "",
+        "name": "桃映地域包括支援センター",
+        "tel": "0773-48-9525",
+        "url": ""
+    },
+    {
+        "id": 3740,
+        "prefecture": "京都府",
+        "city": "福知山市",
+        "area": "",
+        "name": "日新地域包括支援センター",
+        "tel": "0773-45-3227",
+        "url": ""
+    },
+    {
+        "id": 3741,
+        "prefecture": "京都府",
+        "city": "綾部市",
+        "area": "",
+        "name": "綾部市地域包括支援センター",
+        "tel": "0773-42-4262",
+        "url": ""
+    },
+    {
+        "id": 3742,
+        "prefecture": "京都府",
+        "city": "綾部市",
+        "area": "",
+        "name": "綾部市東部地域包括支援センター",
+        "tel": "0773-21-5295",
+        "url": ""
+    },
+    {
+        "id": 3743,
+        "prefecture": "京都府",
+        "city": "綾部市",
+        "area": "",
+        "name": "綾部市中部地域包括支援センター",
+        "tel": "0773-43-2888",
+        "url": ""
+    },
+    {
+        "id": 3744,
+        "prefecture": "京都府",
+        "city": "綾部市",
+        "area": "",
+        "name": "綾部市西部地域包括支援センター",
+        "tel": "0773-21-5011",
+        "url": ""
+    },
+    {
+        "id": 3745,
+        "prefecture": "京都府",
+        "city": "宮津市",
+        "area": "",
+        "name": "宮津市地域包括支援センター",
+        "tel": "0772-45-1620",
+        "url": ""
+    },
+    {
+        "id": 3746,
+        "prefecture": "京都府",
+        "city": "宮津市",
+        "area": "",
+        "name": "宮津市北部地域包括支援センター",
+        "tel": "0772-27-0233",
+        "url": ""
+    },
+    {
+        "id": 3747,
+        "prefecture": "京都府",
+        "city": "伊根町",
+        "area": "",
+        "name": "伊根町地域包括支援センター",
+        "tel": "0772-32-3041",
+        "url": ""
+    },
+    {
+        "id": 3748,
+        "prefecture": "京都府",
+        "city": "与謝野町",
+        "area": "",
+        "name": "与謝野町地域包括支援センター",
+        "tel": "0772-43-9021",
+        "url": ""
+    },
+    {
+        "id": 3749,
+        "prefecture": "京都府",
+        "city": "京丹後市",
+        "area": "",
+        "name": "京丹後市地域包括支援センター",
+        "tel": "0772-69-0330",
+        "url": ""
+    },
+    {
+        "id": 3750,
+        "prefecture": "京都府",
+        "city": "京丹後市",
+        "area": "",
+        "name": "京丹後市地域包括支援センターあみの",
+        "tel": "0772-69-0343",
+        "url": ""
+    }
 ]
