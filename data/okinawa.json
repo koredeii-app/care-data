@@ -546,7 +546,7 @@
         "area": "",
         "name": "石垣市地域包括支援センター",
         "tel": "0980-84-3333",
-        "url": ""
+        "url": "https://www.city.ishigaki.okinawa.jp/soshiki/kaigo_choju/1/ishigakishichikihoukatsushien/10471.html"
     },
     {
         "id": 3373,
@@ -582,7 +582,7 @@
         "area": "",
         "name": "嘉手納町地域包括支援センター",
         "tel": "098-956-0849",
-        "url": ""
+        "url": "https://www.town.kadena.okinawa.jp/departments/kak262.html"
     },
     {
         "id": 3377,
@@ -600,7 +600,7 @@
         "area": "",
         "name": "金武町地域包括支援センター",
         "tel": "098-968-5933",
-        "url": ""
+        "url": "https://www.town.kin.okinawa.jp/soshiki/hokenfukushika/635.html"
     },
     {
         "id": 3379,
@@ -609,7 +609,7 @@
         "area": "",
         "name": "宜野座村地域包括支援センター",
         "tel": "098-968-3253",
-        "url": ""
+        "url": "https://www.vill.ginoza.okinawa.jp/soshiki/1005/oshirase/27.html"
     },
     {
         "id": 3380,
@@ -618,7 +618,7 @@
         "area": "",
         "name": "国頭村地域包括支援センター",
         "tel": "0980-41-5711",
-        "url": ""
+        "url": "http://www.vill.kunigami.okinawa.jp/tiikihoukatu/"
     },
     {
         "id": 3381,
@@ -654,7 +654,7 @@
         "area": "",
         "name": "中城村地域包括支援センター",
         "tel": "098-895-1738",
-        "url": ""
+        "url": "https://www.vill.nakagusuku.okinawa.jp/kenko_fukushi/kaigo_koureisha/chiikishien/"
     },
     {
         "id": 3385,
@@ -663,7 +663,7 @@
         "area": "",
         "name": "南城市地域包括支援センター",
         "tel": "098-946-8980",
-        "url": ""
+        "url": "https://www.city.nanjo.okinawa.jp/kurashi/zei_hoken_nenkin/kaigohoken/houkatsu/"
     },
     {
         "id": 3386,
@@ -690,6 +690,6 @@
         "area": "",
         "name": "読谷村地域包括支援センター",
         "tel": "098-982-9234",
-        "url": ""
+        "url": "https://www.vill.yomitan.okinawa.jp/soshiki/fukushi/gyomu/kourei_fukushi_kaigo/koreisha_shisetsu/776.html"
     }
 ]
