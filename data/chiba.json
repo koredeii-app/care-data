@@ -1,972 +1,2135 @@
 ﻿[
     {
-        "id":  734,
-        "prefecture":  "千葉県",
-        "city":  "千葉市中央区",
-        "area":  "院内・春日・要町・汐見丘町・新千葉・椿森・道場北町・道場北・登戸・東千葉・弁天・松波・祐光",
-        "name":  "千葉市あんしんケアセンター弁天",
-        "tel":  "043-216-2131",
-        "url":  "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_higashichiba/"
-    },
-    {
-        "id":  735,
-        "prefecture":  "千葉県",
-        "city":  "千葉市中央区",
-        "area":  "旭町・亀井町・亀岡町・栄町・新宿・新田町・新町・神明町・千葉港・中央・中央港・鶴沢町・出洲港・道場南・問屋町・東本町・富士見・本千葉町・本町・都町",
-        "name":  "千葉市あんしんケアセンター中央",
-        "tel":  "043-216-2121",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  736,
-        "prefecture":  "千葉県",
-        "city":  "千葉市中央区",
-        "area":  "青葉町・市場町・稲荷町・亥鼻・葛城・寒川町・末広・千葉寺町・長洲・港町・矢作町",
-        "name":  "千葉市あんしんケアセンター千葉寺",
-        "tel":  "043-263-3066",
-        "url":  "https://green-eminence.com/anshincare/"
-    },
-    {
-        "id":  737,
-        "prefecture":  "千葉県",
-        "city":  "千葉市中央区",
-        "area":  "赤井町・今井町・今井・鵜の森町・大森町・川崎町・白旗・蘇我町・蘇我・大巌寺町・川戸町・仁戸名町・花輪町・星久喜町・松ヶ丘町・南町・宮崎・宮崎町・若草",
-        "name":  "千葉市あんしんケアセンター松ケ丘",
-        "tel":  "043-420-8325",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  738,
-        "prefecture":  "千葉県",
-        "city":  "千葉市中央区",
-        "area":  "生実町・塩田町・新浜町・浜野町・南生実町・村田町",
-        "name":  "千葉市あんしんケアセンター浜野",
-        "tel":  "043-305-0102",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  739,
-        "prefecture":  "千葉県",
-        "city":  "千葉市花見川区",
-        "area":  "内山町・宇那谷町・柏井町・柏井4・こてはし台・大日町・み春野町・横戸町・横戸台",
-        "name":  "千葉市あんしんケアセンターこてはし台",
-        "tel":  "043-258-8750",
-        "url":  "https://seizan-kai.or.jp/publics/index/170/"
-    },
-    {
-        "id":  740,
-        "prefecture":  "千葉県",
-        "city":  "千葉市花見川区",
-        "area":  "天戸町・柏井1・作新台・長作町・長作台・花島町・花見川",
-        "name":  "千葉市あんしんケアセンター花見川",
-        "tel":  "043-250-1701",
-        "url":  "https://seizan-kai.or.jp/publics/index/105/"
-    },
-    {
-        "id":  741,
-        "prefecture":  "千葉県",
-        "city":  "千葉市花見川区",
-        "area":  "犢橋町・さつきが丘・三角町・千種町・宮野木台2〜4",
-        "name":  "千葉市あんしんケアセンターさつきが丘",
-        "tel":  "043-307-3225",
-        "url":  "https://www.ichirin.or.jp/branch/chibachi_anchin_carecenter_satsukigaoka/"
-    },
-    {
-        "id":  742,
-        "prefecture":  "千葉県",
-        "city":  "千葉市花見川区",
-        "area":  "朝日ヶ丘1〜3・5・西小中台・畑町・宮野木台1",
-        "name":  "千葉市あんしんケアセンターにれの木台",
-        "tel":  "043-205-4851",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  743,
-        "prefecture":  "千葉県",
-        "city":  "千葉市花見川区",
-        "area":  "朝日ヶ丘町・朝日ヶ丘4・検見川町・浪花町・花園町・花園・南花園・瑞穂",
-        "name":  "千葉市あんしんケアセンター花園",
-        "tel":  "043-216-2610",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  744,
-        "prefecture":  "千葉県",
-        "city":  "千葉市花見川区",
-        "area":  "武石町・幕張町・幕張本郷",
-        "name":  "千葉市あんしんケアセンター幕張",
-        "tel":  "043-212-7300",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  745,
-        "prefecture":  "千葉県",
-        "city":  "千葉市稲毛区",
-        "area":  "柏台・小中台町・小深町・山王町・長沼町・長沼原町・六方町・宮野木町",
-        "name":  "千葉市あんしんケアセンター山王",
-        "tel":  "043-304-7740",
-        "url":  "http://www.souju-kai.or.jp/anshin/"
-    },
-    {
-        "id":  746,
-        "prefecture":  "千葉県",
-        "city":  "千葉市稲毛区",
-        "area":  "あやめ台・園生町",
-        "name":  "千葉市あんしんケアセンター園生",
-        "tel":  "043-306-6881",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  747,
-        "prefecture":  "千葉県",
-        "city":  "千葉市稲毛区",
-        "area":  "作草部町・作草部・千草台・天台町・天台・萩台町",
-        "name":  "千葉市あんしんケアセンター天台",
-        "tel":  "043-284-6811",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  748,
-        "prefecture":  "千葉県",
-        "city":  "千葉市稲毛区",
-        "area":  "穴川町・穴川・小仲台・轟町・弥生町",
-        "name":  "千葉市あんしんケアセンター小仲台",
-        "tel":  "043-307-5780",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  749,
-        "prefecture":  "千葉県",
-        "city":  "千葉市稲毛区",
-        "area":  "稲丘町・稲毛・稲毛台町・稲毛町・稲毛東・黒砂・黒砂台・緑町",
-        "name":  "千葉市あんしんケアセンター稲毛",
-        "tel":  "043-216-2831",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  750,
-        "prefecture":  "千葉県",
-        "city":  "千葉市若葉区",
-        "area":  "愛生町・高品町・殿台町・原町・東寺山町・みつわ台・源町",
-        "name":  "千葉市あんしんケアセンターみつわ台",
-        "tel":  "043-290-0120",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  751,
-        "prefecture":  "千葉県",
-        "city":  "千葉市若葉区",
-        "area":  "都賀・都賀の台・西都賀・若松町・若松台",
-        "name":  "千葉市あんしんケアセンター都賀",
-        "tel":  "043-312-5110",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  752,
-        "prefecture":  "千葉県",
-        "city":  "千葉市若葉区",
-        "area":  "貝塚町・貝塚・加曽利町・桜木・桜木北",
-        "name":  "千葉市あんしんケアセンター桜木",
-        "tel":  "043-214-1841",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  753,
-        "prefecture":  "千葉県",
-        "city":  "千葉市若葉区",
-        "area":  "大井戸町・大草町・太田町・小倉町・小倉台・御成台・小間子町・金親町・上泉町・御殿町・坂月町・更科町・下泉町・下田町・旦谷町・千城台北・千城台西・千城台東・千城台南・富田町・谷当町",
-        "name":  "千葉市あんしんケアセンター千城台",
-        "tel":  "043-236-7400",
-        "url":  "http://senjyu-kai.com/shisetsu/anshincare_chishirodai/"
-    },
-    {
-        "id":  754,
-        "prefecture":  "千葉県",
-        "city":  "千葉市若葉区",
-        "area":  "五十土町・和泉町・大広町・大宮町・大宮台・川井町・北大宮台・北谷津町・古泉町・佐和町・高根町・多部田町・中田町・中野町・野呂町",
-        "name":  "千葉市あんしんケアセンター大宮台",
-        "tel":  "043-208-1212",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  755,
-        "prefecture":  "千葉県",
-        "city":  "千葉市緑区",
-        "area":  "大金沢町・落井町・おゆみ野・おゆみ野有吉・おゆみ野中央・おゆみ野南・鎌取町・刈田子町・小金沢町・椎名崎町・富岡町・中西町・東山科町・平山町・古市場町・辺田町・茂呂町",
-        "name":  "千葉市あんしんケアセンター鎌取",
-        "tel":  "043-293-6911",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  756,
-        "prefecture":  "千葉県",
-        "city":  "千葉市緑区",
-        "area":  "大膳野町・高田町・平川町・誉田町",
-        "name":  "千葉市あんしんケアセンター誉田",
-        "tel":  "043-300-4855",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  757,
-        "prefecture":  "千葉県",
-        "city":  "千葉市緑区",
-        "area":  "あすみが丘・あすみが丘東・板倉町・大木戸町・大椎町・大高町・大野台・越智町・小山町・上大和田町・下大和田町・高津戸町・土気町・小食土町",
-        "name":  "千葉市あんしんケアセンター土気",
-        "tel":  "043-295-0110",
-        "url":  "https://yuuwakai.jp/facilities/carecenter/"
-    },
-    {
-        "id":  758,
-        "prefecture":  "千葉県",
-        "city":  "千葉市美浜区",
-        "area":  "中瀬1・ひび野1・真砂・若葉",
-        "name":  "千葉市あんしんケアセンター真砂",
-        "tel":  "043-278-0111",
-        "url":  "https://www.juneikai.or.jp/masago/"
-    },
-    {
-        "id":  759,
-        "prefecture":  "千葉県",
-        "city":  "千葉市美浜区",
-        "area":  "磯辺・打瀬・高浜5〜6・豊砂・中瀬2・浜田・ひび野2・幕張西・美浜",
-        "name":  "千葉市あんしんケアセンター磯辺",
-        "tel":  "043-445-8440",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  760,
-        "prefecture":  "千葉県",
-        "city":  "千葉市美浜区",
-        "area":  "稲毛海岸・高洲・高浜1〜4・7",
-        "name":  "千葉市あんしんケアセンター高洲",
-        "tel":  "043-278-2545",
-        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-    },
-    {
-        "id":  761,
-        "prefecture":  "千葉県",
-        "city":  "千葉市美浜区",
-        "area":  "幸町・新港",
-        "name":  "千葉市あんしんケアセンター幸町",
-        "tel":  "043-301-5528",
-        "url":  "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_mihama/"
-    },
-    {
-        "id":  791,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "米ヶ崎町・夏見・夏見台・夏見町・金杉・金杉台・金杉町・高根町・緑台",
-        "name":  "船橋市中部地域包括支援センター",
-        "tel":  "047-423-2551",
-        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0001/0001/p011285.html"
-    },
-    {
-        "id":  792,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "新高根・芝山・高根台",
-        "name":  "船橋市新高根・芝山、高根台地域包括支援センター",
-        "tel":  "047-404-7061",
-        "url":  "https://soumeikai.org/service/funabashi-shien-center/"
-    },
-    {
-        "id":  793,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "滝台・滝台町・二宮・飯山満町・七林町・薬円台・薬園台町",
-        "name":  "船橋市東部地域包括支援センター",
-        "tel":  "047-490-4171",
-        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0002/0001/p011286.html"
-    },
-    {
-        "id":  794,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "前原東・前原西・中野木",
-        "name":  "船橋市前原地域包括支援センター",
-        "tel":  "047-403-3201",
-        "url":  "https://www.wana.or.jp/maebara/"
-    },
-    {
-        "id":  795,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "田喜野井・習志野・三山",
-        "name":  "船橋市三山・田喜野井地域包括支援センター",
-        "tel":  "047-403-5155",
-        "url":  "https://www.rikushinkai.com/shisetu_service/funabashi_center/"
-    },
-    {
-        "id":  796,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "習志野台・西習志野",
-        "name":  "船橋市習志野台地域包括支援センター",
-        "tel":  "047-462-0002",
-        "url":  "https://www.hanawa.or.jp/kitanara/homecare-center"
-    },
-    {
-        "id":  797,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "印内・印内町・葛飾町・古作・古作町・西船・東中山・本郷町・山野町・二子町・本中山",
-        "name":  "船橋市西部地域包括支援センター",
-        "tel":  "047-302-2628",
-        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0004/0001/p011288.html"
-    },
-    {
-        "id":  798,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "行田町・行田・山手・北本町・前貝塚町・旭町",
-        "name":  "船橋市塚田地域包括支援センター",
-        "tel":  "047-404-7221",
-        "url":  "https://tsukada-houkatsu.itakura.or.jp/index.html"
-    },
-    {
-        "id":  799,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "上山町・藤原・馬込町・馬込西・丸山",
-        "name":  "船橋市法典地域包括支援センター",
-        "tel":  "047-430-4140",
-        "url":  "https://www.city.funabashi.lg.jp/kenkou/koureisha/001/p004493.html#hoten"
-    },
-    {
-        "id":  800,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "栄町・潮見町・高瀬町・西浦・浜町・日の出・湊町・若松・本町3・海神・海神町・海神町東・海神町西・海神町南・南海神・南本町",
-        "name":  "船橋市南部地域包括支援センター",
-        "tel":  "047-436-2883",
-        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0005/0001/p011289.html"
-    },
-    {
-        "id":  801,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "宮本・市場・東船橋・東町・駿河台・本町",
-        "name":  "船橋市宮本・本町地域包括支援センター",
-        "tel":  "047-401-0341",
-        "url":  "https://hokatsumiyamoto.wixsite.com/my-site"
-    },
-    {
-        "id":  802,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "三咲・三咲町・南三咲・松が丘・大穴南・大穴北・大穴町",
-        "name":  "船橋市北部地域包括支援センター",
-        "tel":  "047-440-7935",
-        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0003/0001/p011287.html"
-    },
-    {
-        "id":  803,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "二和東・二和西・八木が谷町・咲が丘・みやぎ台・八木が谷・高野台",
-        "name":  "船橋市二和・八木が谷地域包括支援センター",
-        "tel":  "047-448-7115",
-        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0015/0001/p027801.html"
-    },
-    {
-        "id":  804,
-        "prefecture":  "千葉県",
-        "city":  "船橋市",
-        "area":  "大神保町・金堀町・楠が山町・車方町・小野田町・小室町・古和釜町・神保町・鈴身町・坪井町・豊富町・坪井東・坪井西",
-        "name":  "船橋市豊富・坪井地域包括支援センター",
-        "tel":  "047-457-3331",
-        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0008/0001/p013703.html"
-    },
-    {
-        "id":  856,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "根本・吉井町・小根本・緑ケ丘1〜2・松戸新田・仲井町1〜3・稔台・稔台1〜8・岩瀬・野菊野・胡録台",
-        "name":  "松戸市明第1高齢者いきいき安心センター",
-        "tel":  "047-700-5881",
-        "url":  "https://rokkoudai.net/service/hokatsu#akira"
-    },
-    {
-        "id":  857,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "栄町1〜8・栄町西1〜5・樋野口・古ケ崎・古ケ崎1〜4",
-        "name":  "松戸市明第2西高齢者いきいき安心センター",
-        "tel":  "047-382-5707",
-        "url":  "https://www.eishunkai.or.jp/service/senior_housing_care/comprehensive_support/"
-    },
-    {
-        "id":  858,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "上本郷・北松戸1〜3・竹ケ花・竹ケ花西町・南花島・南花島1〜4・南花島中町・南花島向町",
-        "name":  "松戸市明第2東高齢者いきいき安心センター",
-        "tel":  "047-382-6294",
-        "url":  "https://welfare-for-make-a-wish.com/delegated/"
-    },
-    {
-        "id":  859,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "本町・松戸・小山・二十世紀が丘美野里町",
-        "name":  "松戸市本庁高齢者いきいき安心センター",
-        "tel":  "047-363-6823",
-        "url":  "https://www.seikei-kai.or.jp/hainesu/hainesu_500.html"
-    },
-    {
-        "id":  860,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "上矢切・中矢切・下矢切・三矢小台1〜5・二十世紀が丘柿の木町・二十世紀が丘萩町・大橋・栗山",
-        "name":  "松戸市矢切高齢者いきいき安心センター",
-        "tel":  "047-710-6025",
-        "url":  "https://www.seikei-kai.or.jp/hainesu/hainesu_500.html"
-    },
-    {
-        "id":  861,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "河原塚・田中新田・紙敷・紙敷1〜3・東松戸1〜4・秋山・秋山1〜3・高塚新田・和名ケ谷・大橋・二十世紀が丘丸山町・二十世紀が丘中松町・二十世紀が丘戸山町・二十世紀が丘梨元町",
-        "name":  "松戸市東部高齢者いきいき安心センター",
-        "tel":  "047-330-8866",
-        "url":  "https://www.kiyou.or.jp/pickup_detail.php?id=8"
-    },
-    {
-        "id":  862,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "金ケ作・千駄堀・常盤平1〜7・常盤平双葉町・常盤平西窪町・常盤平陣屋前・常盤平柳町・常盤平松葉町・牧の原・牧の原1〜2・日暮・日暮1〜8",
-        "name":  "松戸市常盤平高齢者いきいき安心センター",
-        "tel":  "047-330-6150",
-        "url":  "https://www.happy-sunflower.or.jp/%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
-    },
-    {
-        "id":  863,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "常盤平1（駅上）・常盤平2・常盤平3・常盤平4・常盤平7・中央市街地住宅・駅前市街地住宅・セントラルハイツ・けやき通り住宅",
-        "name":  "松戸市常盤平団地高齢者いきいき安心センター",
-        "tel":  "047-382-6535",
-        "url":  "https://www.happy-sunflower.or.jp/%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
-    },
-    {
-        "id":  864,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "串崎南町・串崎新田・松飛台・五香1〜8・五香西1〜6・五香南1〜3・五香六実",
-        "name":  "松戸市五香松飛台高齢者いきいき安心センター",
-        "tel":  "047-385-3957",
-        "url":  "https://seishin-kai.or.jp/service/hokatu/"
-    },
-    {
-        "id":  865,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "高柳・高柳新田・六実1〜7・六高台西・六高台1〜9",
-        "name":  "松戸市六実六高台高齢者いきいき安心センター",
-        "tel":  "047-383-0100",
-        "url":  "http://rokkoudai.net/service/hokatsu"
-    },
-    {
-        "id":  866,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "幸田・幸田1〜5・中金杉1〜5・平賀・東平賀・殿平賀・久保平賀・大金平1〜5・大谷口・小金・小金きよしケ丘1〜5・小金上総町・小金清志町1〜3・二ツ木・二ツ木二葉町・根木内",
-        "name":  "松戸市小金高齢者いきいき安心センター",
-        "tel":  "047-374-5221",
-        "url":  "https://seishikai.net/kogane_center/"
-    },
-    {
-        "id":  867,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "根木内・小金原1〜9・栗ケ沢・八ケ崎1・小金1700",
-        "name":  "松戸市小金原高齢者いきいき安心センター",
-        "tel":  "047-383-3111",
-        "url":  "https://www.yayoikai.or.jp/facilities/koganehara.html"
-    },
-    {
-        "id":  868,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "横須賀1〜2・新松戸1〜7・新松戸東・新松戸北1〜2・小金1100〜1300",
-        "name":  "松戸市新松戸高齢者いきいき安心センター",
-        "tel":  "047-346-2500",
-        "url":  "https://www.shinmatsudo-hospital.jp/outline/facilities/zaitakukaigoshien-center/"
-    },
-    {
-        "id":  869,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "旭町1〜4・外河原・七右衛門新田・主水新田・新松戸南1〜3・西馬橋1〜5・西馬橋相川町・西馬橋蔵元町・西馬橋幸町・西馬橋広手町・馬橋",
-        "name":  "松戸市馬橋西高齢者いきいき安心センター",
-        "tel":  "047-711-9430",
-        "url":  "https://www.eishunkai.or.jp/service/senior_housing_care/comprehensive_support/"
-    },
-    {
-        "id":  870,
-        "prefecture":  "千葉県",
-        "city":  "松戸市",
-        "area":  "馬橋・三ケ月・幸谷・八ケ崎・八ケ崎緑町・八ケ崎2〜8・中根・新作・中根長津町・中和倉",
-        "name":  "松戸市馬橋高齢者いきいき安心センター",
-        "tel":  "047-374-5533",
-        "url":  "http://www.yawaragien.or.jp/publics/index/17/"
-    },
-    {
-        "id":  871,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "国府台",
-        "name":  "市川市国府台高齢者サポートセンター",
-        "tel":  "047-373-6539",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  872,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "北国分・中国分・堀之内・稲越・東国分・国分",
-        "name":  "市川市国分高齢者サポートセンター",
-        "tel":  "047-318-5565",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  873,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "曽谷",
-        "name":  "市川市曽谷高齢者サポートセンター",
-        "tel":  "047-371-6161",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  874,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "大町・大野町・南大野・柏井町・奉免町",
-        "name":  "市川市大柏高齢者サポートセンター",
-        "tel":  "047-338-6595",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  875,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "宮久保・下貝塚",
-        "name":  "市川市宮久保・下貝塚高齢者サポートセンター",
-        "tel":  "047-373-0763",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  876,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "市川・市川南3〜4・真間1",
-        "name":  "市川市市川第一高齢者サポートセンター",
-        "tel":  "047-700-5139",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  877,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "市川南1〜2・5・新田・平田・大洲・大和田・稲荷木・東大和田",
-        "name":  "市川市市川第二高齢者サポートセンター",
-        "tel":  "047-320-3105",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  878,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "真間2〜5",
-        "name":  "市川市真間高齢者サポートセンター",
-        "tel":  "047-322-8811",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  879,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "菅野・須和田・東菅野",
-        "name":  "市川市菅野・須和田高齢者サポートセンター",
-        "tel":  "047-326-7737",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  880,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "八幡・南八幡",
-        "name":  "市川市八幡高齢者サポートセンター",
-        "tel":  "047-376-3200",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  881,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "北方町・本北方・若宮・北方・中山・鬼越・高石神・鬼高",
-        "name":  "市川市市川東部高齢者サポートセンター",
-        "tel":  "047-334-0070",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  882,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "田尻・高谷・原木・二俣・上妙典・二俣新町・高谷新町・東浜",
-        "name":  "市川市信篤・二俣高齢者サポートセンター",
-        "tel":  "047-327-3366",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  883,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "河原・妙典・下妙典・下新宿・本行徳・本塩・関ヶ島・伊勢宿・富浜・末広・塩焼・宝・幸・加藤新田・高浜町・千鳥町",
-        "name":  "市川市行徳高齢者サポートセンター",
-        "tel":  "047-312-6070",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  884,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "押切・湊・湊新田・香取・欠真間・相之川・広尾・新井・島尻・南行徳",
-        "name":  "市川市南行徳第一高齢者サポートセンター",
-        "tel":  "047-359-6660",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  885,
-        "prefecture":  "千葉県",
-        "city":  "市川市",
-        "area":  "行徳駅前・入船・日之出・新浜・福栄・塩浜",
-        "name":  "市川市南行徳第二高齢者サポートセンター",
-        "tel":  "047-712-8022",
-        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
-    },
-    {
-        "id":  886,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "小青田・大室・花野井・正連寺・新十余二・船戸",
-        "name":  "柏市柏北部地域包括支援センター",
-        "tel":  "04-7140-8818",
-        "url":  "https://www.city.kashiwa.lg.jp/chikihokatsu/sodanyobo/hokatsushien.html"
-    },
-    {
-        "id":  887,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "西原・若柴・大青田",
-        "name":  "柏市柏北部第2地域包括支援センター",
-        "tel":  "04-7154-0200",
-        "url":  "https://www.earthsupport.co.jp/offices/%E6%9F%8F%E5%8C%97%E9%83%A8%E7%AC%AC2%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
-    },
-    {
-        "id":  888,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "富勢・布施・布施下・布施新町・宿連寺・根戸",
-        "name":  "柏市北柏地域包括支援センター",
-        "tel":  "04-7130-7800",
-        "url":  "http://www.kashiwa-haming.jp/area-support/"
-    },
-    {
-        "id":  889,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "大山台・高田・松ヶ崎新田・松葉町",
-        "name":  "柏市北柏第2地域包括支援センター",
-        "tel":  "04-7179-5500",
-        "url":  "http://www.mallage.com/kashiwa/shopDetail.php?id=131"
-    },
-    {
-        "id":  890,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "豊四季・豊四季台",
-        "name":  "柏市柏西口地域包括支援センター",
-        "tel":  "04-7142-8008",
-        "url":  "https://www.houjukai.or.jp/yawataen/tiiki/"
-    },
-    {
-        "id":  891,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "豊町・豊住・新富町・旭町",
-        "name":  "柏市柏西口第2地域包括支援センター",
-        "tel":  "04-7147-8001",
-        "url":  "https://www.houjukai.or.jp/yawataen/tiiki/#no2"
-    },
-    {
-        "id":  892,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "東上町・東台本町",
-        "name":  "柏市柏東口地域包括支援センター",
-        "tel":  "04-7168-7070",
-        "url":  "https://kazenomura.jp/facility/%E6%9F%8F%E6%9D%B1%E5%8F%A3%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
-    },
-    {
-        "id":  893,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "中央・中央町・富里・永楽台",
-        "name":  "柏市柏東口第2地域包括支援センター",
-        "tel":  "04-7192-6610",
-        "url":  "https://www.merhalsa.jp/care/shop/detail/?id=140"
-    },
-    {
-        "id":  894,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "今谷南町・光ケ丘・酒井根",
-        "name":  "柏市光ケ丘地域包括支援センター",
-        "tel":  "04-7160-0003",
-        "url":  "http://www.shoyokai.jp/publics/index/39/"
-    },
-    {
-        "id":  895,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "藤心・南増尾",
-        "name":  "柏市柏南部地域包括支援センター",
-        "tel":  "04-7160-0002",
-        "url":  "http://www.shoyokai.jp/publics/index/40/"
-    },
-    {
-        "id":  896,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "加賀・増尾",
-        "name":  "柏市柏南部第2地域包括支援センター",
-        "tel":  "04-7170-9300",
-        "url":  "https://www.earthsupport.co.jp/offices/kashiwananbu"
-    },
-    {
-        "id":  897,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "風早・高柳",
-        "name":  "柏市沼南地域包括支援センター",
-        "tel":  "04-7190-1900",
-        "url":  "https://kashiwa-shakyo.com/pages/112/"
-    },
-    {
-        "id":  898,
-        "prefecture":  "千葉県",
-        "city":  "柏市",
-        "area":  "風早・高柳（高柳相談窓口）",
-        "name":  "柏市沼南地域包括支援センター高柳相談窓口",
-        "tel":  "04-7199-3660",
-        "url":  "https://kashiwa-shakyo.com/pages/112/"
-    },
-    {"id":2382,"prefecture":"千葉県","city":"市原市","area":"姉崎","name":"市原市地域包括支援センターあねさき","tel":"0436-37-2151","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2383,"prefecture":"千葉県","city":"市原市","area":"千種・五井西","name":"市原市地域包括支援センターしおみ","tel":"0436-26-5151","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2384,"prefecture":"千葉県","city":"市原市","area":"青葉台・有秋・五井南","name":"市原市地域包括支援センターたいよう","tel":"0436-63-4016","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2385,"prefecture":"千葉県","city":"市原市","area":"五井東","name":"市原市地域包括支援センターごい","tel":"0436-25-5111","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2386,"prefecture":"千葉県","city":"市原市","area":"国分寺台","name":"市原市地域包括支援センターこくぶんじ台","tel":"0436-37-3232","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2387,"prefecture":"千葉県","city":"市原市","area":"市原北・市原西","name":"市原市地域包括支援センターふるさと","tel":"0436-75-2005","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2388,"prefecture":"千葉県","city":"市原市","area":"市原東・辰巳台","name":"市原市地域包括支援センター・たつみ","tel":"0436-75-6633","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2389,"prefecture":"千葉県","city":"市原市","area":"市津","name":"市原市地域包括支援センター市津","tel":"0436-67-1520","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2390,"prefecture":"千葉県","city":"市原市","area":"ちはら台","name":"市原市地域包括支援センターちはら台","tel":"043-309-8901","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2391,"prefecture":"千葉県","city":"市原市","area":"三和・南総北","name":"市原市地域包括支援センターひまわり","tel":"0436-37-7222","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2392,"prefecture":"千葉県","city":"市原市","area":"南総西・南総東・加茂","name":"市原市地域包括支援センタートータス","tel":"0436-50-6262","url":"https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"},
-    {"id":2411,"prefecture":"千葉県","city":"八千代市","area":"勝田台・勝田・勝田台南","name":"勝田台地域包括支援センター","tel":"047-481-3515","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
-    {"id":2412,"prefecture":"千葉県","city":"八千代市","area":"米本・神野・保品・下高野・米本団地・堀の内・上高野の一部・桑納・麦丸・桑橋・吉橋・尾崎・島田・神久保・小池・真木野・佐山・平戸・島田台・大学町","name":"阿蘇・睦地域包括支援センター","tel":"047-488-9525","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
-    {"id":2413,"prefecture":"千葉県","city":"八千代市","area":"村上・勝田台北・村上南・下市場・村上団地・上高野の一部","name":"村上地域包括支援センター","tel":"047-405-4177","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
-    {"id":2414,"prefecture":"千葉県","city":"八千代市","area":"八千代台東・西・南・北","name":"八千代台地域包括支援センター","tel":"047-406-5576","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
-    {"id":2415,"prefecture":"千葉県","city":"八千代市","area":"高津・高津東・緑が丘・緑が丘西・高津団地・大和田新田の一部","name":"高津・緑が丘地域包括支援センター","tel":"047-489-4655","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
-    {"id":2416,"prefecture":"千葉県","city":"八千代市","area":"大和田・萱田・萱田町・ゆりのき台・大和田新田の一部","name":"大和田地域包括支援センター","tel":"047-484-6611","url":"https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"},
-    {"id":2453,"prefecture":"千葉県","city":"佐倉市","area":"上座・小竹・青菅・先崎・井野・井野町・宮ノ台1～6丁目・ユーカリが丘1～7丁目・南ユーカリが丘・西ユーカリが丘1～7丁目","name":"志津北部地域包括支援センター","tel":"043-462-9531","url":"https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"},
-    {"id":2454,"prefecture":"千葉県","city":"佐倉市","area":"上志津・上志津原・下志津・下志津原・中志津1～7丁目・西志津1～8丁目","name":"志津南部地域包括支援センター","tel":"043-460-7700","url":"https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"},
-    {"id":2455,"prefecture":"千葉県","city":"佐倉市","area":"臼井・臼井田・臼井台・江原・江原新田・角来・印南・八幡台1～3丁目・新臼井田・江原台1～2丁目・王子台1～6丁目・南臼井台・稲荷台1～4丁目・生谷・畔田・吉見・飯重・羽鳥・染井野1～7丁目","name":"臼井・千代田地域包括支援センター","tel":"043-488-3731","url":"https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"},
-    {"id":2456,"prefecture":"千葉県","city":"佐倉市","area":"田町・海隣寺町・並木町・宮小路町・鏑木町・鏑木町1～2丁目・新町・裏新町・中尾余町・最上町・弥勒町・野狐台町・鍋山町・本町・樹木町・将門町・大蛇町・藤沢町・栄町・城内町・千成1～3丁目・大佐倉・飯田・岩名・萩山新田・土浮・飯野・飯野町・下根・山崎・上代・高岡・宮前1～3丁目・白銀1～4丁目・鏑木仲田町","name":"佐倉地域包括支援センター","tel":"043-488-5151","url":"https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"},
-    {"id":2457,"prefecture":"千葉県","city":"佐倉市","area":"六崎・寺崎・太田・大篠塚・小篠塚・神門・木野子・城・石川・表町1～4丁目・大作2丁目・大崎台1～5丁目・山王1～2丁目・春路1～2丁目・馬渡・藤治台・寒風・直弥・上別所・米戸・瓜坪新田・上勝田・下勝田・八木・長熊・天辺・宮本・高崎・坪山新田・岩富町・岩富・坂戸・飯塚・内田・宮内・西御門・七曲・寺崎北1～6丁目","name":"南部地域包括支援センター","tel":"043-483-5520","url":"https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"},
-    {"id":2472,"prefecture":"千葉県","city":"習志野市","area":"谷津・谷津町・叶ノ杜","name":"谷津高齢者相談センター","tel":"047-470-3177","url":"https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"},
-    {"id":2473,"prefecture":"千葉県","city":"習志野市","area":"秋津・茜浜・香澄・芝園・袖ケ浦","name":"秋津高齢者相談センター","tel":"047-408-0030","url":"https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"},
-    {"id":2474,"prefecture":"千葉県","city":"習志野市","area":"津田沼・鷺沼・鷺沼台・藤崎","name":"津田沼・鷺沼高齢者相談センター","tel":"047-408-1600","url":"https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"},
-    {"id":2475,"prefecture":"千葉県","city":"習志野市","area":"花咲・屋敷・泉町・大久保・本大久保","name":"屋敷高齢者相談センター","tel":"047-409-7798","url":"https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"},
-    {"id":2476,"prefecture":"千葉県","city":"習志野市","area":"実籾・新栄・東習志野・実籾本郷","name":"東習志野高齢者相談センター","tel":"047-470-0611","url":"https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"},
-    {"id":2477,"prefecture":"千葉県","city":"野田市","area":"野田・上花輪・中野台・清水・堤台","name":"野田市中央高齢者なんでも相談室","tel":"04-7136-2301","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023643.html"},
-    {"id":2478,"prefecture":"千葉県","city":"野田市","area":"目吹・金杉・鶴奉・柳沢・宮崎・横内・中根・大殿井","name":"野田市東高齢者なんでも相談室","tel":"04-7157-2750","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1034479.html"},
-    {"id":2479,"prefecture":"千葉県","city":"野田市","area":"山崎・今上・桜台・山崎貝塚町・山崎梅の台・みずき1～4丁目・桜木・山崎新町","name":"野田市南第1高齢者なんでも相談室","tel":"04-7123-7066","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023644.html"},
-    {"id":2480,"prefecture":"千葉県","city":"野田市","area":"花井・堤根・花井一丁目・下三ケ尾・三ツ堀・瀬戸・瀬戸上灰毛・木野崎・上三ケ尾・二ツ塚・西三ケ尾","name":"野田市南第2高齢者なんでも相談室","tel":"04-7128-7627","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1030759.html"},
-    {"id":2481,"prefecture":"千葉県","city":"野田市","area":"岩名・五木・谷津・吉春・番匠・座生・五木新田・七光台・川間地区","name":"野田市北高齢者なんでも相談室","tel":"04-7128-0113","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023645.html"},
-    {"id":2482,"prefecture":"千葉県","city":"野田市","area":"関宿台町・関宿江戸町・関宿町・関宿元町・関宿内町","name":"野田市関宿高齢者なんでも相談室","tel":"04-7196-5588","url":"https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023646.html"},
-    {"id":2586,"prefecture":"千葉県","city":"流山市","area":"東深井・江戸川台","name":"北部高齢者なんでも相談室","tel":"04-7155-5366","url":"https://www.city.nagareyama.chiba.jp/institution/1004205/1004206/1004209.html"},
-    {"id":2587,"prefecture":"千葉県","city":"流山市","area":"西深井・新川","name":"北部西高齢者なんでも相談室","tel":"04-7197-1378","url":"https://www.akagimanyo.com/center"},
-    {"id":2588,"prefecture":"千葉県","city":"流山市","area":"東初石・西初石・おおたかの森","name":"中部高齢者なんでも相談室","tel":"04-7150-2953","url":"https://www.city.nagareyama.chiba.jp/institution/1004205/1004206/1004207.html"},
-    {"id":2589,"prefecture":"千葉県","city":"流山市","area":"東部・八木","name":"東部高齢者なんでも相談室","tel":"04-7148-5665","url":"https://www.city.nagareyama.chiba.jp/institution/1004205/1004206/1004210.html"},
-    {"id":2590,"prefecture":"千葉県","city":"流山市","area":"南部・南流山","name":"南部高齢者なんでも相談室","tel":"04-7159-9981","url":"https://www.nagareyamashakyo.com/home_welfare/support_center"},
-    {"id":2591,"prefecture":"千葉県","city":"浦安市","area":"猫実一・二丁目・堀江・富士見・港・鉄鋼通り・千鳥","name":"猫実地域包括支援センター（ともづな猫実）","tel":"047-381-9037","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1005515.html"},
-    {"id":2592,"prefecture":"千葉県","city":"浦安市","area":"当代島・北栄・猫実三・四・五丁目","name":"浦安駅前地域包括支援センター（ともづな浦安駅前）","tel":"047-351-8950","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1016190.html"},
-    {"id":2593,"prefecture":"千葉県","city":"浦安市","area":"入船・美浜・海楽","name":"新浦安駅前地域包括支援センター（ともづな新浦安）","tel":"047-306-5171","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1005510.html"},
-    {"id":2594,"prefecture":"千葉県","city":"浦安市","area":"高洲・明海・日の出","name":"高洲地域包括支援センター（ともづな高洲）","tel":"047-382-2424","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1013107.html"},
-    {"id":2595,"prefecture":"千葉県","city":"浦安市","area":"舞浜・東野・弁天・富岡・今川","name":"富岡地域包括支援センター（ともづな富岡）","tel":"047-721-1027","url":"https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1017613.html"},
-    {
-        "id":  2716,
-        "prefecture":  "千葉県",
-        "city":  "木更津市",
-        "area":  "新田・富士見・中央・新宿・吾妻・朝日ほか",
-        "name":  "木更津市中部地域包括支援センター",
-        "tel":  "0438-97-7818",
-        "url":  "https://jishinkai.info/kisarazu-nanseien/houkatsu/"
-    },
-    {
-        "id":  2717,
-        "prefecture":  "千葉県",
-        "city":  "木更津市",
-        "area":  "請西・請西東・請西南・真舟・千束台",
-        "name":  "木更津市東部地域包括支援センター",
-        "tel":  "0438-97-6536",
-        "url":  "https://mori.kisarazu-kamome.com/houkatu/"
-    },
-    {
-        "id":  2718,
-        "prefecture":  "千葉県",
-        "city":  "木更津市",
-        "area":  "岩根地区・金田地区",
-        "name":  "木更津市西部地域包括支援センター",
-        "tel":  "0438-22-3422",
-        "url":  "https://www.nagasuka.com/pg2803234.html"
-    },
-    {
-        "id":  2719,
-        "prefecture":  "千葉県",
-        "city":  "木更津市",
-        "area":  "波岡地区・鎌足地区",
-        "name":  "木更津市南部地域包括支援センター",
-        "tel":  "0438-37-4811",
-        "url":  "https://www.ikumikai.org/namioka/kisarazu-nanbu/"
-    },
-    {
-        "id":  2720,
-        "prefecture":  "千葉県",
-        "city":  "木更津市",
-        "area":  "中郷地区・清川地区",
-        "name":  "木更津市北部地域包括支援センター",
-        "tel":  "0438-97-2561",
-        "url":  "https://nakago.or.jp/service/welfare/houjin_03/"
-    },
-    {
-        "id":  2721,
-        "prefecture":  "千葉県",
-        "city":  "木更津市",
-        "area":  "富来田地区",
-        "name":  "木更津市富来田地域包括支援センター",
-        "tel":  "0438-53-8031",
-        "url":  "https://www.dotline-jp.com/fukuta-hokatsu/"
-    },
-    {
-        "id":  2722,
-        "prefecture":  "千葉県",
-        "city":  "成田市",
-        "area":  "成田・中郷地域",
-        "name":  "成田・中郷地域包括支援センター",
-        "tel":  "0476-23-7151",
-        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
-    },
-    {
-        "id":  2723,
-        "prefecture":  "千葉県",
-        "city":  "成田市",
-        "area":  "ニュータウン・はなのき台",
-        "name":  "ニュータウン地域包括支援センター",
-        "tel":  "0476-29-5005",
-        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
-    },
-    {
-        "id":  2724,
-        "prefecture":  "千葉県",
-        "city":  "成田市",
-        "area":  "八生・豊住地域",
-        "name":  "八生・豊住地域包括支援センター支所",
-        "tel":  "0476-20-3655",
-        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
-    },
-    {
-        "id":  2725,
-        "prefecture":  "千葉県",
-        "city":  "成田市",
-        "area":  "遠山地域",
-        "name":  "遠山地域包括支援センター",
-        "tel":  "0476-35-6081",
-        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
-    },
-    {
-        "id":  2726,
-        "prefecture":  "千葉県",
-        "city":  "成田市",
-        "area":  "公津地域（はなのき台を除く）",
-        "name":  "公津地域包括支援センター",
-        "tel":  "0476-36-4981",
-        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
-    },
-    {
-        "id":  2727,
-        "prefecture":  "千葉県",
-        "city":  "成田市",
-        "area":  "久住・下総地域",
-        "name":  "久住・下総地域包括支援センター",
-        "tel":  "0476-80-7007",
-        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
-    },
-    {
-        "id":  2728,
-        "prefecture":  "千葉県",
-        "city":  "成田市",
-        "area":  "大栄地域",
-        "name":  "大栄地域包括支援センター支所",
-        "tel":  "0476-94-5664",
-        "url":  "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
-    },
-    {
-        "id":  2729,
-        "prefecture":  "千葉県",
-        "city":  "我孫子市",
-        "area":  "布施・布施下・弁天下・久寺家・根戸・つくし野・台田・我孫子・並木（根戸・我孫子は鉄道路線以北）",
-        "name":  "我孫子北地区高齢者なんでも相談室",
-        "tel":  "04-7179-7360",
-        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
-    },
-    {
-        "id":  2730,
-        "prefecture":  "千葉県",
-        "city":  "我孫子市",
-        "area":  "根戸・根戸新田・呼塚新田・船戸・我孫子・我孫子新田・白山・本町・緑・寿・栄・若松（根戸・我孫子は鉄道路線以南）",
-        "name":  "我孫子南地区高齢者なんでも相談室",
-        "tel":  "04-7199-8311",
-        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
-    },
-    {
-        "id":  2731,
-        "prefecture":  "千葉県",
-        "city":  "我孫子市",
-        "area":  "泉・天王台・東我孫子・柴崎・柴崎台・北新田ほか",
-        "name":  "天王台地区高齢者なんでも相談室",
-        "tel":  "04-7182-4100",
-        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
-    },
-    {
-        "id":  2732,
-        "prefecture":  "千葉県",
-        "city":  "我孫子市",
-        "area":  "湖北台・中峠台・中峠・中峠村下・中里ほか",
-        "name":  "湖北・湖北台地区高齢者なんでも相談室",
-        "tel":  "04-7187-6777",
-        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
-    },
-    {
-        "id":  2733,
-        "prefecture":  "千葉県",
-        "city":  "我孫子市",
-        "area":  "新木・新木野・新木村下・中沼田・南新木ほか",
-        "name":  "布佐・新木地区高齢者なんでも相談室",
-        "tel":  "04-7189-0294",
-        "url":  "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+        "id": 734,
+        "prefecture": "千葉県",
+        "city": "千葉市中央区",
+        "area": "院内・春日・要町・汐見丘町・新千葉・椿森・道場北町・道場北・登戸・東千葉・弁天・松波・祐光",
+        "name": "千葉市あんしんケアセンター弁天",
+        "tel": "043-216-2131",
+        "url": "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_higashichiba/"
+    },
+    {
+        "id": 735,
+        "prefecture": "千葉県",
+        "city": "千葉市中央区",
+        "area": "旭町・亀井町・亀岡町・栄町・新宿・新田町・新町・神明町・千葉港・中央・中央港・鶴沢町・出洲港・道場南・問屋町・東本町・富士見・本千葉町・本町・都町",
+        "name": "千葉市あんしんケアセンター中央",
+        "tel": "043-216-2121",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 736,
+        "prefecture": "千葉県",
+        "city": "千葉市中央区",
+        "area": "青葉町・市場町・稲荷町・亥鼻・葛城・寒川町・末広・千葉寺町・長洲・港町・矢作町",
+        "name": "千葉市あんしんケアセンター千葉寺",
+        "tel": "043-263-3066",
+        "url": "https://green-eminence.com/anshincare/"
+    },
+    {
+        "id": 737,
+        "prefecture": "千葉県",
+        "city": "千葉市中央区",
+        "area": "赤井町・今井町・今井・鵜の森町・大森町・川崎町・白旗・蘇我町・蘇我・大巌寺町・川戸町・仁戸名町・花輪町・星久喜町・松ヶ丘町・南町・宮崎・宮崎町・若草",
+        "name": "千葉市あんしんケアセンター松ケ丘",
+        "tel": "043-420-8325",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 738,
+        "prefecture": "千葉県",
+        "city": "千葉市中央区",
+        "area": "生実町・塩田町・新浜町・浜野町・南生実町・村田町",
+        "name": "千葉市あんしんケアセンター浜野",
+        "tel": "043-305-0102",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 739,
+        "prefecture": "千葉県",
+        "city": "千葉市花見川区",
+        "area": "内山町・宇那谷町・柏井町・柏井4・こてはし台・大日町・み春野町・横戸町・横戸台",
+        "name": "千葉市あんしんケアセンターこてはし台",
+        "tel": "043-258-8750",
+        "url": "https://seizan-kai.or.jp/publics/index/170/"
+    },
+    {
+        "id": 740,
+        "prefecture": "千葉県",
+        "city": "千葉市花見川区",
+        "area": "天戸町・柏井1・作新台・長作町・長作台・花島町・花見川",
+        "name": "千葉市あんしんケアセンター花見川",
+        "tel": "043-250-1701",
+        "url": "https://seizan-kai.or.jp/publics/index/105/"
+    },
+    {
+        "id": 741,
+        "prefecture": "千葉県",
+        "city": "千葉市花見川区",
+        "area": "犢橋町・さつきが丘・三角町・千種町・宮野木台2〜4",
+        "name": "千葉市あんしんケアセンターさつきが丘",
+        "tel": "043-307-3225",
+        "url": "https://www.ichirin.or.jp/branch/chibachi_anchin_carecenter_satsukigaoka/"
+    },
+    {
+        "id": 742,
+        "prefecture": "千葉県",
+        "city": "千葉市花見川区",
+        "area": "朝日ヶ丘1〜3・5・西小中台・畑町・宮野木台1",
+        "name": "千葉市あんしんケアセンターにれの木台",
+        "tel": "043-205-4851",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 743,
+        "prefecture": "千葉県",
+        "city": "千葉市花見川区",
+        "area": "朝日ヶ丘町・朝日ヶ丘4・検見川町・浪花町・花園町・花園・南花園・瑞穂",
+        "name": "千葉市あんしんケアセンター花園",
+        "tel": "043-216-2610",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 744,
+        "prefecture": "千葉県",
+        "city": "千葉市花見川区",
+        "area": "武石町・幕張町・幕張本郷",
+        "name": "千葉市あんしんケアセンター幕張",
+        "tel": "043-212-7300",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 745,
+        "prefecture": "千葉県",
+        "city": "千葉市稲毛区",
+        "area": "柏台・小中台町・小深町・山王町・長沼町・長沼原町・六方町・宮野木町",
+        "name": "千葉市あんしんケアセンター山王",
+        "tel": "043-304-7740",
+        "url": "http://www.souju-kai.or.jp/anshin/"
+    },
+    {
+        "id": 746,
+        "prefecture": "千葉県",
+        "city": "千葉市稲毛区",
+        "area": "あやめ台・園生町",
+        "name": "千葉市あんしんケアセンター園生",
+        "tel": "043-306-6881",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 747,
+        "prefecture": "千葉県",
+        "city": "千葉市稲毛区",
+        "area": "作草部町・作草部・千草台・天台町・天台・萩台町",
+        "name": "千葉市あんしんケアセンター天台",
+        "tel": "043-284-6811",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 748,
+        "prefecture": "千葉県",
+        "city": "千葉市稲毛区",
+        "area": "穴川町・穴川・小仲台・轟町・弥生町",
+        "name": "千葉市あんしんケアセンター小仲台",
+        "tel": "043-307-5780",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 749,
+        "prefecture": "千葉県",
+        "city": "千葉市稲毛区",
+        "area": "稲丘町・稲毛・稲毛台町・稲毛町・稲毛東・黒砂・黒砂台・緑町",
+        "name": "千葉市あんしんケアセンター稲毛",
+        "tel": "043-216-2831",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 750,
+        "prefecture": "千葉県",
+        "city": "千葉市若葉区",
+        "area": "愛生町・高品町・殿台町・原町・東寺山町・みつわ台・源町",
+        "name": "千葉市あんしんケアセンターみつわ台",
+        "tel": "043-290-0120",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 751,
+        "prefecture": "千葉県",
+        "city": "千葉市若葉区",
+        "area": "都賀・都賀の台・西都賀・若松町・若松台",
+        "name": "千葉市あんしんケアセンター都賀",
+        "tel": "043-312-5110",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 752,
+        "prefecture": "千葉県",
+        "city": "千葉市若葉区",
+        "area": "貝塚町・貝塚・加曽利町・桜木・桜木北",
+        "name": "千葉市あんしんケアセンター桜木",
+        "tel": "043-214-1841",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 753,
+        "prefecture": "千葉県",
+        "city": "千葉市若葉区",
+        "area": "大井戸町・大草町・太田町・小倉町・小倉台・御成台・小間子町・金親町・上泉町・御殿町・坂月町・更科町・下泉町・下田町・旦谷町・千城台北・千城台西・千城台東・千城台南・富田町・谷当町",
+        "name": "千葉市あんしんケアセンター千城台",
+        "tel": "043-236-7400",
+        "url": "http://senjyu-kai.com/shisetsu/anshincare_chishirodai/"
+    },
+    {
+        "id": 754,
+        "prefecture": "千葉県",
+        "city": "千葉市若葉区",
+        "area": "五十土町・和泉町・大広町・大宮町・大宮台・川井町・北大宮台・北谷津町・古泉町・佐和町・高根町・多部田町・中田町・中野町・野呂町",
+        "name": "千葉市あんしんケアセンター大宮台",
+        "tel": "043-208-1212",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 755,
+        "prefecture": "千葉県",
+        "city": "千葉市緑区",
+        "area": "大金沢町・落井町・おゆみ野・おゆみ野有吉・おゆみ野中央・おゆみ野南・鎌取町・刈田子町・小金沢町・椎名崎町・富岡町・中西町・東山科町・平山町・古市場町・辺田町・茂呂町",
+        "name": "千葉市あんしんケアセンター鎌取",
+        "tel": "043-293-6911",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 756,
+        "prefecture": "千葉県",
+        "city": "千葉市緑区",
+        "area": "大膳野町・高田町・平川町・誉田町",
+        "name": "千葉市あんしんケアセンター誉田",
+        "tel": "043-300-4855",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 757,
+        "prefecture": "千葉県",
+        "city": "千葉市緑区",
+        "area": "あすみが丘・あすみが丘東・板倉町・大木戸町・大椎町・大高町・大野台・越智町・小山町・上大和田町・下大和田町・高津戸町・土気町・小食土町",
+        "name": "千葉市あんしんケアセンター土気",
+        "tel": "043-295-0110",
+        "url": "https://yuuwakai.jp/facilities/carecenter/"
+    },
+    {
+        "id": 758,
+        "prefecture": "千葉県",
+        "city": "千葉市美浜区",
+        "area": "中瀬1・ひび野1・真砂・若葉",
+        "name": "千葉市あんしんケアセンター真砂",
+        "tel": "043-278-0111",
+        "url": "https://www.juneikai.or.jp/masago/"
+    },
+    {
+        "id": 759,
+        "prefecture": "千葉県",
+        "city": "千葉市美浜区",
+        "area": "磯辺・打瀬・高浜5〜6・豊砂・中瀬2・浜田・ひび野2・幕張西・美浜",
+        "name": "千葉市あんしんケアセンター磯辺",
+        "tel": "043-445-8440",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 760,
+        "prefecture": "千葉県",
+        "city": "千葉市美浜区",
+        "area": "稲毛海岸・高洲・高浜1〜4・7",
+        "name": "千葉市あんしんケアセンター高洲",
+        "tel": "043-278-2545",
+        "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id": 761,
+        "prefecture": "千葉県",
+        "city": "千葉市美浜区",
+        "area": "幸町・新港",
+        "name": "千葉市あんしんケアセンター幸町",
+        "tel": "043-301-5528",
+        "url": "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_mihama/"
+    },
+    {
+        "id": 791,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "米ヶ崎町・夏見・夏見台・夏見町・金杉・金杉台・金杉町・高根町・緑台",
+        "name": "船橋市中部地域包括支援センター",
+        "tel": "047-423-2551",
+        "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0001/0001/p011285.html"
+    },
+    {
+        "id": 792,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "新高根・芝山・高根台",
+        "name": "船橋市新高根・芝山、高根台地域包括支援センター",
+        "tel": "047-404-7061",
+        "url": "https://soumeikai.org/service/funabashi-shien-center/"
+    },
+    {
+        "id": 793,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "滝台・滝台町・二宮・飯山満町・七林町・薬円台・薬園台町",
+        "name": "船橋市東部地域包括支援センター",
+        "tel": "047-490-4171",
+        "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0002/0001/p011286.html"
+    },
+    {
+        "id": 794,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "前原東・前原西・中野木",
+        "name": "船橋市前原地域包括支援センター",
+        "tel": "047-403-3201",
+        "url": "https://www.wana.or.jp/maebara/"
+    },
+    {
+        "id": 795,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "田喜野井・習志野・三山",
+        "name": "船橋市三山・田喜野井地域包括支援センター",
+        "tel": "047-403-5155",
+        "url": "https://www.rikushinkai.com/shisetu_service/funabashi_center/"
+    },
+    {
+        "id": 796,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "習志野台・西習志野",
+        "name": "船橋市習志野台地域包括支援センター",
+        "tel": "047-462-0002",
+        "url": "https://www.hanawa.or.jp/kitanara/homecare-center"
+    },
+    {
+        "id": 797,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "印内・印内町・葛飾町・古作・古作町・西船・東中山・本郷町・山野町・二子町・本中山",
+        "name": "船橋市西部地域包括支援センター",
+        "tel": "047-302-2628",
+        "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0004/0001/p011288.html"
+    },
+    {
+        "id": 798,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "行田町・行田・山手・北本町・前貝塚町・旭町",
+        "name": "船橋市塚田地域包括支援センター",
+        "tel": "047-404-7221",
+        "url": "https://tsukada-houkatsu.itakura.or.jp/index.html"
+    },
+    {
+        "id": 799,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "上山町・藤原・馬込町・馬込西・丸山",
+        "name": "船橋市法典地域包括支援センター",
+        "tel": "047-430-4140",
+        "url": "https://www.city.funabashi.lg.jp/kenkou/koureisha/001/p004493.html#hoten"
+    },
+    {
+        "id": 800,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "栄町・潮見町・高瀬町・西浦・浜町・日の出・湊町・若松・本町3・海神・海神町・海神町東・海神町西・海神町南・南海神・南本町",
+        "name": "船橋市南部地域包括支援センター",
+        "tel": "047-436-2883",
+        "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0005/0001/p011289.html"
+    },
+    {
+        "id": 801,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "宮本・市場・東船橋・東町・駿河台・本町",
+        "name": "船橋市宮本・本町地域包括支援センター",
+        "tel": "047-401-0341",
+        "url": "https://hokatsumiyamoto.wixsite.com/my-site"
+    },
+    {
+        "id": 802,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "三咲・三咲町・南三咲・松が丘・大穴南・大穴北・大穴町",
+        "name": "船橋市北部地域包括支援センター",
+        "tel": "047-440-7935",
+        "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0003/0001/p011287.html"
+    },
+    {
+        "id": 803,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "二和東・二和西・八木が谷町・咲が丘・みやぎ台・八木が谷・高野台",
+        "name": "船橋市二和・八木が谷地域包括支援センター",
+        "tel": "047-448-7115",
+        "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0015/0001/p027801.html"
+    },
+    {
+        "id": 804,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "大神保町・金堀町・楠が山町・車方町・小野田町・小室町・古和釜町・神保町・鈴身町・坪井町・豊富町・坪井東・坪井西",
+        "name": "船橋市豊富・坪井地域包括支援センター",
+        "tel": "047-457-3331",
+        "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0008/0001/p013703.html"
+    },
+    {
+        "id": 856,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "根本・吉井町・小根本・緑ケ丘1〜2・松戸新田・仲井町1〜3・稔台・稔台1〜8・岩瀬・野菊野・胡録台",
+        "name": "松戸市明第1高齢者いきいき安心センター",
+        "tel": "047-700-5881",
+        "url": "https://rokkoudai.net/service/hokatsu#akira"
+    },
+    {
+        "id": 857,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "栄町1〜8・栄町西1〜5・樋野口・古ケ崎・古ケ崎1〜4",
+        "name": "松戸市明第2西高齢者いきいき安心センター",
+        "tel": "047-382-5707",
+        "url": "https://www.eishunkai.or.jp/service/senior_housing_care/comprehensive_support/"
+    },
+    {
+        "id": 858,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "上本郷・北松戸1〜3・竹ケ花・竹ケ花西町・南花島・南花島1〜4・南花島中町・南花島向町",
+        "name": "松戸市明第2東高齢者いきいき安心センター",
+        "tel": "047-382-6294",
+        "url": "https://welfare-for-make-a-wish.com/delegated/"
+    },
+    {
+        "id": 859,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "本町・松戸・小山・二十世紀が丘美野里町",
+        "name": "松戸市本庁高齢者いきいき安心センター",
+        "tel": "047-363-6823",
+        "url": "https://www.seikei-kai.or.jp/hainesu/hainesu_500.html"
+    },
+    {
+        "id": 860,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "上矢切・中矢切・下矢切・三矢小台1〜5・二十世紀が丘柿の木町・二十世紀が丘萩町・大橋・栗山",
+        "name": "松戸市矢切高齢者いきいき安心センター",
+        "tel": "047-710-6025",
+        "url": "https://www.seikei-kai.or.jp/hainesu/hainesu_500.html"
+    },
+    {
+        "id": 861,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "河原塚・田中新田・紙敷・紙敷1〜3・東松戸1〜4・秋山・秋山1〜3・高塚新田・和名ケ谷・大橋・二十世紀が丘丸山町・二十世紀が丘中松町・二十世紀が丘戸山町・二十世紀が丘梨元町",
+        "name": "松戸市東部高齢者いきいき安心センター",
+        "tel": "047-330-8866",
+        "url": "https://www.kiyou.or.jp/pickup_detail.php?id=8"
+    },
+    {
+        "id": 862,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "金ケ作・千駄堀・常盤平1〜7・常盤平双葉町・常盤平西窪町・常盤平陣屋前・常盤平柳町・常盤平松葉町・牧の原・牧の原1〜2・日暮・日暮1〜8",
+        "name": "松戸市常盤平高齢者いきいき安心センター",
+        "tel": "047-330-6150",
+        "url": "https://www.happy-sunflower.or.jp/%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
+    },
+    {
+        "id": 863,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "常盤平1（駅上）・常盤平2・常盤平3・常盤平4・常盤平7・中央市街地住宅・駅前市街地住宅・セントラルハイツ・けやき通り住宅",
+        "name": "松戸市常盤平団地高齢者いきいき安心センター",
+        "tel": "047-382-6535",
+        "url": "https://www.happy-sunflower.or.jp/%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
+    },
+    {
+        "id": 864,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "串崎南町・串崎新田・松飛台・五香1〜8・五香西1〜6・五香南1〜3・五香六実",
+        "name": "松戸市五香松飛台高齢者いきいき安心センター",
+        "tel": "047-385-3957",
+        "url": "https://seishin-kai.or.jp/service/hokatu/"
+    },
+    {
+        "id": 865,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "高柳・高柳新田・六実1〜7・六高台西・六高台1〜9",
+        "name": "松戸市六実六高台高齢者いきいき安心センター",
+        "tel": "047-383-0100",
+        "url": "http://rokkoudai.net/service/hokatsu"
+    },
+    {
+        "id": 866,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "幸田・幸田1〜5・中金杉1〜5・平賀・東平賀・殿平賀・久保平賀・大金平1〜5・大谷口・小金・小金きよしケ丘1〜5・小金上総町・小金清志町1〜3・二ツ木・二ツ木二葉町・根木内",
+        "name": "松戸市小金高齢者いきいき安心センター",
+        "tel": "047-374-5221",
+        "url": "https://seishikai.net/kogane_center/"
+    },
+    {
+        "id": 867,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "根木内・小金原1〜9・栗ケ沢・八ケ崎1・小金1700",
+        "name": "松戸市小金原高齢者いきいき安心センター",
+        "tel": "047-383-3111",
+        "url": "https://www.yayoikai.or.jp/facilities/koganehara.html"
+    },
+    {
+        "id": 868,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "横須賀1〜2・新松戸1〜7・新松戸東・新松戸北1〜2・小金1100〜1300",
+        "name": "松戸市新松戸高齢者いきいき安心センター",
+        "tel": "047-346-2500",
+        "url": "https://www.shinmatsudo-hospital.jp/outline/facilities/zaitakukaigoshien-center/"
+    },
+    {
+        "id": 869,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "旭町1〜4・外河原・七右衛門新田・主水新田・新松戸南1〜3・西馬橋1〜5・西馬橋相川町・西馬橋蔵元町・西馬橋幸町・西馬橋広手町・馬橋",
+        "name": "松戸市馬橋西高齢者いきいき安心センター",
+        "tel": "047-711-9430",
+        "url": "https://www.eishunkai.or.jp/service/senior_housing_care/comprehensive_support/"
+    },
+    {
+        "id": 870,
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "area": "馬橋・三ケ月・幸谷・八ケ崎・八ケ崎緑町・八ケ崎2〜8・中根・新作・中根長津町・中和倉",
+        "name": "松戸市馬橋高齢者いきいき安心センター",
+        "tel": "047-374-5533",
+        "url": "http://www.yawaragien.or.jp/publics/index/17/"
+    },
+    {
+        "id": 871,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "国府台",
+        "name": "市川市国府台高齢者サポートセンター",
+        "tel": "047-373-6539",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 872,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "北国分・中国分・堀之内・稲越・東国分・国分",
+        "name": "市川市国分高齢者サポートセンター",
+        "tel": "047-318-5565",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 873,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "曽谷",
+        "name": "市川市曽谷高齢者サポートセンター",
+        "tel": "047-371-6161",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 874,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "大町・大野町・南大野・柏井町・奉免町",
+        "name": "市川市大柏高齢者サポートセンター",
+        "tel": "047-338-6595",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 875,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "宮久保・下貝塚",
+        "name": "市川市宮久保・下貝塚高齢者サポートセンター",
+        "tel": "047-373-0763",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 876,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "市川・市川南3〜4・真間1",
+        "name": "市川市市川第一高齢者サポートセンター",
+        "tel": "047-700-5139",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 877,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "市川南1〜2・5・新田・平田・大洲・大和田・稲荷木・東大和田",
+        "name": "市川市市川第二高齢者サポートセンター",
+        "tel": "047-320-3105",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 878,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "真間2〜5",
+        "name": "市川市真間高齢者サポートセンター",
+        "tel": "047-322-8811",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 879,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "菅野・須和田・東菅野",
+        "name": "市川市菅野・須和田高齢者サポートセンター",
+        "tel": "047-326-7737",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 880,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "八幡・南八幡",
+        "name": "市川市八幡高齢者サポートセンター",
+        "tel": "047-376-3200",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 881,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "北方町・本北方・若宮・北方・中山・鬼越・高石神・鬼高",
+        "name": "市川市市川東部高齢者サポートセンター",
+        "tel": "047-334-0070",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 882,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "田尻・高谷・原木・二俣・上妙典・二俣新町・高谷新町・東浜",
+        "name": "市川市信篤・二俣高齢者サポートセンター",
+        "tel": "047-327-3366",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 883,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "河原・妙典・下妙典・下新宿・本行徳・本塩・関ヶ島・伊勢宿・富浜・末広・塩焼・宝・幸・加藤新田・高浜町・千鳥町",
+        "name": "市川市行徳高齢者サポートセンター",
+        "tel": "047-312-6070",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 884,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "押切・湊・湊新田・香取・欠真間・相之川・広尾・新井・島尻・南行徳",
+        "name": "市川市南行徳第一高齢者サポートセンター",
+        "tel": "047-359-6660",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 885,
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "area": "行徳駅前・入船・日之出・新浜・福栄・塩浜",
+        "name": "市川市南行徳第二高齢者サポートセンター",
+        "tel": "047-712-8022",
+        "url": "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id": 886,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "小青田・大室・花野井・正連寺・新十余二・船戸",
+        "name": "柏市柏北部地域包括支援センター",
+        "tel": "04-7140-8818",
+        "url": "https://www.city.kashiwa.lg.jp/chikihokatsu/sodanyobo/hokatsushien.html"
+    },
+    {
+        "id": 887,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "西原・若柴・大青田",
+        "name": "柏市柏北部第2地域包括支援センター",
+        "tel": "04-7154-0200",
+        "url": "https://www.earthsupport.co.jp/offices/%E6%9F%8F%E5%8C%97%E9%83%A8%E7%AC%AC2%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+    },
+    {
+        "id": 888,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "富勢・布施・布施下・布施新町・宿連寺・根戸",
+        "name": "柏市北柏地域包括支援センター",
+        "tel": "04-7130-7800",
+        "url": "http://www.kashiwa-haming.jp/area-support/"
+    },
+    {
+        "id": 889,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "大山台・高田・松ヶ崎新田・松葉町",
+        "name": "柏市北柏第2地域包括支援センター",
+        "tel": "04-7179-5500",
+        "url": "http://www.mallage.com/kashiwa/shopDetail.php?id=131"
+    },
+    {
+        "id": 890,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "豊四季・豊四季台",
+        "name": "柏市柏西口地域包括支援センター",
+        "tel": "04-7142-8008",
+        "url": "https://www.houjukai.or.jp/yawataen/tiiki/"
+    },
+    {
+        "id": 891,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "豊町・豊住・新富町・旭町",
+        "name": "柏市柏西口第2地域包括支援センター",
+        "tel": "04-7147-8001",
+        "url": "https://www.houjukai.or.jp/yawataen/tiiki/#no2"
+    },
+    {
+        "id": 892,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "東上町・東台本町",
+        "name": "柏市柏東口地域包括支援センター",
+        "tel": "04-7168-7070",
+        "url": "https://kazenomura.jp/facility/%E6%9F%8F%E6%9D%B1%E5%8F%A3%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
+    },
+    {
+        "id": 893,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "中央・中央町・富里・永楽台",
+        "name": "柏市柏東口第2地域包括支援センター",
+        "tel": "04-7192-6610",
+        "url": "https://www.merhalsa.jp/care/shop/detail/?id=140"
+    },
+    {
+        "id": 894,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "今谷南町・光ケ丘・酒井根",
+        "name": "柏市光ケ丘地域包括支援センター",
+        "tel": "04-7160-0003",
+        "url": "http://www.shoyokai.jp/publics/index/39/"
+    },
+    {
+        "id": 895,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "藤心・南増尾",
+        "name": "柏市柏南部地域包括支援センター",
+        "tel": "04-7160-0002",
+        "url": "http://www.shoyokai.jp/publics/index/40/"
+    },
+    {
+        "id": 896,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "加賀・増尾",
+        "name": "柏市柏南部第2地域包括支援センター",
+        "tel": "04-7170-9300",
+        "url": "https://www.earthsupport.co.jp/offices/kashiwananbu"
+    },
+    {
+        "id": 897,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "風早・高柳",
+        "name": "柏市沼南地域包括支援センター",
+        "tel": "04-7190-1900",
+        "url": "https://kashiwa-shakyo.com/pages/112/"
+    },
+    {
+        "id": 898,
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "area": "風早・高柳（高柳相談窓口）",
+        "name": "柏市沼南地域包括支援センター高柳相談窓口",
+        "tel": "04-7199-3660",
+        "url": "https://kashiwa-shakyo.com/pages/112/"
+    },
+    {
+        "id": 2382,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "姉崎",
+        "name": "市原市地域包括支援センターあねさき",
+        "tel": "0436-37-2151",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2383,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "千種・五井西",
+        "name": "市原市地域包括支援センターしおみ",
+        "tel": "0436-26-5151",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2384,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "青葉台・有秋・五井南",
+        "name": "市原市地域包括支援センターたいよう",
+        "tel": "0436-63-4016",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2385,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "五井東",
+        "name": "市原市地域包括支援センターごい",
+        "tel": "0436-25-5111",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2386,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "国分寺台",
+        "name": "市原市地域包括支援センターこくぶんじ台",
+        "tel": "0436-37-3232",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2387,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "市原北・市原西",
+        "name": "市原市地域包括支援センターふるさと",
+        "tel": "0436-75-2005",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2388,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "市原東・辰巳台",
+        "name": "市原市地域包括支援センター・たつみ",
+        "tel": "0436-75-6633",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2389,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "市津",
+        "name": "市原市地域包括支援センター市津",
+        "tel": "0436-67-1520",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2390,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "ちはら台",
+        "name": "市原市地域包括支援センターちはら台",
+        "tel": "043-309-8901",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2391,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "三和・南総北",
+        "name": "市原市地域包括支援センターひまわり",
+        "tel": "0436-37-7222",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2392,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "南総西・南総東・加茂",
+        "name": "市原市地域包括支援センタートータス",
+        "tel": "0436-50-6262",
+        "url": "https://www.city.ichihara.chiba.jp/kenko/koreisya/tiikihoukatu.html"
+    },
+    {
+        "id": 2411,
+        "prefecture": "千葉県",
+        "city": "八千代市",
+        "area": "勝田台・勝田・勝田台南",
+        "name": "勝田台地域包括支援センター",
+        "tel": "047-481-3515",
+        "url": "https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"
+    },
+    {
+        "id": 2412,
+        "prefecture": "千葉県",
+        "city": "八千代市",
+        "area": "米本・神野・保品・下高野・米本団地・堀の内・上高野の一部・桑納・麦丸・桑橋・吉橋・尾崎・島田・神久保・小池・真木野・佐山・平戸・島田台・大学町",
+        "name": "阿蘇・睦地域包括支援センター",
+        "tel": "047-488-9525",
+        "url": "https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"
+    },
+    {
+        "id": 2413,
+        "prefecture": "千葉県",
+        "city": "八千代市",
+        "area": "村上・勝田台北・村上南・下市場・村上団地・上高野の一部",
+        "name": "村上地域包括支援センター",
+        "tel": "047-405-4177",
+        "url": "https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"
+    },
+    {
+        "id": 2414,
+        "prefecture": "千葉県",
+        "city": "八千代市",
+        "area": "八千代台東・西・南・北",
+        "name": "八千代台地域包括支援センター",
+        "tel": "047-406-5576",
+        "url": "https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"
+    },
+    {
+        "id": 2415,
+        "prefecture": "千葉県",
+        "city": "八千代市",
+        "area": "高津・高津東・緑が丘・緑が丘西・高津団地・大和田新田の一部",
+        "name": "高津・緑が丘地域包括支援センター",
+        "tel": "047-489-4655",
+        "url": "https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"
+    },
+    {
+        "id": 2416,
+        "prefecture": "千葉県",
+        "city": "八千代市",
+        "area": "大和田・萱田・萱田町・ゆりのき台・大和田新田の一部",
+        "name": "大和田地域包括支援センター",
+        "tel": "047-484-6611",
+        "url": "https://www.city.yachiyo.lg.jp/soshiki/97/30435.html"
+    },
+    {
+        "id": 2453,
+        "prefecture": "千葉県",
+        "city": "佐倉市",
+        "area": "上座・小竹・青菅・先崎・井野・井野町・宮ノ台1～6丁目・ユーカリが丘1～7丁目・南ユーカリが丘・西ユーカリが丘1～7丁目",
+        "name": "志津北部地域包括支援センター",
+        "tel": "043-462-9531",
+        "url": "https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"
+    },
+    {
+        "id": 2454,
+        "prefecture": "千葉県",
+        "city": "佐倉市",
+        "area": "上志津・上志津原・下志津・下志津原・中志津1～7丁目・西志津1～8丁目",
+        "name": "志津南部地域包括支援センター",
+        "tel": "043-460-7700",
+        "url": "https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"
+    },
+    {
+        "id": 2455,
+        "prefecture": "千葉県",
+        "city": "佐倉市",
+        "area": "臼井・臼井田・臼井台・江原・江原新田・角来・印南・八幡台1～3丁目・新臼井田・江原台1～2丁目・王子台1～6丁目・南臼井台・稲荷台1～4丁目・生谷・畔田・吉見・飯重・羽鳥・染井野1～7丁目",
+        "name": "臼井・千代田地域包括支援センター",
+        "tel": "043-488-3731",
+        "url": "https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"
+    },
+    {
+        "id": 2456,
+        "prefecture": "千葉県",
+        "city": "佐倉市",
+        "area": "田町・海隣寺町・並木町・宮小路町・鏑木町・鏑木町1～2丁目・新町・裏新町・中尾余町・最上町・弥勒町・野狐台町・鍋山町・本町・樹木町・将門町・大蛇町・藤沢町・栄町・城内町・千成1～3丁目・大佐倉・飯田・岩名・萩山新田・土浮・飯野・飯野町・下根・山崎・上代・高岡・宮前1～3丁目・白銀1～4丁目・鏑木仲田町",
+        "name": "佐倉地域包括支援センター",
+        "tel": "043-488-5151",
+        "url": "https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"
+    },
+    {
+        "id": 2457,
+        "prefecture": "千葉県",
+        "city": "佐倉市",
+        "area": "六崎・寺崎・太田・大篠塚・小篠塚・神門・木野子・城・石川・表町1～4丁目・大作2丁目・大崎台1～5丁目・山王1～2丁目・春路1～2丁目・馬渡・藤治台・寒風・直弥・上別所・米戸・瓜坪新田・上勝田・下勝田・八木・長熊・天辺・宮本・高崎・坪山新田・岩富町・岩富・坂戸・飯塚・内田・宮内・西御門・七曲・寺崎北1～6丁目",
+        "name": "南部地域包括支援センター",
+        "tel": "043-483-5520",
+        "url": "https://www.city.sakura.lg.jp/soshiki/koreishafukushika/125/5415.html"
+    },
+    {
+        "id": 2472,
+        "prefecture": "千葉県",
+        "city": "習志野市",
+        "area": "谷津・谷津町・叶ノ杜",
+        "name": "谷津高齢者相談センター",
+        "tel": "047-470-3177",
+        "url": "https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"
+    },
+    {
+        "id": 2473,
+        "prefecture": "千葉県",
+        "city": "習志野市",
+        "area": "秋津・茜浜・香澄・芝園・袖ケ浦",
+        "name": "秋津高齢者相談センター",
+        "tel": "047-408-0030",
+        "url": "https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"
+    },
+    {
+        "id": 2474,
+        "prefecture": "千葉県",
+        "city": "習志野市",
+        "area": "津田沼・鷺沼・鷺沼台・藤崎",
+        "name": "津田沼・鷺沼高齢者相談センター",
+        "tel": "047-408-1600",
+        "url": "https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"
+    },
+    {
+        "id": 2475,
+        "prefecture": "千葉県",
+        "city": "習志野市",
+        "area": "花咲・屋敷・泉町・大久保・本大久保",
+        "name": "屋敷高齢者相談センター",
+        "tel": "047-409-7798",
+        "url": "https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"
+    },
+    {
+        "id": 2476,
+        "prefecture": "千葉県",
+        "city": "習志野市",
+        "area": "実籾・新栄・東習志野・実籾本郷",
+        "name": "東習志野高齢者相談センター",
+        "tel": "047-470-0611",
+        "url": "https://www.city.narashino.lg.jp/soshiki/koreisha_shien/gyomu/koreisha/sodan/430420120820165625785.html"
+    },
+    {
+        "id": 2477,
+        "prefecture": "千葉県",
+        "city": "野田市",
+        "area": "野田・上花輪・中野台・清水・堤台",
+        "name": "野田市中央高齢者なんでも相談室",
+        "tel": "04-7136-2301",
+        "url": "https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023643.html"
+    },
+    {
+        "id": 2478,
+        "prefecture": "千葉県",
+        "city": "野田市",
+        "area": "目吹・金杉・鶴奉・柳沢・宮崎・横内・中根・大殿井",
+        "name": "野田市東高齢者なんでも相談室",
+        "tel": "04-7157-2750",
+        "url": "https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1034479.html"
+    },
+    {
+        "id": 2479,
+        "prefecture": "千葉県",
+        "city": "野田市",
+        "area": "山崎・今上・桜台・山崎貝塚町・山崎梅の台・みずき1～4丁目・桜木・山崎新町",
+        "name": "野田市南第1高齢者なんでも相談室",
+        "tel": "04-7123-7066",
+        "url": "https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023644.html"
+    },
+    {
+        "id": 2480,
+        "prefecture": "千葉県",
+        "city": "野田市",
+        "area": "花井・堤根・花井一丁目・下三ケ尾・三ツ堀・瀬戸・瀬戸上灰毛・木野崎・上三ケ尾・二ツ塚・西三ケ尾",
+        "name": "野田市南第2高齢者なんでも相談室",
+        "tel": "04-7128-7627",
+        "url": "https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1030759.html"
+    },
+    {
+        "id": 2481,
+        "prefecture": "千葉県",
+        "city": "野田市",
+        "area": "岩名・五木・谷津・吉春・番匠・座生・五木新田・七光台・川間地区",
+        "name": "野田市北高齢者なんでも相談室",
+        "tel": "04-7128-0113",
+        "url": "https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023645.html"
+    },
+    {
+        "id": 2482,
+        "prefecture": "千葉県",
+        "city": "野田市",
+        "area": "関宿台町・関宿江戸町・関宿町・関宿元町・関宿内町",
+        "name": "野田市関宿高齢者なんでも相談室",
+        "tel": "04-7196-5588",
+        "url": "https://www.city.noda.chiba.jp/shisetsu/hoken/1023640/1023646.html"
+    },
+    {
+        "id": 2586,
+        "prefecture": "千葉県",
+        "city": "流山市",
+        "area": "東深井・江戸川台",
+        "name": "北部高齢者なんでも相談室",
+        "tel": "04-7155-5366",
+        "url": "https://www.city.nagareyama.chiba.jp/institution/1004205/1004206/1004209.html"
+    },
+    {
+        "id": 2587,
+        "prefecture": "千葉県",
+        "city": "流山市",
+        "area": "西深井・新川",
+        "name": "北部西高齢者なんでも相談室",
+        "tel": "04-7197-1378",
+        "url": "https://www.akagimanyo.com/center"
+    },
+    {
+        "id": 2588,
+        "prefecture": "千葉県",
+        "city": "流山市",
+        "area": "東初石・西初石・おおたかの森",
+        "name": "中部高齢者なんでも相談室",
+        "tel": "04-7150-2953",
+        "url": "https://www.city.nagareyama.chiba.jp/institution/1004205/1004206/1004207.html"
+    },
+    {
+        "id": 2589,
+        "prefecture": "千葉県",
+        "city": "流山市",
+        "area": "東部・八木",
+        "name": "東部高齢者なんでも相談室",
+        "tel": "04-7148-5665",
+        "url": "https://www.city.nagareyama.chiba.jp/institution/1004205/1004206/1004210.html"
+    },
+    {
+        "id": 2590,
+        "prefecture": "千葉県",
+        "city": "流山市",
+        "area": "南部・南流山",
+        "name": "南部高齢者なんでも相談室",
+        "tel": "04-7159-9981",
+        "url": "https://www.nagareyamashakyo.com/home_welfare/support_center"
+    },
+    {
+        "id": 2591,
+        "prefecture": "千葉県",
+        "city": "浦安市",
+        "area": "猫実一・二丁目・堀江・富士見・港・鉄鋼通り・千鳥",
+        "name": "猫実地域包括支援センター（ともづな猫実）",
+        "tel": "047-381-9037",
+        "url": "https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1005515.html"
+    },
+    {
+        "id": 2592,
+        "prefecture": "千葉県",
+        "city": "浦安市",
+        "area": "当代島・北栄・猫実三・四・五丁目",
+        "name": "浦安駅前地域包括支援センター（ともづな浦安駅前）",
+        "tel": "047-351-8950",
+        "url": "https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1016190.html"
+    },
+    {
+        "id": 2593,
+        "prefecture": "千葉県",
+        "city": "浦安市",
+        "area": "入船・美浜・海楽",
+        "name": "新浦安駅前地域包括支援センター（ともづな新浦安）",
+        "tel": "047-306-5171",
+        "url": "https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1005510.html"
+    },
+    {
+        "id": 2594,
+        "prefecture": "千葉県",
+        "city": "浦安市",
+        "area": "高洲・明海・日の出",
+        "name": "高洲地域包括支援センター（ともづな高洲）",
+        "tel": "047-382-2424",
+        "url": "https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1013107.html"
+    },
+    {
+        "id": 2595,
+        "prefecture": "千葉県",
+        "city": "浦安市",
+        "area": "舞浜・東野・弁天・富岡・今川",
+        "name": "富岡地域包括支援センター（ともづな富岡）",
+        "tel": "047-721-1027",
+        "url": "https://www.city.urayasu.lg.jp/shisetsu/hoken/kourei/1017613.html"
+    },
+    {
+        "id": 2716,
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "area": "新田・富士見・中央・新宿・吾妻・朝日ほか",
+        "name": "木更津市中部地域包括支援センター",
+        "tel": "0438-97-7818",
+        "url": "https://jishinkai.info/kisarazu-nanseien/houkatsu/"
+    },
+    {
+        "id": 2717,
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "area": "請西・請西東・請西南・真舟・千束台",
+        "name": "木更津市東部地域包括支援センター",
+        "tel": "0438-97-6536",
+        "url": "https://mori.kisarazu-kamome.com/houkatu/"
+    },
+    {
+        "id": 2718,
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "area": "岩根地区・金田地区",
+        "name": "木更津市西部地域包括支援センター",
+        "tel": "0438-22-3422",
+        "url": "https://www.nagasuka.com/pg2803234.html"
+    },
+    {
+        "id": 2719,
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "area": "波岡地区・鎌足地区",
+        "name": "木更津市南部地域包括支援センター",
+        "tel": "0438-37-4811",
+        "url": "https://www.ikumikai.org/namioka/kisarazu-nanbu/"
+    },
+    {
+        "id": 2720,
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "area": "中郷地区・清川地区",
+        "name": "木更津市北部地域包括支援センター",
+        "tel": "0438-97-2561",
+        "url": "https://nakago.or.jp/service/welfare/houjin_03/"
+    },
+    {
+        "id": 2721,
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "area": "富来田地区",
+        "name": "木更津市富来田地域包括支援センター",
+        "tel": "0438-53-8031",
+        "url": "https://www.dotline-jp.com/fukuta-hokatsu/"
+    },
+    {
+        "id": 2722,
+        "prefecture": "千葉県",
+        "city": "成田市",
+        "area": "成田・中郷地域",
+        "name": "成田・中郷地域包括支援センター",
+        "tel": "0476-23-7151",
+        "url": "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id": 2723,
+        "prefecture": "千葉県",
+        "city": "成田市",
+        "area": "ニュータウン・はなのき台",
+        "name": "ニュータウン地域包括支援センター",
+        "tel": "0476-29-5005",
+        "url": "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id": 2724,
+        "prefecture": "千葉県",
+        "city": "成田市",
+        "area": "八生・豊住地域",
+        "name": "八生・豊住地域包括支援センター支所",
+        "tel": "0476-20-3655",
+        "url": "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id": 2725,
+        "prefecture": "千葉県",
+        "city": "成田市",
+        "area": "遠山地域",
+        "name": "遠山地域包括支援センター",
+        "tel": "0476-35-6081",
+        "url": "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id": 2726,
+        "prefecture": "千葉県",
+        "city": "成田市",
+        "area": "公津地域（はなのき台を除く）",
+        "name": "公津地域包括支援センター",
+        "tel": "0476-36-4981",
+        "url": "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id": 2727,
+        "prefecture": "千葉県",
+        "city": "成田市",
+        "area": "久住・下総地域",
+        "name": "久住・下総地域包括支援センター",
+        "tel": "0476-80-7007",
+        "url": "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id": 2728,
+        "prefecture": "千葉県",
+        "city": "成田市",
+        "area": "大栄地域",
+        "name": "大栄地域包括支援センター支所",
+        "tel": "0476-94-5664",
+        "url": "https://www.city.narita.chiba.jp/kenko_fukushi/page124000.html"
+    },
+    {
+        "id": 2729,
+        "prefecture": "千葉県",
+        "city": "我孫子市",
+        "area": "布施・布施下・弁天下・久寺家・根戸・つくし野・台田・我孫子・並木（根戸・我孫子は鉄道路線以北）",
+        "name": "我孫子北地区高齢者なんでも相談室",
+        "tel": "04-7179-7360",
+        "url": "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    },
+    {
+        "id": 2730,
+        "prefecture": "千葉県",
+        "city": "我孫子市",
+        "area": "根戸・根戸新田・呼塚新田・船戸・我孫子・我孫子新田・白山・本町・緑・寿・栄・若松（根戸・我孫子は鉄道路線以南）",
+        "name": "我孫子南地区高齢者なんでも相談室",
+        "tel": "04-7199-8311",
+        "url": "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    },
+    {
+        "id": 2731,
+        "prefecture": "千葉県",
+        "city": "我孫子市",
+        "area": "泉・天王台・東我孫子・柴崎・柴崎台・北新田ほか",
+        "name": "天王台地区高齢者なんでも相談室",
+        "tel": "04-7182-4100",
+        "url": "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    },
+    {
+        "id": 2732,
+        "prefecture": "千葉県",
+        "city": "我孫子市",
+        "area": "湖北台・中峠台・中峠・中峠村下・中里ほか",
+        "name": "湖北・湖北台地区高齢者なんでも相談室",
+        "tel": "04-7187-6777",
+        "url": "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    },
+    {
+        "id": 2733,
+        "prefecture": "千葉県",
+        "city": "我孫子市",
+        "area": "新木・新木野・新木村下・中沼田・南新木ほか",
+        "name": "布佐・新木地区高齢者なんでも相談室",
+        "tel": "04-7189-0294",
+        "url": "https://www.city.abiko.chiba.jp/kenko/koureishafukushi/eld_consul/nandemo_soudan.html"
+    },
+    {
+        "id": 3619,
+        "prefecture": "千葉県",
+        "city": "千葉市",
+        "area": "",
+        "name": "千葉市あんしんケアセンター松ケ丘 白旗出張所",
+        "tel": "043-308-9811",
+        "url": ""
+    },
+    {
+        "id": 3620,
+        "prefecture": "千葉県",
+        "city": "千葉市",
+        "area": "",
+        "name": "千葉市あんしんケアセンター山王 宮野木出張所",
+        "tel": "043-307-9010",
+        "url": ""
+    },
+    {
+        "id": 3621,
+        "prefecture": "千葉県",
+        "city": "千葉市",
+        "area": "",
+        "name": "千葉市あんしんケアセンター土気 あすみが丘出 張所",
+        "tel": "043-205-5000",
+        "url": ""
+    },
+    {
+        "id": 3622,
+        "prefecture": "千葉県",
+        "city": "千葉市",
+        "area": "",
+        "name": "千葉市あんしんケアセンター 磯辺 浜田出張所",
+        "tel": "043-441-7410",
+        "url": ""
+    },
+    {
+        "id": 3623,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "",
+        "name": "船橋市法典地域包括支援センター藤原サブセン ター",
+        "tel": "047-407-1555",
+        "url": ""
+    },
+    {
+        "id": 3624,
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "area": "",
+        "name": "船橋市豊富・坪井地域包括支援センター小室サブ センター",
+        "tel": "047-404-7902",
+        "url": ""
+    },
+    {
+        "id": 3625,
+        "prefecture": "千葉県",
+        "city": "鎌ケ谷市",
+        "area": "",
+        "name": "鎌ケ谷市基幹型地域包括支援センター",
+        "tel": "047-445-1384",
+        "url": ""
+    },
+    {
+        "id": 3626,
+        "prefecture": "千葉県",
+        "city": "鎌ケ谷市",
+        "area": "",
+        "name": "鎌ケ谷市西部地域包括支援センター",
+        "tel": "047-441-2007",
+        "url": ""
+    },
+    {
+        "id": 3627,
+        "prefecture": "千葉県",
+        "city": "鎌ケ谷市",
+        "area": "",
+        "name": "鎌ケ谷市南部地域包括支援センター",
+        "tel": "047-441-7370",
+        "url": ""
+    },
+    {
+        "id": 3628,
+        "prefecture": "千葉県",
+        "city": "鎌ケ谷市",
+        "area": "",
+        "name": "鎌ケ谷市初富地域包括支援センター",
+        "tel": "047-446-7873",
+        "url": ""
+    },
+    {
+        "id": 3629,
+        "prefecture": "千葉県",
+        "city": "浦安市",
+        "area": "",
+        "name": "浦安市高洲地域包括支援センター日の出支所",
+        "tel": "047-383-9600",
+        "url": ""
+    },
+    {
+        "id": 3630,
+        "prefecture": "千葉県",
+        "city": "浦安市",
+        "area": "",
+        "name": "浦安市富岡地域包括支援センター 東野支所",
+        "tel": "047-314-1085",
+        "url": ""
+    },
+    {
+        "id": 3631,
+        "prefecture": "千葉県",
+        "city": "野田市",
+        "area": "",
+        "name": "野田市地域包括支援課地域包括支援センター",
+        "tel": "04-7199-2866",
+        "url": ""
+    },
+    {
+        "id": 3632,
+        "prefecture": "千葉県",
+        "city": "四街道市",
+        "area": "",
+        "name": "四街道市中央地域包括支援センター",
+        "tel": "043-420-6070",
+        "url": ""
+    },
+    {
+        "id": 3633,
+        "prefecture": "千葉県",
+        "city": "四街道市",
+        "area": "",
+        "name": "四街道市みなみ地域包括支援センター",
+        "tel": "043-497-5165",
+        "url": ""
+    },
+    {
+        "id": 3634,
+        "prefecture": "千葉県",
+        "city": "四街道市",
+        "area": "",
+        "name": "四街道市千代田地域包括支援センター",
+        "tel": "043-497-2430",
+        "url": ""
+    },
+    {
+        "id": 3635,
+        "prefecture": "千葉県",
+        "city": "八街市",
+        "area": "",
+        "name": "八街市地域包括支援センター",
+        "tel": "043-443-1207",
+        "url": ""
+    },
+    {
+        "id": 3636,
+        "prefecture": "千葉県",
+        "city": "八街市",
+        "area": "",
+        "name": "八街市北部地域包括支援センター",
+        "tel": "043-488-6393",
+        "url": ""
+    },
+    {
+        "id": 3637,
+        "prefecture": "千葉県",
+        "city": "印西市",
+        "area": "",
+        "name": "印西市印西北部地域包括支援センター",
+        "tel": "0476-85-4085",
+        "url": ""
+    },
+    {
+        "id": 3638,
+        "prefecture": "千葉県",
+        "city": "印西市",
+        "area": "",
+        "name": "印西市印西南部地域包括支援センター",
+        "tel": "0476-37-3120",
+        "url": ""
+    },
+    {
+        "id": 3639,
+        "prefecture": "千葉県",
+        "city": "印西市",
+        "area": "",
+        "name": "印西市船穂地域包括支援センター",
+        "tel": "0476-29-4001",
+        "url": ""
+    },
+    {
+        "id": 3640,
+        "prefecture": "千葉県",
+        "city": "印西市",
+        "area": "",
+        "name": "印西市印旛地域包括支援センター",
+        "tel": "0476-33-7062",
+        "url": ""
+    },
+    {
+        "id": 3641,
+        "prefecture": "千葉県",
+        "city": "印西市",
+        "area": "",
+        "name": "印西市本埜地域包括支援センター",
+        "tel": "0476-85-4845",
+        "url": ""
+    },
+    {
+        "id": 3642,
+        "prefecture": "千葉県",
+        "city": "白井市",
+        "area": "",
+        "name": "牧の原 白井中央地域包括支援センター",
+        "tel": "047-497-3474",
+        "url": ""
+    },
+    {
+        "id": 3643,
+        "prefecture": "千葉県",
+        "city": "白井市",
+        "area": "",
+        "name": "白井第一小学校区・白井第二小学校区・七次台小学校区・桜台小学校区 白井駅前地域包括支援センター",
+        "tel": "047-492-8100",
+        "url": ""
+    },
+    {
+        "id": 3644,
+        "prefecture": "千葉県",
+        "city": "白井市",
+        "area": "",
+        "name": "南山小学校区・池の上小学校区 西白井駅前地域包括支援センター",
+        "tel": "047-497-5170",
+        "url": ""
+    },
+    {
+        "id": 3645,
+        "prefecture": "千葉県",
+        "city": "富里市",
+        "area": "",
+        "name": "富里市地域包括支援センター",
+        "tel": "0476-93-4981",
+        "url": ""
+    },
+    {
+        "id": 3646,
+        "prefecture": "千葉県",
+        "city": "富里市",
+        "area": "",
+        "name": "富里市北部地域包括支援センター",
+        "tel": "0476-36-7725",
+        "url": ""
+    },
+    {
+        "id": 3647,
+        "prefecture": "千葉県",
+        "city": "富里市",
+        "area": "",
+        "name": "富里市中部東地域包括支援センター",
+        "tel": "0476-29-4110",
+        "url": ""
+    },
+    {
+        "id": 3648,
+        "prefecture": "千葉県",
+        "city": "富里市",
+        "area": "",
+        "name": "富里市中部西地域包括支援センター",
+        "tel": "0476-92-2776",
+        "url": ""
+    },
+    {
+        "id": 3649,
+        "prefecture": "千葉県",
+        "city": "富里市",
+        "area": "",
+        "name": "富里市南部地域包括支援センター",
+        "tel": "0476-90-6331",
+        "url": ""
+    },
+    {
+        "id": 3650,
+        "prefecture": "千葉県",
+        "city": "酒々井町",
+        "area": "",
+        "name": "富里南小学校・浩養小学校区 酒々井町 酒々井町地域包括支援センター",
+        "tel": "043-481-6393",
+        "url": ""
+    },
+    {
+        "id": 3651,
+        "prefecture": "千葉県",
+        "city": "栄町",
+        "area": "",
+        "name": "全域 栄町 栄町地域包括支援センター",
+        "tel": "0476-95-1510",
+        "url": ""
+    },
+    {
+        "id": 3652,
+        "prefecture": "千葉県",
+        "city": "銚子市",
+        "area": "",
+        "name": "銚子市地域包括支援センター",
+        "tel": "0479-24-8754",
+        "url": ""
+    },
+    {
+        "id": 3653,
+        "prefecture": "千葉県",
+        "city": "銚子市",
+        "area": "",
+        "name": "銚子市東部地域包括支援センター",
+        "tel": "0479-21-5580",
+        "url": ""
+    },
+    {
+        "id": 3654,
+        "prefecture": "千葉県",
+        "city": "銚子市",
+        "area": "",
+        "name": "銚子市中央地域包括支援センター",
+        "tel": "0479-21-7600",
+        "url": ""
+    },
+    {
+        "id": 3655,
+        "prefecture": "千葉県",
+        "city": "銚子市",
+        "area": "",
+        "name": "銚子市西部地域包括支援センター",
+        "tel": "0479-21-5655",
+        "url": ""
+    },
+    {
+        "id": 3656,
+        "prefecture": "千葉県",
+        "city": "旭市",
+        "area": "",
+        "name": "旭市基幹型地域包括支援センター",
+        "tel": "0479-62-5433",
+        "url": ""
+    },
+    {
+        "id": 3657,
+        "prefecture": "千葉県",
+        "city": "旭市",
+        "area": "",
+        "name": "旭市中央地域包括支援センター",
+        "tel": "0479-85-5371",
+        "url": ""
+    },
+    {
+        "id": 3658,
+        "prefecture": "千葉県",
+        "city": "旭市",
+        "area": "",
+        "name": "旭市東部地域包括支援センター",
+        "tel": "0479-74-3433",
+        "url": ""
+    },
+    {
+        "id": 3659,
+        "prefecture": "千葉県",
+        "city": "旭市",
+        "area": "",
+        "name": "旭市北部地域包括支援センター",
+        "tel": "0479-68-2055",
+        "url": ""
+    },
+    {
+        "id": 3660,
+        "prefecture": "千葉県",
+        "city": "匝瑳市",
+        "area": "",
+        "name": "匝瑳市地域包括支援センター",
+        "tel": "0479-73-0033",
+        "url": ""
+    },
+    {
+        "id": 3661,
+        "prefecture": "千葉県",
+        "city": "匝瑳市",
+        "area": "",
+        "name": "匝瑳市西部地域包括支援センター",
+        "tel": "0479-85-5582",
+        "url": ""
+    },
+    {
+        "id": 3662,
+        "prefecture": "千葉県",
+        "city": "香取市",
+        "area": "",
+        "name": "香取市佐原地域包括支援センター",
+        "tel": "0478-50-1231",
+        "url": ""
+    },
+    {
+        "id": 3663,
+        "prefecture": "千葉県",
+        "city": "香取市",
+        "area": "",
+        "name": "香取市小見川地域包括支援センター",
+        "tel": "0478-82-0718",
+        "url": ""
+    },
+    {
+        "id": 3664,
+        "prefecture": "千葉県",
+        "city": "神崎町",
+        "area": "",
+        "name": "小見川・山田 神崎町 神崎町地域包括支援センター",
+        "tel": "0478-72-1607",
+        "url": ""
+    },
+    {
+        "id": 3665,
+        "prefecture": "千葉県",
+        "city": "多古町",
+        "area": "",
+        "name": "全域 多古町 多古町地域包括支援センター",
+        "tel": "0479-70-6111",
+        "url": ""
+    },
+    {
+        "id": 3666,
+        "prefecture": "千葉県",
+        "city": "東庄町",
+        "area": "",
+        "name": "全域 東庄町 東庄町地域包括支援センター",
+        "tel": "0478-80-3155",
+        "url": ""
+    },
+    {
+        "id": 3667,
+        "prefecture": "千葉県",
+        "city": "茂原市",
+        "area": "",
+        "name": "茂原市基幹型地域包括支援センター",
+        "tel": "0475-20-1583",
+        "url": ""
+    },
+    {
+        "id": 3668,
+        "prefecture": "千葉県",
+        "city": "東金市",
+        "area": "",
+        "name": "東金市西部地域包括支援センター",
+        "tel": "0475-53-3071",
+        "url": ""
+    },
+    {
+        "id": 3669,
+        "prefecture": "千葉県",
+        "city": "東金市",
+        "area": "",
+        "name": "東金市東部地域包括支援センター",
+        "tel": "0475-58-8877",
+        "url": ""
+    },
+    {
+        "id": 3670,
+        "prefecture": "千葉県",
+        "city": "勝浦市",
+        "area": "",
+        "name": "勝浦市 勝浦市地域包括支援センター",
+        "tel": "0470-73-6615",
+        "url": ""
+    },
+    {
+        "id": 3671,
+        "prefecture": "千葉県",
+        "city": "山武市",
+        "area": "",
+        "name": "全域",
+        "tel": "0475-80-2643",
+        "url": ""
+    },
+    {
+        "id": 3672,
+        "prefecture": "千葉県",
+        "city": "山武市",
+        "area": "",
+        "name": "山武市成東250番地 0475-80-2643 0475-80-2650 山武市松尾蓮沼地域包括支援センター",
+        "tel": "0479-74-3366",
+        "url": ""
+    },
+    {
+        "id": 3673,
+        "prefecture": "千葉県",
+        "city": "いすみ市",
+        "area": "",
+        "name": "いすみ市 いすみ市地域包括支援センター",
+        "tel": "0470-62-1118",
+        "url": ""
+    },
+    {
+        "id": 3674,
+        "prefecture": "千葉県",
+        "city": "大網白里市",
+        "area": "",
+        "name": "大網白里市 大網白里市地域包括支援センター",
+        "tel": "0475-70-0439",
+        "url": ""
+    },
+    {
+        "id": 3675,
+        "prefecture": "千葉県",
+        "city": "九十九里町",
+        "area": "",
+        "name": "全域 九十九里町 九十九里町地域包括支援センター",
+        "tel": "0475-76-5713",
+        "url": ""
+    },
+    {
+        "id": 3676,
+        "prefecture": "千葉県",
+        "city": "芝山町",
+        "area": "",
+        "name": "全域 芝山町 芝山町地域包括支援センター",
+        "tel": "0479-77-3925",
+        "url": ""
+    },
+    {
+        "id": 3677,
+        "prefecture": "千葉県",
+        "city": "横芝光町",
+        "area": "",
+        "name": "全域 横芝光町 横芝光町地域包括支援センター",
+        "tel": "0479-80-3339",
+        "url": ""
+    },
+    {
+        "id": 3678,
+        "prefecture": "千葉県",
+        "city": "一宮町",
+        "area": "",
+        "name": "全域 一宮町 一宮町地域包括支援センター（すまいるサポートセ ンター）",
+        "tel": "0475-40-1055",
+        "url": ""
+    },
+    {
+        "id": 3679,
+        "prefecture": "千葉県",
+        "city": "睦沢町",
+        "area": "",
+        "name": "全域 睦沢町 睦沢町地域包括支援センター",
+        "tel": "0475-44-2531",
+        "url": ""
+    },
+    {
+        "id": 3680,
+        "prefecture": "千葉県",
+        "city": "長生村",
+        "area": "",
+        "name": "全域 長生村 長生村地域包括支援センター",
+        "tel": "0475-32-6865",
+        "url": ""
+    },
+    {
+        "id": 3681,
+        "prefecture": "千葉県",
+        "city": "白子町",
+        "area": "",
+        "name": "全域 白子町 白子町地域包括支援センター",
+        "tel": "0475-30-3888",
+        "url": ""
+    },
+    {
+        "id": 3682,
+        "prefecture": "千葉県",
+        "city": "長柄町",
+        "area": "",
+        "name": "全域 長柄町 長柄町地域包括支援センター",
+        "tel": "0475-30-6000",
+        "url": ""
+    },
+    {
+        "id": 3683,
+        "prefecture": "千葉県",
+        "city": "長南町",
+        "area": "",
+        "name": "全域 長南町 長南町包括支援センター",
+        "tel": "0475-40-5901",
+        "url": ""
+    },
+    {
+        "id": 3684,
+        "prefecture": "千葉県",
+        "city": "大多喜町",
+        "area": "",
+        "name": "全域 大多喜町 大多喜町地域包括支援センター",
+        "tel": "0470-82-2168",
+        "url": ""
+    },
+    {
+        "id": 3685,
+        "prefecture": "千葉県",
+        "city": "御宿町",
+        "area": "",
+        "name": "全域 御宿町 おんじゅく地域包括支援センター",
+        "tel": "0470-68-6716",
+        "url": ""
+    },
+    {
+        "id": 3686,
+        "prefecture": "千葉県",
+        "city": "館山市",
+        "area": "",
+        "name": "館山市地域包括支援センターたてやま",
+        "tel": "0470-25-7191",
+        "url": ""
+    },
+    {
+        "id": 3687,
+        "prefecture": "千葉県",
+        "city": "館山市",
+        "area": "",
+        "name": "館山市地域包括支援センターなのはな",
+        "tel": "0470-22-1350",
+        "url": ""
+    },
+    {
+        "id": 3688,
+        "prefecture": "千葉県",
+        "city": "館山市",
+        "area": "",
+        "name": "館山市地域包括支援センター いちご",
+        "tel": "0470-28-4115",
+        "url": ""
+    },
+    {
+        "id": 3689,
+        "prefecture": "千葉県",
+        "city": "館山市",
+        "area": "",
+        "name": "館山市地域包括支援センターことぶき",
+        "tel": "0470-27-3827",
+        "url": ""
+    },
+    {
+        "id": 3690,
+        "prefecture": "千葉県",
+        "city": "鴨川市",
+        "area": "",
+        "name": "鴨川市福祉総合相談センター",
+        "tel": "04-7093-1200",
+        "url": ""
+    },
+    {
+        "id": 3691,
+        "prefecture": "千葉県",
+        "city": "鴨川市",
+        "area": "",
+        "name": "鴨川市福祉総合相談センター・天津小湊",
+        "tel": "04-7094-5800",
+        "url": ""
+    },
+    {
+        "id": 3692,
+        "prefecture": "千葉県",
+        "city": "鴨川市",
+        "area": "",
+        "name": "鴨川市福祉総合相談センター・長狭",
+        "tel": "04-7096-5711",
+        "url": ""
+    },
+    {
+        "id": 3693,
+        "prefecture": "千葉県",
+        "city": "南房総市",
+        "area": "",
+        "name": "南房総市基幹型地域包括支援センター",
+        "tel": "0470-36-1152",
+        "url": ""
+    },
+    {
+        "id": 3694,
+        "prefecture": "千葉県",
+        "city": "南房総市",
+        "area": "",
+        "name": "南房総市地域包括支援センターアイリスの里",
+        "tel": "0470-20-4500",
+        "url": ""
+    },
+    {
+        "id": 3695,
+        "prefecture": "千葉県",
+        "city": "南房総市",
+        "area": "",
+        "name": "南房総市地域包括支援センター三芳",
+        "tel": "0470-29-3355",
+        "url": ""
+    },
+    {
+        "id": 3696,
+        "prefecture": "千葉県",
+        "city": "南房総市",
+        "area": "",
+        "name": "南房総市地域包括支援センターえがお",
+        "tel": "0470-29-3711",
+        "url": ""
+    },
+    {
+        "id": 3697,
+        "prefecture": "千葉県",
+        "city": "鋸南町",
+        "area": "",
+        "name": "白浜・千倉 鋸南町 鋸南町地域包括支援センター",
+        "tel": "0470-50-1173",
+        "url": ""
+    },
+    {
+        "id": 3698,
+        "prefecture": "千葉県",
+        "city": "君津市",
+        "area": "",
+        "name": "君津市地域包括支援室",
+        "tel": "0439-56-1732",
+        "url": ""
+    },
+    {
+        "id": 3699,
+        "prefecture": "千葉県",
+        "city": "君津市",
+        "area": "",
+        "name": "君津市中部地域包括支援センター",
+        "tel": "0439-32-1717",
+        "url": ""
+    },
+    {
+        "id": 3700,
+        "prefecture": "千葉県",
+        "city": "君津市",
+        "area": "",
+        "name": "君津市小糸・清和地域包括支援センター",
+        "tel": "0439-27-1221",
+        "url": ""
+    },
+    {
+        "id": 3701,
+        "prefecture": "千葉県",
+        "city": "君津市",
+        "area": "",
+        "name": "君津市東部地域包括支援センター",
+        "tel": "0439-27-0710",
+        "url": ""
+    },
+    {
+        "id": 3702,
+        "prefecture": "千葉県",
+        "city": "富津市",
+        "area": "",
+        "name": "上総地区 富津市富津地区地域包括支援センター",
+        "tel": "0439-29-6582",
+        "url": ""
+    },
+    {
+        "id": 3703,
+        "prefecture": "千葉県",
+        "city": "富津市",
+        "area": "",
+        "name": "富津市大佐和地区地域包括支援センター",
+        "tel": "0439-32-1280",
+        "url": ""
+    },
+    {
+        "id": 3704,
+        "prefecture": "千葉県",
+        "city": "富津市",
+        "area": "",
+        "name": "富津市天羽地区地域包括支援センター",
+        "tel": "0439-70-6150",
+        "url": ""
+    },
+    {
+        "id": 3705,
+        "prefecture": "千葉県",
+        "city": "袖ケ浦市",
+        "area": "",
+        "name": "袖ケ浦市地域包括支援センター",
+        "tel": "0438-62-3225",
+        "url": ""
+    },
+    {
+        "id": 3706,
+        "prefecture": "千葉県",
+        "city": "袖ケ浦市",
+        "area": "",
+        "name": "袖ケ浦市昭和・根形地区地域包括支援センター",
+        "tel": "0438-38-3771",
+        "url": ""
+    },
+    {
+        "id": 3707,
+        "prefecture": "千葉県",
+        "city": "袖ケ浦市",
+        "area": "",
+        "name": "袖ケ浦市長浦地区地域包括支援センター",
+        "tel": "0438-53-8671",
+        "url": ""
+    },
+    {
+        "id": 3708,
+        "prefecture": "千葉県",
+        "city": "袖ケ浦市",
+        "area": "",
+        "name": "袖ケ浦市平川地区地域包括支援センター",
+        "tel": "0438-40-5994",
+        "url": ""
+    },
+    {
+        "id": 3709,
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "area": "",
+        "name": "市原市福祉総合相談センター（基幹型地域包括支 援センター）",
+        "tel": "0436-23-7252",
+        "url": ""
     }
 ]
