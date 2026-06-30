@@ -1,371 +1,695 @@
 [
     {
-        "id":  1359,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "石嶺町2・3・4丁目",
-        "name":  "那覇市地域包括支援センター石嶺",
-        "tel":  "098-886-7987",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1359,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "石嶺町2・3・4丁目",
+        "name": "那覇市地域包括支援センター石嶺",
+        "tel": "098-886-7987",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1360,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "石嶺町1丁目・赤平町・儀保町・久場川町・平良町・大名町",
-        "name":  "那覇市地域包括支援センター大名",
-        "tel":  "098-886-5177",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1360,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "石嶺町1丁目・赤平町・儀保町・久場川町・平良町・大名町",
+        "name": "那覇市地域包括支援センター大名",
+        "tel": "098-886-5177",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1361,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "池端町・大中町・金城町・寒川町・鳥堀町・当蔵町・桃原町・真和志町・山川町",
-        "name":  "那覇市地域包括支援センター城西",
-        "tel":  "098-887-7700",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1361,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "池端町・大中町・金城町・寒川町・鳥堀町・当蔵町・桃原町・真和志町・山川町",
+        "name": "那覇市地域包括支援センター城西",
+        "tel": "098-887-7700",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1362,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "繁多川・識名2・3丁目",
-        "name":  "那覇市地域包括支援センター繁多川",
-        "tel":  "098-963-6478",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1362,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "繁多川・識名2・3丁目",
+        "name": "那覇市地域包括支援センター繁多川",
+        "tel": "098-963-6478",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1363,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "大道・松川・三原1・2丁目",
-        "name":  "那覇市地域包括支援センター松川",
-        "tel":  "098-882-1622",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1363,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "大道・松川・三原1・2丁目",
+        "name": "那覇市地域包括支援センター松川",
+        "tel": "098-882-1622",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1364,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "末吉町・松島・真嘉比・古島",
-        "name":  "那覇市地域包括支援センター松島",
-        "tel":  "098-882-2266",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1364,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "末吉町・松島・真嘉比・古島",
+        "name": "那覇市地域包括支援センター松島",
+        "tel": "098-882-2266",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1365,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "寄宮・長田・三原3丁目・上間1丁目・識名1・4丁目",
-        "name":  "那覇市地域包括支援センター識名",
-        "tel":  "098-987-1010",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1365,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "寄宮・長田・三原3丁目・上間1丁目・識名1・4丁目",
+        "name": "那覇市地域包括支援センター識名",
+        "tel": "098-987-1010",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1366,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "安里・壷屋・牧志3丁目・樋川2丁目・寄宮1・2丁目",
-        "name":  "那覇市地域包括支援センター安里",
-        "tel":  "098-987-9512",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1366,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "安里・壷屋・牧志3丁目・樋川2丁目・寄宮1・2丁目",
+        "name": "那覇市地域包括支援センター安里",
+        "tel": "098-987-9512",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1367,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "与儀・古波蔵・樋川1丁目",
-        "name":  "那覇市地域包括支援センター古波蔵",
-        "tel":  "098-855-6254",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1367,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "与儀・古波蔵・樋川1丁目",
+        "name": "那覇市地域包括支援センター古波蔵",
+        "tel": "098-855-6254",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1368,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "国場・仲井真・真地・字上間・字識名",
-        "name":  "那覇市地域包括支援センター国場",
-        "tel":  "098-851-9308",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1368,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "国場・仲井真・真地・字上間・字識名",
+        "name": "那覇市地域包括支援センター国場",
+        "tel": "098-851-9308",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1369,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "銘苅・天久1・2丁目・おもろまち3・4丁目",
-        "name":  "那覇市地域包括支援センター新都心",
-        "tel":  "098-941-2252",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1369,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "銘苅・天久1・2丁目・おもろまち3・4丁目",
+        "name": "那覇市地域包括支援センター新都心",
+        "tel": "098-941-2252",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1370,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "字天久・安謝・曙・港町",
-        "name":  "那覇市地域包括支援センター安謝",
-        "tel":  "098-860-3747",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1370,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "字天久・安謝・曙・港町",
+        "name": "那覇市地域包括支援センター安謝",
+        "tel": "098-860-3747",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1371,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "おもろまち1・2丁目・上之屋・泊・久茂地・前島1・2丁目・牧志1・2丁目",
-        "name":  "那覇市地域包括支援センター泊",
-        "tel":  "098-860-5121",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1371,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "おもろまち1・2丁目・上之屋・泊・久茂地・前島1・2丁目・牧志1・2丁目",
+        "name": "那覇市地域包括支援センター泊",
+        "tel": "098-860-5121",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1372,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "前島3丁目・松山・若狭・久米・辻・通堂町・西・東町",
-        "name":  "那覇市地域包括支援センター若狭",
-        "tel":  "098-863-1165",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1372,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "前島3丁目・松山・若狭・久米・辻・通堂町・西・東町",
+        "name": "那覇市地域包括支援センター若狭",
+        "tel": "098-863-1165",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1373,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "松尾・楚辺・壷川・旭町・泉崎",
-        "name":  "那覇市地域包括支援センター城岳",
-        "tel":  "098-863-3660",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1373,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "松尾・楚辺・壷川・旭町・泉崎",
+        "name": "那覇市地域包括支援センター城岳",
+        "tel": "098-863-3660",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1374,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "奥武山町・山下町・垣花町・鏡原町・住吉町・赤嶺・安次嶺・金城・田原1丁目・宇栄原1〜3丁目",
-        "name":  "那覇市地域包括支援センターかなぐすく",
-        "tel":  "098-852-0777",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1374,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "奥武山町・山下町・垣花町・鏡原町・住吉町・赤嶺・安次嶺・金城・田原1丁目・宇栄原1〜3丁目",
+        "name": "那覇市地域包括支援センターかなぐすく",
+        "tel": "098-852-0777",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1375,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "字田原・田原2〜4丁目・字小禄・小禄1・4・5丁目",
-        "name":  "那覇市地域包括支援センター小禄",
-        "tel":  "098-858-0096",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1375,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "字田原・田原2〜4丁目・字小禄・小禄1・4・5丁目",
+        "name": "那覇市地域包括支援センター小禄",
+        "tel": "098-858-0096",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  1376,
-        "prefecture":  "沖縄県",
-        "city":  "那覇市",
-        "area":  "小禄2・3丁目・宇栄原4〜6丁目・字高良・高良1・2丁目・具志・宮城",
-        "name":  "那覇市地域包括支援センター高良",
-        "tel":  "098-859-6633",
-        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+        "id": 1376,
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "area": "小禄2・3丁目・宇栄原4〜6丁目・字高良・高良1・2丁目・具志・宮城",
+        "name": "那覇市地域包括支援センター高良",
+        "tel": "098-859-6633",
+        "url": "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
     },
     {
-        "id":  2702,
-        "prefecture":  "沖縄県",
-        "city":  "沖縄市",
-        "area":  "池原・登川・知花・明道・松本",
-        "name":  "北部地域包括支援センター",
-        "tel":  "098-938-9770",
-        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+        "id": 2702,
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "area": "池原・登川・知花・明道・松本",
+        "name": "北部地域包括支援センター",
+        "tel": "098-938-9770",
+        "url": "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
     },
     {
-        "id":  2703,
-        "prefecture":  "沖縄県",
-        "city":  "沖縄市",
-        "area":  "美里・東・宮里・吉原・城前・越来",
-        "name":  "中部北地域包括支援センター",
-        "tel":  "098-987-8025",
-        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+        "id": 2703,
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "area": "美里・東・宮里・吉原・城前・越来",
+        "name": "中部北地域包括支援センター",
+        "tel": "098-987-8025",
+        "url": "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
     },
     {
-        "id":  2704,
-        "prefecture":  "沖縄県",
-        "city":  "沖縄市",
-        "area":  "嘉間良・住吉・室川・安慶田・照屋",
-        "name":  "中部南地域包括支援センター",
-        "tel":  "098-923-0603",
-        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+        "id": 2704,
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "area": "嘉間良・住吉・室川・安慶田・照屋",
+        "name": "中部南地域包括支援センター",
+        "tel": "098-923-0603",
+        "url": "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
     },
     {
-        "id":  2705,
-        "prefecture":  "沖縄県",
-        "city":  "沖縄市",
-        "area":  "八重島・センター・中の町・胡屋・園田",
-        "name":  "西部北地域包括支援センター",
-        "tel":  "098-988-5525",
-        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+        "id": 2705,
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "area": "八重島・センター・中の町・胡屋・園田",
+        "name": "西部北地域包括支援センター",
+        "tel": "098-988-5525",
+        "url": "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
     },
     {
-        "id":  2706,
-        "prefecture":  "沖縄県",
-        "city":  "沖縄市",
-        "area":  "諸見里・久保田・山内・山里・南桃原",
-        "name":  "西部南地域包括支援センター",
-        "tel":  "098-982-2020",
-        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+        "id": 2706,
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "area": "諸見里・久保田・山内・山里・南桃原",
+        "name": "西部南地域包括支援センター",
+        "tel": "098-982-2020",
+        "url": "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
     },
     {
-        "id":  2707,
-        "prefecture":  "沖縄県",
-        "city":  "沖縄市",
-        "area":  "古謝・東桃原・大里・海邦町・泡瀬第一〜三",
-        "name":  "東部北地域包括支援センター",
-        "tel":  "098-937-1100",
-        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+        "id": 2707,
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "area": "古謝・東桃原・大里・海邦町・泡瀬第一〜三",
+        "name": "東部北地域包括支援センター",
+        "tel": "098-937-1100",
+        "url": "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
     },
     {
-        "id":  2708,
-        "prefecture":  "沖縄県",
-        "city":  "沖縄市",
-        "area":  "高原・泡瀬・比屋根・与儀",
-        "name":  "東部南地域包括支援センター",
-        "tel":  "098-923-0553",
-        "url":  "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
+        "id": 2708,
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "area": "高原・泡瀬・比屋根・与儀",
+        "name": "東部南地域包括支援センター",
+        "tel": "098-923-0553",
+        "url": "https://www.city.okinawa.okinawa.jp/k020-005/contents/p00020.html"
     },
     {
-        "id":  2890,
-        "prefecture":  "沖縄県",
-        "city":  "うるま市",
-        "area":  "石川地区",
-        "name":  "うるま市地域包括支援センターいしかわ",
-        "tel":  "098-965-6121",
-        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+        "id": 2890,
+        "prefecture": "沖縄県",
+        "city": "うるま市",
+        "area": "石川地区",
+        "name": "うるま市地域包括支援センターいしかわ",
+        "tel": "098-965-6121",
+        "url": "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
     },
     {
-        "id":  2891,
-        "prefecture":  "沖縄県",
-        "city":  "うるま市",
-        "area":  "具志川北地区",
-        "name":  "うるま市地域包括支援センター具志川北",
-        "tel":  "098-972-3595",
-        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+        "id": 2891,
+        "prefecture": "沖縄県",
+        "city": "うるま市",
+        "area": "具志川北地区",
+        "name": "うるま市地域包括支援センター具志川北",
+        "tel": "098-972-3595",
+        "url": "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
     },
     {
-        "id":  2892,
-        "prefecture":  "沖縄県",
-        "city":  "うるま市",
-        "area":  "具志川東地区",
-        "name":  "うるま市地域包括支援センター具志川ひがし",
-        "tel":  "098-974-4001",
-        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+        "id": 2892,
+        "prefecture": "沖縄県",
+        "city": "うるま市",
+        "area": "具志川東地区",
+        "name": "うるま市地域包括支援センター具志川ひがし",
+        "tel": "098-974-4001",
+        "url": "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
     },
     {
-        "id":  2893,
-        "prefecture":  "沖縄県",
-        "city":  "うるま市",
-        "area":  "具志川西地区",
-        "name":  "うるま市地域包括支援センター具志川にし",
-        "tel":  "098-989-3788",
-        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+        "id": 2893,
+        "prefecture": "沖縄県",
+        "city": "うるま市",
+        "area": "具志川西地区",
+        "name": "うるま市地域包括支援センター具志川にし",
+        "tel": "098-989-3788",
+        "url": "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
     },
     {
-        "id":  2894,
-        "prefecture":  "沖縄県",
-        "city":  "うるま市",
-        "area":  "具志川南地区",
-        "name":  "うるま市地域包括支援センター具志川みなみ",
-        "tel":  "098-979-5698",
-        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+        "id": 2894,
+        "prefecture": "沖縄県",
+        "city": "うるま市",
+        "area": "具志川南地区",
+        "name": "うるま市地域包括支援センター具志川みなみ",
+        "tel": "098-979-5698",
+        "url": "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
     },
     {
-        "id":  2895,
-        "prefecture":  "沖縄県",
-        "city":  "うるま市",
-        "area":  "与勝西地区",
-        "name":  "うるま市地域包括支援センターかつれん",
-        "tel":  "098-978-1551",
-        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+        "id": 2895,
+        "prefecture": "沖縄県",
+        "city": "うるま市",
+        "area": "与勝西地区",
+        "name": "うるま市地域包括支援センターかつれん",
+        "tel": "098-978-1551",
+        "url": "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
     },
     {
-        "id":  2896,
-        "prefecture":  "沖縄県",
-        "city":  "うるま市",
-        "area":  "与勝東地区",
-        "name":  "うるま市地域包括支援センターよなしろ",
-        "tel":  "098-923-5117",
-        "url":  "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
+        "id": 2896,
+        "prefecture": "沖縄県",
+        "city": "うるま市",
+        "area": "与勝東地区",
+        "name": "うるま市地域包括支援センターよなしろ",
+        "tel": "098-923-5117",
+        "url": "https://www.city.uruma.lg.jp/1004003000/contents/14987.html"
     },
     {
-        "id":  3271,
-        "prefecture":  "沖縄県",
-        "city":  "浦添市",
-        "area":  "浦添地区",
-        "name":  "浦添市地域包括支援センターさっとん",
-        "tel":  "098-877-3103",
-        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+        "id": 3271,
+        "prefecture": "沖縄県",
+        "city": "浦添市",
+        "area": "浦添地区",
+        "name": "浦添市地域包括支援センターさっとん",
+        "tel": "098-877-3103",
+        "url": "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
     },
     {
-        "id":  3272,
-        "prefecture":  "沖縄県",
-        "city":  "浦添市",
-        "area":  "浦西地区",
-        "name":  "浦添市地域包括支援センターゆいまぁる",
-        "tel":  "098-917-5320",
-        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+        "id": 3272,
+        "prefecture": "沖縄県",
+        "city": "浦添市",
+        "area": "浦西地区",
+        "name": "浦添市地域包括支援センターゆいまぁる",
+        "tel": "098-917-5320",
+        "url": "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
     },
     {
-        "id":  3273,
-        "prefecture":  "沖縄県",
-        "city":  "浦添市",
-        "area":  "神森地区",
-        "name":  "浦添市地域包括支援センターてぃだ",
-        "tel":  "098-870-0150",
-        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+        "id": 3273,
+        "prefecture": "沖縄県",
+        "city": "浦添市",
+        "area": "神森地区",
+        "name": "浦添市地域包括支援センターてぃだ",
+        "tel": "098-870-0150",
+        "url": "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
     },
     {
-        "id":  3274,
-        "prefecture":  "沖縄県",
-        "city":  "浦添市",
-        "area":  "仲西地区",
-        "name":  "浦添市地域包括支援センターライフサポート",
-        "tel":  "098-875-2560",
-        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+        "id": 3274,
+        "prefecture": "沖縄県",
+        "city": "浦添市",
+        "area": "仲西地区",
+        "name": "浦添市地域包括支援センターライフサポート",
+        "tel": "098-875-2560",
+        "url": "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
     },
     {
-        "id":  3275,
-        "prefecture":  "沖縄県",
-        "city":  "浦添市",
-        "area":  "港川地区",
-        "name":  "浦添市地域包括支援センターみなとん",
-        "tel":  "098-876-3710",
-        "url":  "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
+        "id": 3275,
+        "prefecture": "沖縄県",
+        "city": "浦添市",
+        "area": "港川地区",
+        "name": "浦添市地域包括支援センターみなとん",
+        "tel": "098-876-3710",
+        "url": "https://www.city.urasoe.lg.jp/doc/609e72ce3d59ae2434bfdae2/"
     },
     {
-        "id":  3296,
-        "prefecture":  "沖縄県",
-        "city":  "宜野湾市",
-        "area":  "野嵩1～3区・普天間1～3区・新城・喜友名",
-        "name":  "地域包括支援センターふてんま",
-        "tel":  "098-943-4165",
-        "url":  "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
+        "id": 3296,
+        "prefecture": "沖縄県",
+        "city": "宜野湾市",
+        "area": "野嵩1～3区・普天間1～3区・新城・喜友名",
+        "name": "地域包括支援センターふてんま",
+        "tel": "098-943-4165",
+        "url": "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
     },
     {
-        "id":  3297,
-        "prefecture":  "沖縄県",
-        "city":  "宜野湾市",
-        "area":  "伊佐・大山・真志喜・宇地泊・大謝名・大謝名団地・嘉数ハイツ",
-        "name":  "地域包括支援センターかいほう",
-        "tel":  "098-942-8377",
-        "url":  "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
+        "id": 3297,
+        "prefecture": "沖縄県",
+        "city": "宜野湾市",
+        "area": "伊佐・大山・真志喜・宇地泊・大謝名・大謝名団地・嘉数ハイツ",
+        "name": "地域包括支援センターかいほう",
+        "tel": "098-942-8377",
+        "url": "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
     },
     {
-        "id":  3298,
-        "prefecture":  "沖縄県",
-        "city":  "宜野湾市",
-        "area":  "真栄原・佐真下・嘉数・我如古・上大謝名",
-        "name":  "地域包括支援センターふれあい",
-        "tel":  "098-897-4165",
-        "url":  "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
+        "id": 3298,
+        "prefecture": "沖縄県",
+        "city": "宜野湾市",
+        "area": "真栄原・佐真下・嘉数・我如古・上大謝名",
+        "name": "地域包括支援センターふれあい",
+        "tel": "098-897-4165",
+        "url": "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
     },
     {
-        "id":  3299,
-        "prefecture":  "沖縄県",
-        "city":  "宜野湾市",
-        "area":  "中原（赤道・上原）・19区（愛知・神山）・宜野湾・長田・志真志",
-        "name":  "地域包括支援センターぎのわん",
-        "tel":  "098-896-1339",
-        "url":  "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
+        "id": 3299,
+        "prefecture": "沖縄県",
+        "city": "宜野湾市",
+        "area": "中原（赤道・上原）・19区（愛知・神山）・宜野湾・長田・志真志",
+        "name": "地域包括支援センターぎのわん",
+        "tel": "098-896-1339",
+        "url": "https://www.city.ginowan.lg.jp/soshiki/kenko/1/houkatu/1577.html"
+    },
+    {
+        "id": 3353,
+        "prefecture": "沖縄県",
+        "city": "渡嘉敷村",
+        "area": "",
+        "name": "渡嘉敷村地域包括支援センター",
+        "tel": "098-896-4720",
+        "url": ""
+    },
+    {
+        "id": 3354,
+        "prefecture": "沖縄県",
+        "city": "与那原町",
+        "area": "",
+        "name": "与那原町役場",
+        "tel": "098-945-1525",
+        "url": ""
+    },
+    {
+        "id": 3355,
+        "prefecture": "沖縄県",
+        "city": "南大東村",
+        "area": "",
+        "name": "南大東村地域包括支援センター",
+        "tel": "09802-2-2036",
+        "url": ""
+    },
+    {
+        "id": 3356,
+        "prefecture": "沖縄県",
+        "city": "竹富町",
+        "area": "",
+        "name": "竹富町地域包括支援センター",
+        "tel": "0980-83-7415",
+        "url": ""
+    },
+    {
+        "id": 3357,
+        "prefecture": "沖縄県",
+        "city": "本部町",
+        "area": "",
+        "name": "本部町地域包括支援センター",
+        "tel": "0980-43-0565",
+        "url": ""
+    },
+    {
+        "id": 3358,
+        "prefecture": "沖縄県",
+        "city": "粟国村",
+        "area": "",
+        "name": "粟国村地域包括支援センター",
+        "tel": "098-988-2017",
+        "url": ""
+    },
+    {
+        "id": 3359,
+        "prefecture": "沖縄県",
+        "city": "伊是名村",
+        "area": "",
+        "name": "伊是名村地域包括支援センター",
+        "tel": "0980-45-2336",
+        "url": ""
+    },
+    {
+        "id": 3360,
+        "prefecture": "沖縄県",
+        "city": "多良間村",
+        "area": "",
+        "name": "多良間村地域包括支援センター",
+        "tel": "0980-79-2623",
+        "url": ""
+    },
+    {
+        "id": 3361,
+        "prefecture": "沖縄県",
+        "city": "南風原町",
+        "area": "",
+        "name": "南風原町地域包括支援センター",
+        "tel": "098-889-3534",
+        "url": ""
+    },
+    {
+        "id": 3362,
+        "prefecture": "沖縄県",
+        "city": "恩納村",
+        "area": "",
+        "name": "恩納村地域包括支援センター",
+        "tel": "098-966-1207",
+        "url": ""
+    },
+    {
+        "id": 3363,
+        "prefecture": "沖縄県",
+        "city": "宮古島市",
+        "area": "",
+        "name": "宮古島市地域包括支援センターひらら",
+        "tel": "0980-75-0656",
+        "url": ""
+    },
+    {
+        "id": 3364,
+        "prefecture": "沖縄県",
+        "city": "宮古島市",
+        "area": "",
+        "name": "宮古島市地域包括支援センターみやこ",
+        "tel": "0980-79-0811",
+        "url": ""
+    },
+    {
+        "id": 3365,
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "area": "",
+        "name": "沖縄市基幹型地域包括支援センター",
+        "tel": "098-939-1212",
+        "url": ""
+    },
+    {
+        "id": 3366,
+        "prefecture": "沖縄県",
+        "city": "北谷町",
+        "area": "",
+        "name": "北谷町地域包括支援センター",
+        "tel": "098-936-1234",
+        "url": ""
+    },
+    {
+        "id": 3367,
+        "prefecture": "沖縄県",
+        "city": "北中城村",
+        "area": "",
+        "name": "北中城村地域包括支援センター",
+        "tel": "098-935-5922",
+        "url": ""
+    },
+    {
+        "id": 3368,
+        "prefecture": "沖縄県",
+        "city": "豊見城市",
+        "area": "",
+        "name": "豊見城市地域包括支援センター友愛",
+        "tel": "098-850-1324",
+        "url": ""
+    },
+    {
+        "id": 3369,
+        "prefecture": "沖縄県",
+        "city": "豊見城市",
+        "area": "",
+        "name": "豊見城市地域包括支援センターとよみの杜",
+        "tel": "098-851-2951",
+        "url": ""
+    },
+    {
+        "id": 3370,
+        "prefecture": "沖縄県",
+        "city": "西原町",
+        "area": "",
+        "name": "西原町地域包括支援センター",
+        "tel": "098-882-0117",
+        "url": ""
+    },
+    {
+        "id": 3371,
+        "prefecture": "沖縄県",
+        "city": "伊江村",
+        "area": "",
+        "name": "伊江村包括支援センター",
+        "tel": "0980-49-2002",
+        "url": ""
+    },
+    {
+        "id": 3372,
+        "prefecture": "沖縄県",
+        "city": "石垣市",
+        "area": "",
+        "name": "石垣市地域包括支援センター",
+        "tel": "0980-84-3333",
+        "url": ""
+    },
+    {
+        "id": 3373,
+        "prefecture": "沖縄県",
+        "city": "糸満市",
+        "area": "",
+        "name": "糸満市地域包括支援センター",
+        "tel": "098-840-8114",
+        "url": ""
+    },
+    {
+        "id": 3374,
+        "prefecture": "沖縄県",
+        "city": "伊平屋村",
+        "area": "",
+        "name": "伊平屋村地域包括支援センター",
+        "tel": "0980-46-2142",
+        "url": ""
+    },
+    {
+        "id": 3375,
+        "prefecture": "沖縄県",
+        "city": "大宜味村",
+        "area": "",
+        "name": "大宜味村地域包括支援センター",
+        "tel": "0980-44-3011",
+        "url": ""
+    },
+    {
+        "id": 3376,
+        "prefecture": "沖縄県",
+        "city": "嘉手納町",
+        "area": "",
+        "name": "嘉手納町地域包括支援センター",
+        "tel": "098-956-0849",
+        "url": ""
+    },
+    {
+        "id": 3377,
+        "prefecture": "沖縄県",
+        "city": "北大東村",
+        "area": "",
+        "name": "北大東村地域包括支援センター",
+        "tel": "09802-3-4567",
+        "url": ""
+    },
+    {
+        "id": 3378,
+        "prefecture": "沖縄県",
+        "city": "金武町",
+        "area": "",
+        "name": "金武町地域包括支援センター",
+        "tel": "098-968-5933",
+        "url": ""
+    },
+    {
+        "id": 3379,
+        "prefecture": "沖縄県",
+        "city": "宜野座村",
+        "area": "",
+        "name": "宜野座村地域包括支援センター",
+        "tel": "098-968-3253",
+        "url": ""
+    },
+    {
+        "id": 3380,
+        "prefecture": "沖縄県",
+        "city": "国頭村",
+        "area": "",
+        "name": "国頭村地域包括支援センター",
+        "tel": "0980-41-5711",
+        "url": ""
+    },
+    {
+        "id": 3381,
+        "prefecture": "沖縄県",
+        "city": "久米島町",
+        "area": "",
+        "name": "久米島町地域包括支援センター",
+        "tel": "098-985-7124",
+        "url": ""
+    },
+    {
+        "id": 3382,
+        "prefecture": "沖縄県",
+        "city": "座間味村",
+        "area": "",
+        "name": "座間味村地域包括支援センター",
+        "tel": "098-896-4045",
+        "url": ""
+    },
+    {
+        "id": 3383,
+        "prefecture": "沖縄県",
+        "city": "渡名喜村",
+        "area": "",
+        "name": "渡名喜村地域包括支援センター",
+        "tel": "098-989-2317",
+        "url": ""
+    },
+    {
+        "id": 3384,
+        "prefecture": "沖縄県",
+        "city": "中城村",
+        "area": "",
+        "name": "中城村地域包括支援センター",
+        "tel": "098-895-1738",
+        "url": ""
+    },
+    {
+        "id": 3385,
+        "prefecture": "沖縄県",
+        "city": "南城市",
+        "area": "",
+        "name": "南城市地域包括支援センター",
+        "tel": "098-946-8980",
+        "url": ""
+    },
+    {
+        "id": 3386,
+        "prefecture": "沖縄県",
+        "city": "東村",
+        "area": "",
+        "name": "東村地域包括支援センター",
+        "tel": "0980-43-2212",
+        "url": ""
+    },
+    {
+        "id": 3387,
+        "prefecture": "沖縄県",
+        "city": "八重瀬町",
+        "area": "",
+        "name": "八重瀬町地域包括支援センター",
+        "tel": "098-998-9598",
+        "url": ""
+    },
+    {
+        "id": 3388,
+        "prefecture": "沖縄県",
+        "city": "読谷村",
+        "area": "",
+        "name": "読谷村地域包括支援センター",
+        "tel": "098-982-9234",
+        "url": ""
     }
 ]
