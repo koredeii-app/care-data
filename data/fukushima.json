@@ -1,26 +1,202 @@
 [
-    {"id":1691,"prefecture":"福島県","city":"福島市","area":"第1・2・4・5方部","name":"福島市中央地域包括支援センター","tel":"024-533-8891","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1692,"prefecture":"福島県","city":"福島市","area":"第3方部","name":"福島市中央東地域包括支援センター","tel":"024-525-7888","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1693,"prefecture":"福島県","city":"福島市","area":"第6方部","name":"福島市中央西地域包括支援センター","tel":"024-563-4880","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1694,"prefecture":"福島県","city":"福島市","area":"渡利・南向台・小倉寺","name":"福島市渡利地域包括支援センター","tel":"024-515-3135","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1695,"prefecture":"福島県","city":"福島市","area":"郷野目・鳥谷野・太平寺","name":"福島市杉妻地域包括支援センター","tel":"024-573-8130","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1696,"prefecture":"福島県","city":"福島市","area":"蓬萊町・清水町・田沢","name":"福島市蓬萊地域包括支援センター","tel":"024-547-2345","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1697,"prefecture":"福島県","city":"福島市","area":"泉・御山・北沢又","name":"福島市清水東地域包括支援センター","tel":"024-558-7300","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1698,"prefecture":"福島県","city":"福島市","area":"森合・野田町・南沢又","name":"福島市清水西地域包括支援センター","tel":"024-591-4876","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1699,"prefecture":"福島県","city":"福島市","area":"笹谷・大笹生","name":"福島市信陵地域包括支援センター","tel":"024-558-7867","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1700,"prefecture":"福島県","city":"福島市","area":"瀬上町・宮代・下飯坂・沖高","name":"福島市北信東地域包括支援センター","tel":"024-553-1555","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1701,"prefecture":"福島県","city":"福島市","area":"岡部・山口・岡島・大波","name":"福島市東部地域包括支援センター","tel":"024-536-5001","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1702,"prefecture":"福島県","city":"福島市","area":"丸子・北矢野目・南矢野目","name":"福島市北信西地域包括支援センター","tel":"024-552-5544","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1703,"prefecture":"福島県","city":"福島市","area":"方木田・吉倉・八木田・仁井田","name":"福島市吉井田地域包括支援センター","tel":"024-546-6222","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1704,"prefecture":"福島県","city":"福島市","area":"佐倉下・佐原・荒井・土湯温泉町","name":"福島市西部地域包括支援センター","tel":"024-594-5800","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1705,"prefecture":"福島県","city":"福島市","area":"飯坂町平野","name":"福島市飯坂南地域包括支援センター","tel":"024-542-8779","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1706,"prefecture":"福島県","city":"福島市","area":"飯坂町中野・飯坂町茂庭","name":"福島市飯坂北地域包括支援センター","tel":"024-573-6077","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1707,"prefecture":"福島県","city":"福島市","area":"飯坂町湯野・飯坂町東湯野","name":"福島市飯坂東地域包括支援センター","tel":"024-542-8411","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1708,"prefecture":"福島県","city":"福島市","area":"松川町・光が丘・金谷川","name":"福島市松川地域包括支援センター","tel":"024-567-5840","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1709,"prefecture":"福島県","city":"福島市","area":"永井川・大森・成川・山田・小田","name":"福島市信夫地域包括支援センター","tel":"024-593-0151","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1710,"prefecture":"福島県","city":"福島市","area":"笹木野・八島田・上野寺・北中央","name":"福島市吾妻東地域包括支援センター","tel":"024-555-3522","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1711,"prefecture":"福島県","city":"福島市","area":"町庭坂・在庭坂・土船・庄野","name":"福島市吾妻西地域包括支援センター","tel":"024-591-3708","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
-    {"id":1712,"prefecture":"福島県","city":"福島市","area":"立子山・飯野町","name":"福島市立子山飯野地域包括支援センター","tel":"024-562-4110","url":"https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"},
+    {
+        "id": 1691,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "第1・2・4・5方部",
+        "name": "福島市中央地域包括支援センター",
+        "tel": "024-533-8891",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1692,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "第3方部",
+        "name": "福島市中央東地域包括支援センター",
+        "tel": "024-525-7888",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1693,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "第6方部",
+        "name": "福島市中央西地域包括支援センター",
+        "tel": "024-563-4880",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1694,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "渡利・南向台・小倉寺",
+        "name": "福島市渡利地域包括支援センター",
+        "tel": "024-515-3135",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1695,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "郷野目・鳥谷野・太平寺",
+        "name": "福島市杉妻地域包括支援センター",
+        "tel": "024-573-8130",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1696,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "蓬萊町・清水町・田沢",
+        "name": "福島市蓬萊地域包括支援センター",
+        "tel": "024-547-2345",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1697,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "泉・御山・北沢又",
+        "name": "福島市清水東地域包括支援センター",
+        "tel": "024-558-7300",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1698,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "森合・野田町・南沢又",
+        "name": "福島市清水西地域包括支援センター",
+        "tel": "024-591-4876",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1699,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "笹谷・大笹生",
+        "name": "福島市信陵地域包括支援センター",
+        "tel": "024-558-7867",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1700,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "瀬上町・宮代・下飯坂・沖高",
+        "name": "福島市北信東地域包括支援センター",
+        "tel": "024-553-1555",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1701,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "岡部・山口・岡島・大波",
+        "name": "福島市東部地域包括支援センター",
+        "tel": "024-536-5001",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1702,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "丸子・北矢野目・南矢野目",
+        "name": "福島市北信西地域包括支援センター",
+        "tel": "024-552-5544",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1703,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "方木田・吉倉・八木田・仁井田",
+        "name": "福島市吉井田地域包括支援センター",
+        "tel": "024-546-6222",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1704,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "佐倉下・佐原・荒井・土湯温泉町",
+        "name": "福島市西部地域包括支援センター",
+        "tel": "024-594-5800",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1705,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "飯坂町平野",
+        "name": "福島市飯坂南地域包括支援センター",
+        "tel": "024-542-8779",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1706,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "飯坂町中野・飯坂町茂庭",
+        "name": "福島市飯坂北地域包括支援センター",
+        "tel": "024-573-6077",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1707,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "飯坂町湯野・飯坂町東湯野",
+        "name": "福島市飯坂東地域包括支援センター",
+        "tel": "024-542-8411",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1708,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "松川町・光が丘・金谷川",
+        "name": "福島市松川地域包括支援センター",
+        "tel": "024-567-5840",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1709,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "永井川・大森・成川・山田・小田",
+        "name": "福島市信夫地域包括支援センター",
+        "tel": "024-593-0151",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1710,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "笹木野・八島田・上野寺・北中央",
+        "name": "福島市吾妻東地域包括支援センター",
+        "tel": "024-555-3522",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1711,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "町庭坂・在庭坂・土船・庄野",
+        "name": "福島市吾妻西地域包括支援センター",
+        "tel": "024-591-3708",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
+    {
+        "id": 1712,
+        "prefecture": "福島県",
+        "city": "福島市",
+        "area": "立子山・飯野町",
+        "name": "福島市立子山飯野地域包括支援センター",
+        "tel": "024-562-4110",
+        "url": "https://www.city.fukushima.fukushima.jp/soshiki/9/1044/3/1/1010.html"
+    },
     {
         "id": 1974,
         "prefecture": "福島県",
@@ -255,15 +431,769 @@
         "tel": "024-956-8200",
         "url": "https://www.city.koriyama.lg.jp/soshiki/67/6325.html"
     },
-    {"id":2790,"prefecture":"福島県","city":"会津若松市","area":"行仁・鶴城・東山小学校区域","name":"若松第1地域包括支援センター","tel":"0242-36-6770","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100435/"},
-    {"id":2791,"prefecture":"福島県","city":"会津若松市","area":"謹教・城西・小金井小学校区域","name":"若松第2地域包括支援センター","tel":"0242-27-0211","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100442/"},
-    {"id":2792,"prefecture":"福島県","city":"会津若松市","area":"門田・城南・大戸小学校区域","name":"若松第3地域包括支援センター","tel":"0242-38-3090","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100459/"},
-    {"id":2793,"prefecture":"福島県","city":"会津若松市","area":"永和・神指・城北・日新小学校区域","name":"若松第4地域包括支援センター","tel":"0242-37-7711","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100466/"},
-    {"id":2794,"prefecture":"福島県","city":"会津若松市","area":"一箕・松長小学校・湊学園区域","name":"若松第5地域包括支援センター","tel":"0242-23-9402","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100473/"},
-    {"id":2795,"prefecture":"福島県","city":"会津若松市","area":"荒舘・川南小学校区域","name":"北会津地域包括支援センター","tel":"0242-56-5005","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100480/"},
-    {"id":2796,"prefecture":"福島県","city":"会津若松市","area":"河東学園区域","name":"河東地域包括支援センター","tel":"0242-75-4815","url":"https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100497/"},
-    {"id":3311,"prefecture":"福島県","city":"須賀川市","area":"旧市街地・浜田地区","name":"須賀川中央地域包括支援センター","tel":"0248-88-8215","url":"https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"},
-    {"id":3312,"prefecture":"福島県","city":"須賀川市","area":"西袋・稲田・滑川地区","name":"須賀川西部地域包括支援センター","tel":"0248-75-3222","url":"https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"},
-    {"id":3313,"prefecture":"福島県","city":"須賀川市","area":"小塩江・大東地区","name":"須賀川東部地域包括支援センター","tel":"0248-79-1551","url":"https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"},
-    {"id":3314,"prefecture":"福島県","city":"須賀川市","area":"長沼・岩瀬地区","name":"須賀川長沼・岩瀬地域包括支援センター","tel":"0248-67-3113","url":"https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"}
+    {
+        "id": 2790,
+        "prefecture": "福島県",
+        "city": "会津若松市",
+        "area": "行仁・鶴城・東山小学校区域",
+        "name": "若松第1地域包括支援センター",
+        "tel": "0242-36-6770",
+        "url": "https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100435/"
+    },
+    {
+        "id": 2791,
+        "prefecture": "福島県",
+        "city": "会津若松市",
+        "area": "謹教・城西・小金井小学校区域",
+        "name": "若松第2地域包括支援センター",
+        "tel": "0242-27-0211",
+        "url": "https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100442/"
+    },
+    {
+        "id": 2792,
+        "prefecture": "福島県",
+        "city": "会津若松市",
+        "area": "門田・城南・大戸小学校区域",
+        "name": "若松第3地域包括支援センター",
+        "tel": "0242-38-3090",
+        "url": "https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100459/"
+    },
+    {
+        "id": 2793,
+        "prefecture": "福島県",
+        "city": "会津若松市",
+        "area": "永和・神指・城北・日新小学校区域",
+        "name": "若松第4地域包括支援センター",
+        "tel": "0242-37-7711",
+        "url": "https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100466/"
+    },
+    {
+        "id": 2794,
+        "prefecture": "福島県",
+        "city": "会津若松市",
+        "area": "一箕・松長小学校・湊学園区域",
+        "name": "若松第5地域包括支援センター",
+        "tel": "0242-23-9402",
+        "url": "https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100473/"
+    },
+    {
+        "id": 2795,
+        "prefecture": "福島県",
+        "city": "会津若松市",
+        "area": "荒舘・川南小学校区域",
+        "name": "北会津地域包括支援センター",
+        "tel": "0242-56-5005",
+        "url": "https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100480/"
+    },
+    {
+        "id": 2796,
+        "prefecture": "福島県",
+        "city": "会津若松市",
+        "area": "河東学園区域",
+        "name": "河東地域包括支援センター",
+        "tel": "0242-75-4815",
+        "url": "https://www.city.aizuwakamatsu.fukushima.jp/info/2024041100497/"
+    },
+    {
+        "id": 3311,
+        "prefecture": "福島県",
+        "city": "須賀川市",
+        "area": "旧市街地・浜田地区",
+        "name": "須賀川中央地域包括支援センター",
+        "tel": "0248-88-8215",
+        "url": "https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"
+    },
+    {
+        "id": 3312,
+        "prefecture": "福島県",
+        "city": "須賀川市",
+        "area": "西袋・稲田・滑川地区",
+        "name": "須賀川西部地域包括支援センター",
+        "tel": "0248-75-3222",
+        "url": "https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"
+    },
+    {
+        "id": 3313,
+        "prefecture": "福島県",
+        "city": "須賀川市",
+        "area": "小塩江・大東地区",
+        "name": "須賀川東部地域包括支援センター",
+        "tel": "0248-79-1551",
+        "url": "https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"
+    },
+    {
+        "id": 3314,
+        "prefecture": "福島県",
+        "city": "須賀川市",
+        "area": "長沼・岩瀬地区",
+        "name": "須賀川長沼・岩瀬地域包括支援センター",
+        "tel": "0248-67-3113",
+        "url": "https://www.city.sukagawa.fukushima.jp/kenko/koureisya_fukushi/1014226/1003217.html"
+    },
+    {
+        "id": 4157,
+        "prefecture": "福島県",
+        "city": "二本松市",
+        "area": "",
+        "name": "二本松市二本松第１地域包括支援センター",
+        "tel": "0243-62-2223",
+        "url": ""
+    },
+    {
+        "id": 4158,
+        "prefecture": "福島県",
+        "city": "二本松市",
+        "area": "",
+        "name": "二本松市二本松第２地域包括支援センター",
+        "tel": "0243-24-5567",
+        "url": ""
+    },
+    {
+        "id": 4159,
+        "prefecture": "福島県",
+        "city": "二本松市",
+        "area": "",
+        "name": "二本松市二本松第３地域包括支援センター",
+        "tel": "0243-62-7520",
+        "url": ""
+    },
+    {
+        "id": 4160,
+        "prefecture": "福島県",
+        "city": "二本松市",
+        "area": "",
+        "name": "二本松市安達地域包括支援センター",
+        "tel": "0243-23-8267",
+        "url": ""
+    },
+    {
+        "id": 4161,
+        "prefecture": "福島県",
+        "city": "二本松市",
+        "area": "",
+        "name": "二本松市岩代地域包括支援センター",
+        "tel": "0243-24-5272",
+        "url": ""
+    },
+    {
+        "id": 4162,
+        "prefecture": "福島県",
+        "city": "二本松市",
+        "area": "",
+        "name": "二本松市東和地域包括支援センター",
+        "tel": "0243-61-7100",
+        "url": ""
+    },
+    {
+        "id": 4163,
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "area": "",
+        "name": "伊達市梁川地域包括支援センター",
+        "tel": "024-572-4872",
+        "url": ""
+    },
+    {
+        "id": 4164,
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "area": "",
+        "name": "伊達市保原地域包括支援センター",
+        "tel": "024-574-4774",
+        "url": ""
+    },
+    {
+        "id": 4165,
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "area": "",
+        "name": "伊達市伊達地域包括支援センター",
+        "tel": "024-551-2144",
+        "url": ""
+    },
+    {
+        "id": 4166,
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "area": "",
+        "name": "伊達市霊山・月舘地域包括支援センター",
+        "tel": "024-586-1323",
+        "url": ""
+    },
+    {
+        "id": 4167,
+        "prefecture": "福島県",
+        "city": "本宮市",
+        "area": "",
+        "name": "本宮市第一地域包括支援センター",
+        "tel": "0243-24-6220",
+        "url": ""
+    },
+    {
+        "id": 4168,
+        "prefecture": "福島県",
+        "city": "本宮市",
+        "area": "",
+        "name": "本宮市第二地域包括支援センター",
+        "tel": "0243-34-3344",
+        "url": ""
+    },
+    {
+        "id": 4169,
+        "prefecture": "福島県",
+        "city": "本宮市",
+        "area": "",
+        "name": "本宮市白沢地域包括支援センター",
+        "tel": "0243-24-5131",
+        "url": ""
+    },
+    {
+        "id": 4170,
+        "prefecture": "福島県",
+        "city": "桑折町",
+        "area": "",
+        "name": "桑折町地域包括支援センター",
+        "tel": "024-582-1188",
+        "url": ""
+    },
+    {
+        "id": 4171,
+        "prefecture": "福島県",
+        "city": "国見町",
+        "area": "",
+        "name": "国見町地域包括支援センター",
+        "tel": "024-585-2702",
+        "url": ""
+    },
+    {
+        "id": 4172,
+        "prefecture": "福島県",
+        "city": "川俣町",
+        "area": "",
+        "name": "川俣町地域包括支援センター",
+        "tel": "024-538-2600",
+        "url": ""
+    },
+    {
+        "id": 4173,
+        "prefecture": "福島県",
+        "city": "大玉村",
+        "area": "",
+        "name": "大玉村地域包括支援センター",
+        "tel": "0243-48-4850",
+        "url": ""
+    },
+    {
+        "id": 4174,
+        "prefecture": "福島県",
+        "city": "田村市",
+        "area": "",
+        "name": "田村市地域包括支援センター",
+        "tel": "0247-68-3737",
+        "url": ""
+    },
+    {
+        "id": 4175,
+        "prefecture": "福島県",
+        "city": "田村市",
+        "area": "",
+        "name": "田村市ふねひき地域包括支援センター",
+        "tel": "0247-73-8762",
+        "url": ""
+    },
+    {
+        "id": 4176,
+        "prefecture": "福島県",
+        "city": "鏡石町",
+        "area": "",
+        "name": "鏡石町地域包括支援センター「あんしんかん」",
+        "tel": "0248-92-3212",
+        "url": ""
+    },
+    {
+        "id": 4177,
+        "prefecture": "福島県",
+        "city": "天栄村",
+        "area": "",
+        "name": "天栄村地域包括支援センター",
+        "tel": "0248-82-3833",
+        "url": ""
+    },
+    {
+        "id": 4178,
+        "prefecture": "福島県",
+        "city": "石川町",
+        "area": "",
+        "name": "石川町地域包括支援センター",
+        "tel": "0247-26-4606",
+        "url": ""
+    },
+    {
+        "id": 4179,
+        "prefecture": "福島県",
+        "city": "玉川村",
+        "area": "",
+        "name": "玉川村地域包括支援センター",
+        "tel": "0247-57-4620",
+        "url": ""
+    },
+    {
+        "id": 4180,
+        "prefecture": "福島県",
+        "city": "平田村",
+        "area": "",
+        "name": "平田村地域包括支援センター",
+        "tel": "0247-55-3125",
+        "url": ""
+    },
+    {
+        "id": 4181,
+        "prefecture": "福島県",
+        "city": "浅川町",
+        "area": "",
+        "name": "浅川町地域包括支援センター",
+        "tel": "0247-36-4723",
+        "url": ""
+    },
+    {
+        "id": 4182,
+        "prefecture": "福島県",
+        "city": "古殿町",
+        "area": "",
+        "name": "古殿町地域包括支援センター",
+        "tel": "0247-53-4403",
+        "url": ""
+    },
+    {
+        "id": 4183,
+        "prefecture": "福島県",
+        "city": "三春町",
+        "area": "",
+        "name": "三春町地域包括支援センター",
+        "tel": "0247-62-8586",
+        "url": ""
+    },
+    {
+        "id": 4184,
+        "prefecture": "福島県",
+        "city": "小野町",
+        "area": "",
+        "name": "小野町地域包括支援センター",
+        "tel": "0247-72-2128",
+        "url": ""
+    },
+    {
+        "id": 4185,
+        "prefecture": "福島県",
+        "city": "白河市",
+        "area": "",
+        "name": "白河市地域包括支援センター",
+        "tel": "0248-21-0332",
+        "url": ""
+    },
+    {
+        "id": 4186,
+        "prefecture": "福島県",
+        "city": "白河市",
+        "area": "",
+        "name": "白河市西部地域包括支援センター",
+        "tel": "0248-21-6032",
+        "url": ""
+    },
+    {
+        "id": 4187,
+        "prefecture": "福島県",
+        "city": "白河市",
+        "area": "",
+        "name": "白河市東部地域包括支援センター",
+        "tel": "0248-31-8889",
+        "url": ""
+    },
+    {
+        "id": 4188,
+        "prefecture": "福島県",
+        "city": "西郷村",
+        "area": "",
+        "name": "西郷村地域包括支援センター",
+        "tel": "0248-25-5121",
+        "url": ""
+    },
+    {
+        "id": 4189,
+        "prefecture": "福島県",
+        "city": "泉崎村",
+        "area": "",
+        "name": "泉崎村地域包括支援センター",
+        "tel": "0248-54-1600",
+        "url": ""
+    },
+    {
+        "id": 4190,
+        "prefecture": "福島県",
+        "city": "中島村",
+        "area": "",
+        "name": "中島村地域包括支援センター",
+        "tel": "0248-51-1773",
+        "url": ""
+    },
+    {
+        "id": 4191,
+        "prefecture": "福島県",
+        "city": "矢吹町",
+        "area": "",
+        "name": "矢吹町地域包括支援センター",
+        "tel": "0248-44-5233",
+        "url": ""
+    },
+    {
+        "id": 4192,
+        "prefecture": "福島県",
+        "city": "棚倉町",
+        "area": "",
+        "name": "棚倉町地域包括支援センター",
+        "tel": "0247-33-7811",
+        "url": ""
+    },
+    {
+        "id": 4193,
+        "prefecture": "福島県",
+        "city": "矢祭町",
+        "area": "",
+        "name": "矢祭町地域包括支援センター",
+        "tel": "0247-46-3770",
+        "url": ""
+    },
+    {
+        "id": 4194,
+        "prefecture": "福島県",
+        "city": "塙町",
+        "area": "",
+        "name": "塙町地域包括支援センター",
+        "tel": "0247-43-2224",
+        "url": ""
+    },
+    {
+        "id": 4195,
+        "prefecture": "福島県",
+        "city": "鮫川村",
+        "area": "",
+        "name": "鮫川村地域包括支援センター",
+        "tel": "0247-29-1233",
+        "url": ""
+    },
+    {
+        "id": 4196,
+        "prefecture": "福島県",
+        "city": "会津若松市",
+        "area": "",
+        "name": "会津若松市若松第５地域包括支援センター",
+        "tel": "0242-39-2779",
+        "url": ""
+    },
+    {
+        "id": 4197,
+        "prefecture": "福島県",
+        "city": "喜多方市",
+        "area": "",
+        "name": "喜多方市地域包括支援センター",
+        "tel": "0241-21-8856",
+        "url": ""
+    },
+    {
+        "id": 4198,
+        "prefecture": "福島県",
+        "city": "北塩原村",
+        "area": "",
+        "name": "北塩原村地域包括支援センター",
+        "tel": "0241-28-3766",
+        "url": ""
+    },
+    {
+        "id": 4199,
+        "prefecture": "福島県",
+        "city": "西会津町",
+        "area": "",
+        "name": "にしあいづ地域包括支援センター",
+        "tel": "0241-45-3327",
+        "url": ""
+    },
+    {
+        "id": 4200,
+        "prefecture": "福島県",
+        "city": "磐梯町",
+        "area": "",
+        "name": "磐梯町地域包括支援センター",
+        "tel": "0242-73-3530",
+        "url": ""
+    },
+    {
+        "id": 4201,
+        "prefecture": "福島県",
+        "city": "猪苗代町",
+        "area": "",
+        "name": "猪苗代町地域包括支援センター",
+        "tel": "0242-72-1530",
+        "url": ""
+    },
+    {
+        "id": 4202,
+        "prefecture": "福島県",
+        "city": "会津坂下町",
+        "area": "",
+        "name": "会津坂下町地域包括支援センタ－",
+        "tel": "0242-84-2700",
+        "url": ""
+    },
+    {
+        "id": 4203,
+        "prefecture": "福島県",
+        "city": "湯川村",
+        "area": "",
+        "name": "湯川村地域包括支援センター",
+        "tel": "0241-28-1585",
+        "url": ""
+    },
+    {
+        "id": 4204,
+        "prefecture": "福島県",
+        "city": "柳津町",
+        "area": "",
+        "name": "柳津町地域包括支援センター",
+        "tel": "0241-42-2550",
+        "url": ""
+    },
+    {
+        "id": 4205,
+        "prefecture": "福島県",
+        "city": "三島町",
+        "area": "",
+        "name": "三島町地域包括支援センター",
+        "tel": "0241-48-5045",
+        "url": ""
+    },
+    {
+        "id": 4206,
+        "prefecture": "福島県",
+        "city": "金山町",
+        "area": "",
+        "name": "金山町地域包括支援センター",
+        "tel": "0241-55-3409",
+        "url": ""
+    },
+    {
+        "id": 4207,
+        "prefecture": "福島県",
+        "city": "昭和村",
+        "area": "",
+        "name": "昭和村地域包括支援センター",
+        "tel": "0241-57-2645",
+        "url": ""
+    },
+    {
+        "id": 4208,
+        "prefecture": "福島県",
+        "city": "会津美里町",
+        "area": "",
+        "name": "会津美里町地域包括支援センター",
+        "tel": "0242-36-7510",
+        "url": ""
+    },
+    {
+        "id": 4209,
+        "prefecture": "福島県",
+        "city": "下郷町",
+        "area": "",
+        "name": "下郷町地域包括支援センター",
+        "tel": "0241-69-1199",
+        "url": ""
+    },
+    {
+        "id": 4210,
+        "prefecture": "福島県",
+        "city": "檜枝岐村",
+        "area": "",
+        "name": "檜枝岐村地域包括支援センター",
+        "tel": "0241-75-2382",
+        "url": ""
+    },
+    {
+        "id": 4211,
+        "prefecture": "福島県",
+        "city": "只見町",
+        "area": "",
+        "name": "只見町地域包括支援センター",
+        "tel": "0241-84-7006",
+        "url": ""
+    },
+    {
+        "id": 4212,
+        "prefecture": "福島県",
+        "city": "南会津町",
+        "area": "",
+        "name": "南会津町地域包括支援センター",
+        "tel": "0241-64-5035",
+        "url": ""
+    },
+    {
+        "id": 4213,
+        "prefecture": "福島県",
+        "city": "相馬市",
+        "area": "",
+        "name": "相馬市地域包括支援センター",
+        "tel": "0244-36-2227",
+        "url": ""
+    },
+    {
+        "id": 4214,
+        "prefecture": "福島県",
+        "city": "南相馬市",
+        "area": "",
+        "name": "原町東地域包括支援センター",
+        "tel": "0244-24-3390",
+        "url": ""
+    },
+    {
+        "id": 4215,
+        "prefecture": "福島県",
+        "city": "南相馬市",
+        "area": "",
+        "name": "南相馬市地域包括支援センター（原町西地域包括支援センター）",
+        "tel": "0244-25-3329",
+        "url": ""
+    },
+    {
+        "id": 4216,
+        "prefecture": "福島県",
+        "city": "南相馬市",
+        "area": "",
+        "name": "南相馬市地域包括支援センター（小高地域包括支援センター）",
+        "tel": "0244-44-1700",
+        "url": ""
+    },
+    {
+        "id": 4217,
+        "prefecture": "福島県",
+        "city": "南相馬市",
+        "area": "",
+        "name": "南相馬市地域包括支援センター（鹿島地域包括支援センター）",
+        "tel": "0244-46-4600",
+        "url": ""
+    },
+    {
+        "id": 4218,
+        "prefecture": "福島県",
+        "city": "飯舘村",
+        "area": "",
+        "name": "飯舘村地域包括支援センター",
+        "tel": "0244-42-1626",
+        "url": ""
+    },
+    {
+        "id": 4219,
+        "prefecture": "福島県",
+        "city": "広野町",
+        "area": "",
+        "name": "広野町地域包括支援センター",
+        "tel": "0240-27-1885",
+        "url": ""
+    },
+    {
+        "id": 4220,
+        "prefecture": "福島県",
+        "city": "川内村",
+        "area": "",
+        "name": "川内村地域包括支援センター",
+        "tel": "0240-38-3222",
+        "url": ""
+    },
+    {
+        "id": 4221,
+        "prefecture": "福島県",
+        "city": "新地町",
+        "area": "",
+        "name": "新地町地域包括支援センター",
+        "tel": "0244-62-5580",
+        "url": ""
+    },
+    {
+        "id": 4222,
+        "prefecture": "福島県",
+        "city": "葛尾村",
+        "area": "",
+        "name": "葛尾村地域包括支援センター",
+        "tel": "0240-29-2020",
+        "url": ""
+    },
+    {
+        "id": 4223,
+        "prefecture": "福島県",
+        "city": "富岡町",
+        "area": "",
+        "name": "富岡町地域包括支援センター",
+        "tel": "0240-22-2111",
+        "url": ""
+    },
+    {
+        "id": 4224,
+        "prefecture": "福島県",
+        "city": "富岡町",
+        "area": "",
+        "name": "富岡町地域包括支援センター（郡山支所）",
+        "tel": "024-983-9214",
+        "url": ""
+    },
+    {
+        "id": 4225,
+        "prefecture": "福島県",
+        "city": "富岡町",
+        "area": "",
+        "name": "富岡町地域包括支援センター（いわき支所）",
+        "tel": "0246-88-1958",
+        "url": ""
+    },
+    {
+        "id": 4226,
+        "prefecture": "福島県",
+        "city": "楢葉町",
+        "area": "",
+        "name": "楢葉町地域包括支援センター",
+        "tel": "0240-25-4155",
+        "url": ""
+    },
+    {
+        "id": 4227,
+        "prefecture": "福島県",
+        "city": "双葉町",
+        "area": "",
+        "name": "双葉町地域包括支援センター（いわき支所）",
+        "tel": "0246-84-6729",
+        "url": ""
+    },
+    {
+        "id": 4228,
+        "prefecture": "福島県",
+        "city": "大熊町",
+        "area": "",
+        "name": "大熊町地域包括支援センター",
+        "tel": "0240-23-7238",
+        "url": ""
+    },
+    {
+        "id": 4229,
+        "prefecture": "福島県",
+        "city": "大熊町",
+        "area": "",
+        "name": "大熊町地域包括支援センター（郡山支所）",
+        "tel": "024-983-0686",
+        "url": ""
+    },
+    {
+        "id": 4230,
+        "prefecture": "福島県",
+        "city": "浪江町",
+        "area": "",
+        "name": "浪江町地域包括支援センター",
+        "tel": "0240-23-7130",
+        "url": ""
+    }
 ]
