@@ -1,46 +1,893 @@
 [
-    {"id":1759,"prefecture":"岐阜県","city":"岐阜市","area":"金華・京町・明徳・本郷","name":"岐阜市地域包括支援センター中央北","tel":"058-213-0128","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018062.html"},
-    {"id":1760,"prefecture":"岐阜県","city":"岐阜市","area":"徹明・木之本","name":"岐阜市地域包括支援センター中央西","tel":"058-215-7616","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018321.html"},
-    {"id":1761,"prefecture":"岐阜県","city":"岐阜市","area":"梅林・白山・華陽","name":"岐阜市地域包括支援センター白梅華","tel":"058-266-8388","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018322.html"},
-    {"id":1762,"prefecture":"岐阜県","city":"岐阜市","area":"島・城西","name":"岐阜市地域包括支援センター島城西","tel":"058-232-5088","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018323.html"},
-    {"id":1763,"prefecture":"岐阜県","city":"岐阜市","area":"早田・則武","name":"岐阜市地域包括支援センター清流","tel":"058-201-6204","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018326.html"},
-    {"id":1764,"prefecture":"岐阜県","city":"岐阜市","area":"木田・七郷・合渡","name":"岐阜市地域包括支援センター西部","tel":"058-251-6541","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018327.html"},
-    {"id":1765,"prefecture":"岐阜県","city":"岐阜市","area":"黒野・方県・西郷・網代","name":"岐阜市地域包括支援センター岐北","tel":"058-234-3933","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018329.html"},
-    {"id":1766,"prefecture":"岐阜県","city":"岐阜市","area":"長良・長良西・長良東","name":"岐阜市地域包括支援センター長良","tel":"058-231-8188","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018330.html"},
-    {"id":1767,"prefecture":"岐阜県","city":"岐阜市","area":"鷺山・常磐","name":"岐阜市地域包括支援センター北部","tel":"058-295-4510","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018331.html"},
-    {"id":1768,"prefecture":"岐阜県","city":"岐阜市","area":"岩野田・岩野田北","name":"岐阜市地域包括支援センター岩野田","tel":"058-214-4640","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018332.html"},
-    {"id":1769,"prefecture":"岐阜県","city":"岐阜市","area":"藍川・三輪南・三輪北","name":"岐阜市地域包括支援センター北東部","tel":"058-241-7003","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018333.html"},
-    {"id":1770,"prefecture":"岐阜県","city":"岐阜市","area":"本荘・三里","name":"岐阜市地域包括支援センター三里本荘","tel":"058-215-7655","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018334.html"},
-    {"id":1771,"prefecture":"岐阜県","city":"岐阜市","area":"市橋・鏡島","name":"岐阜市地域包括支援センター精華","tel":"058-252-3066","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018335.html"},
-    {"id":1772,"prefecture":"岐阜県","city":"岐阜市","area":"鶉・日置江・柳津町","name":"岐阜市地域包括支援センター境川","tel":"058-276-1163","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018336.html"},
-    {"id":1773,"prefecture":"岐阜県","city":"岐阜市","area":"加納東・加納西・茜部","name":"岐阜市地域包括支援センター南部","tel":"058-275-0173","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018337.html"},
-    {"id":1774,"prefecture":"岐阜県","city":"岐阜市","area":"厚見","name":"岐阜市地域包括支援センター厚見","tel":"058-214-4001","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018339.html"},
-    {"id":1775,"prefecture":"岐阜県","city":"岐阜市","area":"長森南","name":"岐阜市地域包括支援センター長森南","tel":"058-247-8160","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018341.html"},
-    {"id":1776,"prefecture":"岐阜県","city":"岐阜市","area":"日野・長森北・長森東・長森西","name":"岐阜市地域包括支援センター長森","tel":"058-245-2855","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018343.html"},
-    {"id":1777,"prefecture":"岐阜県","city":"岐阜市","area":"岩・芥見・芥見東・芥見南","name":"岐阜市地域包括支援センター東部","tel":"058-243-0593","url":"https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018344.html"},
-    {"id":2574,"prefecture":"岐阜県","city":"大垣市","area":"安井・洲本・浅草・川並","name":"大垣市地域包括支援センター","tel":"0584-82-1166","url":"https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"},
-    {"id":2575,"prefecture":"岐阜県","city":"大垣市","area":"興文・東・西・南・南杭瀬・日新・静里・綾里・荒崎","name":"地域包括支援センター（中央・西地区）","tel":"0584-77-2255","url":"https://www.ogakishakyo.or.jp/shisetsu/"},
-    {"id":2576,"prefecture":"岐阜県","city":"大垣市","area":"和合・三城・墨俣","name":"地域包括支援センター（東・墨俣地区）","tel":"0584-84-7111","url":"https://www.ogakishakyo.or.jp/shisetsu/"},
-    {"id":2577,"prefecture":"岐阜県","city":"大垣市","area":"上石津","name":"地域包括支援センター（上石津地区）","tel":"0584-48-0068","url":"https://www.ogakishakyo.or.jp/shisetsu/"},
-    {"id":2578,"prefecture":"岐阜県","city":"大垣市","area":"宇留生・赤坂・青墓","name":"大垣市地域包括支援センターお勝山","tel":"0584-71-5536","url":"https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"},
-    {"id":2579,"prefecture":"岐阜県","city":"大垣市","area":"北・中川","name":"大垣市地域包括支援センター中川ふれあい","tel":"0584-82-1701","url":"https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"},
-    {"id":2625,"prefecture":"岐阜県","city":"各務原市","area":"各務・八木山・中央第一","name":"地域包括支援センター カーサ・レスペート","tel":"058-381-3800","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
-    {"id":2626,"prefecture":"岐阜県","city":"各務原市","area":"那加第一・尾崎・蘇原第一","name":"地域包括支援センター 飛鳥美谷苑","tel":"058-371-3081","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
-    {"id":2627,"prefecture":"岐阜県","city":"各務原市","area":"鵜沼第一・鵜沼第三・緑苑","name":"地域包括支援センター ジョイフル各務原","tel":"058-379-2521","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
-    {"id":2628,"prefecture":"岐阜県","city":"各務原市","area":"陵南・鵜沼第二・中央第二","name":"地域包括支援センター フェニックス・かかみ野","tel":"058-384-8844","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
-    {"id":2629,"prefecture":"岐阜県","city":"各務原市","area":"那加第二・那加第三・蘇原第二","name":"地域包括支援センター 社会福祉協議会","tel":"058-383-7624","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
-    {"id":2630,"prefecture":"岐阜県","city":"各務原市","area":"稲羽西・稲羽東","name":"地域包括支援センター つつじ苑","tel":"058-371-2226","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
-    {"id":2631,"prefecture":"岐阜県","city":"各務原市","area":"川島","name":"地域包括支援センター リバーサイド川島園","tel":"0586-89-2979","url":"https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"},
-    {"id":3039,"prefecture":"岐阜県","city":"多治見市","area":"昭和・脇之島・池田","name":"太平地域包括支援センター","tel":"0572-25-1135","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
-    {"id":3040,"prefecture":"岐阜県","city":"多治見市","area":"養正・滝呂","name":"滝呂地域包括支援センター","tel":"0572-24-5562","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
-    {"id":3041,"prefecture":"岐阜県","city":"多治見市","area":"根本・南姫","name":"南姫地域包括支援センター","tel":"0572-20-2021","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
-    {"id":3042,"prefecture":"岐阜県","city":"多治見市","area":"市之倉・笠原","name":"笠原地域包括支援センター","tel":"0572-45-0007","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
-    {"id":3043,"prefecture":"岐阜県","city":"多治見市","area":"精華・共栄","name":"精華地域包括支援センター","tel":"0572-25-2511","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
-    {"id":3044,"prefecture":"岐阜県","city":"多治見市","area":"小泉・北栄","name":"北栄地域包括支援センター","tel":"0572-27-2211","url":"https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"},
-    {"id":3300,"prefecture":"岐阜県","city":"可児市","area":"石井・石森・柿田・瀬田・中恵土・平貝戸・広見・広眺ケ丘・渕之上","name":"可児市地域包括支援センター","tel":"0574-62-1111","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3301,"prefecture":"岐阜県","city":"可児市","area":"大森・大森台・柿下・桂ケ丘・久々利・久々利柿下入会・桜ケ丘・皐ケ丘・二野・羽崎・羽生ケ丘・星見台・松伏・緑ケ丘","name":"可児市東部地域包括支援センター","tel":"0574-64-5115","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3302,"prefecture":"岐阜県","city":"可児市","area":"愛岐ケ丘・帷子新町・光陽台・菅刈・長坂・西帷子・虹ケ丘・鳩吹台・東帷子・緑・若葉台","name":"可児市帷子地域包括支援センター","tel":"0574-66-3377","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3303,"prefecture":"岐阜県","city":"可児市","area":"土田","name":"可児市土田地域包括支援センター","tel":"0574-66-7171","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3304,"prefecture":"岐阜県","city":"可児市","area":"今・塩・清水ケ丘・下切・塩河・長洞・姫ケ丘・美里ケ丘・みずきケ丘・室原・矢戸・谷迫間","name":"可児市南部地域包括支援センター","tel":"0574-66-6722","url":"https://www.city.kani.lg.jp/9563.htm"},
-    {"id":3305,"prefecture":"岐阜県","city":"可児市","area":"今渡・兼山・川合・川合北・下恵土・禅台寺・徳野南","name":"可児市北部地域包括支援センター","tel":"0574-63-6200","url":"https://www.city.kani.lg.jp/9563.htm"}
+    {
+        "id": 1759,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "金華・京町・明徳・本郷",
+        "name": "岐阜市地域包括支援センター中央北",
+        "tel": "058-213-0128",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018062.html"
+    },
+    {
+        "id": 1760,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "徹明・木之本",
+        "name": "岐阜市地域包括支援センター中央西",
+        "tel": "058-215-7616",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018321.html"
+    },
+    {
+        "id": 1761,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "梅林・白山・華陽",
+        "name": "岐阜市地域包括支援センター白梅華",
+        "tel": "058-266-8388",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018322.html"
+    },
+    {
+        "id": 1762,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "島・城西",
+        "name": "岐阜市地域包括支援センター島城西",
+        "tel": "058-232-5088",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018323.html"
+    },
+    {
+        "id": 1763,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "早田・則武",
+        "name": "岐阜市地域包括支援センター清流",
+        "tel": "058-201-6204",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018326.html"
+    },
+    {
+        "id": 1764,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "木田・七郷・合渡",
+        "name": "岐阜市地域包括支援センター西部",
+        "tel": "058-251-6541",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018327.html"
+    },
+    {
+        "id": 1765,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "黒野・方県・西郷・網代",
+        "name": "岐阜市地域包括支援センター岐北",
+        "tel": "058-234-3933",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018329.html"
+    },
+    {
+        "id": 1766,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "長良・長良西・長良東",
+        "name": "岐阜市地域包括支援センター長良",
+        "tel": "058-231-8188",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018330.html"
+    },
+    {
+        "id": 1767,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "鷺山・常磐",
+        "name": "岐阜市地域包括支援センター北部",
+        "tel": "058-295-4510",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018331.html"
+    },
+    {
+        "id": 1768,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "岩野田・岩野田北",
+        "name": "岐阜市地域包括支援センター岩野田",
+        "tel": "058-214-4640",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018332.html"
+    },
+    {
+        "id": 1769,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "藍川・三輪南・三輪北",
+        "name": "岐阜市地域包括支援センター北東部",
+        "tel": "058-241-7003",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018333.html"
+    },
+    {
+        "id": 1770,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "本荘・三里",
+        "name": "岐阜市地域包括支援センター三里本荘",
+        "tel": "058-215-7655",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018334.html"
+    },
+    {
+        "id": 1771,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "市橋・鏡島",
+        "name": "岐阜市地域包括支援センター精華",
+        "tel": "058-252-3066",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018335.html"
+    },
+    {
+        "id": 1772,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "鶉・日置江・柳津町",
+        "name": "岐阜市地域包括支援センター境川",
+        "tel": "058-276-1163",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018336.html"
+    },
+    {
+        "id": 1773,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "加納東・加納西・茜部",
+        "name": "岐阜市地域包括支援センター南部",
+        "tel": "058-275-0173",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018337.html"
+    },
+    {
+        "id": 1774,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "厚見",
+        "name": "岐阜市地域包括支援センター厚見",
+        "tel": "058-214-4001",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018339.html"
+    },
+    {
+        "id": 1775,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "長森南",
+        "name": "岐阜市地域包括支援センター長森南",
+        "tel": "058-247-8160",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018341.html"
+    },
+    {
+        "id": 1776,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "日野・長森北・長森東・長森西",
+        "name": "岐阜市地域包括支援センター長森",
+        "tel": "058-245-2855",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018343.html"
+    },
+    {
+        "id": 1777,
+        "prefecture": "岐阜県",
+        "city": "岐阜市",
+        "area": "岩・芥見・芥見東・芥見南",
+        "name": "岐阜市地域包括支援センター東部",
+        "tel": "058-243-0593",
+        "url": "https://www.city.gifu.lg.jp/kenko/koureisyafukushi/1004574/1018061/1018344.html"
+    },
+    {
+        "id": 2574,
+        "prefecture": "岐阜県",
+        "city": "大垣市",
+        "area": "安井・洲本・浅草・川並",
+        "name": "大垣市地域包括支援センター",
+        "tel": "0584-82-1166",
+        "url": "https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"
+    },
+    {
+        "id": 2575,
+        "prefecture": "岐阜県",
+        "city": "大垣市",
+        "area": "興文・東・西・南・南杭瀬・日新・静里・綾里・荒崎",
+        "name": "地域包括支援センター（中央・西地区）",
+        "tel": "0584-77-2255",
+        "url": "https://www.ogakishakyo.or.jp/shisetsu/"
+    },
+    {
+        "id": 2576,
+        "prefecture": "岐阜県",
+        "city": "大垣市",
+        "area": "和合・三城・墨俣",
+        "name": "地域包括支援センター（東・墨俣地区）",
+        "tel": "0584-84-7111",
+        "url": "https://www.ogakishakyo.or.jp/shisetsu/"
+    },
+    {
+        "id": 2577,
+        "prefecture": "岐阜県",
+        "city": "大垣市",
+        "area": "上石津",
+        "name": "地域包括支援センター（上石津地区）",
+        "tel": "0584-48-0068",
+        "url": "https://www.ogakishakyo.or.jp/shisetsu/"
+    },
+    {
+        "id": 2578,
+        "prefecture": "岐阜県",
+        "city": "大垣市",
+        "area": "宇留生・赤坂・青墓",
+        "name": "大垣市地域包括支援センターお勝山",
+        "tel": "0584-71-5536",
+        "url": "https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"
+    },
+    {
+        "id": 2579,
+        "prefecture": "岐阜県",
+        "city": "大垣市",
+        "area": "北・中川",
+        "name": "大垣市地域包括支援センター中川ふれあい",
+        "tel": "0584-82-1701",
+        "url": "https://www.city.ogaki.lg.jp/soshiki/7-50-0-0-0_9.html"
+    },
+    {
+        "id": 2625,
+        "prefecture": "岐阜県",
+        "city": "各務原市",
+        "area": "各務・八木山・中央第一",
+        "name": "地域包括支援センター カーサ・レスペート",
+        "tel": "058-381-3800",
+        "url": "https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"
+    },
+    {
+        "id": 2626,
+        "prefecture": "岐阜県",
+        "city": "各務原市",
+        "area": "那加第一・尾崎・蘇原第一",
+        "name": "地域包括支援センター 飛鳥美谷苑",
+        "tel": "058-371-3081",
+        "url": "https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"
+    },
+    {
+        "id": 2627,
+        "prefecture": "岐阜県",
+        "city": "各務原市",
+        "area": "鵜沼第一・鵜沼第三・緑苑",
+        "name": "地域包括支援センター ジョイフル各務原",
+        "tel": "058-379-2521",
+        "url": "https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"
+    },
+    {
+        "id": 2628,
+        "prefecture": "岐阜県",
+        "city": "各務原市",
+        "area": "陵南・鵜沼第二・中央第二",
+        "name": "地域包括支援センター フェニックス・かかみ野",
+        "tel": "058-384-8844",
+        "url": "https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"
+    },
+    {
+        "id": 2629,
+        "prefecture": "岐阜県",
+        "city": "各務原市",
+        "area": "那加第二・那加第三・蘇原第二",
+        "name": "地域包括支援センター 社会福祉協議会",
+        "tel": "058-383-7624",
+        "url": "https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"
+    },
+    {
+        "id": 2630,
+        "prefecture": "岐阜県",
+        "city": "各務原市",
+        "area": "稲羽西・稲羽東",
+        "name": "地域包括支援センター つつじ苑",
+        "tel": "058-371-2226",
+        "url": "https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"
+    },
+    {
+        "id": 2631,
+        "prefecture": "岐阜県",
+        "city": "各務原市",
+        "area": "川島",
+        "name": "地域包括支援センター リバーサイド川島園",
+        "tel": "0586-89-2979",
+        "url": "https://www.city.kakamigahara.lg.jp/kenkofukushi/koureisha/1002515/1002519.html"
+    },
+    {
+        "id": 3039,
+        "prefecture": "岐阜県",
+        "city": "多治見市",
+        "area": "昭和・脇之島・池田",
+        "name": "太平地域包括支援センター",
+        "tel": "0572-25-1135",
+        "url": "https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"
+    },
+    {
+        "id": 3040,
+        "prefecture": "岐阜県",
+        "city": "多治見市",
+        "area": "養正・滝呂",
+        "name": "滝呂地域包括支援センター",
+        "tel": "0572-24-5562",
+        "url": "https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"
+    },
+    {
+        "id": 3041,
+        "prefecture": "岐阜県",
+        "city": "多治見市",
+        "area": "根本・南姫",
+        "name": "南姫地域包括支援センター",
+        "tel": "0572-20-2021",
+        "url": "https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"
+    },
+    {
+        "id": 3042,
+        "prefecture": "岐阜県",
+        "city": "多治見市",
+        "area": "市之倉・笠原",
+        "name": "笠原地域包括支援センター",
+        "tel": "0572-45-0007",
+        "url": "https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"
+    },
+    {
+        "id": 3043,
+        "prefecture": "岐阜県",
+        "city": "多治見市",
+        "area": "精華・共栄",
+        "name": "精華地域包括支援センター",
+        "tel": "0572-25-2511",
+        "url": "https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"
+    },
+    {
+        "id": 3044,
+        "prefecture": "岐阜県",
+        "city": "多治見市",
+        "area": "小泉・北栄",
+        "name": "北栄地域包括支援センター",
+        "tel": "0572-27-2211",
+        "url": "https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/hoken_nenkin/1005325/1005331.html"
+    },
+    {
+        "id": 3300,
+        "prefecture": "岐阜県",
+        "city": "可児市",
+        "area": "石井・石森・柿田・瀬田・中恵土・平貝戸・広見・広眺ケ丘・渕之上",
+        "name": "可児市地域包括支援センター",
+        "tel": "0574-62-1111",
+        "url": "https://www.city.kani.lg.jp/9563.htm"
+    },
+    {
+        "id": 3301,
+        "prefecture": "岐阜県",
+        "city": "可児市",
+        "area": "大森・大森台・柿下・桂ケ丘・久々利・久々利柿下入会・桜ケ丘・皐ケ丘・二野・羽崎・羽生ケ丘・星見台・松伏・緑ケ丘",
+        "name": "可児市東部地域包括支援センター",
+        "tel": "0574-64-5115",
+        "url": "https://www.city.kani.lg.jp/9563.htm"
+    },
+    {
+        "id": 3302,
+        "prefecture": "岐阜県",
+        "city": "可児市",
+        "area": "愛岐ケ丘・帷子新町・光陽台・菅刈・長坂・西帷子・虹ケ丘・鳩吹台・東帷子・緑・若葉台",
+        "name": "可児市帷子地域包括支援センター",
+        "tel": "0574-66-3377",
+        "url": "https://www.city.kani.lg.jp/9563.htm"
+    },
+    {
+        "id": 3303,
+        "prefecture": "岐阜県",
+        "city": "可児市",
+        "area": "土田",
+        "name": "可児市土田地域包括支援センター",
+        "tel": "0574-66-7171",
+        "url": "https://www.city.kani.lg.jp/9563.htm"
+    },
+    {
+        "id": 3304,
+        "prefecture": "岐阜県",
+        "city": "可児市",
+        "area": "今・塩・清水ケ丘・下切・塩河・長洞・姫ケ丘・美里ケ丘・みずきケ丘・室原・矢戸・谷迫間",
+        "name": "可児市南部地域包括支援センター",
+        "tel": "0574-66-6722",
+        "url": "https://www.city.kani.lg.jp/9563.htm"
+    },
+    {
+        "id": 3305,
+        "prefecture": "岐阜県",
+        "city": "可児市",
+        "area": "今渡・兼山・川合・川合北・下恵土・禅台寺・徳野南",
+        "name": "可児市北部地域包括支援センター",
+        "tel": "0574-63-6200",
+        "url": "https://www.city.kani.lg.jp/9563.htm"
+    },
+    {
+        "id": 4568,
+        "prefecture": "岐阜県",
+        "city": "高山市",
+        "area": "",
+        "name": "高山市地域包括支援センター",
+        "tel": "0577-35-2940",
+        "url": ""
+    },
+    {
+        "id": 4569,
+        "prefecture": "岐阜県",
+        "city": "関市",
+        "area": "",
+        "name": "関市中央第１地域包括支援センター",
+        "tel": "0575-23-0660",
+        "url": ""
+    },
+    {
+        "id": 4570,
+        "prefecture": "岐阜県",
+        "city": "関市",
+        "area": "",
+        "name": "関市中央第２地域包括支援センター",
+        "tel": "0575-23-5320",
+        "url": ""
+    },
+    {
+        "id": 4571,
+        "prefecture": "岐阜県",
+        "city": "関市",
+        "area": "",
+        "name": "関市中央第３地域包括支援センター",
+        "tel": "0575-28-2208",
+        "url": ""
+    },
+    {
+        "id": 4572,
+        "prefecture": "岐阜県",
+        "city": "関市",
+        "area": "",
+        "name": "関市中央第４地域包括支援センター",
+        "tel": "0575-24-8580",
+        "url": ""
+    },
+    {
+        "id": 4573,
+        "prefecture": "岐阜県",
+        "city": "関市",
+        "area": "",
+        "name": "関市西地域包括支援センター",
+        "tel": "0575-45-2002",
+        "url": ""
+    },
+    {
+        "id": 4574,
+        "prefecture": "岐阜県",
+        "city": "関市",
+        "area": "",
+        "name": "関市東地域包括支援センター",
+        "tel": "0575-40-1001",
+        "url": ""
+    },
+    {
+        "id": 4575,
+        "prefecture": "岐阜県",
+        "city": "中津川市",
+        "area": "",
+        "name": "中津川市地域包括支援センター",
+        "tel": "0573-66-1111",
+        "url": ""
+    },
+    {
+        "id": 4576,
+        "prefecture": "岐阜県",
+        "city": "中津川市",
+        "area": "",
+        "name": "中津川市瀬戸の里地域包括支援センター",
+        "tel": "0573-66-6999",
+        "url": ""
+    },
+    {
+        "id": 4577,
+        "prefecture": "岐阜県",
+        "city": "中津川市",
+        "area": "",
+        "name": "中津川市ひだまり苑地域包括支援センター",
+        "tel": "0573-78-3101",
+        "url": ""
+    },
+    {
+        "id": 4578,
+        "prefecture": "岐阜県",
+        "city": "中津川市",
+        "area": "",
+        "name": "中津川市ゆうらく苑地域包括支援センター",
+        "tel": "0573-61-0009",
+        "url": ""
+    },
+    {
+        "id": 4579,
+        "prefecture": "岐阜県",
+        "city": "中津川市",
+        "area": "",
+        "name": "中津川市シクラメン地域包括支援センター",
+        "tel": "0573-63-3202",
+        "url": ""
+    },
+    {
+        "id": 4580,
+        "prefecture": "岐阜県",
+        "city": "中津川市",
+        "area": "",
+        "name": "中津川市北部地域包括支援センター",
+        "tel": "0573-67-7220",
+        "url": ""
+    },
+    {
+        "id": 4581,
+        "prefecture": "岐阜県",
+        "city": "美濃市",
+        "area": "",
+        "name": "美濃市地域包括支援センター",
+        "tel": "0575-33-1122",
+        "url": ""
+    },
+    {
+        "id": 4582,
+        "prefecture": "岐阜県",
+        "city": "瑞浪市",
+        "area": "",
+        "name": "瑞浪南部地域包括支援センター",
+        "tel": "0572-68-8111",
+        "url": ""
+    },
+    {
+        "id": 4583,
+        "prefecture": "岐阜県",
+        "city": "瑞浪市",
+        "area": "",
+        "name": "瑞浪北部地域包括支援センター",
+        "tel": "0572-63-1015",
+        "url": ""
+    },
+    {
+        "id": 4584,
+        "prefecture": "岐阜県",
+        "city": "羽島市",
+        "area": "",
+        "name": "羽島市地域包括支援センター",
+        "tel": "058-394-2521",
+        "url": ""
+    },
+    {
+        "id": 4585,
+        "prefecture": "岐阜県",
+        "city": "羽島市",
+        "area": "",
+        "name": "羽島市南部地域包括支援センター",
+        "tel": "058-260-5021",
+        "url": ""
+    },
+    {
+        "id": 4586,
+        "prefecture": "岐阜県",
+        "city": "恵那市",
+        "area": "",
+        "name": "恵那市地域包括支援センター",
+        "tel": "0573-26-6828",
+        "url": ""
+    },
+    {
+        "id": 4587,
+        "prefecture": "岐阜県",
+        "city": "美濃加茂市",
+        "area": "",
+        "name": "美濃加茂市西部長寿支援センター",
+        "tel": "0574-24-7007",
+        "url": ""
+    },
+    {
+        "id": 4588,
+        "prefecture": "岐阜県",
+        "city": "美濃加茂市",
+        "area": "",
+        "name": "美濃加茂市中部長寿支援センター",
+        "tel": "0574-49-8591",
+        "url": ""
+    },
+    {
+        "id": 4589,
+        "prefecture": "岐阜県",
+        "city": "美濃加茂市",
+        "area": "",
+        "name": "美濃加茂市東部長寿支援センター",
+        "tel": "0574-50-1777",
+        "url": ""
+    },
+    {
+        "id": 4590,
+        "prefecture": "岐阜県",
+        "city": "土岐市",
+        "area": "",
+        "name": "土岐市中部地域包括支援センター",
+        "tel": "0572-56-1125",
+        "url": ""
+    },
+    {
+        "id": 4591,
+        "prefecture": "岐阜県",
+        "city": "土岐市",
+        "area": "",
+        "name": "土岐市西部地域包括支援センター",
+        "tel": "0572-57-8100",
+        "url": ""
+    },
+    {
+        "id": 4592,
+        "prefecture": "岐阜県",
+        "city": "土岐市",
+        "area": "",
+        "name": "土岐市東部地域包括支援センター",
+        "tel": "0572-50-1560",
+        "url": ""
+    },
+    {
+        "id": 4593,
+        "prefecture": "岐阜県",
+        "city": "土岐市",
+        "area": "",
+        "name": "土岐市北部地域包括支援センター",
+        "tel": "0572-56-0801",
+        "url": ""
+    },
+    {
+        "id": 4594,
+        "prefecture": "岐阜県",
+        "city": "山県市",
+        "area": "",
+        "name": "山県市南部地域包括支援センター",
+        "tel": "0581-22-6886",
+        "url": ""
+    },
+    {
+        "id": 4595,
+        "prefecture": "岐阜県",
+        "city": "山県市",
+        "area": "",
+        "name": "山県市北部地域包括支援センター",
+        "tel": "0581-52-3340",
+        "url": ""
+    },
+    {
+        "id": 4596,
+        "prefecture": "岐阜県",
+        "city": "飛騨市",
+        "area": "",
+        "name": "飛騨市地域包括支援センター",
+        "tel": "0577-73-6233",
+        "url": ""
+    },
+    {
+        "id": 4597,
+        "prefecture": "岐阜県",
+        "city": "郡上市",
+        "area": "",
+        "name": "郡上市地域包括支援センター",
+        "tel": "0575-67-0008",
+        "url": ""
+    },
+    {
+        "id": 4598,
+        "prefecture": "岐阜県",
+        "city": "下呂市",
+        "area": "",
+        "name": "下呂市地域包括支援センター",
+        "tel": "0576-53-2100",
+        "url": ""
+    },
+    {
+        "id": 4599,
+        "prefecture": "岐阜県",
+        "city": "海津市",
+        "area": "",
+        "name": "海津市地域包括支援センター",
+        "tel": "0584-53-3030",
+        "url": ""
+    },
+    {
+        "id": 4600,
+        "prefecture": "岐阜県",
+        "city": "岐南町",
+        "area": "",
+        "name": "岐南町地域包括支援センター",
+        "tel": "058-247-1312",
+        "url": ""
+    },
+    {
+        "id": 4601,
+        "prefecture": "岐阜県",
+        "city": "笠松町",
+        "area": "",
+        "name": "笠松町地域包括支援センター",
+        "tel": "058-388-7133",
+        "url": ""
+    },
+    {
+        "id": 4602,
+        "prefecture": "岐阜県",
+        "city": "養老町",
+        "area": "",
+        "name": "養老町地域包括支援センター",
+        "tel": "0584-33-0270",
+        "url": ""
+    },
+    {
+        "id": 4603,
+        "prefecture": "岐阜県",
+        "city": "垂井町",
+        "area": "",
+        "name": "垂井町地域包括支援センター",
+        "tel": "0584-22-7505",
+        "url": ""
+    },
+    {
+        "id": 4604,
+        "prefecture": "岐阜県",
+        "city": "関ケ原町",
+        "area": "",
+        "name": "関ケ原町地域包括支援センター",
+        "tel": "0584-43-3201",
+        "url": ""
+    },
+    {
+        "id": 4605,
+        "prefecture": "岐阜県",
+        "city": "坂祝町",
+        "area": "",
+        "name": "坂祝町地域包括支援センター",
+        "tel": "0574-25-7575",
+        "url": ""
+    },
+    {
+        "id": 4606,
+        "prefecture": "岐阜県",
+        "city": "富加町",
+        "area": "",
+        "name": "富加町地域包括支援センター",
+        "tel": "0574-54-2184",
+        "url": ""
+    },
+    {
+        "id": 4607,
+        "prefecture": "岐阜県",
+        "city": "川辺町",
+        "area": "",
+        "name": "川辺町地域包括支援センター",
+        "tel": "0574-53-7216",
+        "url": ""
+    },
+    {
+        "id": 4608,
+        "prefecture": "岐阜県",
+        "city": "七宗町",
+        "area": "",
+        "name": "七宗町地域包括支援センター",
+        "tel": "0574-48-1112",
+        "url": ""
+    },
+    {
+        "id": 4609,
+        "prefecture": "岐阜県",
+        "city": "八百津町",
+        "area": "",
+        "name": "八百津町地域包括支援センター",
+        "tel": "0574-43-3267",
+        "url": ""
+    },
+    {
+        "id": 4610,
+        "prefecture": "岐阜県",
+        "city": "白川町",
+        "area": "",
+        "name": "白川町地域包括支援センター",
+        "tel": "0574-74-0808",
+        "url": ""
+    },
+    {
+        "id": 4611,
+        "prefecture": "岐阜県",
+        "city": "東白川村",
+        "area": "",
+        "name": "東白川村地域包括支援センター",
+        "tel": "0574-78-2100",
+        "url": ""
+    },
+    {
+        "id": 4612,
+        "prefecture": "岐阜県",
+        "city": "御嵩町",
+        "area": "",
+        "name": "御嵩町地域包括支援センター",
+        "tel": "0574-66-8210",
+        "url": ""
+    },
+    {
+        "id": 4613,
+        "prefecture": "岐阜県",
+        "city": "白川村",
+        "area": "",
+        "name": "白川村地域包括支援センター",
+        "tel": "05769-6-1311",
+        "url": ""
+    },
+    {
+        "id": 4614,
+        "prefecture": "岐阜県",
+        "city": "神戸町",
+        "area": "",
+        "name": "神戸町地域包括支援センター",
+        "tel": "0584-27-1158",
+        "url": ""
+    },
+    {
+        "id": 4615,
+        "prefecture": "岐阜県",
+        "city": "輪之内町",
+        "area": "",
+        "name": "輪之内町地域包括支援センター",
+        "tel": "0584-68-2766",
+        "url": ""
+    },
+    {
+        "id": 4616,
+        "prefecture": "岐阜県",
+        "city": "安八町",
+        "area": "",
+        "name": "安八町地域包括支援センター",
+        "tel": "0584-64-7104",
+        "url": ""
+    },
+    {
+        "id": 4617,
+        "prefecture": "岐阜県",
+        "city": "揖斐川町",
+        "area": "",
+        "name": "揖斐川町地域包括支援センター",
+        "tel": "0585-23-1341",
+        "url": ""
+    },
+    {
+        "id": 4618,
+        "prefecture": "岐阜県",
+        "city": "大野町",
+        "area": "",
+        "name": "大野町地域包括支援センター",
+        "tel": "0585-35-5369",
+        "url": ""
+    },
+    {
+        "id": 4619,
+        "prefecture": "岐阜県",
+        "city": "池田町",
+        "area": "",
+        "name": "池田町地域包括支援センター",
+        "tel": "0585-45-8123",
+        "url": ""
+    },
+    {
+        "id": 4620,
+        "prefecture": "岐阜県",
+        "city": "瑞穂市",
+        "area": "",
+        "name": "瑞穂市地域包括支援センター",
+        "tel": "058-327-4118",
+        "url": ""
+    },
+    {
+        "id": 4621,
+        "prefecture": "岐阜県",
+        "city": "本巣市",
+        "area": "",
+        "name": "本巣市地域包括支援センター",
+        "tel": "058-324-5166",
+        "url": ""
+    },
+    {
+        "id": 4622,
+        "prefecture": "岐阜県",
+        "city": "北方町",
+        "area": "",
+        "name": "北方町地域包括支援センター",
+        "tel": "058-323-5540",
+        "url": ""
+    }
 ]
