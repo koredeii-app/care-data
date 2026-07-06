@@ -1,217 +1,1217 @@
 [
     {
-        "id":  1652,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "中部",
-        "name":  "長野市中部地域包括支援センター",
-        "tel":  "026-224-7174",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1652,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "中部",
+        "name": "長野市中部地域包括支援センター",
+        "tel": "026-224-7174",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1653,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "篠ノ井（中部支所）",
-        "name":  "長野市中部地域包括支援センター篠ノ井支所駐在",
-        "tel":  "026-292-3358",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1653,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "篠ノ井（中部支所）",
+        "name": "長野市中部地域包括支援センター篠ノ井支所駐在",
+        "tel": "026-292-3358",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1654,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "西鶴賀",
-        "name":  "長野市地域包括支援センターコンフォートにしつるが",
-        "tel":  "026-219-3510",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1654,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "西鶴賀",
+        "name": "長野市地域包括支援センターコンフォートにしつるが",
+        "tel": "026-219-3510",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1655,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "信州新町",
-        "name":  "長野市地域包括支援センター新町病院",
-        "tel":  "026-291-2305",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1655,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "信州新町",
+        "name": "長野市地域包括支援センター新町病院",
+        "tel": "026-291-2305",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1656,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "篠ノ井",
-        "name":  "長野市地域包括支援センター篠ノ井総合病院",
-        "tel":  "026-261-1062",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1656,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "篠ノ井",
+        "name": "長野市地域包括支援センター篠ノ井総合病院",
+        "tel": "026-261-1062",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1657,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "松代",
-        "name":  "長野市地域包括支援センター長野松代総合病院",
-        "tel":  "026-278-2058",
-        "url":  "https://www.nagano-matsushiro.or.jp/care/"
+        "id": 1657,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "松代",
+        "name": "長野市地域包括支援センター長野松代総合病院",
+        "tel": "026-278-2058",
+        "url": "https://www.nagano-matsushiro.or.jp/care/"
     },
     {
-        "id":  1658,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "篠ノ井二ツ柳",
-        "name":  "長野市地域包括支援センター桜ホーム",
-        "tel":  "026-290-1155",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1658,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "篠ノ井二ツ柳",
+        "name": "長野市地域包括支援センター桜ホーム",
+        "tel": "026-290-1155",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1659,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "吉田",
-        "name":  "長野市地域包括支援センター吉田",
-        "tel":  "026-266-0567",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1659,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "吉田",
+        "name": "長野市地域包括支援センター吉田",
+        "tel": "026-266-0567",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1660,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "富竹",
-        "name":  "長野市地域包括支援センター富竹の里",
-        "tel":  "026-295-7780",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1660,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "富竹",
+        "name": "長野市地域包括支援センター富竹の里",
+        "tel": "026-295-7780",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1661,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "豊野",
-        "name":  "長野市地域包括支援センター豊野サブセンター",
-        "tel":  "026-219-2607",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1661,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "豊野",
+        "name": "長野市地域包括支援センター豊野サブセンター",
+        "tel": "026-219-2607",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1662,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "芹田",
-        "name":  "長野市地域包括支援センター芹田",
-        "tel":  "026-217-5650",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1662,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "芹田",
+        "name": "長野市地域包括支援センター芹田",
+        "tel": "026-217-5650",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1663,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "若槻",
-        "name":  "長野市地域包括支援センター若槻ホーム",
-        "tel":  "026-296-3303",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1663,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "若槻",
+        "name": "長野市地域包括支援センター若槻ホーム",
+        "tel": "026-296-3303",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1664,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "篠ノ井小松原",
-        "name":  "長野市地域包括支援センター星のさと",
-        "tel":  "026-261-1588",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1664,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "篠ノ井小松原",
+        "name": "長野市地域包括支援センター星のさと",
+        "tel": "026-261-1588",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1665,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "高田",
-        "name":  "長野市地域包括支援センターニチイケア高田",
-        "tel":  "026-269-0666",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1665,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "高田",
+        "name": "長野市地域包括支援センターニチイケア高田",
+        "tel": "026-269-0666",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1666,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "若穂",
-        "name":  "長野市地域包括支援センターケアプラザわかほ",
-        "tel":  "026-282-1631",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1666,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "若穂",
+        "name": "長野市地域包括支援センターケアプラザわかほ",
+        "tel": "026-282-1631",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1667,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "小島田",
-        "name":  "長野市地域包括支援センターコスモス",
-        "tel":  "026-284-2166",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1667,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "小島田",
+        "name": "長野市地域包括支援センターコスモス",
+        "tel": "026-284-2166",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1668,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "北長池",
-        "name":  "長野市地域包括支援センターコンフォートきたながいけ",
-        "tel":  "026-254-5250",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1668,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "北長池",
+        "name": "長野市地域包括支援センターコンフォートきたながいけ",
+        "tel": "026-254-5250",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1669,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "安茂里",
-        "name":  "長野市地域包括支援センター安茂里",
-        "tel":  "026-226-3895",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1669,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "安茂里",
+        "name": "長野市地域包括支援センター安茂里",
+        "tel": "026-226-3895",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1670,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "三輪",
-        "name":  "長野市地域包括支援センターケアポート三輪",
-        "tel":  "026-235-2215",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1670,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "三輪",
+        "name": "長野市地域包括支援センターケアポート三輪",
+        "tel": "026-235-2215",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
     {
-        "id":  1671,
-        "prefecture":  "長野県",
-        "city":  "長野市",
-        "area":  "浅川",
-        "name":  "長野市地域包括支援センター博愛の園",
-        "tel":  "026-256-6530",
-        "url":  "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
+        "id": 1671,
+        "prefecture": "長野県",
+        "city": "長野市",
+        "area": "浅川",
+        "name": "長野市地域包括支援センター博愛の園",
+        "tel": "026-256-6530",
+        "url": "https://www.city.nagano.nagano.jp/n101200/contents/p006066.html"
     },
-    {"id":2108,"prefecture":"長野県","city":"松本市","area":"岡田・本郷・四賀","name":"松本市北部地域包括支援センター","tel":"0263-87-0231","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2109,"prefecture":"長野県","city":"松本市","area":"第三・入山辺・里山辺","name":"松本市東部地域包括支援センター","tel":"0263-36-3703","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2110,"prefecture":"長野県","city":"松本市","area":"第一・第二・東部・中央・白板","name":"松本市中央地域包括支援センター","tel":"0263-31-0022","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2111,"prefecture":"長野県","city":"松本市","area":"城北・安原・城東","name":"松本市中央北地域包括支援センター","tel":"0263-34-8511","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2112,"prefecture":"長野県","city":"松本市","area":"庄内・中山","name":"松本市中央南地域包括支援センター","tel":"0263-55-3320","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2113,"prefecture":"長野県","city":"松本市","area":"田川・鎌田","name":"松本市中央西地域包括支援センター","tel":"0263-38-3310","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2114,"prefecture":"長野県","city":"松本市","area":"寿・寿台・内田・松原","name":"松本市南東部地域包括支援センター","tel":"0263-85-7351","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2115,"prefecture":"長野県","city":"松本市","area":"松南・芳川","name":"松本市南部地域包括支援センター","tel":"0263-27-5138","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2116,"prefecture":"長野県","city":"松本市","area":"神林・笹賀・今井","name":"松本市南西部地域包括支援センター","tel":"0263-50-7858","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2117,"prefecture":"長野県","city":"松本市","area":"島内・島立","name":"松本市河西部地域包括支援センター","tel":"0263-48-6361","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2118,"prefecture":"長野県","city":"松本市","area":"新村・和田・梓川","name":"松本市河西部西地域包括支援センター","tel":"0263-47-0294","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2119,"prefecture":"長野県","city":"松本市","area":"安曇・奈川・波田","name":"松本市西部地域包括支援センター","tel":"0263-87-1572","url":"https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"},
-    {"id":2538,"prefecture":"長野県","city":"上田市","area":"東部地区・神川地区","name":"神川地域包括支援センター","tel":"0268-29-2266","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4772.html"},
-    {"id":2539,"prefecture":"長野県","city":"上田市","area":"南部地区・中央地区・北部地区","name":"中央地域包括支援センター","tel":"0268-26-7788","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4786.html"},
-    {"id":2540,"prefecture":"長野県","city":"上田市","area":"西部地区・塩尻地区","name":"西部地域包括支援センター","tel":"0268-71-5712","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4802.html"},
-    {"id":2541,"prefecture":"長野県","city":"上田市","area":"城下地区・川辺地区・泉田地区（半過・下之条・川辺町）","name":"城下地域包括支援センター","tel":"0268-22-2360","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4817.html"},
-    {"id":2542,"prefecture":"長野県","city":"上田市","area":"神科地区・豊殿地区","name":"神科地域包括支援センター","tel":"0268-27-2881","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4829.html"},
-    {"id":2543,"prefecture":"長野県","city":"上田市","area":"塩田地区","name":"塩田地域包括支援センター","tel":"0268-37-1537","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4842.html"},
-    {"id":2544,"prefecture":"長野県","city":"上田市","area":"川西地区・川辺地区・泉田地区（半過・下之条・川辺町以外）","name":"川西地域包括支援センター","tel":"0268-26-1172","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4853.html"},
-    {"id":2545,"prefecture":"長野県","city":"上田市","area":"丸子地域（東内・西内・腰越以外）","name":"丸子地域包括支援センター","tel":"0268-42-0015","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4865.html"},
-    {"id":2546,"prefecture":"長野県","city":"上田市","area":"真田地域","name":"真田地域包括支援センター","tel":"0268-72-8055","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4881.html"},
-    {"id":2547,"prefecture":"長野県","city":"上田市","area":"武石地域・丸子地域（東内・西内・腰越）","name":"武石地域包括支援センター","tel":"0268-41-4055","url":"https://www.city.ueda.nagano.jp/soshiki/korei/4894.html"},
-    {"id":3021,"prefecture":"長野県","city":"佐久市","area":"長土呂・小田井・平根・中佐都・高瀬","name":"佐久平・浅間地域包括支援センター","tel":"0267-88-6281","url":"https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"},
-    {"id":3022,"prefecture":"長野県","city":"佐久市","area":"猿久保・岩村田・東","name":"岩村田・東地域包括支援センター","tel":"0267-67-6910","url":"https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"},
-    {"id":3023,"prefecture":"長野県","city":"佐久市","area":"中込・平賀・内山","name":"中込地域包括支援センター","tel":"0267-64-1751","url":"https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"},
-    {"id":3024,"prefecture":"長野県","city":"佐久市","area":"大沢・野沢・桜井・岸野・前山","name":"野沢地域包括支援センター","tel":"0267-63-8430","url":"https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"},
-    {"id":3025,"prefecture":"長野県","city":"佐久市","area":"臼田地域全域","name":"臼田地域包括支援センター","tel":"0267-81-5100","url":"https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"},
-    {"id":3026,"prefecture":"長野県","city":"佐久市","area":"浅科・望月地域全域","name":"浅科・望月地域包括支援センター","tel":"0267-53-8801","url":"https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"},
-    {"id":3063,"prefecture":"長野県","city":"飯田市","area":"橋北・橋南・羽場・丸山・東野","name":"飯田市いいだ地域包括支援センター","tel":"0265-56-1595","url":"https://iidashakyo.or.jp/elderly/comprehensive/"},
-    {"id":3064,"prefecture":"長野県","city":"飯田市","area":"鼎","name":"飯田市かなえ地域包括支援センター","tel":"0265-53-9411","url":"https://www.city.iida.lg.jp/soshiki/14/houkatsu4.html"},
-    {"id":3065,"prefecture":"長野県","city":"飯田市","area":"山本・伊賀良","name":"飯田市いがら地域包括支援センター","tel":"0265-28-2361","url":"https://iidashakyo.or.jp/elderly/comprehensive/"},
-    {"id":3066,"prefecture":"長野県","city":"飯田市","area":"松尾・下久堅・上久堅","name":"飯田市まつお地域包括支援センター","tel":"0265-48-6601","url":"https://iidashakyo.or.jp/elderly/comprehensive/"},
-    {"id":3067,"prefecture":"長野県","city":"飯田市","area":"千代・龍江・竜丘・川路・三穂","name":"飯田市かわじ地域包括支援センター","tel":"0265-27-6052","url":"https://yuinosato-nagano.or.jp/pages/88/"},
-    {"id":3068,"prefecture":"長野県","city":"飯田市","area":"座光寺・上郷","name":"飯田市かみさと地域包括支援センター","tel":"0265-48-5501","url":"https://www.ja-naganokai.or.jp/facilities/minamishinshu/kamisato/"},
-    {"id":3069,"prefecture":"長野県","city":"飯田市","area":"上村・南信濃","name":"飯田市南信濃地域包括支援センター","tel":"0260-34-1066","url":"https://iidashakyo.or.jp/elderly/comprehensive/"}
+    {
+        "id": 2108,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "岡田・本郷・四賀",
+        "name": "松本市北部地域包括支援センター",
+        "tel": "0263-87-0231",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2109,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "第三・入山辺・里山辺",
+        "name": "松本市東部地域包括支援センター",
+        "tel": "0263-36-3703",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2110,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "第一・第二・東部・中央・白板",
+        "name": "松本市中央地域包括支援センター",
+        "tel": "0263-31-0022",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2111,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "城北・安原・城東",
+        "name": "松本市中央北地域包括支援センター",
+        "tel": "0263-34-8511",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2112,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "庄内・中山",
+        "name": "松本市中央南地域包括支援センター",
+        "tel": "0263-55-3320",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2113,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "田川・鎌田",
+        "name": "松本市中央西地域包括支援センター",
+        "tel": "0263-38-3310",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2114,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "寿・寿台・内田・松原",
+        "name": "松本市南東部地域包括支援センター",
+        "tel": "0263-85-7351",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2115,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "松南・芳川",
+        "name": "松本市南部地域包括支援センター",
+        "tel": "0263-27-5138",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2116,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "神林・笹賀・今井",
+        "name": "松本市南西部地域包括支援センター",
+        "tel": "0263-50-7858",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2117,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "島内・島立",
+        "name": "松本市河西部地域包括支援センター",
+        "tel": "0263-48-6361",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2118,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "新村・和田・梓川",
+        "name": "松本市河西部西地域包括支援センター",
+        "tel": "0263-47-0294",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2119,
+        "prefecture": "長野県",
+        "city": "松本市",
+        "area": "安曇・奈川・波田",
+        "name": "松本市西部地域包括支援センター",
+        "tel": "0263-87-1572",
+        "url": "https://www.city.matsumoto.nagano.jp/soshiki/63/81957.html"
+    },
+    {
+        "id": 2538,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "東部地区・神川地区",
+        "name": "神川地域包括支援センター",
+        "tel": "0268-29-2266",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4772.html"
+    },
+    {
+        "id": 2539,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "南部地区・中央地区・北部地区",
+        "name": "中央地域包括支援センター",
+        "tel": "0268-26-7788",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4786.html"
+    },
+    {
+        "id": 2540,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "西部地区・塩尻地区",
+        "name": "西部地域包括支援センター",
+        "tel": "0268-71-5712",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4802.html"
+    },
+    {
+        "id": 2541,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "城下地区・川辺地区・泉田地区（半過・下之条・川辺町）",
+        "name": "城下地域包括支援センター",
+        "tel": "0268-22-2360",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4817.html"
+    },
+    {
+        "id": 2542,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "神科地区・豊殿地区",
+        "name": "神科地域包括支援センター",
+        "tel": "0268-27-2881",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4829.html"
+    },
+    {
+        "id": 2543,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "塩田地区",
+        "name": "塩田地域包括支援センター",
+        "tel": "0268-37-1537",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4842.html"
+    },
+    {
+        "id": 2544,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "川西地区・川辺地区・泉田地区（半過・下之条・川辺町以外）",
+        "name": "川西地域包括支援センター",
+        "tel": "0268-26-1172",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4853.html"
+    },
+    {
+        "id": 2545,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "丸子地域（東内・西内・腰越以外）",
+        "name": "丸子地域包括支援センター",
+        "tel": "0268-42-0015",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4865.html"
+    },
+    {
+        "id": 2546,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "真田地域",
+        "name": "真田地域包括支援センター",
+        "tel": "0268-72-8055",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4881.html"
+    },
+    {
+        "id": 2547,
+        "prefecture": "長野県",
+        "city": "上田市",
+        "area": "武石地域・丸子地域（東内・西内・腰越）",
+        "name": "武石地域包括支援センター",
+        "tel": "0268-41-4055",
+        "url": "https://www.city.ueda.nagano.jp/soshiki/korei/4894.html"
+    },
+    {
+        "id": 3021,
+        "prefecture": "長野県",
+        "city": "佐久市",
+        "area": "長土呂・小田井・平根・中佐都・高瀬",
+        "name": "佐久平・浅間地域包括支援センター",
+        "tel": "0267-88-6281",
+        "url": "https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"
+    },
+    {
+        "id": 3022,
+        "prefecture": "長野県",
+        "city": "佐久市",
+        "area": "猿久保・岩村田・東",
+        "name": "岩村田・東地域包括支援センター",
+        "tel": "0267-67-6910",
+        "url": "https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"
+    },
+    {
+        "id": 3023,
+        "prefecture": "長野県",
+        "city": "佐久市",
+        "area": "中込・平賀・内山",
+        "name": "中込地域包括支援センター",
+        "tel": "0267-64-1751",
+        "url": "https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"
+    },
+    {
+        "id": 3024,
+        "prefecture": "長野県",
+        "city": "佐久市",
+        "area": "大沢・野沢・桜井・岸野・前山",
+        "name": "野沢地域包括支援センター",
+        "tel": "0267-63-8430",
+        "url": "https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"
+    },
+    {
+        "id": 3025,
+        "prefecture": "長野県",
+        "city": "佐久市",
+        "area": "臼田地域全域",
+        "name": "臼田地域包括支援センター",
+        "tel": "0267-81-5100",
+        "url": "https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"
+    },
+    {
+        "id": 3026,
+        "prefecture": "長野県",
+        "city": "佐久市",
+        "area": "浅科・望月地域全域",
+        "name": "浅科・望月地域包括支援センター",
+        "tel": "0267-53-8801",
+        "url": "https://www.city.saku.nagano.jp/kenko/ikiiki/chiikihokatsu/0019201.html"
+    },
+    {
+        "id": 3063,
+        "prefecture": "長野県",
+        "city": "飯田市",
+        "area": "橋北・橋南・羽場・丸山・東野",
+        "name": "飯田市いいだ地域包括支援センター",
+        "tel": "0265-56-1595",
+        "url": "https://iidashakyo.or.jp/elderly/comprehensive/"
+    },
+    {
+        "id": 3064,
+        "prefecture": "長野県",
+        "city": "飯田市",
+        "area": "鼎",
+        "name": "飯田市かなえ地域包括支援センター",
+        "tel": "0265-53-9411",
+        "url": "https://www.city.iida.lg.jp/soshiki/14/houkatsu4.html"
+    },
+    {
+        "id": 3065,
+        "prefecture": "長野県",
+        "city": "飯田市",
+        "area": "山本・伊賀良",
+        "name": "飯田市いがら地域包括支援センター",
+        "tel": "0265-28-2361",
+        "url": "https://iidashakyo.or.jp/elderly/comprehensive/"
+    },
+    {
+        "id": 3066,
+        "prefecture": "長野県",
+        "city": "飯田市",
+        "area": "松尾・下久堅・上久堅",
+        "name": "飯田市まつお地域包括支援センター",
+        "tel": "0265-48-6601",
+        "url": "https://iidashakyo.or.jp/elderly/comprehensive/"
+    },
+    {
+        "id": 3067,
+        "prefecture": "長野県",
+        "city": "飯田市",
+        "area": "千代・龍江・竜丘・川路・三穂",
+        "name": "飯田市かわじ地域包括支援センター",
+        "tel": "0265-27-6052",
+        "url": "https://yuinosato-nagano.or.jp/pages/88/"
+    },
+    {
+        "id": 3068,
+        "prefecture": "長野県",
+        "city": "飯田市",
+        "area": "座光寺・上郷",
+        "name": "飯田市かみさと地域包括支援センター",
+        "tel": "0265-48-5501",
+        "url": "https://www.ja-naganokai.or.jp/facilities/minamishinshu/kamisato/"
+    },
+    {
+        "id": 3069,
+        "prefecture": "長野県",
+        "city": "飯田市",
+        "area": "上村・南信濃",
+        "name": "飯田市南信濃地域包括支援センター",
+        "tel": "0260-34-1066",
+        "url": "https://iidashakyo.or.jp/elderly/comprehensive/"
+    },
+    {
+        "id": 4488,
+        "prefecture": "長野県",
+        "city": "小諸市",
+        "area": "",
+        "name": "小諸市地域包括支援センター",
+        "tel": "0267-26-2250",
+        "url": ""
+    },
+    {
+        "id": 4489,
+        "prefecture": "長野県",
+        "city": "佐久穂町",
+        "area": "",
+        "name": "佐久穂町地域包括支援センター",
+        "tel": "0267-86-1550",
+        "url": ""
+    },
+    {
+        "id": 4490,
+        "prefecture": "長野県",
+        "city": "小海町",
+        "area": "",
+        "name": "小海町地域包括支援センター",
+        "tel": "0267-91-2200",
+        "url": ""
+    },
+    {
+        "id": 4491,
+        "prefecture": "長野県",
+        "city": "川上村",
+        "area": "",
+        "name": "川上村地域包括支援センター",
+        "tel": "0267-97-3614",
+        "url": ""
+    },
+    {
+        "id": 4492,
+        "prefecture": "長野県",
+        "city": "南牧村",
+        "area": "",
+        "name": "南牧村地域包括支援センター",
+        "tel": "0267-96-1177",
+        "url": ""
+    },
+    {
+        "id": 4493,
+        "prefecture": "長野県",
+        "city": "南相木村",
+        "area": "",
+        "name": "南相木村地域包括支援センター",
+        "tel": "0267-78-1050",
+        "url": ""
+    },
+    {
+        "id": 4494,
+        "prefecture": "長野県",
+        "city": "北相木村",
+        "area": "",
+        "name": "北相木村地域包括支援センター",
+        "tel": "0267-77-2111",
+        "url": ""
+    },
+    {
+        "id": 4495,
+        "prefecture": "長野県",
+        "city": "軽井沢町",
+        "area": "",
+        "name": "軽井沢町地域包括支援センター",
+        "tel": "0267-45-3269",
+        "url": ""
+    },
+    {
+        "id": 4496,
+        "prefecture": "長野県",
+        "city": "御代田町",
+        "area": "",
+        "name": "御代田町地域包括支援センター",
+        "tel": "0267-31-2510",
+        "url": ""
+    },
+    {
+        "id": 4497,
+        "prefecture": "長野県",
+        "city": "立科町",
+        "area": "",
+        "name": "立科町地域包括支援センター",
+        "tel": "0267-88-8418",
+        "url": ""
+    },
+    {
+        "id": 4498,
+        "prefecture": "長野県",
+        "city": "長和町",
+        "area": "",
+        "name": "長和町地域包括支援センター",
+        "tel": "0268-75-2046",
+        "url": ""
+    },
+    {
+        "id": 4499,
+        "prefecture": "長野県",
+        "city": "東御市",
+        "area": "",
+        "name": "東御市地域包括支援センター",
+        "tel": "0268-64-5000",
+        "url": ""
+    },
+    {
+        "id": 4500,
+        "prefecture": "長野県",
+        "city": "青木村",
+        "area": "",
+        "name": "青木村地域包括支援センター",
+        "tel": "0268-49-0111",
+        "url": ""
+    },
+    {
+        "id": 4501,
+        "prefecture": "長野県",
+        "city": "岡谷市",
+        "area": "",
+        "name": "岡谷市地域包括支援センター",
+        "tel": "0266-23-2336",
+        "url": ""
+    },
+    {
+        "id": 4502,
+        "prefecture": "長野県",
+        "city": "諏訪市",
+        "area": "",
+        "name": "諏訪市地域包括支援センター",
+        "tel": "0266-52-4141",
+        "url": ""
+    },
+    {
+        "id": 4503,
+        "prefecture": "長野県",
+        "city": "茅野市",
+        "area": "",
+        "name": "茅野市地域包括支援センター",
+        "tel": "0266-72-2101",
+        "url": ""
+    },
+    {
+        "id": 4504,
+        "prefecture": "長野県",
+        "city": "富士見町",
+        "area": "",
+        "name": "富士見町地域包括支援センター",
+        "tel": "0266-26-3377",
+        "url": ""
+    },
+    {
+        "id": 4505,
+        "prefecture": "長野県",
+        "city": "下諏訪町",
+        "area": "",
+        "name": "下諏訪町地域包括支援センター",
+        "tel": "0266-62-8200",
+        "url": ""
+    },
+    {
+        "id": 4506,
+        "prefecture": "長野県",
+        "city": "原村",
+        "area": "",
+        "name": "原村地域包括支援センター",
+        "tel": "0266-70-1200",
+        "url": ""
+    },
+    {
+        "id": 4507,
+        "prefecture": "長野県",
+        "city": "伊那市",
+        "area": "",
+        "name": "伊那市地域包括支援センター",
+        "tel": "0265-78-4111",
+        "url": ""
+    },
+    {
+        "id": 4508,
+        "prefecture": "長野県",
+        "city": "辰野町",
+        "area": "",
+        "name": "辰野町地域包括支援センター",
+        "tel": "0266-41-1111",
+        "url": ""
+    },
+    {
+        "id": 4509,
+        "prefecture": "長野県",
+        "city": "駒ヶ根市",
+        "area": "",
+        "name": "駒ヶ根市地域包括支援センター",
+        "tel": "0265-83-2111",
+        "url": ""
+    },
+    {
+        "id": 4510,
+        "prefecture": "長野県",
+        "city": "飯島町",
+        "area": "",
+        "name": "飯島町地域包括支援センター",
+        "tel": "0265-86-3111",
+        "url": ""
+    },
+    {
+        "id": 4511,
+        "prefecture": "長野県",
+        "city": "箕輪町",
+        "area": "",
+        "name": "箕輪町地域包括支援センター",
+        "tel": "0265-70-6622",
+        "url": ""
+    },
+    {
+        "id": 4512,
+        "prefecture": "長野県",
+        "city": "中川村",
+        "area": "",
+        "name": "中川村地域包括支援センター",
+        "tel": "0265-88-6177",
+        "url": ""
+    },
+    {
+        "id": 4513,
+        "prefecture": "長野県",
+        "city": "南箕輪村",
+        "area": "",
+        "name": "南箕輪村地域包括支援センター",
+        "tel": "0265-72-2105",
+        "url": ""
+    },
+    {
+        "id": 4514,
+        "prefecture": "長野県",
+        "city": "宮田村",
+        "area": "",
+        "name": "宮田村地域包括支援センター",
+        "tel": "0265-84-1255",
+        "url": ""
+    },
+    {
+        "id": 4515,
+        "prefecture": "長野県",
+        "city": "松川町",
+        "area": "",
+        "name": "松川町地域包括支援センター",
+        "tel": "0265-36-6800",
+        "url": ""
+    },
+    {
+        "id": 4516,
+        "prefecture": "長野県",
+        "city": "高森町",
+        "area": "",
+        "name": "高森町地域包括支援センター",
+        "tel": "0265-35-9412",
+        "url": ""
+    },
+    {
+        "id": 4517,
+        "prefecture": "長野県",
+        "city": "阿南町",
+        "area": "",
+        "name": "阿南町地域包括支援センター",
+        "tel": "0260-22-4051",
+        "url": ""
+    },
+    {
+        "id": 4518,
+        "prefecture": "長野県",
+        "city": "阿智村",
+        "area": "",
+        "name": "阿智村地域包括支援センター",
+        "tel": "0265-45-1140",
+        "url": ""
+    },
+    {
+        "id": 4519,
+        "prefecture": "長野県",
+        "city": "平谷村",
+        "area": "",
+        "name": "平谷村地域包括支援センター",
+        "tel": "0265-48-2211",
+        "url": ""
+    },
+    {
+        "id": 4520,
+        "prefecture": "長野県",
+        "city": "根羽村",
+        "area": "",
+        "name": "根羽村地域包括支援センター",
+        "tel": "0265-49-2111",
+        "url": ""
+    },
+    {
+        "id": 4521,
+        "prefecture": "長野県",
+        "city": "下條村",
+        "area": "",
+        "name": "下條村地域包括支援センター",
+        "tel": "0260-27-1231",
+        "url": ""
+    },
+    {
+        "id": 4522,
+        "prefecture": "長野県",
+        "city": "売木村",
+        "area": "",
+        "name": "売木村地域包括支援センター",
+        "tel": "0260-28-2022",
+        "url": ""
+    },
+    {
+        "id": 4523,
+        "prefecture": "長野県",
+        "city": "天龍村",
+        "area": "",
+        "name": "天龍村地域包括支援センター",
+        "tel": "0260-32-1021",
+        "url": ""
+    },
+    {
+        "id": 4524,
+        "prefecture": "長野県",
+        "city": "泰阜村",
+        "area": "",
+        "name": "泰阜村地域包括支援センター",
+        "tel": "0260-26-2331",
+        "url": ""
+    },
+    {
+        "id": 4525,
+        "prefecture": "長野県",
+        "city": "喬木村",
+        "area": "",
+        "name": "喬木村地域包括支援センター",
+        "tel": "0265-33-1120",
+        "url": ""
+    },
+    {
+        "id": 4526,
+        "prefecture": "長野県",
+        "city": "豊丘村",
+        "area": "",
+        "name": "豊丘村地域包括支援センター",
+        "tel": "0265-35-9064",
+        "url": ""
+    },
+    {
+        "id": 4527,
+        "prefecture": "長野県",
+        "city": "大鹿村",
+        "area": "",
+        "name": "大鹿村地域包括支援センター",
+        "tel": "0265-39-2268",
+        "url": ""
+    },
+    {
+        "id": 4528,
+        "prefecture": "長野県",
+        "city": "木曽町",
+        "area": "",
+        "name": "木曽町地域包括支援センター",
+        "tel": "0264-22-4038",
+        "url": ""
+    },
+    {
+        "id": 4529,
+        "prefecture": "長野県",
+        "city": "上松町",
+        "area": "",
+        "name": "上松町地域包括支援センター",
+        "tel": "0264-52-5550",
+        "url": ""
+    },
+    {
+        "id": 4530,
+        "prefecture": "長野県",
+        "city": "南木曽町",
+        "area": "",
+        "name": "南木曽町地域包括支援センター",
+        "tel": "0264-57-2001",
+        "url": ""
+    },
+    {
+        "id": 4531,
+        "prefecture": "長野県",
+        "city": "木祖村",
+        "area": "",
+        "name": "木祖村地域包括支援センター",
+        "tel": "0264-36-2001",
+        "url": ""
+    },
+    {
+        "id": 4532,
+        "prefecture": "長野県",
+        "city": "王滝村",
+        "area": "",
+        "name": "王滝村地域包括支援センター",
+        "tel": "0264-48-3155",
+        "url": ""
+    },
+    {
+        "id": 4533,
+        "prefecture": "長野県",
+        "city": "大桑村",
+        "area": "",
+        "name": "大桑村地域包括支援センター",
+        "tel": "0264-55-4022",
+        "url": ""
+    },
+    {
+        "id": 4534,
+        "prefecture": "長野県",
+        "city": "塩尻市",
+        "area": "",
+        "name": "塩尻市中央地域包括支援センター",
+        "tel": "0263-52-0280",
+        "url": ""
+    },
+    {
+        "id": 4535,
+        "prefecture": "長野県",
+        "city": "塩尻市",
+        "area": "",
+        "name": "塩尻市西部地域包括支援センター",
+        "tel": "0263-88-3314",
+        "url": ""
+    },
+    {
+        "id": 4536,
+        "prefecture": "長野県",
+        "city": "塩尻市",
+        "area": "",
+        "name": "塩尻市北部地域包括支援センター",
+        "tel": "0263-88-9005",
+        "url": ""
+    },
+    {
+        "id": 4537,
+        "prefecture": "長野県",
+        "city": "安曇野市",
+        "area": "",
+        "name": "安曇野市中部地域包括支援センター",
+        "tel": "0263-81-0760",
+        "url": ""
+    },
+    {
+        "id": 4538,
+        "prefecture": "長野県",
+        "city": "安曇野市",
+        "area": "",
+        "name": "安曇野市北部地域包括支援センター",
+        "tel": "0263-72-9986",
+        "url": ""
+    },
+    {
+        "id": 4539,
+        "prefecture": "長野県",
+        "city": "安曇野市",
+        "area": "",
+        "name": "安曇野市南部地域包括支援センター",
+        "tel": "0263-77-4007",
+        "url": ""
+    },
+    {
+        "id": 4540,
+        "prefecture": "長野県",
+        "city": "麻績村",
+        "area": "",
+        "name": "麻績村地域包括支援センター",
+        "tel": "0263-67-3001",
+        "url": ""
+    },
+    {
+        "id": 4541,
+        "prefecture": "長野県",
+        "city": "生坂村",
+        "area": "",
+        "name": "生坂村地域包括支援センター",
+        "tel": "0263-69-3500",
+        "url": ""
+    },
+    {
+        "id": 4542,
+        "prefecture": "長野県",
+        "city": "山形村",
+        "area": "",
+        "name": "山形村地域包括支援センター",
+        "tel": "0263-97-2100",
+        "url": ""
+    },
+    {
+        "id": 4543,
+        "prefecture": "長野県",
+        "city": "朝日村",
+        "area": "",
+        "name": "朝日村地域包括支援センター",
+        "tel": "0263-99-2251",
+        "url": ""
+    },
+    {
+        "id": 4544,
+        "prefecture": "長野県",
+        "city": "筑北村",
+        "area": "",
+        "name": "筑北村地域包括支援センター",
+        "tel": "0263-66-0122",
+        "url": ""
+    },
+    {
+        "id": 4545,
+        "prefecture": "長野県",
+        "city": "大町市",
+        "area": "",
+        "name": "大町市北部地域包括支援センター",
+        "tel": "0261-21-1702",
+        "url": ""
+    },
+    {
+        "id": 4546,
+        "prefecture": "長野県",
+        "city": "大町市",
+        "area": "",
+        "name": "大町市南部地域包括支援センター",
+        "tel": "0261-85-0062",
+        "url": ""
+    },
+    {
+        "id": 4547,
+        "prefecture": "長野県",
+        "city": "松川村",
+        "area": "",
+        "name": "松川村地域包括支援センター",
+        "tel": "0261-62-3290",
+        "url": ""
+    },
+    {
+        "id": 4548,
+        "prefecture": "長野県",
+        "city": "池田町",
+        "area": "",
+        "name": "池田町地域包括支援センター",
+        "tel": "0261-61-5000",
+        "url": ""
+    },
+    {
+        "id": 4549,
+        "prefecture": "長野県",
+        "city": "小谷村",
+        "area": "",
+        "name": "小谷村地域包括支援センター",
+        "tel": "0261-82-3135",
+        "url": ""
+    },
+    {
+        "id": 4550,
+        "prefecture": "長野県",
+        "city": "白馬村",
+        "area": "",
+        "name": "白馬村地域包括支援センター",
+        "tel": "0261-72-6667",
+        "url": ""
+    },
+    {
+        "id": 4551,
+        "prefecture": "長野県",
+        "city": "須坂市",
+        "area": "",
+        "name": "須坂市地域包括支援センター須坂やすらぎの園",
+        "tel": "026-245-4566",
+        "url": ""
+    },
+    {
+        "id": 4552,
+        "prefecture": "長野県",
+        "city": "須坂市",
+        "area": "",
+        "name": "須坂市地域包括支援センター",
+        "tel": "026-214-2611",
+        "url": ""
+    },
+    {
+        "id": 4553,
+        "prefecture": "長野県",
+        "city": "千曲市",
+        "area": "",
+        "name": "千曲市戸倉上山田地域包括支援センター",
+        "tel": "026-273-1111",
+        "url": ""
+    },
+    {
+        "id": 4554,
+        "prefecture": "長野県",
+        "city": "千曲市",
+        "area": "",
+        "name": "千曲市更埴川東地域包括支援センター",
+        "tel": "026-213-5085",
+        "url": ""
+    },
+    {
+        "id": 4555,
+        "prefecture": "長野県",
+        "city": "坂城町",
+        "area": "",
+        "name": "坂城町地域包括支援センター",
+        "tel": "0268-75-6205",
+        "url": ""
+    },
+    {
+        "id": 4556,
+        "prefecture": "長野県",
+        "city": "高山村",
+        "area": "",
+        "name": "高山村地域包括支援センター",
+        "tel": "026-242-1203",
+        "url": ""
+    },
+    {
+        "id": 4557,
+        "prefecture": "長野県",
+        "city": "小布施町",
+        "area": "",
+        "name": "小布施町地域包括支援センター",
+        "tel": "026-242-6680",
+        "url": ""
+    },
+    {
+        "id": 4558,
+        "prefecture": "長野県",
+        "city": "飯綱町",
+        "area": "",
+        "name": "飯綱町地域包括支援センター",
+        "tel": "026-253-2485",
+        "url": ""
+    },
+    {
+        "id": 4559,
+        "prefecture": "長野県",
+        "city": "信濃町",
+        "area": "",
+        "name": "信濃町地域包括支援センター",
+        "tel": "026-255-4214",
+        "url": ""
+    },
+    {
+        "id": 4560,
+        "prefecture": "長野県",
+        "city": "小川村",
+        "area": "",
+        "name": "小川村地域包括支援センター",
+        "tel": "026-269-2255",
+        "url": ""
+    },
+    {
+        "id": 4561,
+        "prefecture": "長野県",
+        "city": "中野市",
+        "area": "",
+        "name": "中野市地域包括支援センター",
+        "tel": "0269-22-2111",
+        "url": ""
+    },
+    {
+        "id": 4562,
+        "prefecture": "長野県",
+        "city": "飯山市",
+        "area": "",
+        "name": "飯山市地域包括支援センター",
+        "tel": "0269-67-0728",
+        "url": ""
+    },
+    {
+        "id": 4563,
+        "prefecture": "長野県",
+        "city": "中野市",
+        "area": "",
+        "name": "中野市地域包括支援センター北信総合病院",
+        "tel": "0269-38-1377",
+        "url": ""
+    },
+    {
+        "id": 4564,
+        "prefecture": "長野県",
+        "city": "木島平村",
+        "area": "",
+        "name": "木島平村地域包括支援センター",
+        "tel": "0269-82-3111",
+        "url": ""
+    },
+    {
+        "id": 4565,
+        "prefecture": "長野県",
+        "city": "山ノ内町",
+        "area": "",
+        "name": "山ノ内町地域包括支援センター",
+        "tel": "0269-33-8411",
+        "url": ""
+    },
+    {
+        "id": 4566,
+        "prefecture": "長野県",
+        "city": "栄村",
+        "area": "",
+        "name": "栄村地域包括支援センター",
+        "tel": "0269-87-3301",
+        "url": ""
+    },
+    {
+        "id": 4567,
+        "prefecture": "長野県",
+        "city": "野沢温泉村",
+        "area": "",
+        "name": "野沢温泉村地域包括支援センター",
+        "tel": "0269-85-4701",
+        "url": ""
+    }
 ]
