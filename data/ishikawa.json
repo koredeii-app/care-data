@@ -1,344 +1,506 @@
-﻿[
+[
     {
-        "id":  1106,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "森本",
-        "name":  "金沢市地域包括支援センター きしかわ",
-        "tel":  "076-257-7878",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1106,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "森本",
+        "name": "金沢市地域包括支援センター きしかわ",
+        "tel": "076-257-7878",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1107,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "小坂・千坂",
-        "name":  "金沢市地域包括支援センター ふくひさ",
-        "tel":  "076-293-2913",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1107,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "小坂・千坂",
+        "name": "金沢市地域包括支援センター ふくひさ",
+        "tel": "076-293-2913",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1108,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "浅野・森山・夕日寺",
-        "name":  "金沢市地域包括支援センター かすが",
-        "tel":  "076-253-4165",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1108,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "浅野・森山・夕日寺",
+        "name": "金沢市地域包括支援センター かすが",
+        "tel": "076-253-4165",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1109,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "長町・松ヶ枝・長土塀・芳斉・此花・瓢箪・馬場",
-        "name":  "金沢市地域包括支援センター おおてまち",
-        "tel":  "076-263-5517",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1109,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "長町・松ヶ枝・長土塀・芳斉・此花・瓢箪・馬場",
+        "name": "金沢市地域包括支援センター おおてまち",
+        "tel": "076-263-5517",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1110,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "材木・味噌蔵",
-        "name":  "金沢市地域包括支援センター さくらまち",
-        "tel":  "076-222-5722",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1110,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "材木・味噌蔵",
+        "name": "金沢市地域包括支援センター さくらまち",
+        "tel": "076-222-5722",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1111,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "犀川・湯涌・浅川",
-        "name":  "金沢市地域包括支援センター たがみ",
-        "tel":  "076-231-8025",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1111,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "犀川・湯涌・浅川",
+        "name": "金沢市地域包括支援センター たがみ",
+        "tel": "076-231-8025",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1112,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "諸江・浅野川・川北",
-        "name":  "金沢市地域包括支援センター もろえ",
-        "tel":  "076-293-5084",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1112,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "諸江・浅野川・川北",
+        "name": "金沢市地域包括支援センター もろえ",
+        "tel": "076-293-5084",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1113,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "鞍月・粟崎・大野・金石",
-        "name":  "金沢市地域包括支援センター くらつき",
-        "tel":  "076-237-8063",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1113,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "鞍月・粟崎・大野・金石",
+        "name": "金沢市地域包括支援センター くらつき",
+        "tel": "076-237-8063",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1114,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "大徳",
-        "name":  "金沢市地域包括支援センター えきにしほんまち",
-        "tel":  "076-233-1873",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1114,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "大徳",
+        "name": "金沢市地域包括支援センター えきにしほんまち",
+        "tel": "076-233-1873",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1115,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "長田・戸板・西",
-        "name":  "金沢市地域包括支援センター ひろおか",
-        "tel":  "076-234-2129",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1115,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "長田・戸板・西",
+        "name": "金沢市地域包括支援センター ひろおか",
+        "tel": "076-234-2129",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1116,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "米丸・新神田",
-        "name":  "金沢市地域包括支援センター まぎら",
-        "tel":  "076-272-8358",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1116,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "米丸・新神田",
+        "name": "金沢市地域包括支援センター まぎら",
+        "tel": "076-272-8358",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1117,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "二塚・安原",
-        "name":  "金沢市地域包括支援センター きたづか",
-        "tel":  "076-240-4604",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1117,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "二塚・安原",
+        "name": "金沢市地域包括支援センター きたづか",
+        "tel": "076-240-4604",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1118,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "新竪・菊川・小立野",
-        "name":  "金沢市地域包括支援センター とびうめ",
-        "tel":  "076-231-3377",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1118,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "新竪・菊川・小立野",
+        "name": "金沢市地域包括支援センター とびうめ",
+        "tel": "076-231-3377",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1119,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "崎浦・内川",
-        "name":  "金沢市地域包括支援センター みつくちしんまち",
-        "tel":  "076-263-7163",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1119,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "崎浦・内川",
+        "name": "金沢市地域包括支援センター みつくちしんまち",
+        "tel": "076-263-7163",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1120,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "十一屋・泉野・長坂台",
-        "name":  "金沢市地域包括支援センター ながさか",
-        "tel":  "076-280-5111",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1120,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "十一屋・泉野・長坂台",
+        "name": "金沢市地域包括支援センター ながさか",
+        "tel": "076-280-5111",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1121,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "野町・中村・弥生",
-        "name":  "金沢市地域包括支援センター いずみの",
-        "tel":  "076-259-0522",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1121,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "野町・中村・弥生",
+        "name": "金沢市地域包括支援センター いずみの",
+        "tel": "076-259-0522",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1122,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "三馬・米泉",
-        "name":  "金沢市地域包括支援センター ありまつ",
-        "tel":  "076-242-5510",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1122,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "三馬・米泉",
+        "name": "金沢市地域包括支援センター ありまつ",
+        "tel": "076-242-5510",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1123,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "富樫・伏見台",
-        "name":  "金沢市地域包括支援センター やましな",
-        "tel":  "076-241-8165",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1123,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "富樫・伏見台",
+        "name": "金沢市地域包括支援センター やましな",
+        "tel": "076-241-8165",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1124,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "額・扇台・四十万",
-        "name":  "金沢市地域包括支援センター ぬか",
-        "tel":  "076-225-5031",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1124,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "額・扇台・四十万",
+        "name": "金沢市地域包括支援センター ぬか",
+        "tel": "076-225-5031",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  1125,
-        "prefecture":  "石川県",
-        "city":  "金沢市",
-        "area":  "押野・西南部・三和",
-        "name":  "金沢市地域包括支援センター かみあらや",
-        "tel":  "076-269-0850",
-        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+        "id": 1125,
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "area": "押野・西南部・三和",
+        "name": "金沢市地域包括支援センター かみあらや",
+        "tel": "076-269-0850",
+        "url": "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
     },
     {
-        "id":  3005,
-        "prefecture":  "石川県",
-        "city":  "小松市",
-        "area":  "芦城、第一（糸町・白江町・白松町を除く）",
-        "name":  "丸内・芦城高齢者総合相談センター",
-        "tel":  "0761-23-5225",
-        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+        "id": 3005,
+        "prefecture": "石川県",
+        "city": "小松市",
+        "area": "芦城、第一（糸町・白江町・白松町を除く）",
+        "name": "丸内・芦城高齢者総合相談センター",
+        "tel": "0761-23-5225",
+        "url": "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
     },
     {
-        "id":  3006,
-        "prefecture":  "石川県",
-        "city":  "小松市",
-        "area":  "稚松（上牧町・下牧町を除く）、第一（糸町・白江町・白松町）",
-        "name":  "丸内・芦城第二高齢者総合相談センター",
-        "tel":  "0761-22-5070",
-        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+        "id": 3006,
+        "prefecture": "石川県",
+        "city": "小松市",
+        "area": "稚松（上牧町・下牧町を除く）、第一（糸町・白江町・白松町）",
+        "name": "丸内・芦城第二高齢者総合相談センター",
+        "tel": "0761-22-5070",
+        "url": "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
     },
     {
-        "id":  3007,
-        "prefecture":  "石川県",
-        "city":  "小松市",
-        "area":  "安宅（上牧町・下牧町を含む）",
-        "name":  "安宅・板津高齢者総合相談センター",
-        "tel":  "0761-41-6055",
-        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+        "id": 3007,
+        "prefecture": "石川県",
+        "city": "小松市",
+        "area": "安宅（上牧町・下牧町を含む）",
+        "name": "安宅・板津高齢者総合相談センター",
+        "tel": "0761-41-6055",
+        "url": "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
     },
     {
-        "id":  3008,
-        "prefecture":  "石川県",
-        "city":  "小松市",
-        "area":  "犬丸・荒屋・能美",
-        "name":  "安宅・板津第二高齢者総合相談センター",
-        "tel":  "0761-46-6192",
-        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+        "id": 3008,
+        "prefecture": "石川県",
+        "city": "小松市",
+        "area": "犬丸・荒屋・能美",
+        "name": "安宅・板津第二高齢者総合相談センター",
+        "tel": "0761-46-6192",
+        "url": "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
     },
     {
-        "id":  3009,
-        "prefecture":  "石川県",
-        "city":  "小松市",
-        "area":  "向本折町・苗代・蓮代寺・今江・串・日末",
-        "name":  "松陽・御幸高齢者総合相談センター",
-        "tel":  "0761-22-2280",
-        "url":  "https://syoujyuen.jp/service1/detail1-1/"
+        "id": 3009,
+        "prefecture": "石川県",
+        "city": "小松市",
+        "area": "向本折町・苗代・蓮代寺・今江・串・日末",
+        "name": "松陽・御幸高齢者総合相談センター",
+        "tel": "0761-22-2280",
+        "url": "https://syoujyuen.jp/service1/detail1-1/"
     },
     {
-        "id":  3010,
-        "prefecture":  "石川県",
-        "city":  "小松市",
-        "area":  "国府・中海・東陵",
-        "name":  "国府・中海高齢者総合相談センター",
-        "tel":  "0761-47-2921",
-        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+        "id": 3010,
+        "prefecture": "石川県",
+        "city": "小松市",
+        "area": "国府・中海・東陵",
+        "name": "国府・中海高齢者総合相談センター",
+        "tel": "0761-47-2921",
+        "url": "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
     },
     {
-        "id":  3011,
-        "prefecture":  "石川県",
-        "city":  "小松市",
-        "area":  "金野・波佐谷・西尾",
-        "name":  "松東高齢者総合相談センター",
-        "tel":  "0761-46-8211",
-        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+        "id": 3011,
+        "prefecture": "石川県",
+        "city": "小松市",
+        "area": "金野・波佐谷・西尾",
+        "name": "松東高齢者総合相談センター",
+        "tel": "0761-46-8211",
+        "url": "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
     },
     {
-        "id":  3012,
-        "prefecture":  "石川県",
-        "city":  "小松市",
-        "area":  "粟津・那谷・矢田野",
-        "name":  "南部高齢者総合相談センター",
-        "tel":  "0761-65-3131",
-        "url":  "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
+        "id": 3012,
+        "prefecture": "石川県",
+        "city": "小松市",
+        "area": "粟津・那谷・矢田野",
+        "name": "南部高齢者総合相談センター",
+        "tel": "0761-65-3131",
+        "url": "https://www.city.komatsu.lg.jp/soshiki/1039/koureishafukushi/1/3265.html"
     },
     {
-        "id":  3013,
-        "prefecture":  "石川県",
-        "city":  "小松市",
-        "area":  "月津・木場・符津",
-        "name":  "南部第二高齢者総合相談センター",
-        "tel":  "0761-44-5750",
-        "url":  "https://choureikai.com/pages/87/"
+        "id": 3013,
+        "prefecture": "石川県",
+        "city": "小松市",
+        "area": "月津・木場・符津",
+        "name": "南部第二高齢者総合相談センター",
+        "tel": "0761-44-5750",
+        "url": "https://choureikai.com/pages/87/"
     },
     {
-        "id":  3076,
-        "prefecture":  "石川県",
-        "city":  "白山市",
-        "area":  "松任・一木・林中・山島",
-        "name":  "白山市地域包括支援センター松任中央",
-        "tel":  "076-272-5999",
-        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+        "id": 3076,
+        "prefecture": "石川県",
+        "city": "白山市",
+        "area": "松任・一木・林中・山島",
+        "name": "白山市地域包括支援センター松任中央",
+        "tel": "076-272-5999",
+        "url": "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
     },
     {
-        "id":  3077,
-        "prefecture":  "石川県",
-        "city":  "白山市",
-        "area":  "旭・中奥・郷",
-        "name":  "白山市地域包括支援センター光野",
-        "tel":  "076-274-7718",
-        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+        "id": 3077,
+        "prefecture": "石川県",
+        "city": "白山市",
+        "area": "旭・中奥・郷",
+        "name": "白山市地域包括支援センター光野",
+        "tel": "076-274-7718",
+        "url": "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
     },
     {
-        "id":  3078,
-        "prefecture":  "石川県",
-        "city":  "白山市",
-        "area":  "出城・御手洗・千代野",
-        "name":  "白山市地域包括支援センター千代野",
-        "tel":  "076-276-1011",
-        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+        "id": 3078,
+        "prefecture": "石川県",
+        "city": "白山市",
+        "area": "出城・御手洗・千代野",
+        "name": "白山市地域包括支援センター千代野",
+        "tel": "076-276-1011",
+        "url": "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
     },
     {
-        "id":  3079,
-        "prefecture":  "石川県",
-        "city":  "白山市",
-        "area":  "石川・柏野・笠間・宮保・加賀野",
-        "name":  "白山市地域包括支援センター笠間",
-        "tel":  "076-274-6771",
-        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+        "id": 3079,
+        "prefecture": "石川県",
+        "city": "白山市",
+        "area": "石川・柏野・笠間・宮保・加賀野",
+        "name": "白山市地域包括支援センター笠間",
+        "tel": "076-274-6771",
+        "url": "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
     },
     {
-        "id":  3080,
-        "prefecture":  "石川県",
-        "city":  "白山市",
-        "area":  "美川・蝶屋・湊",
-        "name":  "白山市地域包括支援センター美川",
-        "tel":  "076-278-8585",
-        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+        "id": 3080,
+        "prefecture": "石川県",
+        "city": "白山市",
+        "area": "美川・蝶屋・湊",
+        "name": "白山市地域包括支援センター美川",
+        "tel": "076-278-8585",
+        "url": "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
     },
     {
-        "id":  3081,
-        "prefecture":  "石川県",
-        "city":  "白山市",
-        "area":  "一ノ宮・鶴来・蔵山・林・舘畑",
-        "name":  "白山市地域包括支援センター鶴来",
-        "tel":  "076-272-3950",
-        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+        "id": 3081,
+        "prefecture": "石川県",
+        "city": "白山市",
+        "area": "一ノ宮・鶴来・蔵山・林・舘畑",
+        "name": "白山市地域包括支援センター鶴来",
+        "tel": "076-272-3950",
+        "url": "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
     },
     {
-        "id":  3082,
-        "prefecture":  "石川県",
-        "city":  "白山市",
-        "area":  "河内・吉野谷・鳥越・尾口・白峰",
-        "name":  "白山市地域包括支援センター大門園",
-        "tel":  "076-255-5225",
-        "url":  "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
+        "id": 3082,
+        "prefecture": "石川県",
+        "city": "白山市",
+        "area": "河内・吉野谷・鳥越・尾口・白峰",
+        "name": "白山市地域包括支援センター大門園",
+        "tel": "076-255-5225",
+        "url": "https://www.city.hakusan.lg.jp/kenkofukushi/koreifukushi/1004669/1005423/1005493.html"
     },
     {
-        "id":  3175,
-        "prefecture":  "石川県",
-        "city":  "津幡町",
-        "area":  "町内全域",
-        "name":  "津幡町地域包括支援センター",
-        "tel":  "076-288-7952",
-        "url":  "https://www.town.tsubata.lg.jp/page/1471.html"
+        "id": 3175,
+        "prefecture": "石川県",
+        "city": "津幡町",
+        "area": "町内全域",
+        "name": "津幡町地域包括支援センター",
+        "tel": "076-288-7952",
+        "url": "https://www.town.tsubata.lg.jp/page/1471.html"
     },
     {
-        "id":  3320,
-        "prefecture":  "石川県",
-        "city":  "加賀市",
-        "area":  "加賀市全域",
-        "name":  "加賀市地域包括支援センター（高齢者こころまちセンター）",
-        "tel":  "0761-72-8186",
-        "url":  "https://www.city.kaga.ishikawa.jp/soshiki/kenkouhukusi/chiikihokatsu_shien/2/3/961.html"
+        "id": 3320,
+        "prefecture": "石川県",
+        "city": "加賀市",
+        "area": "加賀市全域",
+        "name": "加賀市地域包括支援センター（高齢者こころまちセンター）",
+        "tel": "0761-72-8186",
+        "url": "https://www.city.kaga.ishikawa.jp/soshiki/kenkouhukusi/chiikihokatsu_shien/2/3/961.html"
+    },
+    {
+        "id": 4375,
+        "prefecture": "石川県",
+        "city": "七尾市",
+        "area": "",
+        "name": "七尾市地域包括支援センター",
+        "tel": "0767-53-5789",
+        "url": ""
+    },
+    {
+        "id": 4376,
+        "prefecture": "石川県",
+        "city": "輪島市",
+        "area": "",
+        "name": "輪島市地域包括支援センター",
+        "tel": "0768-23-1174",
+        "url": ""
+    },
+    {
+        "id": 4377,
+        "prefecture": "石川県",
+        "city": "珠洲市",
+        "area": "",
+        "name": "珠洲市地域包括支援センター長寿園",
+        "tel": "0768-84-2330",
+        "url": ""
+    },
+    {
+        "id": 4378,
+        "prefecture": "石川県",
+        "city": "羽咋市",
+        "area": "",
+        "name": "羽咋市地域包括支援センター",
+        "tel": "0767-22-0202",
+        "url": ""
+    },
+    {
+        "id": 4379,
+        "prefecture": "石川県",
+        "city": "かほく市",
+        "area": "",
+        "name": "かほく市高齢者支援センター",
+        "tel": "076-283-7150",
+        "url": ""
+    },
+    {
+        "id": 4380,
+        "prefecture": "石川県",
+        "city": "能美市",
+        "area": "",
+        "name": "能美市根上あんしん相談センター",
+        "tel": "0761-55-5626",
+        "url": ""
+    },
+    {
+        "id": 4381,
+        "prefecture": "石川県",
+        "city": "能美市",
+        "area": "",
+        "name": "能美市寺井あんしん相談センター",
+        "tel": "0761-58-6117",
+        "url": ""
+    },
+    {
+        "id": 4382,
+        "prefecture": "石川県",
+        "city": "能美市",
+        "area": "",
+        "name": "能美市辰口あんしん相談センター",
+        "tel": "0761-51-7771",
+        "url": ""
+    },
+    {
+        "id": 4383,
+        "prefecture": "石川県",
+        "city": "野々市市",
+        "area": "",
+        "name": "野々市市本町地区地域包括支援センター",
+        "tel": "076-246-8005",
+        "url": ""
+    },
+    {
+        "id": 4384,
+        "prefecture": "石川県",
+        "city": "野々市市",
+        "area": "",
+        "name": "野々市市富奥地区地域包括支援センター",
+        "tel": "076-248-7676",
+        "url": ""
+    },
+    {
+        "id": 4385,
+        "prefecture": "石川県",
+        "city": "野々市市",
+        "area": "",
+        "name": "野々市市郷・押野地区地域包括支援センター",
+        "tel": "076-256-3520",
+        "url": ""
+    },
+    {
+        "id": 4386,
+        "prefecture": "石川県",
+        "city": "川北町",
+        "area": "",
+        "name": "川北町地域包括支援センター",
+        "tel": "076-277-8388",
+        "url": ""
+    },
+    {
+        "id": 4387,
+        "prefecture": "石川県",
+        "city": "内灘町",
+        "area": "",
+        "name": "内灘町地域包括支援センター",
+        "tel": "076-286-6750",
+        "url": ""
+    },
+    {
+        "id": 4388,
+        "prefecture": "石川県",
+        "city": "志賀町",
+        "area": "",
+        "name": "志賀町地域包括支援センター",
+        "tel": "0767-32-9132",
+        "url": ""
+    },
+    {
+        "id": 4389,
+        "prefecture": "石川県",
+        "city": "宝達志水町",
+        "area": "",
+        "name": "宝達志水町地域包括支援センター",
+        "tel": "0767-28-8110",
+        "url": ""
+    },
+    {
+        "id": 4390,
+        "prefecture": "石川県",
+        "city": "中能登町",
+        "area": "",
+        "name": "中能登町高齢者支援センター",
+        "tel": "0767-72-2697",
+        "url": ""
+    },
+    {
+        "id": 4391,
+        "prefecture": "石川県",
+        "city": "穴水町",
+        "area": "",
+        "name": "穴水町地域包括支援センター",
+        "tel": "0768-52-3378",
+        "url": ""
+    },
+    {
+        "id": 4392,
+        "prefecture": "石川県",
+        "city": "能登町",
+        "area": "",
+        "name": "能登町地域包括支援センター",
+        "tel": "0768-62-8516",
+        "url": ""
     }
 ]
