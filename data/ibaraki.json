@@ -1,39 +1,938 @@
 [
-    {"id":1713,"prefecture":"茨城県","city":"水戸市","area":"一中・二中学区","name":"水戸市中央地域包括支援センター","tel":"029-306-9582","url":"http://micks-mito.com/"},
-    {"id":1714,"prefecture":"茨城県","city":"水戸市","area":"三中・千波学区","name":"水戸市東部地域包括支援センター","tel":"029-246-6216","url":"https://you-i-mura.com/aged-care/"},
-    {"id":1715,"prefecture":"茨城県","city":"水戸市","area":"四中学区","name":"水戸市南部第一地域包括支援センター","tel":"029-246-5690","url":"https://www.city.mito.lg.jp/page/4097.html"},
-    {"id":1716,"prefecture":"茨城県","city":"水戸市","area":"緑岡・見川・笠原学区","name":"水戸市南部第二地域包括支援センター","tel":"029-303-8255","url":"https://www.city.mito.lg.jp/page/4097.html"},
-    {"id":1717,"prefecture":"茨城県","city":"水戸市","area":"飯富・国田・五中・石川学区","name":"水戸市北部地域包括支援センター","tel":"029-246-6003","url":"https://www.city.mito.lg.jp/page/4097.html"},
-    {"id":1718,"prefecture":"茨城県","city":"水戸市","area":"赤塚・双葉台学区","name":"水戸市西部地域包括支援センター","tel":"029-246-6333","url":"https://www.city.mito.lg.jp/page/4097.html"},
-    {"id":1719,"prefecture":"茨城県","city":"水戸市","area":"常澄","name":"水戸市常澄地域包括支援センター","tel":"029-246-6155","url":"https://www.city.mito.lg.jp/page/4097.html"},
-    {"id":1720,"prefecture":"茨城県","city":"水戸市","area":"内原","name":"水戸市内原地域包括支援センター","tel":"029-257-5466","url":"https://www.uchikko.com/"},
-    {"id":1721,"prefecture":"茨城県","city":"水戸市","area":"市内全域","name":"水戸市基幹型地域包括支援センター","tel":"029-232-9110","url":"https://www.city.mito.lg.jp/page/4097.html"},
-    {"id":2521,"prefecture":"茨城県","city":"日立市","area":"十王・中里小学校区","name":"福祉の森聖孝園地域包括支援センター","tel":"0294-39-1166","url":"https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"},
-    {"id":2522,"prefecture":"茨城県","city":"日立市","area":"豊浦・日高・田尻小学校区","name":"サン豊浦地域包括支援センター","tel":"0294-33-8811","url":"https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"},
-    {"id":2523,"prefecture":"茨城県","city":"日立市","area":"滑川・宮田小学校区","name":"神峰の森地域包括支援センター","tel":"0294-33-5512","url":"https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"},
-    {"id":2524,"prefecture":"茨城県","city":"日立市","area":"仲町・中小路・助川小学校区","name":"銀砂台地域包括支援センター","tel":"0294-33-6500","url":"https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"},
-    {"id":2525,"prefecture":"茨城県","city":"日立市","area":"会瀬・成沢・諏訪小学校区","name":"小咲園地域包括支援センター","tel":"0294-32-7900","url":"https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"},
-    {"id":2526,"prefecture":"茨城県","city":"日立市","area":"油縄子・大久保・河原子・塙山小学校区","name":"鮎川さくら館地域包括支援センター","tel":"0294-36-7303","url":"https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"},
-    {"id":2527,"prefecture":"茨城県","city":"日立市","area":"大沼・金沢・水木小学校区","name":"金沢弁天園地域包括支援センター","tel":"0294-33-7424","url":"https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"},
-    {"id":2528,"prefecture":"茨城県","city":"日立市","area":"大みか・久慈・坂本東小学校区","name":"成華園地域包括支援センター","tel":"0294-33-7119","url":"https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"},
-    {"id":2529,"prefecture":"茨城県","city":"土浦市","area":"一中・三中・四中・六中地区","name":"地域包括支援センターうらら","tel":"029-824-0332","url":"https://www.city.tsuchiura.lg.jp/page/page000253.html"},
-    {"id":2530,"prefecture":"茨城県","city":"土浦市","area":"二中・五中・都和・新治地区","name":"地域包括支援センターかんだつ","tel":"029-869-7035","url":"https://www.city.tsuchiura.lg.jp/page/page000253.html"},
-    {"id":2531,"prefecture":"茨城県","city":"つくば市","area":"筑波地区","name":"筑波地域包括支援センター","tel":"029-828-5806","url":"https://www.intio.or.jp/tukubaen/custom9.html"},
-    {"id":2532,"prefecture":"茨城県","city":"つくば市","area":"大穂地区","name":"大穂地域包括支援センター","tel":"029-869-9527","url":"https://tsukuba-kinen.or.jp/care/271"},
-    {"id":2533,"prefecture":"茨城県","city":"つくば市","area":"豊里地区","name":"豊里地域包括支援センター","tel":"029-886-6147","url":"https://www.welcia-kaigo.co.jp/archives/site/site-6363"},
-    {"id":2534,"prefecture":"茨城県","city":"つくば市","area":"谷田部西地区","name":"谷田部西地域包括支援センター","tel":"029-893-3170","url":"https://www.city.tsukuba.lg.jp/kenko_iryo_fukushi/koureisha/houkatsu/1001335.html#3"},
-    {"id":2535,"prefecture":"茨城県","city":"つくば市","area":"谷田部東地区","name":"谷田部東地域包括支援センター","tel":"029-897-3231","url":"https://ssv-tsukuba.jp/houkatsu/"},
-    {"id":2536,"prefecture":"茨城県","city":"つくば市","area":"桜地区","name":"桜地域包括支援センター","tel":"029-829-6102","url":"https://seihoukai-group.jp/facility/sakura-houkatsu"},
-    {"id":2537,"prefecture":"茨城県","city":"つくば市","area":"茎崎地区","name":"茎崎地域包括支援センター","tel":"029-886-9500","url":"https://www.tsukuba-swc.or.jp/page/page000032.html"},
-    {"id":2605,"prefecture":"茨城県","city":"ひたちなか市","area":"勝田第一中学校区","name":"勝田第一中学校区地域包括支援センター","tel":"029-354-5221","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"},
-    {"id":2606,"prefecture":"茨城県","city":"ひたちなか市","area":"大島中学校区","name":"大島中学校区地域包括支援センター","tel":"029-219-5775","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"},
-    {"id":2607,"prefecture":"茨城県","city":"ひたちなか市","area":"勝田第二中・田彦中学校区","name":"西部地域包括支援センター","tel":"029-276-0655","url":"https://www.city.hitachinaka.lg.jp/shisetsu/1007266/1007268/1005966.html"},
-    {"id":2608,"prefecture":"茨城県","city":"ひたちなか市","area":"勝田第三中・佐野中学校区","name":"北部地域包括支援センター","tel":"029-229-2255","url":"https://www.city.hitachinaka.lg.jp/shisetsu/1007266/1007268/1005967.html"},
-    {"id":2609,"prefecture":"茨城県","city":"ひたちなか市","area":"那珂湊中学校区","name":"那珂湊中学校区地域包括支援センター","tel":"029-264-1501","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"},
-    {"id":2610,"prefecture":"茨城県","city":"ひたちなか市","area":"美乃浜学園区","name":"美乃浜学園区地域包括支援センター","tel":"029-219-7020","url":"https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"},
-    {"id":2930,"prefecture":"茨城県","city":"古河市","area":"古河地区","name":"古河市地域包括支援センター古河","tel":"0280-23-6517","url":"https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"},
-    {"id":2931,"prefecture":"茨城県","city":"古河市","area":"総和地区","name":"古河市地域包括支援センター総和","tel":"0280-23-5661","url":"https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"},
-    {"id":2932,"prefecture":"茨城県","city":"古河市","area":"三和地区","name":"古河市地域包括支援センター三和","tel":"0280-77-3740","url":"https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"},
-    {"id":3128,"prefecture":"茨城県","city":"阿見町","area":"町内全域","name":"阿見町地域包括支援センター","tel":"029-887-8124","url":"https://www.town.ami.lg.jp/0000007036.html"},
-    {"id":3148,"prefecture":"茨城県","city":"茨城町","area":"町内全域","name":"茨城町地域包括支援センター","tel":"029-292-8577","url":"https://www.town.ibaraki.lg.jp/gyousei/kenkoukaigo/kaigo/000524.html"}
+    {
+        "id": 1713,
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "area": "一中・二中学区",
+        "name": "水戸市中央地域包括支援センター",
+        "tel": "029-306-9582",
+        "url": "http://micks-mito.com/"
+    },
+    {
+        "id": 1714,
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "area": "三中・千波学区",
+        "name": "水戸市東部地域包括支援センター",
+        "tel": "029-246-6216",
+        "url": "https://you-i-mura.com/aged-care/"
+    },
+    {
+        "id": 1715,
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "area": "四中学区",
+        "name": "水戸市南部第一地域包括支援センター",
+        "tel": "029-246-5690",
+        "url": "https://www.city.mito.lg.jp/page/4097.html"
+    },
+    {
+        "id": 1716,
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "area": "緑岡・見川・笠原学区",
+        "name": "水戸市南部第二地域包括支援センター",
+        "tel": "029-303-8255",
+        "url": "https://www.city.mito.lg.jp/page/4097.html"
+    },
+    {
+        "id": 1717,
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "area": "飯富・国田・五中・石川学区",
+        "name": "水戸市北部地域包括支援センター",
+        "tel": "029-246-6003",
+        "url": "https://www.city.mito.lg.jp/page/4097.html"
+    },
+    {
+        "id": 1718,
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "area": "赤塚・双葉台学区",
+        "name": "水戸市西部地域包括支援センター",
+        "tel": "029-246-6333",
+        "url": "https://www.city.mito.lg.jp/page/4097.html"
+    },
+    {
+        "id": 1719,
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "area": "常澄",
+        "name": "水戸市常澄地域包括支援センター",
+        "tel": "029-246-6155",
+        "url": "https://www.city.mito.lg.jp/page/4097.html"
+    },
+    {
+        "id": 1720,
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "area": "内原",
+        "name": "水戸市内原地域包括支援センター",
+        "tel": "029-257-5466",
+        "url": "https://www.uchikko.com/"
+    },
+    {
+        "id": 1721,
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "area": "市内全域",
+        "name": "水戸市基幹型地域包括支援センター",
+        "tel": "029-232-9110",
+        "url": "https://www.city.mito.lg.jp/page/4097.html"
+    },
+    {
+        "id": 2521,
+        "prefecture": "茨城県",
+        "city": "日立市",
+        "area": "十王・中里小学校区",
+        "name": "福祉の森聖孝園地域包括支援センター",
+        "tel": "0294-39-1166",
+        "url": "https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"
+    },
+    {
+        "id": 2522,
+        "prefecture": "茨城県",
+        "city": "日立市",
+        "area": "豊浦・日高・田尻小学校区",
+        "name": "サン豊浦地域包括支援センター",
+        "tel": "0294-33-8811",
+        "url": "https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"
+    },
+    {
+        "id": 2523,
+        "prefecture": "茨城県",
+        "city": "日立市",
+        "area": "滑川・宮田小学校区",
+        "name": "神峰の森地域包括支援センター",
+        "tel": "0294-33-5512",
+        "url": "https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"
+    },
+    {
+        "id": 2524,
+        "prefecture": "茨城県",
+        "city": "日立市",
+        "area": "仲町・中小路・助川小学校区",
+        "name": "銀砂台地域包括支援センター",
+        "tel": "0294-33-6500",
+        "url": "https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"
+    },
+    {
+        "id": 2525,
+        "prefecture": "茨城県",
+        "city": "日立市",
+        "area": "会瀬・成沢・諏訪小学校区",
+        "name": "小咲園地域包括支援センター",
+        "tel": "0294-32-7900",
+        "url": "https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"
+    },
+    {
+        "id": 2526,
+        "prefecture": "茨城県",
+        "city": "日立市",
+        "area": "油縄子・大久保・河原子・塙山小学校区",
+        "name": "鮎川さくら館地域包括支援センター",
+        "tel": "0294-36-7303",
+        "url": "https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"
+    },
+    {
+        "id": 2527,
+        "prefecture": "茨城県",
+        "city": "日立市",
+        "area": "大沼・金沢・水木小学校区",
+        "name": "金沢弁天園地域包括支援センター",
+        "tel": "0294-33-7424",
+        "url": "https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"
+    },
+    {
+        "id": 2528,
+        "prefecture": "茨城県",
+        "city": "日立市",
+        "area": "大みか・久慈・坂本東小学校区",
+        "name": "成華園地域包括支援センター",
+        "tel": "0294-33-7119",
+        "url": "https://www.city.hitachi.lg.jp/fukushi_kenko/korei/1001806/1001810.html"
+    },
+    {
+        "id": 2529,
+        "prefecture": "茨城県",
+        "city": "土浦市",
+        "area": "一中・三中・四中・六中地区",
+        "name": "地域包括支援センターうらら",
+        "tel": "029-824-0332",
+        "url": "https://www.city.tsuchiura.lg.jp/page/page000253.html"
+    },
+    {
+        "id": 2530,
+        "prefecture": "茨城県",
+        "city": "土浦市",
+        "area": "二中・五中・都和・新治地区",
+        "name": "地域包括支援センターかんだつ",
+        "tel": "029-869-7035",
+        "url": "https://www.city.tsuchiura.lg.jp/page/page000253.html"
+    },
+    {
+        "id": 2531,
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "area": "筑波地区",
+        "name": "筑波地域包括支援センター",
+        "tel": "029-828-5806",
+        "url": "https://www.intio.or.jp/tukubaen/custom9.html"
+    },
+    {
+        "id": 2532,
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "area": "大穂地区",
+        "name": "大穂地域包括支援センター",
+        "tel": "029-869-9527",
+        "url": "https://tsukuba-kinen.or.jp/care/271"
+    },
+    {
+        "id": 2533,
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "area": "豊里地区",
+        "name": "豊里地域包括支援センター",
+        "tel": "029-886-6147",
+        "url": "https://www.welcia-kaigo.co.jp/archives/site/site-6363"
+    },
+    {
+        "id": 2534,
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "area": "谷田部西地区",
+        "name": "谷田部西地域包括支援センター",
+        "tel": "029-893-3170",
+        "url": "https://www.city.tsukuba.lg.jp/kenko_iryo_fukushi/koureisha/houkatsu/1001335.html#3"
+    },
+    {
+        "id": 2535,
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "area": "谷田部東地区",
+        "name": "谷田部東地域包括支援センター",
+        "tel": "029-897-3231",
+        "url": "https://ssv-tsukuba.jp/houkatsu/"
+    },
+    {
+        "id": 2536,
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "area": "桜地区",
+        "name": "桜地域包括支援センター",
+        "tel": "029-829-6102",
+        "url": "https://seihoukai-group.jp/facility/sakura-houkatsu"
+    },
+    {
+        "id": 2537,
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "area": "茎崎地区",
+        "name": "茎崎地域包括支援センター",
+        "tel": "029-886-9500",
+        "url": "https://www.tsukuba-swc.or.jp/page/page000032.html"
+    },
+    {
+        "id": 2605,
+        "prefecture": "茨城県",
+        "city": "ひたちなか市",
+        "area": "勝田第一中学校区",
+        "name": "勝田第一中学校区地域包括支援センター",
+        "tel": "029-354-5221",
+        "url": "https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"
+    },
+    {
+        "id": 2606,
+        "prefecture": "茨城県",
+        "city": "ひたちなか市",
+        "area": "大島中学校区",
+        "name": "大島中学校区地域包括支援センター",
+        "tel": "029-219-5775",
+        "url": "https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"
+    },
+    {
+        "id": 2607,
+        "prefecture": "茨城県",
+        "city": "ひたちなか市",
+        "area": "勝田第二中・田彦中学校区",
+        "name": "西部地域包括支援センター",
+        "tel": "029-276-0655",
+        "url": "https://www.city.hitachinaka.lg.jp/shisetsu/1007266/1007268/1005966.html"
+    },
+    {
+        "id": 2608,
+        "prefecture": "茨城県",
+        "city": "ひたちなか市",
+        "area": "勝田第三中・佐野中学校区",
+        "name": "北部地域包括支援センター",
+        "tel": "029-229-2255",
+        "url": "https://www.city.hitachinaka.lg.jp/shisetsu/1007266/1007268/1005967.html"
+    },
+    {
+        "id": 2609,
+        "prefecture": "茨城県",
+        "city": "ひたちなか市",
+        "area": "那珂湊中学校区",
+        "name": "那珂湊中学校区地域包括支援センター",
+        "tel": "029-264-1501",
+        "url": "https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"
+    },
+    {
+        "id": 2610,
+        "prefecture": "茨城県",
+        "city": "ひたちなか市",
+        "area": "美乃浜学園区",
+        "name": "美乃浜学園区地域包括支援センター",
+        "tel": "029-219-7020",
+        "url": "https://www.city.hitachinaka.lg.jp/fukushi/koureisha/1007162/1005079.html"
+    },
+    {
+        "id": 2930,
+        "prefecture": "茨城県",
+        "city": "古河市",
+        "area": "古河地区",
+        "name": "古河市地域包括支援センター古河",
+        "tel": "0280-23-6517",
+        "url": "https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"
+    },
+    {
+        "id": 2931,
+        "prefecture": "茨城県",
+        "city": "古河市",
+        "area": "総和地区",
+        "name": "古河市地域包括支援センター総和",
+        "tel": "0280-23-5661",
+        "url": "https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"
+    },
+    {
+        "id": 2932,
+        "prefecture": "茨城県",
+        "city": "古河市",
+        "area": "三和地区",
+        "name": "古河市地域包括支援センター三和",
+        "tel": "0280-77-3740",
+        "url": "https://www.city.ibaraki-koga.lg.jp/soshiki/koureikaigo/5/1685.html"
+    },
+    {
+        "id": 3128,
+        "prefecture": "茨城県",
+        "city": "阿見町",
+        "area": "町内全域",
+        "name": "阿見町地域包括支援センター",
+        "tel": "029-887-8124",
+        "url": "https://www.town.ami.lg.jp/0000007036.html"
+    },
+    {
+        "id": 3148,
+        "prefecture": "茨城県",
+        "city": "茨城町",
+        "area": "町内全域",
+        "name": "茨城町地域包括支援センター",
+        "tel": "029-292-8577",
+        "url": "https://www.town.ibaraki.lg.jp/gyousei/kenkoukaigo/kaigo/000524.html"
+    },
+    {
+        "id": 4231,
+        "prefecture": "茨城県",
+        "city": "石岡市",
+        "area": "",
+        "name": "石岡市地域包括支援センター",
+        "tel": "0299-35-1127",
+        "url": ""
+    },
+    {
+        "id": 4232,
+        "prefecture": "茨城県",
+        "city": "結城市",
+        "area": "",
+        "name": "結城市東部地域包括支援センター たけ だ",
+        "tel": "0296-45-5501",
+        "url": ""
+    },
+    {
+        "id": 4233,
+        "prefecture": "茨城県",
+        "city": "結城市",
+        "area": "",
+        "name": "結城市西部地域包括支援センター ヒューマン・ハウス",
+        "tel": "0296-45-8222",
+        "url": ""
+    },
+    {
+        "id": 4234,
+        "prefecture": "茨城県",
+        "city": "結城市",
+        "area": "",
+        "name": "結城市南部地域包括支援センター 青 嵐荘",
+        "tel": "0296-54-6477",
+        "url": ""
+    },
+    {
+        "id": 4235,
+        "prefecture": "茨城県",
+        "city": "龍ケ崎市",
+        "area": "",
+        "name": "龍ケ崎市東部地域包括支援センター涼 風苑",
+        "tel": "0297-63-0138",
+        "url": ""
+    },
+    {
+        "id": 4236,
+        "prefecture": "茨城県",
+        "city": "龍ケ崎市",
+        "area": "",
+        "name": "龍ケ崎市西部地域包括支援センター牛 尾病院",
+        "tel": "0297-61-5500",
+        "url": ""
+    },
+    {
+        "id": 4237,
+        "prefecture": "茨城県",
+        "city": "下妻市",
+        "area": "",
+        "name": "下妻市地域包括支援センター",
+        "tel": "0296-43-8264",
+        "url": ""
+    },
+    {
+        "id": 4238,
+        "prefecture": "茨城県",
+        "city": "常総市",
+        "area": "",
+        "name": "常総市地域包括支援センター",
+        "tel": "0297-23-2930",
+        "url": ""
+    },
+    {
+        "id": 4239,
+        "prefecture": "茨城県",
+        "city": "常陸太田市",
+        "area": "",
+        "name": "常陸太田市地域包括支援センター",
+        "tel": "0294-72-8881",
+        "url": ""
+    },
+    {
+        "id": 4240,
+        "prefecture": "茨城県",
+        "city": "高萩市",
+        "area": "",
+        "name": "高萩市地域包括支援センター",
+        "tel": "0293-22-0080",
+        "url": ""
+    },
+    {
+        "id": 4241,
+        "prefecture": "茨城県",
+        "city": "北茨城市",
+        "area": "",
+        "name": "北茨城市中部地域包括支援センター",
+        "tel": "0293-43-1111",
+        "url": ""
+    },
+    {
+        "id": 4242,
+        "prefecture": "茨城県",
+        "city": "北茨城市",
+        "area": "",
+        "name": "北茨城市南部地域包括支援センター",
+        "tel": "0293-44-7111",
+        "url": ""
+    },
+    {
+        "id": 4243,
+        "prefecture": "茨城県",
+        "city": "笠間市",
+        "area": "",
+        "name": "笠間市地域包括支援センターほのぼの",
+        "tel": "0296-78-5871",
+        "url": ""
+    },
+    {
+        "id": 4244,
+        "prefecture": "茨城県",
+        "city": "取手市",
+        "area": "",
+        "name": "地域包括支援センター はあとぴあ",
+        "tel": "0297-71-3210",
+        "url": ""
+    },
+    {
+        "id": 4245,
+        "prefecture": "茨城県",
+        "city": "取手市",
+        "area": "",
+        "name": "地域包括支援センター 緑寿荘",
+        "tel": "0297-63-4111",
+        "url": ""
+    },
+    {
+        "id": 4246,
+        "prefecture": "茨城県",
+        "city": "取手市",
+        "area": "",
+        "name": "地域包括支援センター さらの杜",
+        "tel": "0297-70-2801",
+        "url": ""
+    },
+    {
+        "id": 4247,
+        "prefecture": "茨城県",
+        "city": "取手市",
+        "area": "",
+        "name": "地域包括支援センター 藤代なごみの 郷",
+        "tel": "0297-70-3756",
+        "url": ""
+    },
+    {
+        "id": 4248,
+        "prefecture": "茨城県",
+        "city": "取手市",
+        "area": "",
+        "name": "地域包括支援センター 社会福祉協議 会ふじしろ",
+        "tel": "0297-86-6221",
+        "url": ""
+    },
+    {
+        "id": 4249,
+        "prefecture": "茨城県",
+        "city": "牛久市",
+        "area": "",
+        "name": "牛久市地域包括支援センター",
+        "tel": "029-878-5050",
+        "url": ""
+    },
+    {
+        "id": 4250,
+        "prefecture": "茨城県",
+        "city": "牛久市",
+        "area": "",
+        "name": "牛久市地域包括支援センター博慈園",
+        "tel": "029-871-5110",
+        "url": ""
+    },
+    {
+        "id": 4251,
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "area": "",
+        "name": "つくば市地域包括支援センター",
+        "tel": "029-883-1111",
+        "url": ""
+    },
+    {
+        "id": 4252,
+        "prefecture": "茨城県",
+        "city": "鹿嶋市",
+        "area": "",
+        "name": "鹿嶋市だいどう地域包括支援センター",
+        "tel": "0299-77-5681",
+        "url": ""
+    },
+    {
+        "id": 4253,
+        "prefecture": "茨城県",
+        "city": "鹿嶋市",
+        "area": "",
+        "name": "鹿嶋市なかの地域包括支援センター",
+        "tel": "0299-95-9910",
+        "url": ""
+    },
+    {
+        "id": 4254,
+        "prefecture": "茨城県",
+        "city": "鹿嶋市",
+        "area": "",
+        "name": "鹿嶋市かしま東地域包括支援センター",
+        "tel": "0299-82-9351",
+        "url": ""
+    },
+    {
+        "id": 4255,
+        "prefecture": "茨城県",
+        "city": "鹿嶋市",
+        "area": "",
+        "name": "鹿嶋市かしま西地域包括支援センター",
+        "tel": "0299-85-1522",
+        "url": ""
+    },
+    {
+        "id": 4256,
+        "prefecture": "茨城県",
+        "city": "潮来市",
+        "area": "",
+        "name": "潮来市地域包括支援センター",
+        "tel": "0299-63-1288",
+        "url": ""
+    },
+    {
+        "id": 4257,
+        "prefecture": "茨城県",
+        "city": "守谷市",
+        "area": "",
+        "name": "守谷市南部地域包括支援センター",
+        "tel": "0297-38-4345",
+        "url": ""
+    },
+    {
+        "id": 4258,
+        "prefecture": "茨城県",
+        "city": "守谷市",
+        "area": "",
+        "name": "守谷市北部地域包括支援センター",
+        "tel": "0297-21-2824",
+        "url": ""
+    },
+    {
+        "id": 4259,
+        "prefecture": "茨城県",
+        "city": "常陸大宮市",
+        "area": "",
+        "name": "常陸大宮市南部地域包括支援センター",
+        "tel": "0295-53-6810",
+        "url": ""
+    },
+    {
+        "id": 4260,
+        "prefecture": "茨城県",
+        "city": "常陸大宮市",
+        "area": "",
+        "name": "常陸大宮市北部地域包括支援センター",
+        "tel": "0295-57-3326",
+        "url": ""
+    },
+    {
+        "id": 4261,
+        "prefecture": "茨城県",
+        "city": "那珂市",
+        "area": "",
+        "name": "地域包括支援センター青燈会",
+        "tel": "029-295-5288",
+        "url": ""
+    },
+    {
+        "id": 4262,
+        "prefecture": "茨城県",
+        "city": "那珂市",
+        "area": "",
+        "name": "地域包括支援センターナザレ園",
+        "tel": "029-352-2320",
+        "url": ""
+    },
+    {
+        "id": 4263,
+        "prefecture": "茨城県",
+        "city": "那珂市",
+        "area": "",
+        "name": "地域包括支援センターゆたか園",
+        "tel": "029-295-1287",
+        "url": ""
+    },
+    {
+        "id": 4264,
+        "prefecture": "茨城県",
+        "city": "筑西市",
+        "area": "",
+        "name": "地域包括支援センターなかだて",
+        "tel": "0296-38-0680",
+        "url": ""
+    },
+    {
+        "id": 4265,
+        "prefecture": "茨城県",
+        "city": "筑西市",
+        "area": "",
+        "name": "地域包括支援センターしらとり",
+        "tel": "0296-45-7616",
+        "url": ""
+    },
+    {
+        "id": 4266,
+        "prefecture": "茨城県",
+        "city": "筑西市",
+        "area": "",
+        "name": "地域包括支援センターえがお",
+        "tel": "0296-45-6882",
+        "url": ""
+    },
+    {
+        "id": 4267,
+        "prefecture": "茨城県",
+        "city": "筑西市",
+        "area": "",
+        "name": "地域包括支援センターまごころ",
+        "tel": "0296-52-8552",
+        "url": ""
+    },
+    {
+        "id": 4268,
+        "prefecture": "茨城県",
+        "city": "坂東市",
+        "area": "",
+        "name": "坂東市北部地域包括支援センター 社会福祉協議会",
+        "tel": "0280-82-1284",
+        "url": ""
+    },
+    {
+        "id": 4269,
+        "prefecture": "茨城県",
+        "city": "坂東市",
+        "area": "",
+        "name": "坂東市南部地域包括支援センター ハートフル広侖",
+        "tel": "0297-38-2161",
+        "url": ""
+    },
+    {
+        "id": 4270,
+        "prefecture": "茨城県",
+        "city": "坂東市",
+        "area": "",
+        "name": "坂東市中央地域包括支援センター",
+        "tel": "0297-35-2121",
+        "url": ""
+    },
+    {
+        "id": 4271,
+        "prefecture": "茨城県",
+        "city": "稲敷市",
+        "area": "",
+        "name": "江戸崎地区地域包括支援センター",
+        "tel": "029-875-7533",
+        "url": ""
+    },
+    {
+        "id": 4272,
+        "prefecture": "茨城県",
+        "city": "稲敷市",
+        "area": "",
+        "name": "新利根地区地域包括支援センター",
+        "tel": "0297-86-8688",
+        "url": ""
+    },
+    {
+        "id": 4273,
+        "prefecture": "茨城県",
+        "city": "稲敷市",
+        "area": "",
+        "name": "地域包括支援センター水郷荘",
+        "tel": "0299-80-4535",
+        "url": ""
+    },
+    {
+        "id": 4274,
+        "prefecture": "茨城県",
+        "city": "かすみがうら市",
+        "area": "",
+        "name": "千代田地区地域包括支援センター",
+        "tel": "029-898-9110",
+        "url": ""
+    },
+    {
+        "id": 4275,
+        "prefecture": "茨城県",
+        "city": "かすみがうら市",
+        "area": "",
+        "name": "霞ヶ浦地区地域包括支援センター",
+        "tel": "029-833-0331",
+        "url": ""
+    },
+    {
+        "id": 4276,
+        "prefecture": "茨城県",
+        "city": "桜川市",
+        "area": "",
+        "name": "桜川市地域包括支援センター",
+        "tel": "0296-73-4511",
+        "url": ""
+    },
+    {
+        "id": 4277,
+        "prefecture": "茨城県",
+        "city": "神栖市",
+        "area": "",
+        "name": "地域包括支援センター 済生会かみす",
+        "tel": "0299-95-9500",
+        "url": ""
+    },
+    {
+        "id": 4278,
+        "prefecture": "茨城県",
+        "city": "神栖市",
+        "area": "",
+        "name": "地域包括支援センターみのり",
+        "tel": "0479-21-6467",
+        "url": ""
+    },
+    {
+        "id": 4279,
+        "prefecture": "茨城県",
+        "city": "神栖市",
+        "area": "",
+        "name": "地域包括支援センター白十字会かみす",
+        "tel": "0299-77-7678",
+        "url": ""
+    },
+    {
+        "id": 4280,
+        "prefecture": "茨城県",
+        "city": "行方市",
+        "area": "",
+        "name": "行方市地域包括支援センター",
+        "tel": "0299-55-0114",
+        "url": ""
+    },
+    {
+        "id": 4281,
+        "prefecture": "茨城県",
+        "city": "鉾田市",
+        "area": "",
+        "name": "鉾田市地域包括支援センター",
+        "tel": "0291-34-0011",
+        "url": ""
+    },
+    {
+        "id": 4282,
+        "prefecture": "茨城県",
+        "city": "鉾田市",
+        "area": "",
+        "name": "鉾田市地域包括支援センターうぇるさん て大洋",
+        "tel": "0291-36-7765",
+        "url": ""
+    },
+    {
+        "id": 4283,
+        "prefecture": "茨城県",
+        "city": "鉾田市",
+        "area": "",
+        "name": "鉾田市地域包括支援センター樅山",
+        "tel": "0291-37-2155",
+        "url": ""
+    },
+    {
+        "id": 4284,
+        "prefecture": "茨城県",
+        "city": "つくばみらい市",
+        "area": "",
+        "name": "つくばみらい市地域包括支援センター",
+        "tel": "0297-57-0203",
+        "url": ""
+    },
+    {
+        "id": 4285,
+        "prefecture": "茨城県",
+        "city": "小美玉市",
+        "area": "",
+        "name": "小美玉市地域包括支援センター",
+        "tel": "0299-58-1282",
+        "url": ""
+    },
+    {
+        "id": 4286,
+        "prefecture": "茨城県",
+        "city": "小美玉市",
+        "area": "",
+        "name": "小美玉市地域包括支援センター美野里",
+        "tel": "0299-35-7172",
+        "url": ""
+    },
+    {
+        "id": 4287,
+        "prefecture": "茨城県",
+        "city": "大洗町",
+        "area": "",
+        "name": "大洗町地域包括支援センター",
+        "tel": "029-267-4100",
+        "url": ""
+    },
+    {
+        "id": 4288,
+        "prefecture": "茨城県",
+        "city": "城里町",
+        "area": "",
+        "name": "城里町地域包括支援センター",
+        "tel": "029-288-3111",
+        "url": ""
+    },
+    {
+        "id": 4289,
+        "prefecture": "茨城県",
+        "city": "東海村",
+        "area": "",
+        "name": "東海村北部地域包括支援センター",
+        "tel": "029-212-7785",
+        "url": ""
+    },
+    {
+        "id": 4290,
+        "prefecture": "茨城県",
+        "city": "東海村",
+        "area": "",
+        "name": "東海村南部地域包括支援センター",
+        "tel": "029-352-2867",
+        "url": ""
+    },
+    {
+        "id": 4291,
+        "prefecture": "茨城県",
+        "city": "大子町",
+        "area": "",
+        "name": "大子町地域包括支援センター",
+        "tel": "0295-72-1175",
+        "url": ""
+    },
+    {
+        "id": 4292,
+        "prefecture": "茨城県",
+        "city": "美浦村",
+        "area": "",
+        "name": "美浦村地域包括支援センター",
+        "tel": "029-885-0340",
+        "url": ""
+    },
+    {
+        "id": 4293,
+        "prefecture": "茨城県",
+        "city": "河内町",
+        "area": "",
+        "name": "河内町地域包括支援センター",
+        "tel": "0297-60-4071",
+        "url": ""
+    },
+    {
+        "id": 4294,
+        "prefecture": "茨城県",
+        "city": "八千代町",
+        "area": "",
+        "name": "八千代町地域包括支援センター",
+        "tel": "0296-30-2400",
+        "url": ""
+    },
+    {
+        "id": 4295,
+        "prefecture": "茨城県",
+        "city": "五霞町",
+        "area": "",
+        "name": "五霞町地域包括支援センター",
+        "tel": "0280-84-0765",
+        "url": ""
+    },
+    {
+        "id": 4296,
+        "prefecture": "茨城県",
+        "city": "境町",
+        "area": "",
+        "name": "境町地域包括支援センター ファミール 境",
+        "tel": "0280-87-7111",
+        "url": ""
+    },
+    {
+        "id": 4297,
+        "prefecture": "茨城県",
+        "city": "利根町",
+        "area": "",
+        "name": "利根町地域包括支援センター",
+        "tel": "0297-68-8941",
+        "url": ""
+    }
 ]
