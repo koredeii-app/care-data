@@ -1,659 +1,875 @@
-﻿[
-    {
-        "id":  1722,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "中央・簗瀬・城東",
-        "name":  "地域包括支援センター御本丸",
-        "tel":  "028-651-4777",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004296.html"
-    },
-    {
-        "id":  1723,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "陽南・宮の原・西原",
-        "name":  "地域包括支援センターようなん",
-        "tel":  "028-658-2125",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004297.html"
-    },
-    {
-        "id":  1724,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "昭和・戸祭",
-        "name":  "地域包括支援センターきよすみ",
-        "tel":  "028-622-2243",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004298.html"
-    },
-    {
-        "id":  1725,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "今泉・陽北",
-        "name":  "地域包括支援センター今泉・陽北",
-        "tel":  "028-616-1780",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004299.html"
-    },
-    {
-        "id":  1726,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "西・桜",
-        "name":  "地域包括支援センターさくら西",
-        "tel":  "028-610-7370",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004300.html"
-    },
-    {
-        "id":  1727,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "鬼怒",
-        "name":  "鬼怒地域包括支援センター",
-        "tel":  "028-683-2230",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004301.html"
-    },
-    {
-        "id":  1728,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "清原",
-        "name":  "地域包括支援センター清原",
-        "tel":  "028-667-8222",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004302.html"
-    },
-    {
-        "id":  1729,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "瑞穂野",
-        "name":  "地域包括支援センター瑞穂野",
-        "tel":  "028-656-9677",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004303.html"
-    },
-    {
-        "id":  1730,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "峰・泉が丘",
-        "name":  "地域包括支援センター峰・泉が丘",
-        "tel":  "028-613-5500",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004304.html"
-    },
-    {
-        "id":  1731,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "石井・陽東",
-        "name":  "地域包括支援センター石井・陽東",
-        "tel":  "028-660-1414",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004305.html"
-    },
-    {
-        "id":  1732,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "横川",
-        "name":  "よこかわ地域包括支援センター",
-        "tel":  "028-657-7234",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004306.html"
-    },
-    {
-        "id":  1733,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "雀宮東部",
-        "name":  "地域包括支援センター雀宮",
-        "tel":  "028-655-7080",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004307.html"
-    },
-    {
-        "id":  1734,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "雀宮西部・五代・若松原",
-        "name":  "地域包括支援センター雀宮・五代若松原",
-        "tel":  "028-688-3371",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004308.html"
-    },
-    {
-        "id":  1735,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "緑が丘・陽光",
-        "name":  "緑が丘・陽光地域包括支援センター",
-        "tel":  "028-684-3328",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004309.html"
-    },
-    {
-        "id":  1736,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "砥上",
-        "name":  "地域包括支援センター砥上",
-        "tel":  "028-647-3294",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004310.html"
-    },
-    {
-        "id":  1737,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "姿川南部",
-        "name":  "姿川南部地域包括支援センター",
-        "tel":  "028-654-2281",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004311.html"
-    },
-    {
-        "id":  1738,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "国本",
-        "name":  "くにもと地域包括支援センター",
-        "tel":  "028-666-2211",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004312.html"
-    },
-    {
-        "id":  1739,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "細谷・宝木",
-        "name":  "地域包括支援センター細谷・宝木",
-        "tel":  "028-902-4170",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004313.html"
-    },
-    {
-        "id":  1740,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "富屋・篠井",
-        "name":  "富屋・篠井地域包括支援センター",
-        "tel":  "028-665-7772",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004314.html"
-    },
-    {
-        "id":  1741,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "城山",
-        "name":  "城山地域包括支援センター",
-        "tel":  "028-652-8124",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004315.html"
-    },
-    {
-        "id":  1742,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "豊郷",
-        "name":  "地域包括支援センター豊郷",
-        "tel":  "028-616-1237",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004316.html"
-    },
-    {
-        "id":  1743,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "河内（古里）",
-        "name":  "地域包括支援センターかわち",
-        "tel":  "028-673-8941",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004317.html"
-    },
-    {
-        "id":  1744,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "河内（田原）",
-        "name":  "田原地域包括支援センター",
-        "tel":  "028-672-4811",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004318.html"
-    },
-    {
-        "id":  1745,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "河内（河内）",
-        "name":  "地域包括支援センター奈坪",
-        "tel":  "028-671-2202",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004319.html"
-    },
-    {
-        "id":  1746,
-        "prefecture":  "栃木県",
-        "city":  "宇都宮市",
-        "area":  "上河内",
-        "name":  "上河内地域包括支援センター",
-        "tel":  "028-674-7222",
-        "url":  "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004320.html"
-    },
-    {
-        "id":  2611,
-        "prefecture":  "栃木県",
-        "city":  "小山市",
-        "area":  "大字小山・若木町・花垣町・本郷町・城山町・中央町・宮本町・八幡町・天神町・神明町・駅東通り・稲葉郷・城北",
-        "name":  "基幹型地域包括支援センター兼高齢者サポートセンター小山総合",
-        "tel":  "0285-22-3061",
-        "url":  "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
-    },
-    {
-        "id":  2612,
-        "prefecture":  "栃木県",
-        "city":  "小山市",
-        "area":  "神鳥谷・東城南・西城南・外城・駅南町・三峯・神山・粟宮1丁目・粟宮2丁目",
-        "name":  "高齢者サポートセンター小山",
-        "tel":  "0285-31-0211",
-        "url":  "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
-    },
-    {
-        "id":  2613,
-        "prefecture":  "栃木県",
-        "city":  "小山市",
-        "area":  "城東・土塔・犬塚・中久喜・塚崎・横倉新田・横倉・向原新田・雨ヶ谷新田・雨ヶ谷・田間・武井・東野田・南和泉",
-        "name":  "高齢者サポートセンター大谷",
-        "tel":  "0285-27-6646",
-        "url":  "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
-    },
-    {
-        "id":  2614,
-        "prefecture":  "栃木県",
-        "city":  "小山市",
-        "area":  "間々田・千駄塚・西黒田・東黒田・南飯田・平和・乙女・南乙女・暁・東間々田・美しが丘・網戸・楢木・生良・上生井・下生井・白鳥・鏡・押切・中里・寒川・迫間田",
-        "name":  "高齢者サポートセンター間々田",
-        "tel":  "0285-41-2071",
-        "url":  "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
-    },
-    {
-        "id":  2615,
-        "prefecture":  "栃木県",
-        "city":  "小山市",
-        "area":  "大本・小宅・黒本・島田・渋井・荒川・立木・城西・卒島・今里・上初田・松沼・小薬・南小林・上泉・下泉・井岡・小袋・下河原田・生駒・大川島・下初田・上国府塚・下国府塚・上石塚・下石塚・大行寺・萩島・石ノ上・塩沢・間中",
-        "name":  "高齢者サポートセンター美田",
-        "tel":  "0285-32-1881",
-        "url":  "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
-    },
-    {
-        "id":  2616,
-        "prefecture":  "栃木県",
-        "city":  "小山市",
-        "area":  "喜沢・三拝川岸・東島田・飯塚・南半田・羽川・荒井・出井・鉢形・北飯田・東山田・萱橋・向野・扶桑・田川・延島新田・延島・高椅・福良・中島・梁・中河原",
-        "name":  "高齢者サポートセンター桑絹",
-        "tel":  "0285-30-0921",
-        "url":  "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
-    },
-    {
-        "id":  2648,
-        "prefecture":  "栃木県",
-        "city":  "栃木市",
-        "area":  "倭町・旭町・室町・城内町・神田町・本町・沼和田町・河合町・境町・片柳町・湊町・富士見町・平井町・薗部町・入舟町・祝町・柳橋町・錦町・万町・日ノ出町・箱森町・小平町・嘉右衛門町・泉町・大町・昭和町・平柳町1丁目",
-        "name":  "栃木中央地域包括支援センター",
-        "tel":  "0282-21-2245",
-        "url":  "https://www.city.tochigi.lg.jp/soshiki/103/1940.html"
-    },
-    {
-        "id":  2649,
-        "prefecture":  "栃木県",
-        "city":  "栃木市",
-        "area":  "吹上町・細掘町・木野地町・川原田町・野中町・宮町・千塚町・大森町・仲方町・梓町・皆川城内町・柏倉町・小野口町・志鳥町・岩出町・大皆川町・泉川町・新井町・尻内町・梅沢町・大久保町・鍋山町・星野町・出流町",
-        "name":  "吹上地域包括支援センター",
-        "tel":  "0282-31-1002",
-        "url":  "https://www.city.tochigi.lg.jp/soshiki/103/1140.html"
-    },
-    {
-        "id":  2650,
-        "prefecture":  "栃木県",
-        "city":  "栃木市",
-        "area":  "惣社町・柳原町・大光寺町・田村町・寄居町・国府町・大塚町・大宮町・今泉町・仲仕上町・藤田町・久保田町・宮田町・高谷町・樋ノ口町",
-        "name":  "国府地域包括支援センター",
-        "tel":  "0282-27-3855",
-        "url":  "https://www.city.tochigi.lg.jp/soshiki/103/849.html"
-    },
-    {
-        "id":  2651,
-        "prefecture":  "栃木県",
-        "city":  "栃木市",
-        "area":  "大平北地区・大平南地区",
-        "name":  "大平地域包括支援センター",
-        "tel":  "0282-43-9226",
-        "url":  "https://www.city.tochigi.lg.jp/soshiki/103/1284.html"
-    },
-    {
-        "id":  2652,
-        "prefecture":  "栃木県",
-        "city":  "栃木市",
-        "area":  "新波・石川・帯刀・緑川・西前原・蛭沼・富吉・中根・藤岡・下宮・内野・赤麻・大前・甲・都賀・大田和・太田",
-        "name":  "藤岡地域包括支援センター",
-        "tel":  "0282-62-0911",
-        "url":  "https://www.city.tochigi.lg.jp/soshiki/103/1442.html"
-    },
-    {
-        "id":  2653,
-        "prefecture":  "栃木県",
-        "city":  "栃木市",
-        "area":  "合戦場・平川・升塚・家中・原宿・木・臼久保・大橋・富張・深沢・大柿",
-        "name":  "都賀地域包括支援センター",
-        "tel":  "0282-29-1104",
-        "url":  "https://www.city.tochigi.lg.jp/soshiki/103/1389.html"
-    },
-    {
-        "id":  2654,
-        "prefecture":  "栃木県",
-        "city":  "栃木市",
-        "area":  "鷲巣・静・下津原・畳岡・五十畑・和泉・静和・静戸・曲ヶ島・古江・新里・三谷・下岡・上岡・小野寺",
-        "name":  "岩舟地域包括支援センター",
-        "tel":  "0282-55-7782",
-        "url":  "https://www.city.tochigi.lg.jp/soshiki/103/513.html"
-    },
-    {
-        "id":  2655,
-        "prefecture":  "栃木県",
-        "city":  "足利市",
-        "area":  "東校・西校・柳原・大橋・相生",
-        "name":  "中央地域包括支援センター",
-        "tel":  "0284-22-0544",
-        "url":  "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
-    },
-    {
-        "id":  2656,
-        "prefecture":  "栃木県",
-        "city":  "足利市",
-        "area":  "助戸・千歳・北郷・名草",
-        "name":  "きた・なか地域包括支援センター",
-        "tel":  "0284-41-1281",
-        "url":  "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
-    },
-    {
-        "id":  2657,
-        "prefecture":  "栃木県",
-        "city":  "足利市",
-        "area":  "毛野・富田",
-        "name":  "毛野・富田地域包括支援センター",
-        "tel":  "0284-90-2117",
-        "url":  "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
-    },
-    {
-        "id":  2658,
-        "prefecture":  "栃木県",
-        "city":  "足利市",
-        "area":  "山辺・矢場川",
-        "name":  "山辺・矢場川地域包括支援センター",
-        "tel":  "0284-71-8484",
-        "url":  "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
-    },
-    {
-        "id":  2659,
-        "prefecture":  "栃木県",
-        "city":  "足利市",
-        "area":  "御厨・梁田・筑波・久野",
-        "name":  "協和・愛宕台地域包括支援センター",
-        "tel":  "0284-73-2413",
-        "url":  "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
-    },
-    {
-        "id":  2660,
-        "prefecture":  "栃木県",
-        "city":  "足利市",
-        "area":  "葉鹿・三和・小俣",
-        "name":  "さかにし地域包括支援センター",
-        "tel":  "0284-65-4080",
-        "url":  "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
-    },
-    {
-        "id":  2661,
-        "prefecture":  "栃木県",
-        "city":  "足利市",
-        "area":  "三重・山前",
-        "name":  "三重・山前地域包括支援センター",
-        "tel":  "0284-22-7655",
-        "url":  "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
-    },
-    {
-        "id":  2858,
-        "prefecture":  "栃木県",
-        "city":  "那須塩原市",
-        "area":  "本郷町、新朝日、宮町、本町、黒磯幸町、錦町、住吉町、豊町、中央町、高砂町、弥生町、橋本町、桜町、材木町、大黒町、若葉町、東大和町、上黒磯、末広町、清住町、新緑町、松浦町、春日町、上埼玉一、上崎玉二、下埼玉、南埼玉1区～3区",
-        "name":  "寿山荘地域包括支援センター",
-        "tel":  "0287-62-9655",
-        "url":  "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
-    },
-    {
-        "id":  2859,
-        "prefecture":  "栃木県",
-        "city":  "那須塩原市",
-        "area":  "共墾社1区、共墾社2区、豊浦中町・上豊浦3区の1、豊浦町、豊浦南町、下厚崎・渡辺、新上厚崎、馬蹄形、上厚崎1丁目～5丁目、東栄1丁目、東栄2丁目、安藤町、原町、下黒磯、青葉台、下豊浦、東豊浦、雇用促進住宅、黒磯七区、鍋掛豊浦",
-        "name":  "あぐり地域包括支援センター",
-        "tel":  "0287-73-2550",
-        "url":  "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
-    },
-    {
-        "id":  2860,
-        "prefecture":  "栃木県",
-        "city":  "那須塩原市",
-        "area":  "大原間、東那須野区、東小屋、山中・大塚、佐野、三本木、木曽畑中、沼野田和、下中野、島方、方京、上中野、笹沼、北和田、波立、中内・鹿野崎、無栗屋、中島、百目木、上郷屋、唐杉、北弥六、前弥六、沓掛、沓掛新田、塩野崎、塩野崎新田",
-        "name":  "秋桜の家地域包括支援センター",
-        "tel":  "0287-65-2972",
-        "url":  "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
-    },
-    {
-        "id":  2861,
-        "prefecture":  "栃木県",
-        "city":  "那須塩原市",
-        "area":  "緑ヶ丘団地、北栄町、松原町、阿波町、新町、西新町、豊住町、豊浦北町、並木町、若草町、若松団地、稲村1区、稲村2区、稲村西町、東原1区～4区、美原町、東原中央、四方寺、藤田1区、藤田2区、小結、小結開拓、鳥野目、高林、下の内、川原向、柏林、箕輪、洞島、箭坪、木綿畑本田、木綿畑新田、湯宮、鴫内、百村本田、百村新田、穴沢、笹野曽里、油井、板室、塩沢、西岩崎、戸田、青木1区～4区、青木東昭区",
-        "name":  "稲村いたむろ地域包括支援センター",
-        "tel":  "0287-60-3361",
-        "url":  "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
-    },
-    {
-        "id":  2862,
-        "prefecture":  "栃木県",
-        "city":  "那須塩原市",
-        "area":  "豊岡、石田坂・赤沼、寺子、熊久保、越堀西、越堀、鍋掛、樋沢、野間、新堀、鍋掛原、長久保、鍋掛東町、望田、日新",
-        "name":  "さちの森地域包括支援センター",
-        "tel":  "0287-60-1333",
-        "url":  "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
-    },
-    {
-        "id":  2863,
-        "prefecture":  "栃木県",
-        "city":  "那須塩原市",
-        "area":  "西栄町、東町、下永田1丁目、千本松、北赤田、東赤田、三島1丁目、三島4丁目、三島5丁目の一部、東三島1丁目～6丁目、南郷屋1丁目～5丁目、睦、新南、高柳、西富山、井口、西遅沢、東遅沢、関根、東関根、槻沢、石林、五軒町の一部、西朝日町の一部、上赤田の一部、南赤田の一部",
-        "name":  "とちのみ地域包括支援センター",
-        "tel":  "0287-37-1683",
-        "url":  "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
-    },
-    {
-        "id":  2864,
-        "prefecture":  "栃木県",
-        "city":  "那須塩原市",
-        "area":  "永田町、扇町、あたご町、西大和、西原町、南町、西幸町、下永田2丁目～8丁目、緑1丁目、緑2丁目、二つ室、一区町、二区町、三区町、四区町、西赤田、三島2丁目、三島3丁目、三島5丁目の一部、西三島1丁目～7丁目、太夫塚1丁目～6丁目、五軒町の一部、西朝日町の一部、上赤田の一部、南赤田の一部",
-        "name":  "西那須野西部地域包括支援センター",
-        "tel":  "0287-37-8183",
-        "url":  "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
-    },
-    {
-        "id":  2865,
-        "prefecture":  "栃木県",
-        "city":  "那須塩原市",
-        "area":  "塩原、中塩原、上塩原、湯本塩原、関谷、金沢、宇都野、下大貫、上大貫、高阿津、下田野、遅野沢、蟇沼、折戸、上横林、横林、接骨木",
-        "name":  "しおばら地域包括支援センター",
-        "tel":  "0287-47-7721",
-        "url":  "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
-    },
-    {
-        "id":  2935,
-        "prefecture":  "栃木県",
-        "city":  "佐野市",
-        "area":  "佐野・犬伏地区",
-        "name":  "佐野市地域包括支援センターさの社協",
-        "tel":  "0283-22-8129",
-        "url":  "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
-    },
-    {
-        "id":  2936,
-        "prefecture":  "栃木県",
-        "city":  "佐野市",
-        "area":  "植野・界・吾妻地区",
-        "name":  "佐野市地域包括支援センター佐野市医師会",
-        "tel":  "0283-20-2011",
-        "url":  "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
-    },
-    {
-        "id":  2937,
-        "prefecture":  "栃木県",
-        "city":  "佐野市",
-        "area":  "堀米・旗川・赤見地区",
-        "name":  "佐野市地域包括支援センター佐野厚生",
-        "tel":  "0283-27-0100",
-        "url":  "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
-    },
-    {
-        "id":  2938,
-        "prefecture":  "栃木県",
-        "city":  "佐野市",
-        "area":  "田沼・田沼南部・栃本・田沼北部・戸奈良・三好・野上・新合・飛駒地区",
-        "name":  "佐野市地域包括支援センター佐野市民病院",
-        "tel":  "0283-62-8281",
-        "url":  "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
-    },
-    {
-        "id":  2939,
-        "prefecture":  "栃木県",
-        "city":  "佐野市",
-        "area":  "葛生・常盤・氷室地区",
-        "name":  "佐野市地域包括支援センターくずう",
-        "tel":  "0283-84-3111",
-        "url":  "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
-    },
-    {
-        "id":  2992,
-        "prefecture":  "栃木県",
-        "city":  "鹿沼市",
-        "area":  "市内全域（直営）",
-        "name":  "鹿沼市地域包括支援センター",
-        "tel":  "0289-63-2175",
-        "url":  "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
-    },
-    {
-        "id":  2993,
-        "prefecture":  "栃木県",
-        "city":  "鹿沼市",
-        "area":  "鹿沼東部・北犬飼地区",
-        "name":  "鹿沼東地域包括支援センター",
-        "tel":  "0289-74-7801",
-        "url":  "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
-    },
-    {
-        "id":  2994,
-        "prefecture":  "栃木県",
-        "city":  "鹿沼市",
-        "area":  "東部台・鹿沼北部地区",
-        "name":  "鹿沼東部台地域包括支援センター",
-        "tel":  "0289-74-7337",
-        "url":  "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
-    },
-    {
-        "id":  2995,
-        "prefecture":  "栃木県",
-        "city":  "鹿沼市",
-        "area":  "菊沢・板荷地区",
-        "name":  "鹿沼北地域包括支援センター",
-        "tel":  "0289-62-9688",
-        "url":  "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
-    },
-    {
-        "id":  2996,
-        "prefecture":  "栃木県",
-        "city":  "鹿沼市",
-        "area":  "鹿沼中央・東大芦・西大芦・加蘇地区",
-        "name":  "鹿沼中央地域包括支援センター",
-        "tel":  "0289-64-7236",
-        "url":  "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
-    },
-    {
-        "id":  2997,
-        "prefecture":  "栃木県",
-        "city":  "鹿沼市",
-        "area":  "北押原・南押原地区",
-        "name":  "鹿沼南地域包括支援センター",
-        "tel":  "0289-60-2000",
-        "url":  "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
-    },
-    {
-        "id":  2998,
-        "prefecture":  "栃木県",
-        "city":  "鹿沼市",
-        "area":  "南摩・粟野・粕尾・永野・清洲地区",
-        "name":  "鹿沼西地域包括支援センター",
-        "tel":  "0289-85-1061",
-        "url":  "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
-    },
-    {
-        "id":  3070,
-        "prefecture":  "栃木県",
-        "city":  "日光市",
-        "area":  "豊岡地区・今市地区（瀬川町・朝日町・川原町・大谷向町・材木町・瀬尾・松原町・高畑・高百・サンヒルズ瀬尾）",
-        "name":  "今市北地域包括支援センター",
-        "tel":  "0288-21-7081",
-        "url":  "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/2139.html"
-    },
-    {
-        "id":  3071,
-        "prefecture":  "栃木県",
-        "city":  "日光市",
-        "area":  "落合地区・大沢南部地区（下猪倉・中猪倉・上猪倉・猪倉新町・猪倉北町・木和田島・平成町）",
-        "name":  "今市南地域包括支援センター",
-        "tel":  "0288-25-6444",
-        "url":  "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/739.html"
-    },
-    {
-        "id":  3072,
-        "prefecture":  "栃木県",
-        "city":  "日光市",
-        "area":  "大沢中部地区（山口・山口二丁目・根室・大沢町第1・大沢町第2・八日市・栃ノ木平・水無・新栄郷第一）・大沢北部地区（薄井沢・大室・杉の木台・針貝・荊沢・芝山町・森友若杉町・森友・森友北原町）・塩野室地区",
-        "name":  "今市東地域包括支援センター",
-        "tel":  "0288-26-6537",
-        "url":  "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/1672.html"
-    },
-    {
-        "id":  3073,
-        "prefecture":  "栃木県",
-        "city":  "日光市",
-        "area":  "小倉町1・2丁目・3～5丁目・桜木町・二宮町・東町・住吉町・東郷町・相生町・清住町・仲町・春日町1・2丁目・清原町・清原町2丁目・七本桜・平町・原町・平ヶ崎町・中平町・千本木・緑町・吉沢・室瀬・土沢・栄町・星が丘・杉の沢",
-        "name":  "今市西地域包括支援センター",
-        "tel":  "0288-25-6374",
-        "url":  "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/733.html"
-    },
-    {
-        "id":  3074,
-        "prefecture":  "栃木県",
-        "city":  "日光市",
-        "area":  "日光地域・足尾地域",
-        "name":  "日光・足尾地域包括支援センター",
-        "tel":  "0288-25-3255",
-        "url":  "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/737.html"
-    },
-    {
-        "id":  3075,
-        "prefecture":  "栃木県",
-        "city":  "日光市",
-        "area":  "藤原地域・栗山地域",
-        "name":  "藤原・栗山地域包括支援センター",
-        "tel":  "0288-76-3333",
-        "url":  "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/738.html"
-    },
-    {
-        "id":  3144,
-        "prefecture":  "栃木県",
-        "city":  "壬生町",
-        "area":  "南犬飼中学校区",
-        "name":  "壬生北地区地域包括支援センター",
-        "tel":  "0282-86-3579",
-        "url":  "https://tochinokikai.or.jp/pages/66/"
-    },
-    {
-        "id":  3145,
-        "prefecture":  "栃木県",
-        "city":  "壬生町",
-        "area":  "壬生中学校区",
-        "name":  "壬生南地区地域包括支援センター",
-        "tel":  "0282-82-2119",
-        "url":  "http://keiwa22.or.jp/%E5%A3%AC%E7%94%9F%E5%8D%97%E5%9C%B0%E5%8C%BA%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
+[
+    {
+        "id": 1722,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "中央・簗瀬・城東",
+        "name": "地域包括支援センター御本丸",
+        "tel": "028-651-4777",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004296.html"
+    },
+    {
+        "id": 1723,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "陽南・宮の原・西原",
+        "name": "地域包括支援センターようなん",
+        "tel": "028-658-2125",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004297.html"
+    },
+    {
+        "id": 1724,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "昭和・戸祭",
+        "name": "地域包括支援センターきよすみ",
+        "tel": "028-622-2243",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004298.html"
+    },
+    {
+        "id": 1725,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "今泉・陽北",
+        "name": "地域包括支援センター今泉・陽北",
+        "tel": "028-616-1780",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004299.html"
+    },
+    {
+        "id": 1726,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "西・桜",
+        "name": "地域包括支援センターさくら西",
+        "tel": "028-610-7370",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004300.html"
+    },
+    {
+        "id": 1727,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "鬼怒",
+        "name": "鬼怒地域包括支援センター",
+        "tel": "028-683-2230",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004301.html"
+    },
+    {
+        "id": 1728,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "清原",
+        "name": "地域包括支援センター清原",
+        "tel": "028-667-8222",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004302.html"
+    },
+    {
+        "id": 1729,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "瑞穂野",
+        "name": "地域包括支援センター瑞穂野",
+        "tel": "028-656-9677",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004303.html"
+    },
+    {
+        "id": 1730,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "峰・泉が丘",
+        "name": "地域包括支援センター峰・泉が丘",
+        "tel": "028-613-5500",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004304.html"
+    },
+    {
+        "id": 1731,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "石井・陽東",
+        "name": "地域包括支援センター石井・陽東",
+        "tel": "028-660-1414",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004305.html"
+    },
+    {
+        "id": 1732,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "横川",
+        "name": "よこかわ地域包括支援センター",
+        "tel": "028-657-7234",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004306.html"
+    },
+    {
+        "id": 1733,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "雀宮東部",
+        "name": "地域包括支援センター雀宮",
+        "tel": "028-655-7080",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004307.html"
+    },
+    {
+        "id": 1734,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "雀宮西部・五代・若松原",
+        "name": "地域包括支援センター雀宮・五代若松原",
+        "tel": "028-688-3371",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004308.html"
+    },
+    {
+        "id": 1735,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "緑が丘・陽光",
+        "name": "緑が丘・陽光地域包括支援センター",
+        "tel": "028-684-3328",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004309.html"
+    },
+    {
+        "id": 1736,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "砥上",
+        "name": "地域包括支援センター砥上",
+        "tel": "028-647-3294",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004310.html"
+    },
+    {
+        "id": 1737,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "姿川南部",
+        "name": "姿川南部地域包括支援センター",
+        "tel": "028-654-2281",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004311.html"
+    },
+    {
+        "id": 1738,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "国本",
+        "name": "くにもと地域包括支援センター",
+        "tel": "028-666-2211",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004312.html"
+    },
+    {
+        "id": 1739,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "細谷・宝木",
+        "name": "地域包括支援センター細谷・宝木",
+        "tel": "028-902-4170",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004313.html"
+    },
+    {
+        "id": 1740,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "富屋・篠井",
+        "name": "富屋・篠井地域包括支援センター",
+        "tel": "028-665-7772",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004314.html"
+    },
+    {
+        "id": 1741,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "城山",
+        "name": "城山地域包括支援センター",
+        "tel": "028-652-8124",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004315.html"
+    },
+    {
+        "id": 1742,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "豊郷",
+        "name": "地域包括支援センター豊郷",
+        "tel": "028-616-1237",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004316.html"
+    },
+    {
+        "id": 1743,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "河内（古里）",
+        "name": "地域包括支援センターかわち",
+        "tel": "028-673-8941",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004317.html"
+    },
+    {
+        "id": 1744,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "河内（田原）",
+        "name": "田原地域包括支援センター",
+        "tel": "028-672-4811",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004318.html"
+    },
+    {
+        "id": 1745,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "河内（河内）",
+        "name": "地域包括支援センター奈坪",
+        "tel": "028-671-2202",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004319.html"
+    },
+    {
+        "id": 1746,
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "area": "上河内",
+        "name": "上河内地域包括支援センター",
+        "tel": "028-674-7222",
+        "url": "https://www.city.utsunomiya.lg.jp/kenko/koureisha/service/center/map/1004320.html"
+    },
+    {
+        "id": 2611,
+        "prefecture": "栃木県",
+        "city": "小山市",
+        "area": "大字小山・若木町・花垣町・本郷町・城山町・中央町・宮本町・八幡町・天神町・神明町・駅東通り・稲葉郷・城北",
+        "name": "基幹型地域包括支援センター兼高齢者サポートセンター小山総合",
+        "tel": "0285-22-3061",
+        "url": "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
+    },
+    {
+        "id": 2612,
+        "prefecture": "栃木県",
+        "city": "小山市",
+        "area": "神鳥谷・東城南・西城南・外城・駅南町・三峯・神山・粟宮1丁目・粟宮2丁目",
+        "name": "高齢者サポートセンター小山",
+        "tel": "0285-31-0211",
+        "url": "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
+    },
+    {
+        "id": 2613,
+        "prefecture": "栃木県",
+        "city": "小山市",
+        "area": "城東・土塔・犬塚・中久喜・塚崎・横倉新田・横倉・向原新田・雨ヶ谷新田・雨ヶ谷・田間・武井・東野田・南和泉",
+        "name": "高齢者サポートセンター大谷",
+        "tel": "0285-27-6646",
+        "url": "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
+    },
+    {
+        "id": 2614,
+        "prefecture": "栃木県",
+        "city": "小山市",
+        "area": "間々田・千駄塚・西黒田・東黒田・南飯田・平和・乙女・南乙女・暁・東間々田・美しが丘・網戸・楢木・生良・上生井・下生井・白鳥・鏡・押切・中里・寒川・迫間田",
+        "name": "高齢者サポートセンター間々田",
+        "tel": "0285-41-2071",
+        "url": "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
+    },
+    {
+        "id": 2615,
+        "prefecture": "栃木県",
+        "city": "小山市",
+        "area": "大本・小宅・黒本・島田・渋井・荒川・立木・城西・卒島・今里・上初田・松沼・小薬・南小林・上泉・下泉・井岡・小袋・下河原田・生駒・大川島・下初田・上国府塚・下国府塚・上石塚・下石塚・大行寺・萩島・石ノ上・塩沢・間中",
+        "name": "高齢者サポートセンター美田",
+        "tel": "0285-32-1881",
+        "url": "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
+    },
+    {
+        "id": 2616,
+        "prefecture": "栃木県",
+        "city": "小山市",
+        "area": "喜沢・三拝川岸・東島田・飯塚・南半田・羽川・荒井・出井・鉢形・北飯田・東山田・萱橋・向野・扶桑・田川・延島新田・延島・高椅・福良・中島・梁・中河原",
+        "name": "高齢者サポートセンター桑絹",
+        "tel": "0285-30-0921",
+        "url": "https://www.city.oyama.tochigi.jp/kenkou-fukushi-kaigo/koureisha/shien/page004581.html"
+    },
+    {
+        "id": 2648,
+        "prefecture": "栃木県",
+        "city": "栃木市",
+        "area": "倭町・旭町・室町・城内町・神田町・本町・沼和田町・河合町・境町・片柳町・湊町・富士見町・平井町・薗部町・入舟町・祝町・柳橋町・錦町・万町・日ノ出町・箱森町・小平町・嘉右衛門町・泉町・大町・昭和町・平柳町1丁目",
+        "name": "栃木中央地域包括支援センター",
+        "tel": "0282-21-2245",
+        "url": "https://www.city.tochigi.lg.jp/soshiki/103/1940.html"
+    },
+    {
+        "id": 2649,
+        "prefecture": "栃木県",
+        "city": "栃木市",
+        "area": "吹上町・細掘町・木野地町・川原田町・野中町・宮町・千塚町・大森町・仲方町・梓町・皆川城内町・柏倉町・小野口町・志鳥町・岩出町・大皆川町・泉川町・新井町・尻内町・梅沢町・大久保町・鍋山町・星野町・出流町",
+        "name": "吹上地域包括支援センター",
+        "tel": "0282-31-1002",
+        "url": "https://www.city.tochigi.lg.jp/soshiki/103/1140.html"
+    },
+    {
+        "id": 2650,
+        "prefecture": "栃木県",
+        "city": "栃木市",
+        "area": "惣社町・柳原町・大光寺町・田村町・寄居町・国府町・大塚町・大宮町・今泉町・仲仕上町・藤田町・久保田町・宮田町・高谷町・樋ノ口町",
+        "name": "国府地域包括支援センター",
+        "tel": "0282-27-3855",
+        "url": "https://www.city.tochigi.lg.jp/soshiki/103/849.html"
+    },
+    {
+        "id": 2651,
+        "prefecture": "栃木県",
+        "city": "栃木市",
+        "area": "大平北地区・大平南地区",
+        "name": "大平地域包括支援センター",
+        "tel": "0282-43-9226",
+        "url": "https://www.city.tochigi.lg.jp/soshiki/103/1284.html"
+    },
+    {
+        "id": 2652,
+        "prefecture": "栃木県",
+        "city": "栃木市",
+        "area": "新波・石川・帯刀・緑川・西前原・蛭沼・富吉・中根・藤岡・下宮・内野・赤麻・大前・甲・都賀・大田和・太田",
+        "name": "藤岡地域包括支援センター",
+        "tel": "0282-62-0911",
+        "url": "https://www.city.tochigi.lg.jp/soshiki/103/1442.html"
+    },
+    {
+        "id": 2653,
+        "prefecture": "栃木県",
+        "city": "栃木市",
+        "area": "合戦場・平川・升塚・家中・原宿・木・臼久保・大橋・富張・深沢・大柿",
+        "name": "都賀地域包括支援センター",
+        "tel": "0282-29-1104",
+        "url": "https://www.city.tochigi.lg.jp/soshiki/103/1389.html"
+    },
+    {
+        "id": 2654,
+        "prefecture": "栃木県",
+        "city": "栃木市",
+        "area": "鷲巣・静・下津原・畳岡・五十畑・和泉・静和・静戸・曲ヶ島・古江・新里・三谷・下岡・上岡・小野寺",
+        "name": "岩舟地域包括支援センター",
+        "tel": "0282-55-7782",
+        "url": "https://www.city.tochigi.lg.jp/soshiki/103/513.html"
+    },
+    {
+        "id": 2655,
+        "prefecture": "栃木県",
+        "city": "足利市",
+        "area": "東校・西校・柳原・大橋・相生",
+        "name": "中央地域包括支援センター",
+        "tel": "0284-22-0544",
+        "url": "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
+    },
+    {
+        "id": 2656,
+        "prefecture": "栃木県",
+        "city": "足利市",
+        "area": "助戸・千歳・北郷・名草",
+        "name": "きた・なか地域包括支援センター",
+        "tel": "0284-41-1281",
+        "url": "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
+    },
+    {
+        "id": 2657,
+        "prefecture": "栃木県",
+        "city": "足利市",
+        "area": "毛野・富田",
+        "name": "毛野・富田地域包括支援センター",
+        "tel": "0284-90-2117",
+        "url": "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
+    },
+    {
+        "id": 2658,
+        "prefecture": "栃木県",
+        "city": "足利市",
+        "area": "山辺・矢場川",
+        "name": "山辺・矢場川地域包括支援センター",
+        "tel": "0284-71-8484",
+        "url": "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
+    },
+    {
+        "id": 2659,
+        "prefecture": "栃木県",
+        "city": "足利市",
+        "area": "御厨・梁田・筑波・久野",
+        "name": "協和・愛宕台地域包括支援センター",
+        "tel": "0284-73-2413",
+        "url": "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
+    },
+    {
+        "id": 2660,
+        "prefecture": "栃木県",
+        "city": "足利市",
+        "area": "葉鹿・三和・小俣",
+        "name": "さかにし地域包括支援センター",
+        "tel": "0284-65-4080",
+        "url": "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
+    },
+    {
+        "id": 2661,
+        "prefecture": "栃木県",
+        "city": "足利市",
+        "area": "三重・山前",
+        "name": "三重・山前地域包括支援センター",
+        "tel": "0284-22-7655",
+        "url": "https://www.city.ashikaga.tochigi.jp/health/000053/000280/p001989.html"
+    },
+    {
+        "id": 2858,
+        "prefecture": "栃木県",
+        "city": "那須塩原市",
+        "area": "本郷町、新朝日、宮町、本町、黒磯幸町、錦町、住吉町、豊町、中央町、高砂町、弥生町、橋本町、桜町、材木町、大黒町、若葉町、東大和町、上黒磯、末広町、清住町、新緑町、松浦町、春日町、上埼玉一、上崎玉二、下埼玉、南埼玉1区～3区",
+        "name": "寿山荘地域包括支援センター",
+        "tel": "0287-62-9655",
+        "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
+    },
+    {
+        "id": 2859,
+        "prefecture": "栃木県",
+        "city": "那須塩原市",
+        "area": "共墾社1区、共墾社2区、豊浦中町・上豊浦3区の1、豊浦町、豊浦南町、下厚崎・渡辺、新上厚崎、馬蹄形、上厚崎1丁目～5丁目、東栄1丁目、東栄2丁目、安藤町、原町、下黒磯、青葉台、下豊浦、東豊浦、雇用促進住宅、黒磯七区、鍋掛豊浦",
+        "name": "あぐり地域包括支援センター",
+        "tel": "0287-73-2550",
+        "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
+    },
+    {
+        "id": 2860,
+        "prefecture": "栃木県",
+        "city": "那須塩原市",
+        "area": "大原間、東那須野区、東小屋、山中・大塚、佐野、三本木、木曽畑中、沼野田和、下中野、島方、方京、上中野、笹沼、北和田、波立、中内・鹿野崎、無栗屋、中島、百目木、上郷屋、唐杉、北弥六、前弥六、沓掛、沓掛新田、塩野崎、塩野崎新田",
+        "name": "秋桜の家地域包括支援センター",
+        "tel": "0287-65-2972",
+        "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
+    },
+    {
+        "id": 2861,
+        "prefecture": "栃木県",
+        "city": "那須塩原市",
+        "area": "緑ヶ丘団地、北栄町、松原町、阿波町、新町、西新町、豊住町、豊浦北町、並木町、若草町、若松団地、稲村1区、稲村2区、稲村西町、東原1区～4区、美原町、東原中央、四方寺、藤田1区、藤田2区、小結、小結開拓、鳥野目、高林、下の内、川原向、柏林、箕輪、洞島、箭坪、木綿畑本田、木綿畑新田、湯宮、鴫内、百村本田、百村新田、穴沢、笹野曽里、油井、板室、塩沢、西岩崎、戸田、青木1区～4区、青木東昭区",
+        "name": "稲村いたむろ地域包括支援センター",
+        "tel": "0287-60-3361",
+        "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
+    },
+    {
+        "id": 2862,
+        "prefecture": "栃木県",
+        "city": "那須塩原市",
+        "area": "豊岡、石田坂・赤沼、寺子、熊久保、越堀西、越堀、鍋掛、樋沢、野間、新堀、鍋掛原、長久保、鍋掛東町、望田、日新",
+        "name": "さちの森地域包括支援センター",
+        "tel": "0287-60-1333",
+        "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
+    },
+    {
+        "id": 2863,
+        "prefecture": "栃木県",
+        "city": "那須塩原市",
+        "area": "西栄町、東町、下永田1丁目、千本松、北赤田、東赤田、三島1丁目、三島4丁目、三島5丁目の一部、東三島1丁目～6丁目、南郷屋1丁目～5丁目、睦、新南、高柳、西富山、井口、西遅沢、東遅沢、関根、東関根、槻沢、石林、五軒町の一部、西朝日町の一部、上赤田の一部、南赤田の一部",
+        "name": "とちのみ地域包括支援センター",
+        "tel": "0287-37-1683",
+        "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
+    },
+    {
+        "id": 2864,
+        "prefecture": "栃木県",
+        "city": "那須塩原市",
+        "area": "永田町、扇町、あたご町、西大和、西原町、南町、西幸町、下永田2丁目～8丁目、緑1丁目、緑2丁目、二つ室、一区町、二区町、三区町、四区町、西赤田、三島2丁目、三島3丁目、三島5丁目の一部、西三島1丁目～7丁目、太夫塚1丁目～6丁目、五軒町の一部、西朝日町の一部、上赤田の一部、南赤田の一部",
+        "name": "西那須野西部地域包括支援センター",
+        "tel": "0287-37-8183",
+        "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
+    },
+    {
+        "id": 2865,
+        "prefecture": "栃木県",
+        "city": "那須塩原市",
+        "area": "塩原、中塩原、上塩原、湯本塩原、関谷、金沢、宇都野、下大貫、上大貫、高阿津、下田野、遅野沢、蟇沼、折戸、上横林、横林、接骨木",
+        "name": "しおばら地域包括支援センター",
+        "tel": "0287-47-7721",
+        "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/koreifukushika/fukushi_kaigo/5735.html"
+    },
+    {
+        "id": 2935,
+        "prefecture": "栃木県",
+        "city": "佐野市",
+        "area": "佐野・犬伏地区",
+        "name": "佐野市地域包括支援センターさの社協",
+        "tel": "0283-22-8129",
+        "url": "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
+    },
+    {
+        "id": 2936,
+        "prefecture": "栃木県",
+        "city": "佐野市",
+        "area": "植野・界・吾妻地区",
+        "name": "佐野市地域包括支援センター佐野市医師会",
+        "tel": "0283-20-2011",
+        "url": "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
+    },
+    {
+        "id": 2937,
+        "prefecture": "栃木県",
+        "city": "佐野市",
+        "area": "堀米・旗川・赤見地区",
+        "name": "佐野市地域包括支援センター佐野厚生",
+        "tel": "0283-27-0100",
+        "url": "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
+    },
+    {
+        "id": 2938,
+        "prefecture": "栃木県",
+        "city": "佐野市",
+        "area": "田沼・田沼南部・栃本・田沼北部・戸奈良・三好・野上・新合・飛駒地区",
+        "name": "佐野市地域包括支援センター佐野市民病院",
+        "tel": "0283-62-8281",
+        "url": "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
+    },
+    {
+        "id": 2939,
+        "prefecture": "栃木県",
+        "city": "佐野市",
+        "area": "葛生・常盤・氷室地区",
+        "name": "佐野市地域包括支援センターくずう",
+        "tel": "0283-84-3111",
+        "url": "https://www.city.sano.lg.jp/soshikiichiran/kenkou/ikiikikoreika/gyomuannai/3/3741.html"
+    },
+    {
+        "id": 2992,
+        "prefecture": "栃木県",
+        "city": "鹿沼市",
+        "area": "市内全域（直営）",
+        "name": "鹿沼市地域包括支援センター",
+        "tel": "0289-63-2175",
+        "url": "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
+    },
+    {
+        "id": 2993,
+        "prefecture": "栃木県",
+        "city": "鹿沼市",
+        "area": "鹿沼東部・北犬飼地区",
+        "name": "鹿沼東地域包括支援センター",
+        "tel": "0289-74-7801",
+        "url": "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
+    },
+    {
+        "id": 2994,
+        "prefecture": "栃木県",
+        "city": "鹿沼市",
+        "area": "東部台・鹿沼北部地区",
+        "name": "鹿沼東部台地域包括支援センター",
+        "tel": "0289-74-7337",
+        "url": "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
+    },
+    {
+        "id": 2995,
+        "prefecture": "栃木県",
+        "city": "鹿沼市",
+        "area": "菊沢・板荷地区",
+        "name": "鹿沼北地域包括支援センター",
+        "tel": "0289-62-9688",
+        "url": "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
+    },
+    {
+        "id": 2996,
+        "prefecture": "栃木県",
+        "city": "鹿沼市",
+        "area": "鹿沼中央・東大芦・西大芦・加蘇地区",
+        "name": "鹿沼中央地域包括支援センター",
+        "tel": "0289-64-7236",
+        "url": "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
+    },
+    {
+        "id": 2997,
+        "prefecture": "栃木県",
+        "city": "鹿沼市",
+        "area": "北押原・南押原地区",
+        "name": "鹿沼南地域包括支援センター",
+        "tel": "0289-60-2000",
+        "url": "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
+    },
+    {
+        "id": 2998,
+        "prefecture": "栃木県",
+        "city": "鹿沼市",
+        "area": "南摩・粟野・粕尾・永野・清洲地区",
+        "name": "鹿沼西地域包括支援センター",
+        "tel": "0289-85-1061",
+        "url": "https://www.city.kanuma.tochigi.jp/0156/info-0000002286-1.html"
+    },
+    {
+        "id": 3070,
+        "prefecture": "栃木県",
+        "city": "日光市",
+        "area": "豊岡地区・今市地区（瀬川町・朝日町・川原町・大谷向町・材木町・瀬尾・松原町・高畑・高百・サンヒルズ瀬尾）",
+        "name": "今市北地域包括支援センター",
+        "tel": "0288-21-7081",
+        "url": "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/2139.html"
+    },
+    {
+        "id": 3071,
+        "prefecture": "栃木県",
+        "city": "日光市",
+        "area": "落合地区・大沢南部地区（下猪倉・中猪倉・上猪倉・猪倉新町・猪倉北町・木和田島・平成町）",
+        "name": "今市南地域包括支援センター",
+        "tel": "0288-25-6444",
+        "url": "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/739.html"
+    },
+    {
+        "id": 3072,
+        "prefecture": "栃木県",
+        "city": "日光市",
+        "area": "大沢中部地区（山口・山口二丁目・根室・大沢町第1・大沢町第2・八日市・栃ノ木平・水無・新栄郷第一）・大沢北部地区（薄井沢・大室・杉の木台・針貝・荊沢・芝山町・森友若杉町・森友・森友北原町）・塩野室地区",
+        "name": "今市東地域包括支援センター",
+        "tel": "0288-26-6537",
+        "url": "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/1672.html"
+    },
+    {
+        "id": 3073,
+        "prefecture": "栃木県",
+        "city": "日光市",
+        "area": "小倉町1・2丁目・3～5丁目・桜木町・二宮町・東町・住吉町・東郷町・相生町・清住町・仲町・春日町1・2丁目・清原町・清原町2丁目・七本桜・平町・原町・平ヶ崎町・中平町・千本木・緑町・吉沢・室瀬・土沢・栄町・星が丘・杉の沢",
+        "name": "今市西地域包括支援センター",
+        "tel": "0288-25-6374",
+        "url": "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/733.html"
+    },
+    {
+        "id": 3074,
+        "prefecture": "栃木県",
+        "city": "日光市",
+        "area": "日光地域・足尾地域",
+        "name": "日光・足尾地域包括支援センター",
+        "tel": "0288-25-3255",
+        "url": "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/737.html"
+    },
+    {
+        "id": 3075,
+        "prefecture": "栃木県",
+        "city": "日光市",
+        "area": "藤原地域・栗山地域",
+        "name": "藤原・栗山地域包括支援センター",
+        "tel": "0288-76-3333",
+        "url": "https://www.city.nikko.lg.jp/soshiki/5/1019/4/1/738.html"
+    },
+    {
+        "id": 3144,
+        "prefecture": "栃木県",
+        "city": "壬生町",
+        "area": "南犬飼中学校区",
+        "name": "壬生北地区地域包括支援センター",
+        "tel": "0282-86-3579",
+        "url": "https://tochinokikai.or.jp/pages/66/"
+    },
+    {
+        "id": 3145,
+        "prefecture": "栃木県",
+        "city": "壬生町",
+        "area": "壬生中学校区",
+        "name": "壬生南地区地域包括支援センター",
+        "tel": "0282-82-2119",
+        "url": "http://keiwa22.or.jp/%E5%A3%AC%E7%94%9F%E5%8D%97%E5%9C%B0%E5%8C%BA%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
+    },
+    {
+        "id": 4298,
+        "prefecture": "栃木県",
+        "city": "大田原市",
+        "area": "",
+        "name": "大田原市西部地域包括支援センター",
+        "tel": "0287-20-2710",
+        "url": ""
+    },
+    {
+        "id": 4299,
+        "prefecture": "栃木県",
+        "city": "大田原市",
+        "area": "",
+        "name": "大田原市中央地域包括支援センター",
+        "tel": "0287-20-1001",
+        "url": ""
+    },
+    {
+        "id": 4300,
+        "prefecture": "栃木県",
+        "city": "大田原市",
+        "area": "",
+        "name": "大田原市東部地域包括支援センター",
+        "tel": "0287-53-1880",
+        "url": ""
+    },
+    {
+        "id": 4301,
+        "prefecture": "栃木県",
+        "city": "矢板市",
+        "area": "",
+        "name": "矢板市地域包括支援センター やしお",
+        "tel": "0287-47-5577",
+        "url": ""
+    },
+    {
+        "id": 4302,
+        "prefecture": "栃木県",
+        "city": "矢板市",
+        "area": "",
+        "name": "矢板市地域包括支援センター すえひろ",
+        "tel": "0287-47-7005",
+        "url": ""
+    },
+    {
+        "id": 4303,
+        "prefecture": "栃木県",
+        "city": "さくら市",
+        "area": "",
+        "name": "さくら市地域包括支援センターエリム",
+        "tel": "028-681-1150",
+        "url": ""
+    },
+    {
+        "id": 4304,
+        "prefecture": "栃木県",
+        "city": "さくら市",
+        "area": "",
+        "name": "さくら市地域包括支援センター而今",
+        "tel": "028-685-3294",
+        "url": ""
+    },
+    {
+        "id": 4305,
+        "prefecture": "栃木県",
+        "city": "那須烏山市",
+        "area": "",
+        "name": "那須烏山市地域包括支援センターみなみなす",
+        "tel": "0287-83-8760",
+        "url": ""
+    },
+    {
+        "id": 4306,
+        "prefecture": "栃木県",
+        "city": "那須烏山市",
+        "area": "",
+        "name": "那須烏山市地域包括支援センターからすやま",
+        "tel": "0287-82-7272",
+        "url": ""
+    },
+    {
+        "id": 4307,
+        "prefecture": "栃木県",
+        "city": "下野市",
+        "area": "",
+        "name": "下野市地域包括支援センターいしばし",
+        "tel": "0285-51-0633",
+        "url": ""
+    },
+    {
+        "id": 4308,
+        "prefecture": "栃木県",
+        "city": "下野市",
+        "area": "",
+        "name": "下野市地域包括支援センターこくぶんじ",
+        "tel": "0285-43-1229",
+        "url": ""
+    },
+    {
+        "id": 4309,
+        "prefecture": "栃木県",
+        "city": "下野市",
+        "area": "",
+        "name": "下野市地域包括支援センターみなみかわち",
+        "tel": "0285-48-1177",
+        "url": ""
+    },
+    {
+        "id": 4310,
+        "prefecture": "栃木県",
+        "city": "上三川町",
+        "area": "",
+        "name": "上三川町地域包括支援センター",
+        "tel": "0285-56-5513",
+        "url": ""
+    },
+    {
+        "id": 4311,
+        "prefecture": "栃木県",
+        "city": "益子町",
+        "area": "",
+        "name": "益子町地域包括支援センター",
+        "tel": "0285-70-2550",
+        "url": ""
+    },
+    {
+        "id": 4312,
+        "prefecture": "栃木県",
+        "city": "茂木町",
+        "area": "",
+        "name": "茂木町地域包括支援センター",
+        "tel": "0285-63-5651",
+        "url": ""
+    },
+    {
+        "id": 4313,
+        "prefecture": "栃木県",
+        "city": "市貝町",
+        "area": "",
+        "name": "市貝町地域包括支援センター",
+        "tel": "0285-68-1132",
+        "url": ""
+    },
+    {
+        "id": 4314,
+        "prefecture": "栃木県",
+        "city": "芳賀町",
+        "area": "",
+        "name": "芳賀町地域包括支援センター",
+        "tel": "028-677-6080",
+        "url": ""
+    },
+    {
+        "id": 4315,
+        "prefecture": "栃木県",
+        "city": "野木町",
+        "area": "",
+        "name": "野木町地域包括支援センター",
+        "tel": "0280-57-2400",
+        "url": ""
+    },
+    {
+        "id": 4316,
+        "prefecture": "栃木県",
+        "city": "塩谷町",
+        "area": "",
+        "name": "塩谷町地域包括支援センター",
+        "tel": "0287-47-5173",
+        "url": ""
+    },
+    {
+        "id": 4317,
+        "prefecture": "栃木県",
+        "city": "高根沢町",
+        "area": "",
+        "name": "高根沢西地域包括支援センター",
+        "tel": "028-680-3503",
+        "url": ""
+    },
+    {
+        "id": 4318,
+        "prefecture": "栃木県",
+        "city": "高根沢町",
+        "area": "",
+        "name": "高根沢東地域包括支援センター",
+        "tel": "028-676-0148",
+        "url": ""
+    },
+    {
+        "id": 4319,
+        "prefecture": "栃木県",
+        "city": "那須町",
+        "area": "",
+        "name": "那須地区地域包括支援センター",
+        "tel": "0287-71-1138",
+        "url": ""
+    },
+    {
+        "id": 4320,
+        "prefecture": "栃木県",
+        "city": "那須町",
+        "area": "",
+        "name": "高原地区地域包括支援センター",
+        "tel": "0287-73-8881",
+        "url": ""
+    },
+    {
+        "id": 4321,
+        "prefecture": "栃木県",
+        "city": "那珂川町",
+        "area": "",
+        "name": "那珂川町地域包括支援センター",
+        "tel": "0287-92-1125",
+        "url": ""
     }
 ]
