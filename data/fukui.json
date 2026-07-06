@@ -1,272 +1,416 @@
 [
     {
-        "id":  1419,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "豊・木田",
-        "name":  "ほやねっと明倫",
-        "tel":  "0776-33-5777",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1419,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "豊・木田",
+        "name": "ほやねっと明倫",
+        "tel": "0776-33-5777",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1420,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "足羽・湊",
-        "name":  "ほやねっとあたご",
-        "tel":  "0776-33-6800",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1420,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "足羽・湊",
+        "name": "ほやねっとあたご",
+        "tel": "0776-33-6800",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1421,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "春山・宝永・松本",
-        "name":  "ほやねっと中央北",
-        "tel":  "0776-28-7271",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1421,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "春山・宝永・松本",
+        "name": "ほやねっと中央北",
+        "tel": "0776-28-7271",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1422,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "順化・日之出・旭",
-        "name":  "ほやねっと不死鳥",
-        "tel":  "0776-20-5683",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1422,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "順化・日之出・旭",
+        "name": "ほやねっと不死鳥",
+        "tel": "0776-20-5683",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1423,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "和田・円山",
-        "name":  "ほやねっとあずま",
-        "tel":  "0776-28-8511",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1423,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "和田・円山",
+        "name": "ほやねっとあずま",
+        "tel": "0776-28-8511",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1424,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "啓蒙・岡保・東藤島",
-        "name":  "ほやねっと大東",
-        "tel":  "0776-53-4092",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1424,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "啓蒙・岡保・東藤島",
+        "name": "ほやねっと大東",
+        "tel": "0776-53-4092",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1425,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "中藤島・森田",
-        "name":  "ほやねっと九頭竜",
-        "tel":  "0776-57-0040",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1425,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "中藤島・森田",
+        "name": "ほやねっと九頭竜",
+        "tel": "0776-57-0040",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1426,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "西藤島・河合・明新",
-        "name":  "ほやねっと北",
-        "tel":  "0776-25-2510",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1426,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "西藤島・河合・明新",
+        "name": "ほやねっと北",
+        "tel": "0776-25-2510",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1427,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "清明・麻生津",
-        "name":  "ほやねっとみなみ",
-        "tel":  "0776-43-1316",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1427,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "清明・麻生津",
+        "name": "ほやねっとみなみ",
+        "tel": "0776-43-1316",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1428,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "社南・社北・社西",
-        "name":  "ほやねっと社",
-        "tel":  "0776-36-1246",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1428,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "社南・社北・社西",
+        "name": "ほやねっと社",
+        "tel": "0776-36-1246",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1429,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "日新・東安居・安居・一光・殿下・越廼・清水西・清水東・清水南・清水北",
-        "name":  "ほやねっと光",
-        "tel":  "0776-35-0313",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1429,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "日新・東安居・安居・一光・殿下・越廼・清水西・清水東・清水南・清水北",
+        "name": "ほやねっと光",
+        "tel": "0776-35-0313",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1430,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "大安寺・国見・鶉・棗・鷹巣・本郷・宮ノ下",
-        "name":  "ほやねっと川西",
-        "tel":  "0776-97-8003",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1430,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "大安寺・国見・鶉・棗・鷹巣・本郷・宮ノ下",
+        "name": "ほやねっと川西",
+        "tel": "0776-97-8003",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  1431,
-        "prefecture":  "福井県",
-        "city":  "福井市",
-        "area":  "酒生・一乗・上文殊・文殊・六条・東郷・美山",
-        "name":  "ほやねっと東足羽",
-        "tel":  "0776-41-4135",
-        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+        "id": 1431,
+        "prefecture": "福井県",
+        "city": "福井市",
+        "area": "酒生・一乗・上文殊・文殊・六条・東郷・美山",
+        "name": "ほやねっと東足羽",
+        "tel": "0776-41-4135",
+        "url": "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
     },
     {
-        "id":  3202,
-        "prefecture":  "福井県",
-        "city":  "坂井市",
-        "area":  "三国町",
-        "name":  "三国地域包括支援センター",
-        "tel":  "0776-82-1616",
-        "url":  "http://www.s-shinseikai.jp/support_center/"
+        "id": 3202,
+        "prefecture": "福井県",
+        "city": "坂井市",
+        "area": "三国町",
+        "name": "三国地域包括支援センター",
+        "tel": "0776-82-1616",
+        "url": "http://www.s-shinseikai.jp/support_center/"
     },
     {
-        "id":  3203,
-        "prefecture":  "福井県",
-        "city":  "坂井市",
-        "area":  "丸岡町",
-        "name":  "丸岡地域包括支援センター",
-        "tel":  "0776-68-1130",
-        "url":  "https://fj-g.jp/comprehensive/maruoka"
+        "id": 3203,
+        "prefecture": "福井県",
+        "city": "坂井市",
+        "area": "丸岡町",
+        "name": "丸岡地域包括支援センター",
+        "tel": "0776-68-1130",
+        "url": "https://fj-g.jp/comprehensive/maruoka"
     },
     {
-        "id":  3204,
-        "prefecture":  "福井県",
-        "city":  "坂井市",
-        "area":  "春江町",
-        "name":  "春江地域包括支援センター",
-        "tel":  "0776-43-0227",
-        "url":  "http://fj-g.jp/comprehensive/"
+        "id": 3204,
+        "prefecture": "福井県",
+        "city": "坂井市",
+        "area": "春江町",
+        "name": "春江地域包括支援センター",
+        "tel": "0776-43-0227",
+        "url": "http://fj-g.jp/comprehensive/"
     },
     {
-        "id":  3205,
-        "prefecture":  "福井県",
-        "city":  "坂井市",
-        "area":  "坂井町",
-        "name":  "坂井地域包括支援センター",
-        "tel":  "0776-67-5000",
-        "url":  "http://www.sakaicityshakyo.jp/wsus/20170403-3/"
+        "id": 3205,
+        "prefecture": "福井県",
+        "city": "坂井市",
+        "area": "坂井町",
+        "name": "坂井地域包括支援センター",
+        "tel": "0776-67-5000",
+        "url": "http://www.sakaicityshakyo.jp/wsus/20170403-3/"
     },
     {
-        "id":  3222,
-        "prefecture":  "福井県",
-        "city":  "越前市",
-        "area":  "北新庄・北日野・味真野",
-        "name":  "越前市社会福祉協議会地域包括支援センター",
-        "tel":  "0778-22-6111",
-        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+        "id": 3222,
+        "prefecture": "福井県",
+        "city": "越前市",
+        "area": "北新庄・北日野・味真野",
+        "name": "越前市社会福祉協議会地域包括支援センター",
+        "tel": "0778-22-6111",
+        "url": "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
     },
     {
-        "id":  3223,
-        "prefecture":  "福井県",
-        "city":  "越前市",
-        "area":  "坂口・王子保・南",
-        "name":  "しくら地域包括支援センター",
-        "tel":  "0778-29-1188",
-        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+        "id": 3223,
+        "prefecture": "福井県",
+        "city": "越前市",
+        "area": "坂口・王子保・南",
+        "name": "しくら地域包括支援センター",
+        "tel": "0778-29-1188",
+        "url": "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
     },
     {
-        "id":  3224,
-        "prefecture":  "福井県",
-        "city":  "越前市",
-        "area":  "西・神山・白山",
-        "name":  "あいの樹地域包括支援センター",
-        "tel":  "0778-42-5725",
-        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+        "id": 3224,
+        "prefecture": "福井県",
+        "city": "越前市",
+        "area": "西・神山・白山",
+        "name": "あいの樹地域包括支援センター",
+        "tel": "0778-42-5725",
+        "url": "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
     },
     {
-        "id":  3225,
-        "prefecture":  "福井県",
-        "city":  "越前市",
-        "area":  "粟田部・岡本・南中山・服間",
-        "name":  "地域包括支援センターいまだて",
-        "tel":  "0778-43-1888",
-        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+        "id": 3225,
+        "prefecture": "福井県",
+        "city": "越前市",
+        "area": "粟田部・岡本・南中山・服間",
+        "name": "地域包括支援センターいまだて",
+        "tel": "0778-43-1888",
+        "url": "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
     },
     {
-        "id":  3226,
-        "prefecture":  "福井県",
-        "city":  "越前市",
-        "area":  "国高・東",
-        "name":  "地域包括支援センター和上苑",
-        "tel":  "0778-23-5255",
-        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+        "id": 3226,
+        "prefecture": "福井県",
+        "city": "越前市",
+        "area": "国高・東",
+        "name": "地域包括支援センター和上苑",
+        "tel": "0778-23-5255",
+        "url": "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
     },
     {
-        "id":  3227,
-        "prefecture":  "福井県",
-        "city":  "越前市",
-        "area":  "吉野・大虫",
-        "name":  "地域包括支援センター丹南きらめき",
-        "tel":  "0778-22-7776",
-        "url":  "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
+        "id": 3227,
+        "prefecture": "福井県",
+        "city": "越前市",
+        "area": "吉野・大虫",
+        "name": "地域包括支援センター丹南きらめき",
+        "tel": "0778-22-7776",
+        "url": "https://www.city.echizen.lg.jp/office/050/060/tiikihoukatu/tiikihoukatu.html"
     },
     {
-        "id":  3285,
-        "prefecture":  "福井県",
-        "city":  "敦賀市",
-        "area":  "敦賀市全域（基幹型）",
-        "name":  "敦賀市地域包括支援センター長寿",
-        "tel":  "0770-22-8181",
-        "url":  "https://www.city.tsuruga.lg.jp/page/2642.html"
+        "id": 3285,
+        "prefecture": "福井県",
+        "city": "敦賀市",
+        "area": "敦賀市全域（基幹型）",
+        "name": "敦賀市地域包括支援センター長寿",
+        "tel": "0770-22-8181",
+        "url": "https://www.city.tsuruga.lg.jp/page/2642.html"
     },
     {
-        "id":  3286,
-        "prefecture":  "福井県",
-        "city":  "敦賀市",
-        "area":  "北・東郷・東浦・南・中郷・愛発・西・松原・西浦地区",
-        "name":  "敦賀市地域包括支援センターあいあい",
-        "tel":  "0770-22-7272",
-        "url":  "https://www.city.tsuruga.lg.jp/page/2642.html"
+        "id": 3286,
+        "prefecture": "福井県",
+        "city": "敦賀市",
+        "area": "北・東郷・東浦・南・中郷・愛発・西・松原・西浦地区",
+        "name": "敦賀市地域包括支援センターあいあい",
+        "tel": "0770-22-7272",
+        "url": "https://www.city.tsuruga.lg.jp/page/2642.html"
     },
     {
-        "id":  3287,
-        "prefecture":  "福井県",
-        "city":  "敦賀市",
-        "area":  "粟野地区",
-        "name":  "敦賀市地域包括支援センターなごみ",
-        "tel":  "0770-21-7530",
-        "url":  "https://www.city.tsuruga.lg.jp/page/2642.html"
+        "id": 3287,
+        "prefecture": "福井県",
+        "city": "敦賀市",
+        "area": "粟野地区",
+        "name": "敦賀市地域包括支援センターなごみ",
+        "tel": "0770-21-7530",
+        "url": "https://www.city.tsuruga.lg.jp/page/2642.html"
     },
     {
-        "id":  3315,
-        "prefecture":  "福井県",
-        "city":  "鯖江市",
-        "area":  "鯖江・新横江",
-        "name":  "地域包括支援センターさばえ",
-        "tel":  "0778-51-0112",
-        "url":  "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
+        "id": 3315,
+        "prefecture": "福井県",
+        "city": "鯖江市",
+        "area": "鯖江・新横江",
+        "name": "地域包括支援センターさばえ",
+        "tel": "0778-51-0112",
+        "url": "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
     },
     {
-        "id":  3316,
-        "prefecture":  "福井県",
-        "city":  "鯖江市",
-        "area":  "神明",
-        "name":  "鯖江市社会福祉協議会地域包括支援センター神明",
-        "tel":  "0778-51-2840",
-        "url":  "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
+        "id": 3316,
+        "prefecture": "福井県",
+        "city": "鯖江市",
+        "area": "神明",
+        "name": "鯖江市社会福祉協議会地域包括支援センター神明",
+        "tel": "0778-51-2840",
+        "url": "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
     },
     {
-        "id":  3317,
-        "prefecture":  "福井県",
-        "city":  "鯖江市",
-        "area":  "立待・吉川・豊",
-        "name":  "鯖江西地域包括支援センター",
-        "tel":  "0778-53-2776",
-        "url":  "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
+        "id": 3317,
+        "prefecture": "福井県",
+        "city": "鯖江市",
+        "area": "立待・吉川・豊",
+        "name": "鯖江西地域包括支援センター",
+        "tel": "0778-53-2776",
+        "url": "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
     },
     {
-        "id":  3318,
-        "prefecture":  "福井県",
-        "city":  "鯖江市",
-        "area":  "中河・片上・北中山・河和田",
-        "name":  "鯖江東地域包括支援センター",
-        "tel":  "0778-54-0513",
-        "url":  "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
+        "id": 3318,
+        "prefecture": "福井県",
+        "city": "鯖江市",
+        "area": "中河・片上・北中山・河和田",
+        "name": "鯖江東地域包括支援センター",
+        "tel": "0778-54-0513",
+        "url": "https://www.city.sabae.fukui.jp/kenko_fukushi/koreishafukushi/tiikihokatsu/index.html"
+    },
+    {
+        "id": 4393,
+        "prefecture": "福井県",
+        "city": "小浜市",
+        "area": "",
+        "name": "小浜市社会福祉協議会地域包括支援センターゆうゆう",
+        "tel": "0770-59-1185",
+        "url": ""
+    },
+    {
+        "id": 4394,
+        "prefecture": "福井県",
+        "city": "小浜市",
+        "area": "",
+        "name": "小浜市社会福祉協議会地域包括支援センターさんさん",
+        "tel": "0770-56-5855",
+        "url": ""
+    },
+    {
+        "id": 4395,
+        "prefecture": "福井県",
+        "city": "大野市",
+        "area": "",
+        "name": "大野市地域包括支援センター",
+        "tel": "0779-65-5046",
+        "url": ""
+    },
+    {
+        "id": 4396,
+        "prefecture": "福井県",
+        "city": "勝山市",
+        "area": "",
+        "name": "勝山市地域包括支援センター",
+        "tel": "0779-87-0900",
+        "url": ""
+    },
+    {
+        "id": 4397,
+        "prefecture": "福井県",
+        "city": "あわら市",
+        "area": "",
+        "name": "あわら地域包括支援センター",
+        "tel": "0776-73-8046",
+        "url": ""
+    },
+    {
+        "id": 4398,
+        "prefecture": "福井県",
+        "city": "永平寺町",
+        "area": "",
+        "name": "永平寺町社会福祉協議会地域包括支援センター",
+        "tel": "0776-61-6166",
+        "url": ""
+    },
+    {
+        "id": 4399,
+        "prefecture": "福井県",
+        "city": "池田町",
+        "area": "",
+        "name": "池田町地域包括支援センター",
+        "tel": "0778-44-8008",
+        "url": ""
+    },
+    {
+        "id": 4400,
+        "prefecture": "福井県",
+        "city": "南越前町",
+        "area": "",
+        "name": "南越前町地域包括支援センター",
+        "tel": "0778-47-8009",
+        "url": ""
+    },
+    {
+        "id": 4401,
+        "prefecture": "福井県",
+        "city": "南越前町",
+        "area": "",
+        "name": "南越前町社会福祉協議会地域包括支援センター",
+        "tel": "0778-45-1170",
+        "url": ""
+    },
+    {
+        "id": 4402,
+        "prefecture": "福井県",
+        "city": "南越前町",
+        "area": "",
+        "name": "南越前町社会福祉協議会地域包括支援センター 河野支所",
+        "tel": "0778-48-2260",
+        "url": ""
+    },
+    {
+        "id": 4403,
+        "prefecture": "福井県",
+        "city": "越前町",
+        "area": "",
+        "name": "越前町地域包括支援センター",
+        "tel": "0778-34-8729",
+        "url": ""
+    },
+    {
+        "id": 4404,
+        "prefecture": "福井県",
+        "city": "越前町",
+        "area": "",
+        "name": "地域包括支援センター丹生",
+        "tel": "0778-34-8000",
+        "url": ""
+    },
+    {
+        "id": 4405,
+        "prefecture": "福井県",
+        "city": "美浜町",
+        "area": "",
+        "name": "美浜町地域包括支援センター",
+        "tel": "0770-32-6704",
+        "url": ""
+    },
+    {
+        "id": 4406,
+        "prefecture": "福井県",
+        "city": "高浜町",
+        "area": "",
+        "name": "高浜町社会福祉協議会地域包括支援センター",
+        "tel": "0770-72-6120",
+        "url": ""
+    },
+    {
+        "id": 4407,
+        "prefecture": "福井県",
+        "city": "おおい町",
+        "area": "",
+        "name": "おおい町地域包括支援センター",
+        "tel": "0770-77-2770",
+        "url": ""
+    },
+    {
+        "id": 4408,
+        "prefecture": "福井県",
+        "city": "若狭町",
+        "area": "",
+        "name": "若狭町地域包括支援センター",
+        "tel": "0770-62-2702",
+        "url": ""
     }
 ]
