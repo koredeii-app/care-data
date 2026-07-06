@@ -1,155 +1,380 @@
 [
     {
-        "id":  1672,
-        "prefecture":  "山梨県",
-        "city":  "甲府市",
-        "area":  "中央",
-        "name":  "甲府市中央地域包括支援センター",
-        "tel":  "055-225-2345",
-        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/chuo.html"
+        "id": 1672,
+        "prefecture": "山梨県",
+        "city": "甲府市",
+        "area": "中央",
+        "name": "甲府市中央地域包括支援センター",
+        "tel": "055-225-2345",
+        "url": "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/chuo.html"
     },
     {
-        "id":  1673,
-        "prefecture":  "山梨県",
-        "city":  "甲府市",
-        "area":  "東",
-        "name":  "甲府市東地域包括支援センター",
-        "tel":  "055-233-6421",
-        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/higashi.html"
+        "id": 1673,
+        "prefecture": "山梨県",
+        "city": "甲府市",
+        "area": "東",
+        "name": "甲府市東地域包括支援センター",
+        "tel": "055-233-6421",
+        "url": "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/higashi.html"
     },
     {
-        "id":  1674,
-        "prefecture":  "山梨県",
-        "city":  "甲府市",
-        "area":  "西",
-        "name":  "甲府市西地域包括支援センター",
-        "tel":  "055-220-7677",
-        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/nishi.html"
+        "id": 1674,
+        "prefecture": "山梨県",
+        "city": "甲府市",
+        "area": "西",
+        "name": "甲府市西地域包括支援センター",
+        "tel": "055-220-7677",
+        "url": "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/nishi.html"
     },
     {
-        "id":  1675,
-        "prefecture":  "山梨県",
-        "city":  "甲府市",
-        "area":  "南",
-        "name":  "甲府市南地域包括支援センター",
-        "tel":  "055-242-2055",
-        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/minami.html"
+        "id": 1675,
+        "prefecture": "山梨県",
+        "city": "甲府市",
+        "area": "南",
+        "name": "甲府市南地域包括支援センター",
+        "tel": "055-242-2055",
+        "url": "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/minami.html"
     },
     {
-        "id":  1676,
-        "prefecture":  "山梨県",
-        "city":  "甲府市",
-        "area":  "北東",
-        "name":  "甲府市北東地域包括支援センター",
-        "tel":  "055-252-3398",
-        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/hokuto.html"
+        "id": 1676,
+        "prefecture": "山梨県",
+        "city": "甲府市",
+        "area": "北東",
+        "name": "甲府市北東地域包括支援センター",
+        "tel": "055-252-3398",
+        "url": "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/hokuto.html"
     },
     {
-        "id":  1677,
-        "prefecture":  "山梨県",
-        "city":  "甲府市",
-        "area":  "北西",
-        "name":  "甲府市北西地域包括支援センター",
-        "tel":  "055-252-4165",
-        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/hokuse.html"
+        "id": 1677,
+        "prefecture": "山梨県",
+        "city": "甲府市",
+        "area": "北西",
+        "name": "甲府市北西地域包括支援センター",
+        "tel": "055-252-4165",
+        "url": "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/hokuse.html"
     },
     {
-        "id":  1678,
-        "prefecture":  "山梨県",
-        "city":  "甲府市",
-        "area":  "南東",
-        "name":  "甲府市南東地域包括支援センター",
-        "tel":  "055-223-0103",
-        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/nanto.html"
+        "id": 1678,
+        "prefecture": "山梨県",
+        "city": "甲府市",
+        "area": "南東",
+        "name": "甲府市南東地域包括支援センター",
+        "tel": "055-223-0103",
+        "url": "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/nanto.html"
     },
     {
-        "id":  1679,
-        "prefecture":  "山梨県",
-        "city":  "甲府市",
-        "area":  "南西",
-        "name":  "甲府市南西地域包括支援センター",
-        "tel":  "055-220-2315",
-        "url":  "https://sasamotokai.net/sasamotokai/nansei-shien-cc"
+        "id": 1679,
+        "prefecture": "山梨県",
+        "city": "甲府市",
+        "area": "南西",
+        "name": "甲府市南西地域包括支援センター",
+        "tel": "055-220-2315",
+        "url": "https://sasamotokai.net/sasamotokai/nansei-shien-cc"
     },
     {
-        "id":  1680,
-        "prefecture":  "山梨県",
-        "city":  "甲府市",
-        "area":  "笛南",
-        "name":  "甲府市笛南地域包括支援センター",
-        "tel":  "055-266-4220",
-        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/tekinan.html"
+        "id": 1680,
+        "prefecture": "山梨県",
+        "city": "甲府市",
+        "area": "笛南",
+        "name": "甲府市笛南地域包括支援センター",
+        "tel": "055-266-4220",
+        "url": "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/tekinan.html"
     },
     {
-        "id":  3221,
-        "prefecture":  "山梨県",
-        "city":  "甲斐市",
-        "area":  "甲斐市全域",
-        "name":  "甲斐市地域包括支援センター",
-        "tel":  "055-278-1689",
-        "url":  "https://www.city.kai.yamanashi.jp/page/4332.html"
+        "id": 3221,
+        "prefecture": "山梨県",
+        "city": "甲斐市",
+        "area": "甲斐市全域",
+        "name": "甲斐市地域包括支援センター",
+        "tel": "055-278-1689",
+        "url": "https://www.city.kai.yamanashi.jp/page/4332.html"
     },
     {
-        "id":  3253,
-        "prefecture":  "山梨県",
-        "city":  "富士吉田市",
-        "area":  "富士吉田市全域（基幹型）",
-        "name":  "富士吉田市地域包括支援センター",
-        "tel":  "0555-22-1111",
-        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+        "id": 3253,
+        "prefecture": "山梨県",
+        "city": "富士吉田市",
+        "area": "富士吉田市全域（基幹型）",
+        "name": "富士吉田市地域包括支援センター",
+        "tel": "0555-22-1111",
+        "url": "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
     },
     {
-        "id":  3254,
-        "prefecture":  "山梨県",
-        "city":  "富士吉田市",
-        "area":  "白糸町・寿町・寿団地・富士見町・小明見・向原・東町",
-        "name":  "富士吉田市地域包括支援センターブランチなごやか",
-        "tel":  "0555-24-7088",
-        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+        "id": 3254,
+        "prefecture": "山梨県",
+        "city": "富士吉田市",
+        "area": "白糸町・寿町・寿団地・富士見町・小明見・向原・東町",
+        "name": "富士吉田市地域包括支援センターブランチなごやか",
+        "tel": "0555-24-7088",
+        "url": "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
     },
     {
-        "id":  3255,
-        "prefecture":  "山梨県",
-        "city":  "富士吉田市",
-        "area":  "幸町・中村・仲町・西町・曙町・お茶屋町・宮下町・弁天町・しんや・大明見・中央区・西吉田団地",
-        "name":  "富士吉田市地域包括支援センターブランチすこやか",
-        "tel":  "0555-21-1213",
-        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+        "id": 3255,
+        "prefecture": "山梨県",
+        "city": "富士吉田市",
+        "area": "幸町・中村・仲町・西町・曙町・お茶屋町・宮下町・弁天町・しんや・大明見・中央区・西吉田団地",
+        "name": "富士吉田市地域包括支援センターブランチすこやか",
+        "tel": "0555-21-1213",
+        "url": "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
     },
     {
-        "id":  3256,
-        "prefecture":  "山梨県",
-        "city":  "富士吉田市",
-        "area":  "赤坂・ときわ台・西丸尾・緑ケ丘・浅間町・竜ヶ丘・旭町・新町・松山・中曽根",
-        "name":  "富士吉田市地域包括支援センターブランチほがらか",
-        "tel":  "0555-24-5334",
-        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+        "id": 3256,
+        "prefecture": "山梨県",
+        "city": "富士吉田市",
+        "area": "赤坂・ときわ台・西丸尾・緑ケ丘・浅間町・竜ヶ丘・旭町・新町・松山・中曽根",
+        "name": "富士吉田市地域包括支援センターブランチほがらか",
+        "tel": "0555-24-5334",
+        "url": "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
     },
     {
-        "id":  3257,
-        "prefecture":  "山梨県",
-        "city":  "富士吉田市",
-        "area":  "上宿・中宿・下宿・新屋・鐘山",
-        "name":  "富士吉田市地域包括支援センターブランチさわやか",
-        "tel":  "0555-22-4111",
-        "url":  "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
+        "id": 3257,
+        "prefecture": "山梨県",
+        "city": "富士吉田市",
+        "area": "上宿・中宿・下宿・新屋・鐘山",
+        "name": "富士吉田市地域包括支援センターブランチさわやか",
+        "tel": "0555-22-4111",
+        "url": "https://www.city.fujiyoshida.yamanashi.jp/page/2209.html"
     },
     {
-        "id":  3294,
-        "prefecture":  "山梨県",
-        "city":  "山梨市",
-        "area":  "山梨市全域",
-        "name":  "山梨市地域包括支援センター",
-        "tel":  "0553-23-0294",
-        "url":  "https://www.city.yamanashi.yamanashi.jp/life/3/15/67/"
+        "id": 3294,
+        "prefecture": "山梨県",
+        "city": "山梨市",
+        "area": "山梨市全域",
+        "name": "山梨市地域包括支援センター",
+        "tel": "0553-23-0294",
+        "url": "https://www.city.yamanashi.yamanashi.jp/life/3/15/67/"
     },
     {
-        "id":  3342,
-        "prefecture":  "山梨県",
-        "city":  "都留市",
-        "area":  "都留市全域",
-        "name":  "都留市地域包括支援センター",
-        "tel":  "0554-46-5114",
-        "url":  "https://www.city.tsuru.yamanashi.jp/soshiki/choujukaigo/koreifukushi_hokatsu_t/11092.html"
+        "id": 3342,
+        "prefecture": "山梨県",
+        "city": "都留市",
+        "area": "都留市全域",
+        "name": "都留市地域包括支援センター",
+        "tel": "0554-46-5114",
+        "url": "https://www.city.tsuru.yamanashi.jp/soshiki/choujukaigo/koreifukushi_hokatsu_t/11092.html"
+    },
+    {
+        "id": 4463,
+        "prefecture": "山梨県",
+        "city": "韮崎市",
+        "area": "",
+        "name": "韮崎市地域包括支援センター",
+        "tel": "0551-23-4313",
+        "url": ""
+    },
+    {
+        "id": 4464,
+        "prefecture": "山梨県",
+        "city": "南アルプス市",
+        "area": "",
+        "name": "南アルプス市地域包括支援センター",
+        "tel": "055-282-7339",
+        "url": ""
+    },
+    {
+        "id": 4465,
+        "prefecture": "山梨県",
+        "city": "南アルプス市",
+        "area": "",
+        "name": "南アルプス市北部地域包括支援センター",
+        "tel": "055-288-1440",
+        "url": ""
+    },
+    {
+        "id": 4466,
+        "prefecture": "山梨県",
+        "city": "北杜市",
+        "area": "",
+        "name": "北杜市地域包括支援センター",
+        "tel": "0551-42-1336",
+        "url": ""
+    },
+    {
+        "id": 4467,
+        "prefecture": "山梨県",
+        "city": "中央市",
+        "area": "",
+        "name": "中央市地域包括支援センター",
+        "tel": "055-274-8558",
+        "url": ""
+    },
+    {
+        "id": 4468,
+        "prefecture": "山梨県",
+        "city": "昭和町",
+        "area": "",
+        "name": "昭和町地域包括支援センター",
+        "tel": "055-275-4815",
+        "url": ""
+    },
+    {
+        "id": 4469,
+        "prefecture": "山梨県",
+        "city": "笛吹市",
+        "area": "",
+        "name": "笛吹市北部長寿包括支援センター",
+        "tel": "055-261-1907",
+        "url": ""
+    },
+    {
+        "id": 4470,
+        "prefecture": "山梨県",
+        "city": "笛吹市",
+        "area": "",
+        "name": "笛吹市東部長寿包括支援センター",
+        "tel": "0553-34-8221",
+        "url": ""
+    },
+    {
+        "id": 4471,
+        "prefecture": "山梨県",
+        "city": "笛吹市",
+        "area": "",
+        "name": "笛吹市南部長寿包括支援センター",
+        "tel": "055-225-3368",
+        "url": ""
+    },
+    {
+        "id": 4472,
+        "prefecture": "山梨県",
+        "city": "甲州市",
+        "area": "",
+        "name": "甲州市地域包括支援センター",
+        "tel": "0553-32-5600",
+        "url": ""
+    },
+    {
+        "id": 4473,
+        "prefecture": "山梨県",
+        "city": "市川三郷町",
+        "area": "",
+        "name": "市川三郷町地域包括支援センター",
+        "tel": "055-272-1106",
+        "url": ""
+    },
+    {
+        "id": 4474,
+        "prefecture": "山梨県",
+        "city": "富士川町",
+        "area": "",
+        "name": "富士川町地域包括支援センター",
+        "tel": "0556-22-4615",
+        "url": ""
+    },
+    {
+        "id": 4475,
+        "prefecture": "山梨県",
+        "city": "早川町",
+        "area": "",
+        "name": "早川町地域包括支援センター",
+        "tel": "0556-45-2363",
+        "url": ""
+    },
+    {
+        "id": 4476,
+        "prefecture": "山梨県",
+        "city": "身延町",
+        "area": "",
+        "name": "身延町地域包括支援センター",
+        "tel": "0556-20-4611",
+        "url": ""
+    },
+    {
+        "id": 4477,
+        "prefecture": "山梨県",
+        "city": "南部町",
+        "area": "",
+        "name": "南部町地域包括支援センター",
+        "tel": "0556-64-4836",
+        "url": ""
+    },
+    {
+        "id": 4478,
+        "prefecture": "山梨県",
+        "city": "大月市",
+        "area": "",
+        "name": "大月市地域包括支援センター",
+        "tel": "0554-23-8034",
+        "url": ""
+    },
+    {
+        "id": 4479,
+        "prefecture": "山梨県",
+        "city": "上野原市",
+        "area": "",
+        "name": "上野原市地域包括支援センター",
+        "tel": "0554-62-3128",
+        "url": ""
+    },
+    {
+        "id": 4480,
+        "prefecture": "山梨県",
+        "city": "道志村",
+        "area": "",
+        "name": "道志村地域包括支援センター",
+        "tel": "0554-52-2113",
+        "url": ""
+    },
+    {
+        "id": 4481,
+        "prefecture": "山梨県",
+        "city": "西桂町",
+        "area": "",
+        "name": "西桂町地域包括支援センター",
+        "tel": "0555-25-4000",
+        "url": ""
+    },
+    {
+        "id": 4482,
+        "prefecture": "山梨県",
+        "city": "忍野村",
+        "area": "",
+        "name": "忍野村地域包括支援センター",
+        "tel": "0555-20-5211",
+        "url": ""
+    },
+    {
+        "id": 4483,
+        "prefecture": "山梨県",
+        "city": "山中湖村",
+        "area": "",
+        "name": "山中湖村地域包括支援センター",
+        "tel": "0555-62-9976",
+        "url": ""
+    },
+    {
+        "id": 4484,
+        "prefecture": "山梨県",
+        "city": "鳴沢村",
+        "area": "",
+        "name": "鳴沢村地域包括支援センター",
+        "tel": "0555-85-3081",
+        "url": ""
+    },
+    {
+        "id": 4485,
+        "prefecture": "山梨県",
+        "city": "富士河口湖町",
+        "area": "",
+        "name": "富士河口湖町地域包括支援センター",
+        "tel": "0555-72-6037",
+        "url": ""
+    },
+    {
+        "id": 4486,
+        "prefecture": "山梨県",
+        "city": "小菅村",
+        "area": "",
+        "name": "小菅村地域包括支援センター",
+        "tel": "0428-87-9321",
+        "url": ""
+    },
+    {
+        "id": 4487,
+        "prefecture": "山梨県",
+        "city": "丹波山村",
+        "area": "",
+        "name": "丹波山村地域包括支援センター",
+        "tel": "0428-88-0211",
+        "url": ""
     }
 ]
