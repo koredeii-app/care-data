@@ -1,191 +1,434 @@
 [
     {
-        "id":  1589,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "市全域",
-        "name":  "高知市基幹型地域包括支援センター",
-        "tel":  "088-823-9121",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1589,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "市全域",
+        "name": "高知市基幹型地域包括支援センター",
+        "tel": "088-823-9121",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1590,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "南街・北街・江ノ口",
-        "name":  "高知市南街・北街・江ノ口地域包括支援センター",
-        "tel":  "088-821-7551",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1590,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "南街・北街・江ノ口",
+        "name": "高知市南街・北街・江ノ口地域包括支援センター",
+        "tel": "088-821-7551",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1591,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "上街・高知街・小高坂",
-        "name":  "高知市上街・高知街・小高坂地域包括支援センター",
-        "tel":  "088-871-5963",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1591,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "上街・高知街・小高坂",
+        "name": "高知市上街・高知街・小高坂地域包括支援センター",
+        "tel": "088-871-5963",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1592,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "下知・五台山・高須",
-        "name":  "高知市下知・五台山・高須地域包括支援センター",
-        "tel":  "088-882-0015",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1592,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "下知・五台山・高須",
+        "name": "高知市下知・五台山・高須地域包括支援センター",
+        "tel": "088-882-0015",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1593,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "三里",
-        "name":  "高知市三里地域包括支援センター",
-        "tel":  "088-847-7200",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1593,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "三里",
+        "name": "高知市三里地域包括支援センター",
+        "tel": "088-847-7200",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1594,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "布師田・一宮",
-        "name":  "高知市布師田・一宮地域包括支援センター",
-        "tel":  "088-845-6382",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1594,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "布師田・一宮",
+        "name": "高知市布師田・一宮地域包括支援センター",
+        "tel": "088-845-6382",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1595,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "秦",
-        "name":  "高知市秦地域包括支援センター",
-        "tel":  "088-824-5770",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1595,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "秦",
+        "name": "高知市秦地域包括支援センター",
+        "tel": "088-824-5770",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1596,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "大津・介良",
-        "name":  "高知市大津・介良地域包括支援センター",
-        "tel":  "088-802-5110",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1596,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "大津・介良",
+        "name": "高知市大津・介良地域包括支援センター",
+        "tel": "088-802-5110",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1597,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "朝倉",
-        "name":  "高知市朝倉地域包括支援センター",
-        "tel":  "088-844-1003",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1597,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "朝倉",
+        "name": "高知市朝倉地域包括支援センター",
+        "tel": "088-844-1003",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1598,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "旭街",
-        "name":  "高知市旭街地域包括支援センター",
-        "tel":  "088-843-5171",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1598,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "旭街",
+        "name": "高知市旭街地域包括支援センター",
+        "tel": "088-843-5171",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1599,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "初月",
-        "name":  "高知市初月・鏡地域包括支援センター",
-        "tel":  "088-823-3158",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1599,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "初月",
+        "name": "高知市初月・鏡地域包括支援センター",
+        "tel": "088-823-3158",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1600,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "鏡",
-        "name":  "高知市初月・鏡地域包括支援センター（鏡）",
-        "tel":  "088-896-2580",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1600,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "鏡",
+        "name": "高知市初月・鏡地域包括支援センター（鏡）",
+        "tel": "088-896-2580",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1601,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "鴨田",
-        "name":  "高知市鴨田地域包括支援センター",
-        "tel":  "088-802-8668",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1601,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "鴨田",
+        "name": "高知市鴨田地域包括支援センター",
+        "tel": "088-802-8668",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1602,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "潮江",
-        "name":  "高知市潮江地域包括支援センター",
-        "tel":  "088-802-8482",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1602,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "潮江",
+        "name": "高知市潮江地域包括支援センター",
+        "tel": "088-802-8482",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1603,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "長浜・御畳瀬・浦戸",
-        "name":  "高知市長浜・御畳瀬・浦戸地域包括支援センター",
-        "tel":  "088-841-5755",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1603,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "長浜・御畳瀬・浦戸",
+        "name": "高知市長浜・御畳瀬・浦戸地域包括支援センター",
+        "tel": "088-841-5755",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  1604,
-        "prefecture":  "高知県",
-        "city":  "高知市",
-        "area":  "春野",
-        "name":  "高知市春野地域包括支援センター",
-        "tel":  "088-894-3322",
-        "url":  "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
+        "id": 1604,
+        "prefecture": "高知県",
+        "city": "高知市",
+        "area": "春野",
+        "name": "高知市春野地域包括支援センター",
+        "tel": "088-894-3322",
+        "url": "https://www.city.kochi.kochi.jp/soshiki/194/houkatu-2.html"
     },
     {
-        "id":  3208,
-        "prefecture":  "高知県",
-        "city":  "南国市",
-        "area":  "南国市全域",
-        "name":  "南国市地域包括支援センター",
-        "tel":  "088-804-6010",
-        "url":  "https://www.city.nankoku.lg.jp/life/life_dtl.php?hdnKey=1485"
+        "id": 3208,
+        "prefecture": "高知県",
+        "city": "南国市",
+        "area": "南国市全域",
+        "name": "南国市地域包括支援センター",
+        "tel": "088-804-6010",
+        "url": "https://www.city.nankoku.lg.jp/life/life_dtl.php?hdnKey=1485"
     },
     {
-        "id":  3230,
-        "prefecture":  "高知県",
-        "city":  "四万十市",
-        "area":  "中村地域",
-        "name":  "四万十市地域包括支援センター中村",
-        "tel":  "0880-34-0170",
-        "url":  "https://www.city.shimanto.lg.jp/soshiki/10/3327.html"
+        "id": 3230,
+        "prefecture": "高知県",
+        "city": "四万十市",
+        "area": "中村地域",
+        "name": "四万十市地域包括支援センター中村",
+        "tel": "0880-34-0170",
+        "url": "https://www.city.shimanto.lg.jp/soshiki/10/3327.html"
     },
     {
-        "id":  3231,
-        "prefecture":  "高知県",
-        "city":  "四万十市",
-        "area":  "西土佐地域",
-        "name":  "四万十市地域包括支援センター西土佐",
-        "tel":  "0880-52-1000",
-        "url":  "https://www.city.shimanto.lg.jp/soshiki/10/3327.html"
+        "id": 3231,
+        "prefecture": "高知県",
+        "city": "四万十市",
+        "area": "西土佐地域",
+        "name": "四万十市地域包括支援センター西土佐",
+        "tel": "0880-52-1000",
+        "url": "https://www.city.shimanto.lg.jp/soshiki/10/3327.html"
     },
     {
-        "id":  3293,
-        "prefecture":  "高知県",
-        "city":  "香南市",
-        "area":  "香南市全域",
-        "name":  "香南市地域包括支援センター",
-        "tel":  "0887-57-8511",
-        "url":  "https://www.city.kochi-konan.lg.jp/soshikikarasagasu/koreishakaigoka/koreishafukushi_kaigo/houkatsu/index.html"
+        "id": 3293,
+        "prefecture": "高知県",
+        "city": "香南市",
+        "area": "香南市全域",
+        "name": "香南市地域包括支援センター",
+        "tel": "0887-57-8511",
+        "url": "https://www.city.kochi-konan.lg.jp/soshikikarasagasu/koreishakaigoka/koreishafukushi_kaigo/houkatsu/index.html"
     },
     {
-        "id":  3346,
-        "prefecture":  "高知県",
-        "city":  "香美市",
-        "area":  "香美市全域",
-        "name":  "香美市地域包括支援センター",
-        "tel":  "0887-53-3127",
-        "url":  "https://www.city.kami.lg.jp/soshiki/21/houkatu10.html"
+        "id": 3346,
+        "prefecture": "高知県",
+        "city": "香美市",
+        "area": "香美市全域",
+        "name": "香美市地域包括支援センター",
+        "tel": "0887-53-3127",
+        "url": "https://www.city.kami.lg.jp/soshiki/21/houkatu10.html"
+    },
+    {
+        "id": 5081,
+        "prefecture": "高知県",
+        "city": "室戸市",
+        "area": "",
+        "name": "室戸市地域包括支援センター",
+        "tel": "0887-22-5158",
+        "url": ""
+    },
+    {
+        "id": 5082,
+        "prefecture": "高知県",
+        "city": "安芸市",
+        "area": "",
+        "name": "安芸市地域包括支援センター",
+        "tel": "0887-32-0555",
+        "url": ""
+    },
+    {
+        "id": 5083,
+        "prefecture": "高知県",
+        "city": "土佐市",
+        "area": "",
+        "name": "土佐市地域包括支援センター",
+        "tel": "088-852-1517",
+        "url": ""
+    },
+    {
+        "id": 5084,
+        "prefecture": "高知県",
+        "city": "須崎市",
+        "area": "",
+        "name": "須崎市地域包括支援センター",
+        "tel": "0889-42-1206",
+        "url": ""
+    },
+    {
+        "id": 5085,
+        "prefecture": "高知県",
+        "city": "宿毛市",
+        "area": "",
+        "name": "宿毛市地域包括支援センター",
+        "tel": "0880-65-7665",
+        "url": ""
+    },
+    {
+        "id": 5086,
+        "prefecture": "高知県",
+        "city": "土佐清水市",
+        "area": "",
+        "name": "土佐清水市地域包括支援センター",
+        "tel": "0880-83-0233",
+        "url": ""
+    },
+    {
+        "id": 5087,
+        "prefecture": "高知県",
+        "city": "東洋町",
+        "area": "",
+        "name": "東洋町地域包括支援センター",
+        "tel": "0887-29-3186",
+        "url": ""
+    },
+    {
+        "id": 5088,
+        "prefecture": "高知県",
+        "city": "芸西村",
+        "area": "",
+        "name": "芸西村地域包括支援センター",
+        "tel": "0887-33-2245",
+        "url": ""
+    },
+    {
+        "id": 5089,
+        "prefecture": "高知県",
+        "city": "本山町",
+        "area": "",
+        "name": "本山町地域包括支援センター",
+        "tel": "0887-70-1060",
+        "url": ""
+    },
+    {
+        "id": 5090,
+        "prefecture": "高知県",
+        "city": "大豊町",
+        "area": "",
+        "name": "大豊町地域包括支援センター",
+        "tel": "0887-72-0450",
+        "url": ""
+    },
+    {
+        "id": 5091,
+        "prefecture": "高知県",
+        "city": "土佐町",
+        "area": "",
+        "name": "土佐町地域包括支援センター",
+        "tel": "0887-82-2557",
+        "url": ""
+    },
+    {
+        "id": 5092,
+        "prefecture": "高知県",
+        "city": "大川村",
+        "area": "",
+        "name": "大川村地域包括支援センター",
+        "tel": "0887-84-2211",
+        "url": ""
+    },
+    {
+        "id": 5093,
+        "prefecture": "高知県",
+        "city": "いの町",
+        "area": "",
+        "name": "いの町地域包括支援センター",
+        "tel": "088-893-0231",
+        "url": ""
+    },
+    {
+        "id": 5094,
+        "prefecture": "高知県",
+        "city": "仁淀川町",
+        "area": "",
+        "name": "仁淀川町地域包括支援センター",
+        "tel": "0889-35-0880",
+        "url": ""
+    },
+    {
+        "id": 5095,
+        "prefecture": "高知県",
+        "city": "中土佐町",
+        "area": "",
+        "name": "中土佐町地域包括支援センター",
+        "tel": "0889-52-3352",
+        "url": ""
+    },
+    {
+        "id": 5096,
+        "prefecture": "高知県",
+        "city": "佐川町",
+        "area": "",
+        "name": "佐川町地域包括支援センター",
+        "tel": "0889-22-7137",
+        "url": ""
+    },
+    {
+        "id": 5097,
+        "prefecture": "高知県",
+        "city": "越知町",
+        "area": "",
+        "name": "越知町地域包括支援センター",
+        "tel": "0889-26-1187",
+        "url": ""
+    },
+    {
+        "id": 5098,
+        "prefecture": "高知県",
+        "city": "檮原町",
+        "area": "",
+        "name": "檮原町地域包括支援センター",
+        "tel": "0889-65-1170",
+        "url": ""
+    },
+    {
+        "id": 5099,
+        "prefecture": "高知県",
+        "city": "日高村",
+        "area": "",
+        "name": "日高村地域包括支援センター",
+        "tel": "0889-24-5197",
+        "url": ""
+    },
+    {
+        "id": 5100,
+        "prefecture": "高知県",
+        "city": "津野町",
+        "area": "",
+        "name": "津野町地域包括支援センター",
+        "tel": "0889-62-2317",
+        "url": ""
+    },
+    {
+        "id": 5101,
+        "prefecture": "高知県",
+        "city": "四万十町",
+        "area": "",
+        "name": "四万十町地域包括支援センター",
+        "tel": "0880-22-3385",
+        "url": ""
+    },
+    {
+        "id": 5102,
+        "prefecture": "高知県",
+        "city": "四万十町",
+        "area": "",
+        "name": "四万十町地域包括支援センター大正支所",
+        "tel": "0880-27-1212",
+        "url": ""
+    },
+    {
+        "id": 5103,
+        "prefecture": "高知県",
+        "city": "四万十町",
+        "area": "",
+        "name": "四万十町地域包括支援センター十和支所",
+        "tel": "0880-28-5518",
+        "url": ""
+    },
+    {
+        "id": 5104,
+        "prefecture": "高知県",
+        "city": "大月町",
+        "area": "",
+        "name": "大月町地域包括支援センター",
+        "tel": "0880-73-1700",
+        "url": ""
+    },
+    {
+        "id": 5105,
+        "prefecture": "高知県",
+        "city": "三原村",
+        "area": "",
+        "name": "三原村地域包括支援センター",
+        "tel": "0880-46-2111",
+        "url": ""
+    },
+    {
+        "id": 5106,
+        "prefecture": "高知県",
+        "city": "黒潮町",
+        "area": "",
+        "name": "黒潮町地域包括支援センター",
+        "tel": "0880-43-2240",
+        "url": ""
+    },
+    {
+        "id": 5107,
+        "prefecture": "高知県",
+        "city": "安田町",
+        "area": "",
+        "name": "中芸広域連合地域包括支援センター",
+        "tel": "0887-32-1244",
+        "url": ""
     }
 ]
