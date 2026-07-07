@@ -1,236 +1,425 @@
 [
     {
-        "id":  1605,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "勧興・神野",
-        "name":  "おたっしゃ本舗佐賀",
-        "tel":  "0952-40-7284",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1230.html"
+        "id": 1605,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "勧興・神野",
+        "name": "おたっしゃ本舗佐賀",
+        "tel": "0952-40-7284",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1230.html"
     },
     {
-        "id":  1606,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "赤松・北川副",
-        "name":  "おたっしゃ本舗城南",
-        "tel":  "0952-41-5770",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1231.html"
+        "id": 1606,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "赤松・北川副",
+        "name": "おたっしゃ本舗城南",
+        "tel": "0952-41-5770",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1231.html"
     },
     {
-        "id":  1607,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "日新・嘉瀬・新栄",
-        "name":  "おたっしゃ本舗昭栄",
-        "tel":  "0952-41-7500",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1232.html"
+        "id": 1607,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "日新・嘉瀬・新栄",
+        "name": "おたっしゃ本舗昭栄",
+        "tel": "0952-41-7500",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1232.html"
     },
     {
-        "id":  1608,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "循誘・巨勢・兵庫",
-        "name":  "おたっしゃ本舗城東",
-        "tel":  "0952-33-5294",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1233.html"
+        "id": 1608,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "循誘・巨勢・兵庫",
+        "name": "おたっしゃ本舗城東",
+        "tel": "0952-33-5294",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1233.html"
     },
     {
-        "id":  1609,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "西与賀・本庄",
-        "name":  "おたっしゃ本舗城西",
-        "tel":  "0952-41-8323",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1234.html"
+        "id": 1609,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "西与賀・本庄",
+        "name": "おたっしゃ本舗城西",
+        "tel": "0952-41-8323",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1234.html"
     },
     {
-        "id":  1610,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "高木瀬・若楠",
-        "name":  "おたっしゃ本舗城北",
-        "tel":  "0952-20-6539",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1235.html"
+        "id": 1610,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "高木瀬・若楠",
+        "name": "おたっしゃ本舗城北",
+        "tel": "0952-20-6539",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1235.html"
     },
     {
-        "id":  1611,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "金立・久保泉",
-        "name":  "おたっしゃ本舗金泉",
-        "tel":  "0952-71-8100",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1236.html"
+        "id": 1611,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "金立・久保泉",
+        "name": "おたっしゃ本舗金泉",
+        "tel": "0952-71-8100",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1236.html"
     },
     {
-        "id":  1612,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "鍋島・開成",
-        "name":  "おたっしゃ本舗鍋島",
-        "tel":  "0952-97-9040",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1237.html"
+        "id": 1612,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "鍋島・開成",
+        "name": "おたっしゃ本舗鍋島",
+        "tel": "0952-97-9040",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1237.html"
     },
     {
-        "id":  1613,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "諸富町・蓮池",
-        "name":  "おたっしゃ本舗諸富・蓮池",
-        "tel":  "0952-47-5164",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1238.html"
+        "id": 1613,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "諸富町・蓮池",
+        "name": "おたっしゃ本舗諸富・蓮池",
+        "tel": "0952-47-5164",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1238.html"
     },
     {
-        "id":  1614,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "大和町",
-        "name":  "おたっしゃ本舗大和",
-        "tel":  "0952-51-2411",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1239.html"
+        "id": 1614,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "大和町",
+        "name": "おたっしゃ本舗大和",
+        "tel": "0952-51-2411",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1239.html"
     },
     {
-        "id":  1615,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "富士町",
-        "name":  "おたっしゃ本舗富士",
-        "tel":  "0952-58-2810",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1240.html"
+        "id": 1615,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "富士町",
+        "name": "おたっしゃ本舗富士",
+        "tel": "0952-58-2810",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1240.html"
     },
     {
-        "id":  1616,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "三瀬村",
-        "name":  "おたっしゃ本舗三瀬",
-        "tel":  "0952-56-2417",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1241.html"
+        "id": 1616,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "三瀬村",
+        "name": "おたっしゃ本舗三瀬",
+        "tel": "0952-56-2417",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1241.html"
     },
     {
-        "id":  1617,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "川副町",
-        "name":  "おたっしゃ本舗川副",
-        "tel":  "0952-97-9034",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1242.html"
+        "id": 1617,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "川副町",
+        "name": "おたっしゃ本舗川副",
+        "tel": "0952-97-9034",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1242.html"
     },
     {
-        "id":  1618,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "東与賀町",
-        "name":  "おたっしゃ本舗東与賀",
-        "tel":  "0952-45-3238",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1243.html"
+        "id": 1618,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "東与賀町",
+        "name": "おたっしゃ本舗東与賀",
+        "tel": "0952-45-3238",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1243.html"
     },
     {
-        "id":  1619,
-        "prefecture":  "佐賀県",
-        "city":  "佐賀市",
-        "area":  "久保田町",
-        "name":  "おたっしゃ本舗久保田",
-        "tel":  "0952-51-3993",
-        "url":  "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1244.html"
+        "id": 1619,
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "area": "久保田町",
+        "name": "おたっしゃ本舗久保田",
+        "tel": "0952-51-3993",
+        "url": "https://www.chubu.saga.saga.jp/kaigohoken/otassha/_1244.html"
     },
     {
-        "id":  3209,
-        "prefecture":  "佐賀県",
-        "city":  "唐津市",
-        "area":  "久里・鬼塚・成和・外町・東唐津・高島・大志・長松・竹木場・西唐津・佐志・大良・湊・神集島",
-        "name":  "唐津市地域包括支援センター",
-        "tel":  "0955-72-9191",
-        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+        "id": 3209,
+        "prefecture": "佐賀県",
+        "city": "唐津市",
+        "area": "久里・鬼塚・成和・外町・東唐津・高島・大志・長松・竹木場・西唐津・佐志・大良・湊・神集島",
+        "name": "唐津市地域包括支援センター",
+        "tel": "0955-72-9191",
+        "url": "https://www.city.karatsu.lg.jp/page/1932.html"
     },
     {
-        "id":  3210,
-        "prefecture":  "佐賀県",
-        "city":  "唐津市",
-        "area":  "浜玉・七山・鏡",
-        "name":  "唐津市地域包括支援センター浜玉サブセンター",
-        "tel":  "0955-53-7056",
-        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+        "id": 3210,
+        "prefecture": "佐賀県",
+        "city": "唐津市",
+        "area": "浜玉・七山・鏡",
+        "name": "唐津市地域包括支援センター浜玉サブセンター",
+        "tel": "0955-53-7056",
+        "url": "https://www.city.karatsu.lg.jp/page/1932.html"
     },
     {
-        "id":  3211,
-        "prefecture":  "佐賀県",
-        "city":  "唐津市",
-        "area":  "相知・厳木・北波多",
-        "name":  "唐津市地域包括支援センター相知サブセンター",
-        "tel":  "0955-53-7057",
-        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+        "id": 3211,
+        "prefecture": "佐賀県",
+        "city": "唐津市",
+        "area": "相知・厳木・北波多",
+        "name": "唐津市地域包括支援センター相知サブセンター",
+        "tel": "0955-53-7057",
+        "url": "https://www.city.karatsu.lg.jp/page/1932.html"
     },
     {
-        "id":  3212,
-        "prefecture":  "佐賀県",
-        "city":  "唐津市",
-        "area":  "鎮西・呼子",
-        "name":  "唐津市地域包括支援センター鎮西サブセンター",
-        "tel":  "0955-53-7058",
-        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+        "id": 3212,
+        "prefecture": "佐賀県",
+        "city": "唐津市",
+        "area": "鎮西・呼子",
+        "name": "唐津市地域包括支援センター鎮西サブセンター",
+        "tel": "0955-53-7058",
+        "url": "https://www.city.karatsu.lg.jp/page/1932.html"
     },
     {
-        "id":  3213,
-        "prefecture":  "佐賀県",
-        "city":  "唐津市",
-        "area":  "肥前",
-        "name":  "唐津市地域包括支援センター肥前出張所",
-        "tel":  "0955-53-7059",
-        "url":  "https://www.city.karatsu.lg.jp/page/1932.html"
+        "id": 3213,
+        "prefecture": "佐賀県",
+        "city": "唐津市",
+        "area": "肥前",
+        "name": "唐津市地域包括支援センター肥前出張所",
+        "tel": "0955-53-7059",
+        "url": "https://www.city.karatsu.lg.jp/page/1932.html"
     },
     {
-        "id":  3232,
-        "prefecture":  "佐賀県",
-        "city":  "鳥栖市",
-        "area":  "鳥栖地区・鳥栖北地区",
-        "name":  "鳥栖市鳥栖地区地域包括支援センター",
-        "tel":  "0942-81-3113",
-        "url":  "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
+        "id": 3232,
+        "prefecture": "佐賀県",
+        "city": "鳥栖市",
+        "area": "鳥栖地区・鳥栖北地区",
+        "name": "鳥栖市鳥栖地区地域包括支援センター",
+        "tel": "0942-81-3113",
+        "url": "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
     },
     {
-        "id":  3233,
-        "prefecture":  "佐賀県",
-        "city":  "鳥栖市",
-        "area":  "田代地区・基里地区",
-        "name":  "鳥栖市田代基里地区地域包括支援センター",
-        "tel":  "0942-85-3440",
-        "url":  "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
+        "id": 3233,
+        "prefecture": "佐賀県",
+        "city": "鳥栖市",
+        "area": "田代地区・基里地区",
+        "name": "鳥栖市田代基里地区地域包括支援センター",
+        "tel": "0942-85-3440",
+        "url": "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
     },
     {
-        "id":  3234,
-        "prefecture":  "佐賀県",
-        "city":  "鳥栖市",
-        "area":  "若葉地区・弥生が丘地区",
-        "name":  "鳥栖市若葉弥生が丘地区地域包括支援センター",
-        "tel":  "0942-85-8815",
-        "url":  "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
+        "id": 3234,
+        "prefecture": "佐賀県",
+        "city": "鳥栖市",
+        "area": "若葉地区・弥生が丘地区",
+        "name": "鳥栖市若葉弥生が丘地区地域包括支援センター",
+        "tel": "0942-85-8815",
+        "url": "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
     },
     {
-        "id":  3235,
-        "prefecture":  "佐賀県",
-        "city":  "鳥栖市",
-        "area":  "麓地区・旭地区",
-        "name":  "鳥栖市鳥栖西地区地域包括支援センター",
-        "tel":  "0942-82-2188",
-        "url":  "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
+        "id": 3235,
+        "prefecture": "佐賀県",
+        "city": "鳥栖市",
+        "area": "麓地区・旭地区",
+        "name": "鳥栖市鳥栖西地区地域包括支援センター",
+        "tel": "0942-82-2188",
+        "url": "https://www.city.tosu.lg.jp/soshiki/38/2357.html"
     },
     {
-        "id":  3289,
-        "prefecture":  "佐賀県",
-        "city":  "伊万里市",
-        "area":  "伊万里市全域",
-        "name":  "伊万里市地域包括支援センター",
-        "tel":  "0955-23-2122",
-        "url":  "https://www.city.imari.lg.jp/23689.htm"
+        "id": 3289,
+        "prefecture": "佐賀県",
+        "city": "伊万里市",
+        "area": "伊万里市全域",
+        "name": "伊万里市地域包括支援センター",
+        "tel": "0955-23-2122",
+        "url": "https://www.city.imari.lg.jp/23689.htm"
     },
     {
-        "id":  3331,
-        "prefecture":  "佐賀県",
-        "city":  "武雄市",
-        "area":  "武雄市全域",
-        "name":  "武雄市地域包括支援センター",
-        "tel":  "0954-23-9135",
-        "url":  "https://tk-med.or.jp/care/takeo-chiikihoukatsu/"
+        "id": 3331,
+        "prefecture": "佐賀県",
+        "city": "武雄市",
+        "area": "武雄市全域",
+        "name": "武雄市地域包括支援センター",
+        "tel": "0954-23-9135",
+        "url": "https://tk-med.or.jp/care/takeo-chiikihoukatsu/"
+    },
+    {
+        "id": 5192,
+        "prefecture": "佐賀県",
+        "city": "多久市",
+        "area": "",
+        "name": "おたっしゃ本舗多久",
+        "tel": "0952-75-6033",
+        "url": ""
+    },
+    {
+        "id": 5193,
+        "prefecture": "佐賀県",
+        "city": "鹿島市",
+        "area": "",
+        "name": "鹿島市地域包括支援センター",
+        "tel": "0954-63-2160",
+        "url": ""
+    },
+    {
+        "id": 5194,
+        "prefecture": "佐賀県",
+        "city": "小城市",
+        "area": "",
+        "name": "おたっしゃ本舗小城",
+        "tel": "0952-37-6108",
+        "url": ""
+    },
+    {
+        "id": 5195,
+        "prefecture": "佐賀県",
+        "city": "小城市",
+        "area": "",
+        "name": "おたっしゃ本舗小城北",
+        "tel": "0952-73-2172",
+        "url": ""
+    },
+    {
+        "id": 5196,
+        "prefecture": "佐賀県",
+        "city": "小城市",
+        "area": "",
+        "name": "おたっしゃ本舗小城南",
+        "tel": "0952-66-6376",
+        "url": ""
+    },
+    {
+        "id": 5197,
+        "prefecture": "佐賀県",
+        "city": "嬉野市",
+        "area": "",
+        "name": "嬉野東部地域包括支援センター",
+        "tel": "0954-42-3306",
+        "url": ""
+    },
+    {
+        "id": 5198,
+        "prefecture": "佐賀県",
+        "city": "嬉野市",
+        "area": "",
+        "name": "嬉野西部地域包括支援センター",
+        "tel": "0954-27-7220",
+        "url": ""
+    },
+    {
+        "id": 5199,
+        "prefecture": "佐賀県",
+        "city": "嬉野市",
+        "area": "",
+        "name": "塩田地区地域包括支援センター",
+        "tel": "0954-66-8001",
+        "url": ""
+    },
+    {
+        "id": 5200,
+        "prefecture": "佐賀県",
+        "city": "神埼市",
+        "area": "",
+        "name": "おたっしゃ本舗神埼",
+        "tel": "0952-51-1234",
+        "url": ""
+    },
+    {
+        "id": 5201,
+        "prefecture": "佐賀県",
+        "city": "神埼市",
+        "area": "",
+        "name": "おたっしゃ本舗神埼北",
+        "tel": "0952-59-2005",
+        "url": ""
+    },
+    {
+        "id": 5202,
+        "prefecture": "佐賀県",
+        "city": "神埼市",
+        "area": "",
+        "name": "おたっしゃ本舗神埼南",
+        "tel": "0952-34-6080",
+        "url": ""
+    },
+    {
+        "id": 5203,
+        "prefecture": "佐賀県",
+        "city": "吉野ヶ里町",
+        "area": "",
+        "name": "おたっしゃ本舗吉野ヶ里",
+        "tel": "0952-37-0344",
+        "url": ""
+    },
+    {
+        "id": 5204,
+        "prefecture": "佐賀県",
+        "city": "基山町",
+        "area": "",
+        "name": "基山町地域包括支援センター",
+        "tel": "0942-81-7039",
+        "url": ""
+    },
+    {
+        "id": 5205,
+        "prefecture": "佐賀県",
+        "city": "上峰町",
+        "area": "",
+        "name": "上峰町地域包括支援センター",
+        "tel": "0952-52-5250",
+        "url": ""
+    },
+    {
+        "id": 5206,
+        "prefecture": "佐賀県",
+        "city": "みやき町",
+        "area": "",
+        "name": "みやき町地域包括支援センター",
+        "tel": "0942-89-3371",
+        "url": ""
+    },
+    {
+        "id": 5207,
+        "prefecture": "佐賀県",
+        "city": "玄海町",
+        "area": "",
+        "name": "玄海町地域包括支援センター",
+        "tel": "0955-52-3022",
+        "url": ""
+    },
+    {
+        "id": 5208,
+        "prefecture": "佐賀県",
+        "city": "有田町",
+        "area": "",
+        "name": "有田町地域包括支援センター",
+        "tel": "0955-43-2196",
+        "url": ""
+    },
+    {
+        "id": 5209,
+        "prefecture": "佐賀県",
+        "city": "大町町",
+        "area": "",
+        "name": "大町町地域包括支援センター",
+        "tel": "0952-82-3187",
+        "url": ""
+    },
+    {
+        "id": 5210,
+        "prefecture": "佐賀県",
+        "city": "江北町",
+        "area": "",
+        "name": "江北町地域包括支援センター",
+        "tel": "0952-86-5614",
+        "url": ""
+    },
+    {
+        "id": 5211,
+        "prefecture": "佐賀県",
+        "city": "白石町",
+        "area": "",
+        "name": "白石町地域包括支援センター",
+        "tel": "0952-84-7117",
+        "url": ""
+    },
+    {
+        "id": 5212,
+        "prefecture": "佐賀県",
+        "city": "太良町",
+        "area": "",
+        "name": "太良町地域包括支援センター",
+        "tel": "0954-67-0496",
+        "url": ""
     }
 ]
