@@ -303,16 +303,6 @@
         "area": "永源寺・愛東・湖東",
         "name": "東近江市地域包括支援センター",
         "tel": "050-5801-5641",
-        "phones": [
-            {
-                "label": "電話番号",
-                "number": "0748-24-5641"
-            },
-            {
-                "label": "IP電話",
-                "number": "050-5801-5641"
-            }
-        ],
         "url": "https://www.city.higashiomi.shiga.jp/kennkou_iryou_fukushi/kaigo/1003029/1003033.html"
     },
     {
@@ -322,16 +312,6 @@
         "area": "平田・市辺・玉緒・御園・建部・中野・八日市南部",
         "name": "八日市地域包括支援センター",
         "tel": "050-5801-1278",
-        "phones": [
-            {
-                "label": "電話番号",
-                "number": "0748-24-1313"
-            },
-            {
-                "label": "IP電話",
-                "number": "050-5801-1278"
-            }
-        ],
         "url": "http://www.higashiomi-shakyo.or.jp/"
     },
     {
@@ -359,16 +339,6 @@
         "area": "蒲生",
         "name": "蒲生地域包括支援センター",
         "tel": "050-5802-9680",
-        "phones": [
-            {
-                "label": "電話番号",
-                "number": "0748-55-4570"
-            },
-            {
-                "label": "IP電話",
-                "number": "050-5802-9680"
-            }
-        ],
         "url": "http://www.higashiomi-shakyo.or.jp/"
     },
     {
