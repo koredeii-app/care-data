@@ -1,40 +1,734 @@
 [
-    {"id":1789,"prefecture":"滋賀県","city":"大津市","area":"大石・田上","name":"南第二あんしん長寿相談所","tel":"077-546-6880","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/57880.html"},
-    {"id":1790,"prefecture":"滋賀県","city":"大津市","area":"小松・木戸","name":"小松あんしん長寿相談所","tel":"077-596-2260","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/51440.html"},
-    {"id":1791,"prefecture":"滋賀県","city":"大津市","area":"雄琴・日吉台・坂本","name":"比叡あんしん長寿相談所","tel":"077-578-6637","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25428.html"},
-    {"id":1792,"prefecture":"滋賀県","city":"大津市","area":"下阪本・唐崎","name":"比叡第二あんしん長寿相談所","tel":"077-579-5290","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/54221.html"},
-    {"id":1793,"prefecture":"滋賀県","city":"大津市","area":"葛川・伊香立・真野・真野北","name":"真野あんしん長寿相談所","tel":"077-573-1521","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/34803.html"},
-    {"id":1794,"prefecture":"滋賀県","city":"大津市","area":"和邇・小野","name":"和邇あんしん長寿相談所","tel":"077-594-2660","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25430.html"},
-    {"id":1795,"prefecture":"滋賀県","city":"大津市","area":"堅田・仰木・仰木の里","name":"堅田あんしん長寿相談所","tel":"077-574-1010","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25432.html"},
-    {"id":1796,"prefecture":"滋賀県","city":"大津市","area":"長等・逢坂・中央・藤尾","name":"中あんしん長寿相談所","tel":"077-528-2003","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25437.html"},
-    {"id":1797,"prefecture":"滋賀県","city":"大津市","area":"滋賀・山中・比叡平","name":"中第二あんしん長寿相談所","tel":"077-521-1471","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25466.html"},
-    {"id":1798,"prefecture":"滋賀県","city":"大津市","area":"平野・膳所","name":"膳所あんしん長寿相談所","tel":"077-522-8867","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25441.html"},
-    {"id":1799,"prefecture":"滋賀県","city":"大津市","area":"富士見・晴嵐","name":"晴嵐あんしん長寿相談所","tel":"077-534-2661","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25445.html"},
-    {"id":1800,"prefecture":"滋賀県","city":"大津市","area":"石山・南郷","name":"南あんしん長寿相談所","tel":"077-533-1332","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25449.html"},
-    {"id":1801,"prefecture":"滋賀県","city":"大津市","area":"上田上・青山","name":"青山あんしん長寿相談所","tel":"077-549-3195","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/70505.html"},
-    {"id":1802,"prefecture":"滋賀県","city":"大津市","area":"瀬田・瀬田南","name":"瀬田あんしん長寿相談所","tel":"077-545-3918","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25453.html"},
-    {"id":1803,"prefecture":"滋賀県","city":"大津市","area":"瀬田東・瀬田北","name":"瀬田第二あんしん長寿相談所","tel":"077-545-5760","url":"https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25457.html"},
-    {"id":2642,"prefecture":"滋賀県","city":"草津市","area":"志津・志津南・矢倉","name":"草津市高穂地域包括支援センター","tel":"077-561-8143","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/takahohokatsu.html"},
-    {"id":2643,"prefecture":"滋賀県","city":"草津市","area":"草津・大路・渋川","name":"草津市草津地域包括支援センター","tel":"077-561-8144","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/kusatsuhokatsu.html"},
-    {"id":2644,"prefecture":"滋賀県","city":"草津市","area":"老上・老上西","name":"草津市老上地域包括支援センター","tel":"077-561-8145","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/oikamihokatsu.html"},
-    {"id":2645,"prefecture":"滋賀県","city":"草津市","area":"玉川・南笠東","name":"草津市玉川地域包括支援センター","tel":"077-561-8146","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/tamagawahokatsu.html"},
-    {"id":2646,"prefecture":"滋賀県","city":"草津市","area":"山田・笠縫","name":"草津市松原地域包括支援センター","tel":"077-561-8147","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/matubarahokatsu.html"},
-    {"id":2647,"prefecture":"滋賀県","city":"草津市","area":"笠縫東・常盤","name":"草津市新堂地域包括支援センター","tel":"077-568-4148","url":"https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/sindouhokatsu.html"},
-    {"id":2693,"prefecture":"滋賀県","city":"彦根市","area":"鳥居本","name":"地域包括支援センターすばる","tel":"0749-21-5412","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
-    {"id":2694,"prefecture":"滋賀県","city":"彦根市","area":"城東・佐和山","name":"地域包括支援センターすばる","tel":"0749-24-0494","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
-    {"id":2695,"prefecture":"滋賀県","city":"彦根市","area":"城西・城北","name":"地域包括支援センターハピネス","tel":"0749-27-6702","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
-    {"id":2696,"prefecture":"滋賀県","city":"彦根市","area":"平田・金城","name":"地域包括支援センターふるさと","tel":"0749-47-3993","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
-    {"id":2697,"prefecture":"滋賀県","city":"彦根市","area":"城南・高宮・旭森","name":"地域包括支援センターゆうじん","tel":"0749-21-3341","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
-    {"id":2698,"prefecture":"滋賀県","city":"彦根市","area":"城陽・若葉・河瀬・亀山","name":"地域包括支援センターきらら","tel":"0749-28-9323","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
-    {"id":2699,"prefecture":"滋賀県","city":"彦根市","area":"稲枝東・稲枝北・稲枝西","name":"地域包括支援センターいなえ","tel":"0749-47-3320","url":"https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"},
-    {"id":2768,"prefecture":"滋賀県","city":"長浜市","area":"長浜・六荘・西黒田・神田","name":"南長浜地域包括支援センター","tel":"0749-65-8352","url":"https://www.city.nagahama.lg.jp/0000005114.html"},
-    {"id":2769,"prefecture":"滋賀県","city":"長浜市","area":"神照・南郷里・北郷里","name":"神照郷里地域包括支援センター","tel":"0749-65-8267","url":"https://www.city.nagahama.lg.jp/0000005162.html"},
-    {"id":2770,"prefecture":"滋賀県","city":"長浜市","area":"浅井・びわ・虎姫","name":"浅井びわ虎姫地域包括支援センター","tel":"0749-73-2653","url":"https://www.city.nagahama.lg.jp/0000005163.html"},
-    {"id":2771,"prefecture":"滋賀県","city":"長浜市","area":"湖北・高月","name":"湖北高月地域包括支援センター","tel":"0749-85-5702","url":"https://www.city.nagahama.lg.jp/0000005165.html"},
-    {"id":2772,"prefecture":"滋賀県","city":"長浜市","area":"木之本・余呉・西浅井","name":"木之本余呉西浅井地域包括支援センター","tel":"0749-82-3570","url":"https://www.city.nagahama.lg.jp/0000005166.html"},
-    {"id":2773,"prefecture":"滋賀県","city":"東近江市","area":"永源寺・愛東・湖東","name":"東近江市地域包括支援センター","tel":"0748-24-5641","phones":[{"label":"電話番号","number":"0748-24-5641"},{"label":"IP電話","number":"050-5801-5641"}],"url":"https://www.city.higashiomi.shiga.jp/kennkou_iryou_fukushi/kaigo/1003029/1003033.html"},
-    {"id":2774,"prefecture":"滋賀県","city":"東近江市","area":"平田・市辺・玉緒・御園・建部・中野・八日市南部","name":"八日市地域包括支援センター","tel":"0748-24-1313","phones":[{"label":"電話番号","number":"0748-24-1313"},{"label":"IP電話","number":"050-5801-1278"}],"url":"http://www.higashiomi-shakyo.or.jp/"},
-    {"id":2775,"prefecture":"滋賀県","city":"東近江市","area":"能登川","name":"能登川地域包括支援センター","tel":"0748-29-3198","url":"https://shiga-shinjyukai.or.jp/houkatsushien/"},
-    {"id":2776,"prefecture":"滋賀県","city":"東近江市","area":"五個荘","name":"五個荘地域包括支援センター","tel":"0748-48-5540","url":"https://www.rokushinkai.com/houkatsushien/"},
-    {"id":2777,"prefecture":"滋賀県","city":"東近江市","area":"蒲生","name":"蒲生地域包括支援センター","tel":"0748-55-4570","phones":[{"label":"電話番号","number":"0748-55-4570"},{"label":"IP電話","number":"050-5802-9680"}],"url":"http://www.higashiomi-shakyo.or.jp/"}
+    {
+        "id": 1789,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "大石・田上",
+        "name": "南第二あんしん長寿相談所",
+        "tel": "077-546-6880",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/57880.html"
+    },
+    {
+        "id": 1790,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "小松・木戸",
+        "name": "小松あんしん長寿相談所",
+        "tel": "077-596-2260",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/51440.html"
+    },
+    {
+        "id": 1791,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "雄琴・日吉台・坂本",
+        "name": "比叡あんしん長寿相談所",
+        "tel": "077-578-6637",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25428.html"
+    },
+    {
+        "id": 1792,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "下阪本・唐崎",
+        "name": "比叡第二あんしん長寿相談所",
+        "tel": "077-579-5290",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/54221.html"
+    },
+    {
+        "id": 1793,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "葛川・伊香立・真野・真野北",
+        "name": "真野あんしん長寿相談所",
+        "tel": "077-573-1521",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/34803.html"
+    },
+    {
+        "id": 1794,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "和邇・小野",
+        "name": "和邇あんしん長寿相談所",
+        "tel": "077-594-2660",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25430.html"
+    },
+    {
+        "id": 1795,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "堅田・仰木・仰木の里",
+        "name": "堅田あんしん長寿相談所",
+        "tel": "077-574-1010",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25432.html"
+    },
+    {
+        "id": 1796,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "長等・逢坂・中央・藤尾",
+        "name": "中あんしん長寿相談所",
+        "tel": "077-528-2003",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25437.html"
+    },
+    {
+        "id": 1797,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "滋賀・山中・比叡平",
+        "name": "中第二あんしん長寿相談所",
+        "tel": "077-521-1471",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25466.html"
+    },
+    {
+        "id": 1798,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "平野・膳所",
+        "name": "膳所あんしん長寿相談所",
+        "tel": "077-522-8867",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25441.html"
+    },
+    {
+        "id": 1799,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "富士見・晴嵐",
+        "name": "晴嵐あんしん長寿相談所",
+        "tel": "077-534-2661",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25445.html"
+    },
+    {
+        "id": 1800,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "石山・南郷",
+        "name": "南あんしん長寿相談所",
+        "tel": "077-533-1332",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25449.html"
+    },
+    {
+        "id": 1801,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "上田上・青山",
+        "name": "青山あんしん長寿相談所",
+        "tel": "077-549-3195",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/70505.html"
+    },
+    {
+        "id": 1802,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "瀬田・瀬田南",
+        "name": "瀬田あんしん長寿相談所",
+        "tel": "077-545-3918",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25453.html"
+    },
+    {
+        "id": 1803,
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "area": "瀬田東・瀬田北",
+        "name": "瀬田第二あんしん長寿相談所",
+        "tel": "077-545-5760",
+        "url": "https://www.city.otsu.lg.jp/fukushi/k/kf/ks/th/25457.html"
+    },
+    {
+        "id": 2642,
+        "prefecture": "滋賀県",
+        "city": "草津市",
+        "area": "志津・志津南・矢倉",
+        "name": "草津市高穂地域包括支援センター",
+        "tel": "077-561-8143",
+        "url": "https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/takahohokatsu.html"
+    },
+    {
+        "id": 2643,
+        "prefecture": "滋賀県",
+        "city": "草津市",
+        "area": "草津・大路・渋川",
+        "name": "草津市草津地域包括支援センター",
+        "tel": "077-561-8144",
+        "url": "https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/kusatsuhokatsu.html"
+    },
+    {
+        "id": 2644,
+        "prefecture": "滋賀県",
+        "city": "草津市",
+        "area": "老上・老上西",
+        "name": "草津市老上地域包括支援センター",
+        "tel": "077-561-8145",
+        "url": "https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/oikamihokatsu.html"
+    },
+    {
+        "id": 2645,
+        "prefecture": "滋賀県",
+        "city": "草津市",
+        "area": "玉川・南笠東",
+        "name": "草津市玉川地域包括支援センター",
+        "tel": "077-561-8146",
+        "url": "https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/tamagawahokatsu.html"
+    },
+    {
+        "id": 2646,
+        "prefecture": "滋賀県",
+        "city": "草津市",
+        "area": "山田・笠縫",
+        "name": "草津市松原地域包括支援センター",
+        "tel": "077-561-8147",
+        "url": "https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/matubarahokatsu.html"
+    },
+    {
+        "id": 2647,
+        "prefecture": "滋賀県",
+        "city": "草津市",
+        "area": "笠縫東・常盤",
+        "name": "草津市新堂地域包括支援センター",
+        "tel": "077-568-4148",
+        "url": "https://www.city.kusatsu.shiga.jp/fukushikenko/koreisha/chikihokatsu/sindouhokatsu.html"
+    },
+    {
+        "id": 2693,
+        "prefecture": "滋賀県",
+        "city": "彦根市",
+        "area": "鳥居本",
+        "name": "地域包括支援センターすばる",
+        "tel": "0749-21-5412",
+        "url": "https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"
+    },
+    {
+        "id": 2694,
+        "prefecture": "滋賀県",
+        "city": "彦根市",
+        "area": "城東・佐和山",
+        "name": "地域包括支援センターすばる",
+        "tel": "0749-24-0494",
+        "url": "https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"
+    },
+    {
+        "id": 2695,
+        "prefecture": "滋賀県",
+        "city": "彦根市",
+        "area": "城西・城北",
+        "name": "地域包括支援センターハピネス",
+        "tel": "0749-27-6702",
+        "url": "https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"
+    },
+    {
+        "id": 2696,
+        "prefecture": "滋賀県",
+        "city": "彦根市",
+        "area": "平田・金城",
+        "name": "地域包括支援センターふるさと",
+        "tel": "0749-47-3993",
+        "url": "https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"
+    },
+    {
+        "id": 2697,
+        "prefecture": "滋賀県",
+        "city": "彦根市",
+        "area": "城南・高宮・旭森",
+        "name": "地域包括支援センターゆうじん",
+        "tel": "0749-21-3341",
+        "url": "https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"
+    },
+    {
+        "id": 2698,
+        "prefecture": "滋賀県",
+        "city": "彦根市",
+        "area": "城陽・若葉・河瀬・亀山",
+        "name": "地域包括支援センターきらら",
+        "tel": "0749-28-9323",
+        "url": "https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"
+    },
+    {
+        "id": 2699,
+        "prefecture": "滋賀県",
+        "city": "彦根市",
+        "area": "稲枝東・稲枝北・稲枝西",
+        "name": "地域包括支援センターいなえ",
+        "tel": "0749-47-3320",
+        "url": "https://www.city.hikone.lg.jp/kakuka/fukushi_hoken/7/2_1/2187.html"
+    },
+    {
+        "id": 2768,
+        "prefecture": "滋賀県",
+        "city": "長浜市",
+        "area": "長浜・六荘・西黒田・神田",
+        "name": "南長浜地域包括支援センター",
+        "tel": "0749-65-8352",
+        "url": "https://www.city.nagahama.lg.jp/0000005114.html"
+    },
+    {
+        "id": 2769,
+        "prefecture": "滋賀県",
+        "city": "長浜市",
+        "area": "神照・南郷里・北郷里",
+        "name": "神照郷里地域包括支援センター",
+        "tel": "0749-65-8267",
+        "url": "https://www.city.nagahama.lg.jp/0000005162.html"
+    },
+    {
+        "id": 2770,
+        "prefecture": "滋賀県",
+        "city": "長浜市",
+        "area": "浅井・びわ・虎姫",
+        "name": "浅井びわ虎姫地域包括支援センター",
+        "tel": "0749-73-2653",
+        "url": "https://www.city.nagahama.lg.jp/0000005163.html"
+    },
+    {
+        "id": 2771,
+        "prefecture": "滋賀県",
+        "city": "長浜市",
+        "area": "湖北・高月",
+        "name": "湖北高月地域包括支援センター",
+        "tel": "0749-85-5702",
+        "url": "https://www.city.nagahama.lg.jp/0000005165.html"
+    },
+    {
+        "id": 2772,
+        "prefecture": "滋賀県",
+        "city": "長浜市",
+        "area": "木之本・余呉・西浅井",
+        "name": "木之本余呉西浅井地域包括支援センター",
+        "tel": "0749-82-3570",
+        "url": "https://www.city.nagahama.lg.jp/0000005166.html"
+    },
+    {
+        "id": 2773,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "永源寺・愛東・湖東",
+        "name": "東近江市地域包括支援センター",
+        "tel": "0748-24-5641",
+        "phones": [
+            {
+                "label": "電話番号",
+                "number": "0748-24-5641"
+            },
+            {
+                "label": "IP電話",
+                "number": "050-5801-5641"
+            }
+        ],
+        "url": "https://www.city.higashiomi.shiga.jp/kennkou_iryou_fukushi/kaigo/1003029/1003033.html"
+    },
+    {
+        "id": 2774,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "平田・市辺・玉緒・御園・建部・中野・八日市南部",
+        "name": "八日市地域包括支援センター",
+        "tel": "0748-24-1313",
+        "phones": [
+            {
+                "label": "電話番号",
+                "number": "0748-24-1313"
+            },
+            {
+                "label": "IP電話",
+                "number": "050-5801-1278"
+            }
+        ],
+        "url": "http://www.higashiomi-shakyo.or.jp/"
+    },
+    {
+        "id": 2775,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "能登川",
+        "name": "能登川地域包括支援センター",
+        "tel": "0748-29-3198",
+        "url": "https://shiga-shinjyukai.or.jp/houkatsushien/"
+    },
+    {
+        "id": 2776,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "五個荘",
+        "name": "五個荘地域包括支援センター",
+        "tel": "0748-48-5540",
+        "url": "https://www.rokushinkai.com/houkatsushien/"
+    },
+    {
+        "id": 2777,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "蒲生",
+        "name": "蒲生地域包括支援センター",
+        "tel": "0748-55-4570",
+        "phones": [
+            {
+                "label": "電話番号",
+                "number": "0748-55-4570"
+            },
+            {
+                "label": "IP電話",
+                "number": "050-5802-9680"
+            }
+        ],
+        "url": "http://www.higashiomi-shakyo.or.jp/"
+    },
+    {
+        "id": 4787,
+        "prefecture": "滋賀県",
+        "city": "近江八幡市",
+        "area": "",
+        "name": "近江八幡市地域包括支援センター",
+        "tel": "0748-31-3737",
+        "url": ""
+    },
+    {
+        "id": 4788,
+        "prefecture": "滋賀県",
+        "city": "近江八幡市",
+        "area": "",
+        "name": "近江八幡市安土地域包括支援センター",
+        "tel": "0748-46-4134",
+        "url": ""
+    },
+    {
+        "id": 4789,
+        "prefecture": "滋賀県",
+        "city": "近江八幡市",
+        "area": "",
+        "name": "近江八幡市東部地域包括支援センター",
+        "tel": "0748-43-0602",
+        "url": ""
+    },
+    {
+        "id": 4790,
+        "prefecture": "滋賀県",
+        "city": "近江八幡市",
+        "area": "",
+        "name": "近江八幡市西部地域包括支援センター",
+        "tel": "0748-36-2205",
+        "url": ""
+    },
+    {
+        "id": 4791,
+        "prefecture": "滋賀県",
+        "city": "近江八幡市",
+        "area": "",
+        "name": "近江八幡市中北部地域包括支援センター",
+        "tel": "0748-31-1970",
+        "url": ""
+    },
+    {
+        "id": 4792,
+        "prefecture": "滋賀県",
+        "city": "守山市",
+        "area": "",
+        "name": "守山市地域包括支援センター",
+        "tel": "077-581-0330",
+        "url": ""
+    },
+    {
+        "id": 4793,
+        "prefecture": "滋賀県",
+        "city": "守山市",
+        "area": "",
+        "name": "守山市南部地区地域包括支援センター",
+        "tel": "077-585-9201",
+        "url": ""
+    },
+    {
+        "id": 4794,
+        "prefecture": "滋賀県",
+        "city": "守山市",
+        "area": "",
+        "name": "守山市中部地区地域包括支援センター",
+        "tel": "077-584-5519",
+        "url": ""
+    },
+    {
+        "id": 4795,
+        "prefecture": "滋賀県",
+        "city": "守山市",
+        "area": "",
+        "name": "守山市北部地区地域包括支援センター",
+        "tel": "077-516-4160",
+        "url": ""
+    },
+    {
+        "id": 4796,
+        "prefecture": "滋賀県",
+        "city": "栗東市",
+        "area": "",
+        "name": "栗東市葉山地域包括支援センター",
+        "tel": "077-552-5280",
+        "url": ""
+    },
+    {
+        "id": 4797,
+        "prefecture": "滋賀県",
+        "city": "栗東市",
+        "area": "",
+        "name": "栗東市栗東地域包括支援センター",
+        "tel": "077-558-6979",
+        "url": ""
+    },
+    {
+        "id": 4798,
+        "prefecture": "滋賀県",
+        "city": "栗東市",
+        "area": "",
+        "name": "栗東市栗東西地域包括支援センター",
+        "tel": "077-584-4121",
+        "url": ""
+    },
+    {
+        "id": 4799,
+        "prefecture": "滋賀県",
+        "city": "甲賀市",
+        "area": "",
+        "name": "甲賀市水口地域包括支援センター",
+        "tel": "0748-65-1170",
+        "url": ""
+    },
+    {
+        "id": 4800,
+        "prefecture": "滋賀県",
+        "city": "甲賀市",
+        "area": "",
+        "name": "甲賀市土山地域包括支援センター",
+        "tel": "0748-66-1610",
+        "url": ""
+    },
+    {
+        "id": 4801,
+        "prefecture": "滋賀県",
+        "city": "甲賀市",
+        "area": "",
+        "name": "甲賀市甲賀地域包括支援センター",
+        "tel": "0748-88-8136",
+        "url": ""
+    },
+    {
+        "id": 4802,
+        "prefecture": "滋賀県",
+        "city": "甲賀市",
+        "area": "",
+        "name": "甲賀市甲南地域包括支援センター",
+        "tel": "0748-86-8034",
+        "url": ""
+    },
+    {
+        "id": 4803,
+        "prefecture": "滋賀県",
+        "city": "甲賀市",
+        "area": "",
+        "name": "甲賀市信楽地域包括支援センター",
+        "tel": "0748-82-3180",
+        "url": ""
+    },
+    {
+        "id": 4804,
+        "prefecture": "滋賀県",
+        "city": "野洲市",
+        "area": "",
+        "name": "野洲市地域包括支援センター",
+        "tel": "077-588-2337",
+        "url": ""
+    },
+    {
+        "id": 4805,
+        "prefecture": "滋賀県",
+        "city": "野洲市",
+        "area": "",
+        "name": "中主地域包括支援センター",
+        "tel": "077-514-7272",
+        "url": ""
+    },
+    {
+        "id": 4806,
+        "prefecture": "滋賀県",
+        "city": "湖南市",
+        "area": "",
+        "name": "湖南市甲西地域包括支援センター",
+        "tel": "0748-72-8501",
+        "url": ""
+    },
+    {
+        "id": 4807,
+        "prefecture": "滋賀県",
+        "city": "湖南市",
+        "area": "",
+        "name": "湖南市石部地域包括支援センター",
+        "tel": "0748-76-4102",
+        "url": ""
+    },
+    {
+        "id": 4808,
+        "prefecture": "滋賀県",
+        "city": "湖南市",
+        "area": "",
+        "name": "湖南市甲西北地域包括支援センター",
+        "tel": "0748-69-5104",
+        "url": ""
+    },
+    {
+        "id": 4809,
+        "prefecture": "滋賀県",
+        "city": "湖南市",
+        "area": "",
+        "name": "湖南市日枝地域包括支援センター",
+        "tel": "0748-76-3226",
+        "url": ""
+    },
+    {
+        "id": 4810,
+        "prefecture": "滋賀県",
+        "city": "高島市",
+        "area": "",
+        "name": "高島市地域包括支援センター",
+        "tel": "0740-25-8150",
+        "url": ""
+    },
+    {
+        "id": 4811,
+        "prefecture": "滋賀県",
+        "city": "高島市",
+        "area": "",
+        "name": "あいりんつむぎ地域包括支援センター",
+        "tel": "0740-22-2282",
+        "url": ""
+    },
+    {
+        "id": 4812,
+        "prefecture": "滋賀県",
+        "city": "高島市",
+        "area": "",
+        "name": "高島・安曇川地域包括支援センター",
+        "tel": "0740-36-0857",
+        "url": ""
+    },
+    {
+        "id": 4813,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "",
+        "name": "八日市地域包括支援センター",
+        "tel": "0748-34-0066",
+        "url": ""
+    },
+    {
+        "id": 4814,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "",
+        "name": "東近江市地域包括支援センター永源寺",
+        "tel": "0748-27-1121",
+        "url": ""
+    },
+    {
+        "id": 4815,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "",
+        "name": "東近江市地域包括支援センター愛東",
+        "tel": "0749-46-0211",
+        "url": ""
+    },
+    {
+        "id": 4816,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "",
+        "name": "東近江市地域包括支援センター湖東",
+        "tel": "0749-45-0511",
+        "url": ""
+    },
+    {
+        "id": 4817,
+        "prefecture": "滋賀県",
+        "city": "東近江市",
+        "area": "",
+        "name": "蒲生地域包括支援センター",
+        "tel": "0748-34-0039",
+        "url": ""
+    },
+    {
+        "id": 4818,
+        "prefecture": "滋賀県",
+        "city": "米原市",
+        "area": "",
+        "name": "米原市地域包括支援センター",
+        "tel": "0749-53-5120",
+        "url": ""
+    },
+    {
+        "id": 4819,
+        "prefecture": "滋賀県",
+        "city": "米原市",
+        "area": "",
+        "name": "米原市山東伊吹地域包括支援センター",
+        "tel": "0749-55-8100",
+        "url": ""
+    },
+    {
+        "id": 4820,
+        "prefecture": "滋賀県",
+        "city": "米原市",
+        "area": "",
+        "name": "米原市米原近江地域包括支援センター",
+        "tel": "0749-51-9014",
+        "url": ""
+    },
+    {
+        "id": 4821,
+        "prefecture": "滋賀県",
+        "city": "日野町",
+        "area": "",
+        "name": "日野町地域包括支援センター",
+        "tel": "0748-52-6001",
+        "url": ""
+    },
+    {
+        "id": 4822,
+        "prefecture": "滋賀県",
+        "city": "竜王町",
+        "area": "",
+        "name": "竜王町地域包括支援センター",
+        "tel": "0748-58-3704",
+        "url": ""
+    },
+    {
+        "id": 4823,
+        "prefecture": "滋賀県",
+        "city": "愛荘町",
+        "area": "",
+        "name": "愛荘町地域包括支援センター",
+        "tel": "0749-42-4690",
+        "url": ""
+    },
+    {
+        "id": 4824,
+        "prefecture": "滋賀県",
+        "city": "豊郷町",
+        "area": "",
+        "name": "豊郷町地域包括支援センター",
+        "tel": "0749-35-8057",
+        "url": ""
+    },
+    {
+        "id": 4825,
+        "prefecture": "滋賀県",
+        "city": "甲良町",
+        "area": "",
+        "name": "甲良町地域包括支援センター",
+        "tel": "0749-38-5161",
+        "url": ""
+    },
+    {
+        "id": 4826,
+        "prefecture": "滋賀県",
+        "city": "多賀町",
+        "area": "",
+        "name": "多賀町地域包括支援センター",
+        "tel": "0749-48-8115",
+        "url": ""
+    }
 ]
