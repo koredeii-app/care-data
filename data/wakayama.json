@@ -1,250 +1,454 @@
-﻿[
+[
     {
-        "id":  1878,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "西脇",
-        "name":  "地域包括支援センター西脇",
-        "tel":  "073-456-1212",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012832.html"
+        "id": 1878,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "西脇",
+        "name": "地域包括支援センター西脇",
+        "tel": "073-456-1212",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012832.html"
     },
     {
-        "id":  1879,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "木本",
-        "name":  "地域包括支援センター木本",
-        "tel":  "073-480-3010",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012833.html"
+        "id": 1879,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "木本",
+        "name": "地域包括支援センター木本",
+        "tel": "073-480-3010",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012833.html"
     },
     {
-        "id":  1880,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "松江",
-        "name":  "地域包括支援センター松江",
-        "tel":  "073-488-8782",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012834.html"
+        "id": 1880,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "松江",
+        "name": "地域包括支援センター松江",
+        "tel": "073-488-8782",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012834.html"
     },
     {
-        "id":  1881,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "野崎",
-        "name":  "地域包括支援センター野崎",
-        "tel":  "073-453-8102",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012835.html"
+        "id": 1881,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "野崎",
+        "name": "地域包括支援センター野崎",
+        "tel": "073-453-8102",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012835.html"
     },
     {
-        "id":  1882,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "有功",
-        "name":  "地域包括支援センター有功",
-        "tel":  "073-464-1033",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012836.html"
+        "id": 1882,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "有功",
+        "name": "地域包括支援センター有功",
+        "tel": "073-464-1033",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012836.html"
     },
     {
-        "id":  1883,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "川永",
-        "name":  "地域包括支援センター川永",
-        "tel":  "073-464-2468",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012837.html"
+        "id": 1883,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "川永",
+        "name": "地域包括支援センター川永",
+        "tel": "073-464-2468",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012837.html"
     },
     {
-        "id":  1884,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "和佐",
-        "name":  "地域包括支援センター和佐",
-        "tel":  "073-477-7181",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012839.html"
+        "id": 1884,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "和佐",
+        "name": "地域包括支援センター和佐",
+        "tel": "073-477-7181",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012839.html"
     },
     {
-        "id":  1885,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "東山東",
-        "name":  "地域包括支援センター東山東",
-        "tel":  "073-466-3344",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012840.html"
+        "id": 1885,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "東山東",
+        "name": "地域包括支援センター東山東",
+        "tel": "073-466-3344",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012840.html"
     },
     {
-        "id":  1886,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "名草",
-        "name":  "地域包括支援センター名草",
-        "tel":  "073-444-3142",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012841.html"
+        "id": 1886,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "名草",
+        "name": "地域包括支援センター名草",
+        "tel": "073-444-3142",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012841.html"
     },
     {
-        "id":  1887,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "雑賀",
-        "name":  "地域包括支援センター雑賀",
-        "tel":  "073-445-1700",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012842.html"
+        "id": 1887,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "雑賀",
+        "name": "地域包括支援センター雑賀",
+        "tel": "073-445-1700",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012842.html"
     },
     {
-        "id":  1888,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "宮前",
-        "name":  "地域包括支援センター宮前",
-        "tel":  "073-474-5535",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012843.html"
+        "id": 1888,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "宮前",
+        "name": "地域包括支援センター宮前",
+        "tel": "073-474-5535",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012843.html"
     },
     {
-        "id":  1889,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "高松",
-        "name":  "地域包括支援センター高松",
-        "tel":  "073-435-0312",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012844.html"
+        "id": 1889,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "高松",
+        "name": "地域包括支援センター高松",
+        "tel": "073-435-0312",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012844.html"
     },
     {
-        "id":  1890,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "新南",
-        "name":  "地域包括支援センター新南",
-        "tel":  "073-488-1750",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1013723.html"
+        "id": 1890,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "新南",
+        "name": "地域包括支援センター新南",
+        "tel": "073-488-1750",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1013723.html"
     },
     {
-        "id":  1891,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "宮北",
-        "name":  "地域包括支援センター宮北",
-        "tel":  "073-432-0077",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012846.html"
+        "id": 1891,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "宮北",
+        "name": "地域包括支援センター宮北",
+        "tel": "073-432-0077",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012846.html"
     },
     {
-        "id":  1892,
-        "prefecture":  "和歌山県",
-        "city":  "和歌山市",
-        "area":  "城北",
-        "name":  "地域包括支援センター城北",
-        "tel":  "073-488-5518",
-        "url":  "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012847.html"
+        "id": 1892,
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "area": "城北",
+        "name": "地域包括支援センター城北",
+        "tel": "073-488-5518",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/kourei_kaigo/1001100/1005305/1012847.html"
     },
     {
-        "id":  2982,
-        "prefecture":  "和歌山県",
-        "city":  "田辺市",
-        "area":  "田辺地域",
-        "name":  "田辺市田辺地域型地域包括支援センター",
-        "tel":  "0739-26-9906",
-        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+        "id": 2982,
+        "prefecture": "和歌山県",
+        "city": "田辺市",
+        "area": "田辺地域",
+        "name": "田辺市田辺地域型地域包括支援センター",
+        "tel": "0739-26-9906",
+        "url": "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
     },
     {
-        "id":  2983,
-        "prefecture":  "和歌山県",
-        "city":  "田辺市",
-        "area":  "龍神地域",
-        "name":  "田辺市龍神地域型地域包括支援センター",
-        "tel":  "0739-78-0081",
-        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+        "id": 2983,
+        "prefecture": "和歌山県",
+        "city": "田辺市",
+        "area": "龍神地域",
+        "name": "田辺市龍神地域型地域包括支援センター",
+        "tel": "0739-78-0081",
+        "url": "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
     },
     {
-        "id":  2984,
-        "prefecture":  "和歌山県",
-        "city":  "田辺市",
-        "area":  "中辺路地域",
-        "name":  "田辺市中辺路地域型地域包括支援センター",
-        "tel":  "0739-64-0516",
-        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+        "id": 2984,
+        "prefecture": "和歌山県",
+        "city": "田辺市",
+        "area": "中辺路地域",
+        "name": "田辺市中辺路地域型地域包括支援センター",
+        "tel": "0739-64-0516",
+        "url": "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
     },
     {
-        "id":  2985,
-        "prefecture":  "和歌山県",
-        "city":  "田辺市",
-        "area":  "大塔地域",
-        "name":  "田辺市大塔地域型地域包括支援センター",
-        "tel":  "0739-48-0085",
-        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+        "id": 2985,
+        "prefecture": "和歌山県",
+        "city": "田辺市",
+        "area": "大塔地域",
+        "name": "田辺市大塔地域型地域包括支援センター",
+        "tel": "0739-48-0085",
+        "url": "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
     },
     {
-        "id":  2986,
-        "prefecture":  "和歌山県",
-        "city":  "田辺市",
-        "area":  "本宮地域",
-        "name":  "田辺市本宮地域型地域包括支援センター",
-        "tel":  "0735-42-0082",
-        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+        "id": 2986,
+        "prefecture": "和歌山県",
+        "city": "田辺市",
+        "area": "本宮地域",
+        "name": "田辺市本宮地域型地域包括支援センター",
+        "tel": "0735-42-0082",
+        "url": "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
     },
     {
-        "id":  2987,
-        "prefecture":  "和歌山県",
-        "city":  "田辺市",
-        "area":  "白浜町",
-        "name":  "白浜町地域包括支援センター",
-        "tel":  "0739-43-6596",
-        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+        "id": 2987,
+        "prefecture": "和歌山県",
+        "city": "田辺市",
+        "area": "白浜町",
+        "name": "白浜町地域包括支援センター",
+        "tel": "0739-43-6596",
+        "url": "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
     },
     {
-        "id":  2988,
-        "prefecture":  "和歌山県",
-        "city":  "田辺市",
-        "area":  "上富田町",
-        "name":  "上富田町地域包括支援センター",
-        "tel":  "0739-47-0550",
-        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+        "id": 2988,
+        "prefecture": "和歌山県",
+        "city": "田辺市",
+        "area": "上富田町",
+        "name": "上富田町地域包括支援センター",
+        "tel": "0739-47-0550",
+        "url": "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
     },
     {
-        "id":  2989,
-        "prefecture":  "和歌山県",
-        "city":  "田辺市",
-        "area":  "すさみ町",
-        "name":  "すさみ町地域包括支援センター",
-        "tel":  "0739-55-4670",
-        "url":  "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
+        "id": 2989,
+        "prefecture": "和歌山県",
+        "city": "田辺市",
+        "area": "すさみ町",
+        "name": "すさみ町地域包括支援センター",
+        "tel": "0739-55-4670",
+        "url": "https://www.tanabe-kenniki-ikr.jp/consultation/chiikihoukatsushien/"
     },
     {
-        "id":  3252,
-        "prefecture":  "和歌山県",
-        "city":  "橋本市",
-        "area":  "橋本市全域",
-        "name":  "橋本市地域包括支援センター",
-        "tel":  "0736-32-1957",
-        "tel_ip":  "0120-555-294",
-        "url":  "https://www.city.hashimoto.lg.jp/guide/kenko_fukushibu/ikiiki_kenko/houkatusiennsennta/1533009952349.html"
+        "id": 3252,
+        "prefecture": "和歌山県",
+        "city": "橋本市",
+        "area": "橋本市全域",
+        "name": "橋本市地域包括支援センター",
+        "tel": "0736-32-1957",
+        "tel_ip": "0120-555-294",
+        "url": "https://www.city.hashimoto.lg.jp/guide/kenko_fukushibu/ikiiki_kenko/houkatusiennsennta/1533009952349.html"
     },
     {
-        "id":  3279,
-        "prefecture":  "和歌山県",
-        "city":  "紀の川市",
-        "area":  "紀の川市全域",
-        "name":  "紀の川市地域包括支援センター愛の手",
-        "tel":  "0736-77-0350",
-        "phones":  [
-            { "label":  "平日の午前8時45分～午後5時30分", "number":  "0736-77-0350" },
-            { "label":  "夜間・休日等の緊急連絡先", "number":  "0736-78-3314" }
+        "id": 3279,
+        "prefecture": "和歌山県",
+        "city": "紀の川市",
+        "area": "紀の川市全域",
+        "name": "紀の川市地域包括支援センター愛の手",
+        "tel": "0736-77-0350",
+        "phones": [
+            {
+                "label": "平日の午前8時45分～午後5時30分",
+                "number": "0736-77-0350"
+            },
+            {
+                "label": "夜間・休日等の緊急連絡先",
+                "number": "0736-78-3314"
+            }
         ],
-        "url":  "https://www.city.kinokawa.lg.jp/024/2021-0310-1459-68.html"
+        "url": "https://www.city.kinokawa.lg.jp/024/2021-0310-1459-68.html"
     },
     {
-        "id":  3343,
-        "prefecture":  "和歌山県",
-        "city":  "新宮市",
-        "area":  "新宮市（熊野川地域を除く）",
-        "name":  "新宮市地域包括支援センター",
-        "tel":  "0735-23-3306",
-        "url":  "https://www.city.shingu.lg.jp/info/144"
+        "id": 3343,
+        "prefecture": "和歌山県",
+        "city": "新宮市",
+        "area": "新宮市（熊野川地域を除く）",
+        "name": "新宮市地域包括支援センター",
+        "tel": "0735-23-3306",
+        "url": "https://www.city.shingu.lg.jp/info/144"
     },
     {
-        "id":  3344,
-        "prefecture":  "和歌山県",
-        "city":  "新宮市",
-        "area":  "熊野川地域",
-        "name":  "新宮市地域包括支援センター熊野川",
-        "tel":  "0735-44-0370",
-        "url":  "https://www.city.shingu.lg.jp/info/144"
+        "id": 3344,
+        "prefecture": "和歌山県",
+        "city": "新宮市",
+        "area": "熊野川地域",
+        "name": "新宮市地域包括支援センター熊野川",
+        "tel": "0735-44-0370",
+        "url": "https://www.city.shingu.lg.jp/info/144"
+    },
+    {
+        "id": 4929,
+        "prefecture": "和歌山県",
+        "city": "海南市",
+        "area": "",
+        "name": "海南市地域包括支援センター",
+        "tel": "073-483-8762",
+        "url": ""
+    },
+    {
+        "id": 4930,
+        "prefecture": "和歌山県",
+        "city": "有田市",
+        "area": "",
+        "name": "有田市地域包括支援センター",
+        "tel": "0737-22-3540",
+        "url": ""
+    },
+    {
+        "id": 4931,
+        "prefecture": "和歌山県",
+        "city": "御坊市",
+        "area": "",
+        "name": "御坊市地域包括支援センター",
+        "tel": "0738-23-5851",
+        "url": ""
+    },
+    {
+        "id": 4932,
+        "prefecture": "和歌山県",
+        "city": "岩出市",
+        "area": "",
+        "name": "岩出市地域包括支援センター",
+        "tel": "0736-62-2141",
+        "url": ""
+    },
+    {
+        "id": 4933,
+        "prefecture": "和歌山県",
+        "city": "紀美野町",
+        "area": "",
+        "name": "紀美野町地域包括支援センター",
+        "tel": "073-489-9960",
+        "url": ""
+    },
+    {
+        "id": 4934,
+        "prefecture": "和歌山県",
+        "city": "かつらぎ町",
+        "area": "",
+        "name": "かつらぎ町地域包括支援センター",
+        "tel": "0736-22-2322",
+        "url": ""
+    },
+    {
+        "id": 4935,
+        "prefecture": "和歌山県",
+        "city": "九度山町",
+        "area": "",
+        "name": "九度山町地域包括支援センター",
+        "tel": "0736-54-2233",
+        "url": ""
+    },
+    {
+        "id": 4936,
+        "prefecture": "和歌山県",
+        "city": "高野町",
+        "area": "",
+        "name": "高野町地域包括支援センター",
+        "tel": "0736-56-2933",
+        "url": ""
+    },
+    {
+        "id": 4937,
+        "prefecture": "和歌山県",
+        "city": "湯浅町",
+        "area": "",
+        "name": "湯浅町地域包括支援センター",
+        "tel": "0737-64-1120",
+        "url": ""
+    },
+    {
+        "id": 4938,
+        "prefecture": "和歌山県",
+        "city": "広川町",
+        "area": "",
+        "name": "広川町地域包括支援センター",
+        "tel": "0737-23-7724",
+        "url": ""
+    },
+    {
+        "id": 4939,
+        "prefecture": "和歌山県",
+        "city": "有田川町",
+        "area": "",
+        "name": "有田川町地域包括支援センター",
+        "tel": "0737-22-4502",
+        "url": ""
+    },
+    {
+        "id": 4940,
+        "prefecture": "和歌山県",
+        "city": "美浜町",
+        "area": "",
+        "name": "美浜町地域包括支援センター",
+        "tel": "0738-23-4950",
+        "url": ""
+    },
+    {
+        "id": 4941,
+        "prefecture": "和歌山県",
+        "city": "日高町",
+        "area": "",
+        "name": "日高町地域包括支援センター",
+        "tel": "0738-63-3807",
+        "url": ""
+    },
+    {
+        "id": 4942,
+        "prefecture": "和歌山県",
+        "city": "由良町",
+        "area": "",
+        "name": "由良町地域包括支援センター",
+        "tel": "0738-65-0201",
+        "url": ""
+    },
+    {
+        "id": 4943,
+        "prefecture": "和歌山県",
+        "city": "印南町",
+        "area": "",
+        "name": "印南町地域包括支援センター",
+        "tel": "0738-42-1738",
+        "url": ""
+    },
+    {
+        "id": 4944,
+        "prefecture": "和歌山県",
+        "city": "みなべ町",
+        "area": "",
+        "name": "みなべ町地域包括支援センター",
+        "tel": "0739-74-8065",
+        "url": ""
+    },
+    {
+        "id": 4945,
+        "prefecture": "和歌山県",
+        "city": "日高川町",
+        "area": "",
+        "name": "日高川町地域包括支援センター",
+        "tel": "0738-22-9633",
+        "url": ""
+    },
+    {
+        "id": 4946,
+        "prefecture": "和歌山県",
+        "city": "那智勝浦町",
+        "area": "",
+        "name": "那智勝浦町地域包括支援センター",
+        "tel": "0735-52-0611",
+        "url": ""
+    },
+    {
+        "id": 4947,
+        "prefecture": "和歌山県",
+        "city": "太地町",
+        "area": "",
+        "name": "太地町地域包括支援センター",
+        "tel": "0735-59-3380",
+        "url": ""
+    },
+    {
+        "id": 4948,
+        "prefecture": "和歌山県",
+        "city": "古座川町",
+        "area": "",
+        "name": "古座川町地域包括支援センター",
+        "tel": "0735-67-7611",
+        "url": ""
+    },
+    {
+        "id": 4949,
+        "prefecture": "和歌山県",
+        "city": "北山村",
+        "area": "",
+        "name": "北山村地域包括支援センター",
+        "tel": "0735-49-2331",
+        "url": ""
+    },
+    {
+        "id": 4950,
+        "prefecture": "和歌山県",
+        "city": "串本町",
+        "area": "",
+        "name": "串本町地域包括支援センター",
+        "tel": "0735-62-6005",
+        "url": ""
     }
 ]
