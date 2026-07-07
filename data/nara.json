@@ -1,33 +1,641 @@
 [
-    {"id":1865,"prefecture":"奈良県","city":"奈良市","area":"鼓阪北・鼓阪・佐保","name":"若草地域包括支援センター","tel":"0742-25-2345","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1866,"prefecture":"奈良県","city":"奈良市","area":"大宮・佐保川・椿井・大安寺西","name":"三笠地域包括支援センター","tel":"0742-33-6622","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1867,"prefecture":"奈良県","city":"奈良市","area":"済美・済美南・大安寺・飛鳥","name":"春日・飛鳥地域包括支援センター","tel":"0742-20-2516","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1868,"prefecture":"奈良県","city":"奈良市","area":"辰市・明治・東市・帯解","name":"都南地域包括支援センター","tel":"0742-50-2288","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1869,"prefecture":"奈良県","city":"奈良市","area":"ならやま・朱雀・左京・佐保台","name":"北部地域包括支援センター","tel":"0742-70-6777","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1870,"prefecture":"奈良県","city":"奈良市","area":"平城西・平城","name":"平城地域包括支援センター","tel":"0742-53-7757","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1871,"prefecture":"奈良県","city":"奈良市","area":"伏見南・六条・都跡","name":"京西・都跡地域包括支援センター","tel":"0742-52-3010","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1872,"prefecture":"奈良県","city":"奈良市","area":"あやめ池・西大寺北・伏見","name":"伏見地域包括支援センター","tel":"0742-36-1671","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1873,"prefecture":"奈良県","city":"奈良市","area":"鶴舞・青和・二名・富雄北","name":"二名地域包括支援センター","tel":"0742-43-1280","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1874,"prefecture":"奈良県","city":"奈良市","area":"東登美ヶ丘・登美ヶ丘","name":"登美ヶ丘地域包括支援センター","tel":"0742-51-0012","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1875,"prefecture":"奈良県","city":"奈良市","area":"三碓・富雄南・あやめ池学園南","name":"富雄東地域包括支援センター","tel":"0742-52-2051","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1876,"prefecture":"奈良県","city":"奈良市","area":"鳥見・富雄第三","name":"富雄西地域包括支援センター","tel":"0742-44-6541","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":1877,"prefecture":"奈良県","city":"奈良市","area":"田原・柳生・興東・都祁・月ヶ瀬","name":"東部地域包括支援センター","tel":"0742-81-5720","url":"https://www.city.nara.lg.jp/site/kaigohoken/7850.html"},
-    {"id":2700,"prefecture":"奈良県","city":"橿原市","area":"土橋町、小槻町、中曽司町（近鉄大阪線以北）、飯高町、大垣町、豊田町、十市町（国道24号以西）、葛本町（国道24号以西）、新賀町（国道24号以西）、上品寺町、新口町、西新堂町、兵部町、今井町1～4丁目、小綱町、四条町（橿原神宮参道以西）、大谷町、慈明寺町、寺田町、五井町、北妙法寺町、中曽司町（近鉄大阪線以南）、曽我町、地黄町、小房町、八木町1～3丁目、北八木町1～3丁目、南八木町1～3丁目、内膳町1～5丁目、十市町（国道24号以東）、葛本町（国道24号以東）、新賀町（国道24号以東）、東竹田町、中町、太田市町、常盤町、石原田町、山之坊町、木原町","name":"橿原市地域包括支援センター（北エリア）","tel":"0744-20-3366","url":"https://houkatsu-north.unebi.or.jp/"},
-    {"id":2701,"prefecture":"奈良県","city":"橿原市","area":"八木中学校区（南）、畝傍中学校区、白橿中学校区、光陽中学校区","name":"橿原市地域包括支援センター（南エリア）","tel":"0744-24-4301","url":"https://kashi-syakyou.or.jp/pages/90/"},
-    {"id":2778,"prefecture":"奈良県","city":"生駒市","area":"高山町・ひかりが丘・北田原町・西白庭台・鹿畑町・美鹿の台・鹿ノ台東・西・南・北","name":"フォレスト地域包括支援センター","tel":"0743-78-4888","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
-    {"id":2779,"prefecture":"奈良県","city":"生駒市","area":"上町・白庭台・真弓・真弓南・あすか野南・北・あすか台・北大和・上町台","name":"メディカル北地域包括支援センター","tel":"0743-71-3500","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
-    {"id":2780,"prefecture":"奈良県","city":"生駒市","area":"南田原町・喜里が丘・生駒台南・北・新生駒台・松美台・俵口町一部","name":"阪奈中央地域包括支援センター","tel":"0743-73-9448","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
-    {"id":2781,"prefecture":"奈良県","city":"生駒市","area":"辻町・小明町・谷田町・桜ヶ丘","name":"東生駒地域包括支援センター","tel":"0743-75-3367","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
-    {"id":2782,"prefecture":"奈良県","city":"生駒市","area":"北新町・俵口町一部・東松ヶ丘・西松ヶ丘・光陽台","name":"社会福祉協議会地域包括支援センター","tel":"0743-73-7272","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
-    {"id":2783,"prefecture":"奈良県","city":"生駒市","area":"山崎町・東旭ヶ丘・西旭ヶ丘・新旭ヶ丘・東新町ほか","name":"梅寿荘地域包括支援センター","tel":"0743-74-8134","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
-    {"id":2784,"prefecture":"奈良県","city":"生駒市","area":"壱分町・さつき台・小瀬町・南山手台・東山町・萩の台・乙田町・翠光台","name":"メディカル南地域包括支援センター","tel":"0743-77-7766","url":"https://www.city.ikoma.lg.jp/0000001000.html"},
-    {"id":2785,"prefecture":"奈良県","city":"大和郡山市","area":"郡山北地区・郡山西地区・矢田地区","name":"大和郡山市地域包括支援センター","tel":"0743-55-7733","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
-    {"id":2786,"prefecture":"奈良県","city":"大和郡山市","area":"片桐地区","name":"第二地域包括支援センター","tel":"0743-55-7011","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
-    {"id":2787,"prefecture":"奈良県","city":"大和郡山市","area":"昭和地区・治道地区・筒井地区","name":"第三地域包括支援センター","tel":"0743-57-2233","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
-    {"id":2788,"prefecture":"奈良県","city":"大和郡山市","area":"平和地区","name":"第四地域包括支援センター","tel":"0743-51-0700","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
-    {"id":2789,"prefecture":"奈良県","city":"大和郡山市","area":"矢田地区","name":"第五地域包括支援センター","tel":"0743-52-3480","url":"https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"},
-    {"id":3308,"prefecture":"奈良県","city":"香芝市","area":"香芝北中学校の通学区域及び北今市一丁目～七丁目","name":"香芝市中央地域包括支援センター","tel":"0745-79-0802","url":"https://www.city.kashiba.lg.jp/soshiki/22/55861.html"},
-    {"id":3309,"prefecture":"奈良県","city":"香芝市","area":"香芝西中学校の通学区域","name":"香芝市西地域包括支援センター","tel":"0745-71-3201","url":"https://www.city.kashiba.lg.jp/soshiki/22/55861.html"},
-    {"id":3310,"prefecture":"奈良県","city":"香芝市","area":"香芝東中学校の通学区域","name":"香芝市東地域包括支援センター","tel":"0745-71-3120","url":"https://www.city.kashiba.lg.jp/soshiki/22/55861.html"},
-    {"id":3348,"prefecture":"奈良県","city":"香芝市","area":"香芝中学校の通学区域（北今市一丁目～七丁目を除く）","name":"香芝市南地域包括支援センター","tel":"0745-51-1560","url":"https://www.city.kashiba.lg.jp/soshiki/22/55861.html"}
+    {
+        "id": 1865,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "鼓阪北・鼓阪・佐保",
+        "name": "若草地域包括支援センター",
+        "tel": "0742-25-2345",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1866,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "大宮・佐保川・椿井・大安寺西",
+        "name": "三笠地域包括支援センター",
+        "tel": "0742-33-6622",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1867,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "済美・済美南・大安寺・飛鳥",
+        "name": "春日・飛鳥地域包括支援センター",
+        "tel": "0742-20-2516",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1868,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "辰市・明治・東市・帯解",
+        "name": "都南地域包括支援センター",
+        "tel": "0742-50-2288",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1869,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "ならやま・朱雀・左京・佐保台",
+        "name": "北部地域包括支援センター",
+        "tel": "0742-70-6777",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1870,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "平城西・平城",
+        "name": "平城地域包括支援センター",
+        "tel": "0742-53-7757",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1871,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "伏見南・六条・都跡",
+        "name": "京西・都跡地域包括支援センター",
+        "tel": "0742-52-3010",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1872,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "あやめ池・西大寺北・伏見",
+        "name": "伏見地域包括支援センター",
+        "tel": "0742-36-1671",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1873,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "鶴舞・青和・二名・富雄北",
+        "name": "二名地域包括支援センター",
+        "tel": "0742-43-1280",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1874,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "東登美ヶ丘・登美ヶ丘",
+        "name": "登美ヶ丘地域包括支援センター",
+        "tel": "0742-51-0012",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1875,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "三碓・富雄南・あやめ池学園南",
+        "name": "富雄東地域包括支援センター",
+        "tel": "0742-52-2051",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1876,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "鳥見・富雄第三",
+        "name": "富雄西地域包括支援センター",
+        "tel": "0742-44-6541",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 1877,
+        "prefecture": "奈良県",
+        "city": "奈良市",
+        "area": "田原・柳生・興東・都祁・月ヶ瀬",
+        "name": "東部地域包括支援センター",
+        "tel": "0742-81-5720",
+        "url": "https://www.city.nara.lg.jp/site/kaigohoken/7850.html"
+    },
+    {
+        "id": 2700,
+        "prefecture": "奈良県",
+        "city": "橿原市",
+        "area": "土橋町、小槻町、中曽司町（近鉄大阪線以北）、飯高町、大垣町、豊田町、十市町（国道24号以西）、葛本町（国道24号以西）、新賀町（国道24号以西）、上品寺町、新口町、西新堂町、兵部町、今井町1～4丁目、小綱町、四条町（橿原神宮参道以西）、大谷町、慈明寺町、寺田町、五井町、北妙法寺町、中曽司町（近鉄大阪線以南）、曽我町、地黄町、小房町、八木町1～3丁目、北八木町1～3丁目、南八木町1～3丁目、内膳町1～5丁目、十市町（国道24号以東）、葛本町（国道24号以東）、新賀町（国道24号以東）、東竹田町、中町、太田市町、常盤町、石原田町、山之坊町、木原町",
+        "name": "橿原市地域包括支援センター（北エリア）",
+        "tel": "0744-20-3366",
+        "url": "https://houkatsu-north.unebi.or.jp/"
+    },
+    {
+        "id": 2701,
+        "prefecture": "奈良県",
+        "city": "橿原市",
+        "area": "八木中学校区（南）、畝傍中学校区、白橿中学校区、光陽中学校区",
+        "name": "橿原市地域包括支援センター（南エリア）",
+        "tel": "0744-24-4301",
+        "url": "https://kashi-syakyou.or.jp/pages/90/"
+    },
+    {
+        "id": 2778,
+        "prefecture": "奈良県",
+        "city": "生駒市",
+        "area": "高山町・ひかりが丘・北田原町・西白庭台・鹿畑町・美鹿の台・鹿ノ台東・西・南・北",
+        "name": "フォレスト地域包括支援センター",
+        "tel": "0743-78-4888",
+        "url": "https://www.city.ikoma.lg.jp/0000001000.html"
+    },
+    {
+        "id": 2779,
+        "prefecture": "奈良県",
+        "city": "生駒市",
+        "area": "上町・白庭台・真弓・真弓南・あすか野南・北・あすか台・北大和・上町台",
+        "name": "メディカル北地域包括支援センター",
+        "tel": "0743-71-3500",
+        "url": "https://www.city.ikoma.lg.jp/0000001000.html"
+    },
+    {
+        "id": 2780,
+        "prefecture": "奈良県",
+        "city": "生駒市",
+        "area": "南田原町・喜里が丘・生駒台南・北・新生駒台・松美台・俵口町一部",
+        "name": "阪奈中央地域包括支援センター",
+        "tel": "0743-73-9448",
+        "url": "https://www.city.ikoma.lg.jp/0000001000.html"
+    },
+    {
+        "id": 2781,
+        "prefecture": "奈良県",
+        "city": "生駒市",
+        "area": "辻町・小明町・谷田町・桜ヶ丘",
+        "name": "東生駒地域包括支援センター",
+        "tel": "0743-75-3367",
+        "url": "https://www.city.ikoma.lg.jp/0000001000.html"
+    },
+    {
+        "id": 2782,
+        "prefecture": "奈良県",
+        "city": "生駒市",
+        "area": "北新町・俵口町一部・東松ヶ丘・西松ヶ丘・光陽台",
+        "name": "社会福祉協議会地域包括支援センター",
+        "tel": "0743-73-7272",
+        "url": "https://www.city.ikoma.lg.jp/0000001000.html"
+    },
+    {
+        "id": 2783,
+        "prefecture": "奈良県",
+        "city": "生駒市",
+        "area": "山崎町・東旭ヶ丘・西旭ヶ丘・新旭ヶ丘・東新町ほか",
+        "name": "梅寿荘地域包括支援センター",
+        "tel": "0743-74-8134",
+        "url": "https://www.city.ikoma.lg.jp/0000001000.html"
+    },
+    {
+        "id": 2784,
+        "prefecture": "奈良県",
+        "city": "生駒市",
+        "area": "壱分町・さつき台・小瀬町・南山手台・東山町・萩の台・乙田町・翠光台",
+        "name": "メディカル南地域包括支援センター",
+        "tel": "0743-77-7766",
+        "url": "https://www.city.ikoma.lg.jp/0000001000.html"
+    },
+    {
+        "id": 2785,
+        "prefecture": "奈良県",
+        "city": "大和郡山市",
+        "area": "郡山北地区・郡山西地区・矢田地区",
+        "name": "大和郡山市地域包括支援センター",
+        "tel": "0743-55-7733",
+        "url": "https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"
+    },
+    {
+        "id": 2786,
+        "prefecture": "奈良県",
+        "city": "大和郡山市",
+        "area": "片桐地区",
+        "name": "第二地域包括支援センター",
+        "tel": "0743-55-7011",
+        "url": "https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"
+    },
+    {
+        "id": 2787,
+        "prefecture": "奈良県",
+        "city": "大和郡山市",
+        "area": "昭和地区・治道地区・筒井地区",
+        "name": "第三地域包括支援センター",
+        "tel": "0743-57-2233",
+        "url": "https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"
+    },
+    {
+        "id": 2788,
+        "prefecture": "奈良県",
+        "city": "大和郡山市",
+        "area": "平和地区",
+        "name": "第四地域包括支援センター",
+        "tel": "0743-51-0700",
+        "url": "https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"
+    },
+    {
+        "id": 2789,
+        "prefecture": "奈良県",
+        "city": "大和郡山市",
+        "area": "矢田地区",
+        "name": "第五地域包括支援センター",
+        "tel": "0743-52-3480",
+        "url": "https://www.city.yamatokoriyama.lg.jp/soshiki/chiikihokatsucaresuishinka/koreifukushi/2/1726.html"
+    },
+    {
+        "id": 3308,
+        "prefecture": "奈良県",
+        "city": "香芝市",
+        "area": "香芝北中学校の通学区域及び北今市一丁目～七丁目",
+        "name": "香芝市中央地域包括支援センター",
+        "tel": "0745-79-0802",
+        "url": "https://www.city.kashiba.lg.jp/soshiki/22/55861.html"
+    },
+    {
+        "id": 3309,
+        "prefecture": "奈良県",
+        "city": "香芝市",
+        "area": "香芝西中学校の通学区域",
+        "name": "香芝市西地域包括支援センター",
+        "tel": "0745-71-3201",
+        "url": "https://www.city.kashiba.lg.jp/soshiki/22/55861.html"
+    },
+    {
+        "id": 3310,
+        "prefecture": "奈良県",
+        "city": "香芝市",
+        "area": "香芝東中学校の通学区域",
+        "name": "香芝市東地域包括支援センター",
+        "tel": "0745-71-3120",
+        "url": "https://www.city.kashiba.lg.jp/soshiki/22/55861.html"
+    },
+    {
+        "id": 3348,
+        "prefecture": "奈良県",
+        "city": "香芝市",
+        "area": "香芝中学校の通学区域（北今市一丁目～七丁目を除く）",
+        "name": "香芝市南地域包括支援センター",
+        "tel": "0745-51-1560",
+        "url": "https://www.city.kashiba.lg.jp/soshiki/22/55861.html"
+    },
+    {
+        "id": 4889,
+        "prefecture": "奈良県",
+        "city": "大和高田市",
+        "area": "",
+        "name": "大和高田市地域包括支援センター",
+        "tel": "0745-22-1101",
+        "url": ""
+    },
+    {
+        "id": 4890,
+        "prefecture": "奈良県",
+        "city": "天理市",
+        "area": "",
+        "name": "天理市北部地域包括支援センター",
+        "tel": "0743-65-5520",
+        "url": ""
+    },
+    {
+        "id": 4891,
+        "prefecture": "奈良県",
+        "city": "天理市",
+        "area": "",
+        "name": "天理市中部地域包括支援センター",
+        "tel": "0743-63-1120",
+        "url": ""
+    },
+    {
+        "id": 4892,
+        "prefecture": "奈良県",
+        "city": "天理市",
+        "area": "",
+        "name": "天理市西南部地域包括支援センター",
+        "tel": "0743-66-3555",
+        "url": ""
+    },
+    {
+        "id": 4893,
+        "prefecture": "奈良県",
+        "city": "天理市",
+        "area": "",
+        "name": "天理市東部地域包括支援センター",
+        "tel": "0743-69-2216",
+        "url": ""
+    },
+    {
+        "id": 4894,
+        "prefecture": "奈良県",
+        "city": "桜井市",
+        "area": "",
+        "name": "桜井市地域包括支援センターきぼう",
+        "tel": "0744-46-1023",
+        "url": ""
+    },
+    {
+        "id": 4895,
+        "prefecture": "奈良県",
+        "city": "桜井市",
+        "area": "",
+        "name": "桜井市地域包括支援センターのぞみ",
+        "tel": "0744-42-5590",
+        "url": ""
+    },
+    {
+        "id": 4896,
+        "prefecture": "奈良県",
+        "city": "桜井市",
+        "area": "",
+        "name": "桜井市地域包括支援センターひかり",
+        "tel": "0744-45-3651",
+        "url": ""
+    },
+    {
+        "id": 4897,
+        "prefecture": "奈良県",
+        "city": "桜井市",
+        "area": "",
+        "name": "桜井市地域包括支援センターきずな",
+        "tel": "0744-44-3655",
+        "url": ""
+    },
+    {
+        "id": 4898,
+        "prefecture": "奈良県",
+        "city": "五條市",
+        "area": "",
+        "name": "五條市地域包括支援センター",
+        "tel": "0747-25-2640",
+        "url": ""
+    },
+    {
+        "id": 4899,
+        "prefecture": "奈良県",
+        "city": "御所市",
+        "area": "",
+        "name": "御所市地域包括支援センター",
+        "tel": "0745-65-2020",
+        "url": ""
+    },
+    {
+        "id": 4900,
+        "prefecture": "奈良県",
+        "city": "葛城市",
+        "area": "",
+        "name": "葛城市地域包括支援センター",
+        "tel": "0745-44-3455",
+        "url": ""
+    },
+    {
+        "id": 4901,
+        "prefecture": "奈良県",
+        "city": "宇陀市",
+        "area": "",
+        "name": "宇陀市地域包括支援センター",
+        "tel": "0745-82-2100",
+        "url": ""
+    },
+    {
+        "id": 4902,
+        "prefecture": "奈良県",
+        "city": "山添村",
+        "area": "",
+        "name": "山添村地域包括支援センター",
+        "tel": "0743-85-0181",
+        "url": ""
+    },
+    {
+        "id": 4903,
+        "prefecture": "奈良県",
+        "city": "平群町",
+        "area": "",
+        "name": "平群町地域包括支援センター",
+        "tel": "0745-45-7012",
+        "url": ""
+    },
+    {
+        "id": 4904,
+        "prefecture": "奈良県",
+        "city": "三郷町",
+        "area": "",
+        "name": "三郷町地域包括支援センター",
+        "tel": "0745-34-0035",
+        "url": ""
+    },
+    {
+        "id": 4905,
+        "prefecture": "奈良県",
+        "city": "斑鳩町",
+        "area": "",
+        "name": "斑鳩町地域包括支援センター",
+        "tel": "0745-75-4000",
+        "url": ""
+    },
+    {
+        "id": 4906,
+        "prefecture": "奈良県",
+        "city": "安堵町",
+        "area": "",
+        "name": "安堵町地域包括支援センター",
+        "tel": "0743-57-2523",
+        "url": ""
+    },
+    {
+        "id": 4907,
+        "prefecture": "奈良県",
+        "city": "川西町",
+        "area": "",
+        "name": "川西町地域包括支援センター",
+        "tel": "0745-42-1180",
+        "url": ""
+    },
+    {
+        "id": 4908,
+        "prefecture": "奈良県",
+        "city": "三宅町",
+        "area": "",
+        "name": "三宅町地域包括支援センター",
+        "tel": "0745-43-2522",
+        "url": ""
+    },
+    {
+        "id": 4909,
+        "prefecture": "奈良県",
+        "city": "田原本町",
+        "area": "",
+        "name": "田原本町地域包括支援センター",
+        "tel": "0744-34-2104",
+        "url": ""
+    },
+    {
+        "id": 4910,
+        "prefecture": "奈良県",
+        "city": "曽爾村",
+        "area": "",
+        "name": "曽爾村地域包括支援センター",
+        "tel": "0745-94-2103",
+        "url": ""
+    },
+    {
+        "id": 4911,
+        "prefecture": "奈良県",
+        "city": "御杖村",
+        "area": "",
+        "name": "御杖村地域包括支援センター",
+        "tel": "0745-95-2522",
+        "url": ""
+    },
+    {
+        "id": 4912,
+        "prefecture": "奈良県",
+        "city": "高取町",
+        "area": "",
+        "name": "高取町地域包括支援センター",
+        "tel": "0744-52-3334",
+        "url": ""
+    },
+    {
+        "id": 4913,
+        "prefecture": "奈良県",
+        "city": "明日香村",
+        "area": "",
+        "name": "明日香村地域包括支援センター",
+        "tel": "0744-54-5550",
+        "url": ""
+    },
+    {
+        "id": 4914,
+        "prefecture": "奈良県",
+        "city": "上牧町",
+        "area": "",
+        "name": "上牧町地域包括支援センター",
+        "tel": "0745-79-2020",
+        "url": ""
+    },
+    {
+        "id": 4915,
+        "prefecture": "奈良県",
+        "city": "王寺町",
+        "area": "",
+        "name": "王寺町地域包括支援センター",
+        "tel": "0745-73-2001",
+        "url": ""
+    },
+    {
+        "id": 4916,
+        "prefecture": "奈良県",
+        "city": "広陵町",
+        "area": "",
+        "name": "広陵町地域包括支援センター",
+        "tel": "0745-54-6663",
+        "url": ""
+    },
+    {
+        "id": 4917,
+        "prefecture": "奈良県",
+        "city": "河合町",
+        "area": "",
+        "name": "河合町地域包括支援センター",
+        "tel": "0745-58-2734",
+        "url": ""
+    },
+    {
+        "id": 4918,
+        "prefecture": "奈良県",
+        "city": "吉野町",
+        "area": "",
+        "name": "吉野町地域包括支援センター",
+        "tel": "0746-32-8856",
+        "url": ""
+    },
+    {
+        "id": 4919,
+        "prefecture": "奈良県",
+        "city": "大淀町",
+        "area": "",
+        "name": "大淀町地域包括支援センター",
+        "tel": "0747-52-7760",
+        "url": ""
+    },
+    {
+        "id": 4920,
+        "prefecture": "奈良県",
+        "city": "下市町",
+        "area": "",
+        "name": "下市町地域包括支援センター（なんでも相談センター）",
+        "tel": "0747-68-9065",
+        "url": ""
+    },
+    {
+        "id": 4921,
+        "prefecture": "奈良県",
+        "city": "黒滝村",
+        "area": "",
+        "name": "黒滝村地域包括支援センター",
+        "tel": "0747-62-2850",
+        "url": ""
+    },
+    {
+        "id": 4922,
+        "prefecture": "奈良県",
+        "city": "天川村",
+        "area": "",
+        "name": "天川村地域包括支援センター",
+        "tel": "0747-63-9110",
+        "url": ""
+    },
+    {
+        "id": 4923,
+        "prefecture": "奈良県",
+        "city": "野迫川村",
+        "area": "",
+        "name": "野迫川村地域包括支援センター",
+        "tel": "0747-37-2101",
+        "url": ""
+    },
+    {
+        "id": 4924,
+        "prefecture": "奈良県",
+        "city": "十津川村",
+        "area": "",
+        "name": "十津川村地域包括支援センター",
+        "tel": "0746-62-0901",
+        "url": ""
+    },
+    {
+        "id": 4925,
+        "prefecture": "奈良県",
+        "city": "下北山村",
+        "area": "",
+        "name": "下北山村地域包括支援センター",
+        "tel": "07468-6-9007",
+        "url": ""
+    },
+    {
+        "id": 4926,
+        "prefecture": "奈良県",
+        "city": "上北山村",
+        "area": "",
+        "name": "上北山村地域包括支援センター",
+        "tel": "07468-3-0380",
+        "url": ""
+    },
+    {
+        "id": 4927,
+        "prefecture": "奈良県",
+        "city": "川上村",
+        "area": "",
+        "name": "川上村地域包括支援センター",
+        "tel": "0746-52-0111",
+        "url": ""
+    },
+    {
+        "id": 4928,
+        "prefecture": "奈良県",
+        "city": "東吉野村",
+        "area": "",
+        "name": "東吉野村地域包括支援センター",
+        "tel": "0746-42-0441",
+        "url": ""
+    }
 ]
