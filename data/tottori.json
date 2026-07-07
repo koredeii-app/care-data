@@ -1,108 +1,380 @@
 [
     {
-        "id":  1377,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "北中学校区・中ノ郷中学校区",
-        "name":  "鳥取北地域包括支援センター",
-        "tel":  "0857-20-2205",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1377,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "北中学校区・中ノ郷中学校区",
+        "name": "鳥取北地域包括支援センター",
+        "tel": "0857-20-2205",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
     {
-        "id":  1378,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "南中学校区",
-        "name":  "鳥取南地域包括支援センター",
-        "tel":  "0857-54-1023",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1378,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "南中学校区",
+        "name": "鳥取南地域包括支援センター",
+        "tel": "0857-54-1023",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
     {
-        "id":  1379,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "桜ヶ丘中学校区",
-        "name":  "鳥取桜ヶ丘地域包括支援センター",
-        "tel":  "0857-51-1250",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1379,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "桜ヶ丘中学校区",
+        "name": "鳥取桜ヶ丘地域包括支援センター",
+        "tel": "0857-51-1250",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
     {
-        "id":  1380,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "西中学校区",
-        "name":  "鳥取西地域包括支援センター",
-        "tel":  "0857-50-0717",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1380,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "西中学校区",
+        "name": "鳥取西地域包括支援センター",
+        "tel": "0857-50-0717",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
     {
-        "id":  1381,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "東中学校区",
-        "name":  "鳥取東地域包括支援センター",
-        "tel":  "0857-30-5711",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1381,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "東中学校区",
+        "name": "鳥取東地域包括支援センター",
+        "tel": "0857-30-5711",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
     {
-        "id":  1382,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "江山学園・高草中学校区・湖南学園校区",
-        "name":  "鳥取高草地域包括支援センター",
-        "tel":  "0857-51-8112",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1382,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "江山学園・高草中学校区・湖南学園校区",
+        "name": "鳥取高草地域包括支援センター",
+        "tel": "0857-51-8112",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
     {
-        "id":  1383,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "湖東中学校区",
-        "name":  "鳥取湖東地域包括支援センター",
-        "tel":  "0857-30-0080",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1383,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "湖東中学校区",
+        "name": "鳥取湖東地域包括支援センター",
+        "tel": "0857-30-0080",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
     {
-        "id":  1384,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "国府中学校・福部未来学園校区",
-        "name":  "鳥取市東部地域包括支援センター",
-        "tel":  "0857-50-0280",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1384,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "国府中学校・福部未来学園校区",
+        "name": "鳥取市東部地域包括支援センター",
+        "tel": "0857-50-0280",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
     {
-        "id":  1385,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "河原中学校・千代南中学校区",
-        "name":  "鳥取市南部地域包括支援センター",
-        "tel":  "0858-76-2351",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1385,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "河原中学校・千代南中学校区",
+        "name": "鳥取市南部地域包括支援センター",
+        "tel": "0858-76-2351",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
     {
-        "id":  1386,
-        "prefecture":  "鳥取県",
-        "city":  "鳥取市",
-        "area":  "気高中学校・鹿野学園・青谷中学校区",
-        "name":  "鳥取市西部地域包括支援センター",
-        "tel":  "0857-30-7780",
-        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+        "id": 1386,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "気高中学校・鹿野学園・青谷中学校区",
+        "name": "鳥取市西部地域包括支援センター",
+        "tel": "0857-30-7780",
+        "url": "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
     },
-    {"id":2259,"prefecture":"鳥取県","city":"米子市","area":"啓成・車尾","name":"東山地域包括支援センター","tel":"0859-23-5471","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":2260,"prefecture":"鳥取県","city":"米子市","area":"福生東・福生西","name":"福生地域包括支援センター","tel":"0859-30-2840","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":2261,"prefecture":"鳥取県","city":"米子市","area":"福米東・福米西","name":"福米地域包括支援センター","tel":"0859-36-8001","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":2262,"prefecture":"鳥取県","city":"米子市","area":"明道・就将","name":"湊山地域包括支援センター","tel":"0859-23-6790","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":2263,"prefecture":"鳥取県","city":"米子市","area":"義方・住吉","name":"後藤ヶ丘地域包括支援センター","tel":"0859-48-1365","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":2264,"prefecture":"鳥取県","city":"米子市","area":"彦名・夜見・富益・崎津・大篠津・和田","name":"弓浜地域包括支援センター","tel":"0859-48-2330","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":2265,"prefecture":"鳥取県","city":"米子市","area":"淀江・宇田川・大和","name":"淀江地域包括支援センター","tel":"0859-56-1118","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":2266,"prefecture":"鳥取県","city":"米子市","area":"加茂・河崎","name":"加茂地域包括支援センター","tel":"0859-48-0616","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":2267,"prefecture":"鳥取県","city":"米子市","area":"五千石・尚徳・永江・成実","name":"尚徳地域包括支援センター","tel":"0859-26-6588","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":2268,"prefecture":"鳥取県","city":"米子市","area":"巌・春日・大高・県","name":"箕蚊屋地域包括支援センター","tel":"0859-27-6500","url":"https://www.city.yonago.lg.jp/5761.htm"},
-    {"id":3247,"prefecture":"鳥取県","city":"倉吉市","area":"上北条・社・高城","name":"うつぶき地域包括支援センター","tel":"0858-26-6378","url":"https://www.city.kurayoshi.lg.jp/2911.htm"},
-    {"id":3248,"prefecture":"鳥取県","city":"倉吉市","area":"上井・西郷・灘手","name":"マグノリア地域包括支援センター","tel":"0858-26-3922","url":"https://www.city.kurayoshi.lg.jp/2911.htm"},
-    {"id":3249,"prefecture":"鳥取県","city":"倉吉市","area":"上灘・成徳","name":"倉吉中央地域包括支援センター","tel":"0858-22-6102","url":"https://www.city.kurayoshi.lg.jp/2911.htm"},
-    {"id":3250,"prefecture":"鳥取県","city":"倉吉市","area":"明倫・小鴨","name":"明倫・小鴨地域包括支援センター","tel":"0858-23-7106","url":"https://www.city.kurayoshi.lg.jp/2911.htm"},
-    {"id":3251,"prefecture":"鳥取県","city":"倉吉市","area":"北谷・上小鴨・関金","name":"かもがわ地域包括支援センター","tel":"0858-45-3888","url":"https://www.city.kurayoshi.lg.jp/2911.htm"},
-    {"id":3295,"prefecture":"鳥取県","city":"境港市","area":"境港市全域","name":"境港市地域包括支援センター","tel":"0859-47-1131","url":"https://www.city.sakaiminato.lg.jp/index.php?view=109258"}
+    {
+        "id": 2259,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "啓成・車尾",
+        "name": "米子市東山地域包括支援センター",
+        "tel": "0859-23-5471",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 2260,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "福生東・福生西",
+        "name": "米子市福生地域包括支援センター",
+        "tel": "0859-30-2840",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 2261,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "福米東・福米西",
+        "name": "米子市福米地域包括支援センター",
+        "tel": "0859-36-8001",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 2262,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "明道・就将",
+        "name": "米子市湊山地域包括支援センター",
+        "tel": "0859-23-6790",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 2263,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "義方・住吉",
+        "name": "米子市後藤ヶ丘・加茂地域包括支援センター",
+        "tel": "0859-48-1365",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 2264,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "彦名・夜見・富益・崎津・大篠津・和田",
+        "name": "米子市弓浜地域包括支援センター",
+        "tel": "0859-48-2330",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 2265,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "淀江・宇田川・大和",
+        "name": "米子市淀江地域包括支援センター",
+        "tel": "0859-56-1118",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 2266,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "加茂・河崎",
+        "name": "加茂地域包括支援センター",
+        "tel": "0859-48-0616",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 2267,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "五千石・尚徳・永江・成実",
+        "name": "米子市尚徳地域包括支援センター",
+        "tel": "0859-26-6588",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 2268,
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "area": "巌・春日・大高・県",
+        "name": "米子市箕蚊屋地域包括支援センター",
+        "tel": "0859-27-6500",
+        "url": "https://www.city.yonago.lg.jp/5761.htm"
+    },
+    {
+        "id": 3247,
+        "prefecture": "鳥取県",
+        "city": "倉吉市",
+        "area": "上北条・社・高城",
+        "name": "うつぶき地域包括支援センター",
+        "tel": "0858-26-6378",
+        "url": "https://www.city.kurayoshi.lg.jp/2911.htm"
+    },
+    {
+        "id": 3248,
+        "prefecture": "鳥取県",
+        "city": "倉吉市",
+        "area": "上井・西郷・灘手",
+        "name": "マグノリア地域包括支援センター",
+        "tel": "0858-26-3922",
+        "url": "https://www.city.kurayoshi.lg.jp/2911.htm"
+    },
+    {
+        "id": 3249,
+        "prefecture": "鳥取県",
+        "city": "倉吉市",
+        "area": "上灘・成徳",
+        "name": "倉吉中央地域包括支援センター",
+        "tel": "0858-22-6102",
+        "url": "https://www.city.kurayoshi.lg.jp/2911.htm"
+    },
+    {
+        "id": 3250,
+        "prefecture": "鳥取県",
+        "city": "倉吉市",
+        "area": "明倫・小鴨",
+        "name": "明倫・小鴨地域包括支援センター",
+        "tel": "0858-23-7106",
+        "url": "https://www.city.kurayoshi.lg.jp/2911.htm"
+    },
+    {
+        "id": 3251,
+        "prefecture": "鳥取県",
+        "city": "倉吉市",
+        "area": "北谷・上小鴨・関金",
+        "name": "かもがわ地域包括支援センター",
+        "tel": "0858-45-3888",
+        "url": "https://www.city.kurayoshi.lg.jp/2911.htm"
+    },
+    {
+        "id": 3295,
+        "prefecture": "鳥取県",
+        "city": "境港市",
+        "area": "境港市全域",
+        "name": "境港市地域包括支援センター",
+        "tel": "0859-47-1131",
+        "url": "https://www.city.sakaiminato.lg.jp/index.php?view=109258"
+    },
+    {
+        "id": 4951,
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "area": "",
+        "name": "鳥取市中央包括支援センター",
+        "tel": "0857-20-3457",
+        "url": ""
+    },
+    {
+        "id": 4952,
+        "prefecture": "鳥取県",
+        "city": "岩美町",
+        "area": "",
+        "name": "岩美町地域包括支援センター",
+        "tel": "0857-72-8420",
+        "url": ""
+    },
+    {
+        "id": 4953,
+        "prefecture": "鳥取県",
+        "city": "若桜町",
+        "area": "",
+        "name": "若桜町包括支援センター",
+        "tel": "0858-82-2209",
+        "url": ""
+    },
+    {
+        "id": 4954,
+        "prefecture": "鳥取県",
+        "city": "智頭町",
+        "area": "",
+        "name": "智頭町地域包括支援センター",
+        "tel": "0858-75-6007",
+        "url": ""
+    },
+    {
+        "id": 4955,
+        "prefecture": "鳥取県",
+        "city": "八頭町",
+        "area": "",
+        "name": "八頭町地域包括支援センター",
+        "tel": "0858-72-3574",
+        "url": ""
+    },
+    {
+        "id": 4956,
+        "prefecture": "鳥取県",
+        "city": "三朝町",
+        "area": "",
+        "name": "三朝町地域包括支援センター",
+        "tel": "0858-43-3519",
+        "url": ""
+    },
+    {
+        "id": 4957,
+        "prefecture": "鳥取県",
+        "city": "湯梨浜町",
+        "area": "",
+        "name": "湯梨浜町地域包括支援センター",
+        "tel": "0858-35-5378",
+        "url": ""
+    },
+    {
+        "id": 4958,
+        "prefecture": "鳥取県",
+        "city": "琴浦町",
+        "area": "",
+        "name": "琴浦町地域包括支援センター",
+        "tel": "0858-52-1525",
+        "url": ""
+    },
+    {
+        "id": 4959,
+        "prefecture": "鳥取県",
+        "city": "北栄町",
+        "area": "",
+        "name": "北栄町地域包括支援センター",
+        "tel": "0858-37-5850",
+        "url": ""
+    },
+    {
+        "id": 4960,
+        "prefecture": "鳥取県",
+        "city": "大山町",
+        "area": "",
+        "name": "大山町地域包括支援センター",
+        "tel": "0859-54-5207",
+        "url": ""
+    },
+    {
+        "id": 4961,
+        "prefecture": "鳥取県",
+        "city": "日南町",
+        "area": "",
+        "name": "日南町地域包括支援センター",
+        "tel": "0859-82-0374",
+        "url": ""
+    },
+    {
+        "id": 4962,
+        "prefecture": "鳥取県",
+        "city": "日野町",
+        "area": "",
+        "name": "日野町地域包括支援センター",
+        "tel": "0859-72-0339",
+        "url": ""
+    },
+    {
+        "id": 4963,
+        "prefecture": "鳥取県",
+        "city": "江府町",
+        "area": "",
+        "name": "江府町地域包括支援センター",
+        "tel": "0859-75-6111",
+        "url": ""
+    },
+    {
+        "id": 4964,
+        "prefecture": "鳥取県",
+        "city": "日吉津村",
+        "area": "",
+        "name": "日吉津地域包括支援センター",
+        "tel": "0859-27-5952",
+        "url": ""
+    },
+    {
+        "id": 4965,
+        "prefecture": "鳥取県",
+        "city": "南部町",
+        "area": "",
+        "name": "南部地域包括支援センター",
+        "tel": "0859-66-5524",
+        "url": ""
+    },
+    {
+        "id": 4966,
+        "prefecture": "鳥取県",
+        "city": "伯耆町",
+        "area": "",
+        "name": "伯耆地域包括支援センター",
+        "tel": "0859-68-4632",
+        "url": ""
+    }
 ]
