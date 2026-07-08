@@ -1,637 +1,637 @@
 [
-  {
-    "id": 1387,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "大町・旭北・山王・高陽・八橋・千秋",
-    "name": "八橋地域包括支援センター社協",
-    "tel": "018-883-1465",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1388,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "旭南・川尻・川元・茨島・卸町",
-    "name": "川元地域包括支援センター社協",
-    "tel": "018-853-5968",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1389,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "泉・保戸野",
-    "name": "泉地域包括支援センターリンデンバウム",
-    "tel": "018-896-5960",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1390,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "中通・南通・楢山",
-    "name": "中通地域包括支援センター幸ザ・サロン",
-    "tel": "018-827-3323",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1391,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "千秋久保田町・手形・手形山・東通",
-    "name": "東通地域包括支援センターひだまり",
-    "tel": "018-884-1405",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1392,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "旭川・新藤田・濁川・添川・山内・仁別・太平・下北手",
-    "name": "旭川地域包括支援センター友遊",
-    "tel": "018-838-1011",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1393,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "横森・桜・桜ガ丘・桜台・大平台・広面・蛇野",
-    "name": "広面地域包括支援センター桜の園",
-    "tel": "018-853-7240",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1394,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "河辺",
-    "name": "河辺地域包括支援センター社協",
-    "tel": "018-882-5565",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1395,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "勝平・新屋（雄物川北側）",
-    "name": "勝平地域包括支援センターシンシア",
-    "tel": "018-883-3055",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1396,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "新屋（雄物川南側）・浜田・下浜・豊岩",
-    "name": "新屋地域包括支援センターエンデバー",
-    "tel": "018-888-8761",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1397,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "牛島・大住・山手台・上北手・南ケ丘",
-    "name": "牛島地域包括支援センター南寿園",
-    "tel": "018-838-0304",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1398,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "仁井田・御野場・御所野・四ツ小屋",
-    "name": "御所野地域包括支援センターけやき",
-    "tel": "018-838-6382",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1399,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "雄和",
-    "name": "雄和地域包括支援センター緑水苑",
-    "tel": "018-881-3511",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1400,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "土崎港南・将軍野南・寺内・八橋字イサノ",
-    "name": "寺内地域包括支援センター寿光園",
-    "tel": "018-853-6300",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1401,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "将軍野東・将軍野・外旭川",
-    "name": "外旭川地域包括支援センターコネクト",
-    "tel": "018-869-7755",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1402,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "土崎港東・土崎港中央・土崎港西・土崎港相染町・土崎港古川町",
-    "name": "土崎地域包括支援センター永覚町",
-    "tel": "018-846-6471",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1403,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "土崎港北・港北・飯島（JR奥羽本線東側）",
-    "name": "飯島地域包括支援センター金寿園",
-    "tel": "018-853-5820",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 1404,
-    "prefecture": "秋田県",
-    "city": "秋田市",
-    "area": "飯島（JR奥羽本線西側）・金足・上新城・下新城",
-    "name": "下新城地域包括支援センターニコニコ",
-    "tel": "018-800-7075",
-    "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
-  },
-  {
-    "id": 2940,
-    "prefecture": "秋田県",
-    "city": "横手市",
-    "area": "横手・山内地区",
-    "name": "横手市地域包括支援センター東部",
-    "tel": "0182-35-2160",
-    "url": "https://www.city.yokote.lg.jp/fukushi/1001153/1005402/index.html"
-  },
-  {
-    "id": 2941,
-    "prefecture": "秋田県",
-    "city": "横手市",
-    "area": "大森・雄物川・大雄地区",
-    "name": "横手市地域包括支援センター西部",
-    "tel": "0182-35-2135",
-    "url": "https://www.city.yokote.lg.jp/fukushi/1001153/1005402/index.html"
-  },
-  {
-    "id": 2942,
-    "prefecture": "秋田県",
-    "city": "横手市",
-    "area": "十文字・増田・平鹿地区",
-    "name": "横手市地域包括支援センター南部",
-    "tel": "0182-35-2177",
-    "url": "https://www.city.yokote.lg.jp/fukushi/1001153/1005402/index.html"
-  },
-  {
-    "id": 3178,
-    "prefecture": "秋田県",
-    "city": "大仙市",
-    "area": "大曲地域の一部・花館地区・四ツ屋地区",
-    "name": "大仙市高齢者包括支援センター中央",
-    "tel": "0187-63-1111",
-    "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
-  },
-  {
-    "id": 3179,
-    "prefecture": "秋田県",
-    "city": "大仙市",
-    "area": "中仙・仙北・太田地域",
-    "name": "大仙市高齢者包括支援センター東部",
-    "tel": "0187-56-7125",
-    "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
-  },
-  {
-    "id": 3180,
-    "prefecture": "秋田県",
-    "city": "大仙市",
-    "area": "神岡・西仙北・南外地域",
-    "name": "大仙市高齢者包括支援センター西部",
-    "tel": "0187-87-3970",
-    "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
-  },
-  {
-    "id": 3181,
-    "prefecture": "秋田県",
-    "city": "大仙市",
-    "area": "大曲地域の一部・内小友地区・大川西根地区・藤木地区・角間川地区",
-    "name": "大仙市高齢者包括支援センター南部",
-    "tel": "0187-88-8030",
-    "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
-  },
-  {
-    "id": 3182,
-    "prefecture": "秋田県",
-    "city": "大仙市",
-    "area": "協和地域全域",
-    "name": "大仙市高齢者包括支援センター協和",
-    "tel": "018-892-3838",
-    "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
-  },
-  {
-    "id": 3183,
-    "prefecture": "秋田県",
-    "city": "由利本荘市",
-    "area": "由利本荘市全域",
-    "name": "由利本荘市地域包括支援センター",
-    "tel": "0184-24-6345",
-    "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
-  },
-  {
-    "id": 3184,
-    "prefecture": "秋田県",
-    "city": "由利本荘市",
-    "area": "本荘中央・本荘東部・本荘西部・石脇・松ヶ崎・西目",
-    "name": "由利本荘市中央地域包括支援センター",
-    "tel": "0184-74-6629",
-    "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
-  },
-  {
-    "id": 3185,
-    "prefecture": "秋田県",
-    "city": "由利本荘市",
-    "area": "子吉・小友・石沢・南内越・北内越・東由利",
-    "name": "由利本荘市東部地域包括支援センター",
-    "tel": "0184-74-7670",
-    "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
-  },
-  {
-    "id": 3186,
-    "prefecture": "秋田県",
-    "city": "由利本荘市",
-    "area": "岩城・大内",
-    "name": "由利本荘市北部地域包括支援センター",
-    "tel": "0184-74-6888",
-    "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
-  },
-  {
-    "id": 3187,
-    "prefecture": "秋田県",
-    "city": "由利本荘市",
-    "area": "矢島・由利・鳥海",
-    "name": "由利本荘市南部地域包括支援センター",
-    "tel": "0184-44-8841",
-    "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
-  },
-  {
-    "id": 3188,
-    "prefecture": "秋田県",
-    "city": "大館市",
-    "area": "大館地区（一中学区）・下川沿地区",
-    "name": "大館市地域包括支援センターかつら",
-    "tel": "0186-49-2587",
-    "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
-  },
-  {
-    "id": 3189,
-    "prefecture": "秋田県",
-    "city": "大館市",
-    "area": "大館地区（東中学区）・長木地区",
-    "name": "大館市地域包括支援センター水交苑",
-    "tel": "0186-45-2333",
-    "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
-  },
-  {
-    "id": 3190,
-    "prefecture": "秋田県",
-    "city": "大館市",
-    "area": "釈迦内地区・花岡地区・矢立地区",
-    "name": "大館市地域包括支援センター神山荘",
-    "tel": "0186-57-8601",
-    "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
-  },
-  {
-    "id": 3191,
-    "prefecture": "秋田県",
-    "city": "大館市",
-    "area": "上川沿地区・十二所地区",
-    "name": "大館市地域包括支援センターおおたき",
-    "tel": "0186-47-7211",
-    "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
-  },
-  {
-    "id": 3192,
-    "prefecture": "秋田県",
-    "city": "大館市",
-    "area": "真中地区・二井田地区",
-    "name": "大館市地域包括支援センター大館南",
-    "tel": "0186-59-6182",
-    "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
-  },
-  {
-    "id": 3193,
-    "prefecture": "秋田県",
-    "city": "大館市",
-    "area": "比内地域",
-    "name": "大館市地域包括支援センターひない",
-    "tel": "0186-55-0665",
-    "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
-  },
-  {
-    "id": 3194,
-    "prefecture": "秋田県",
-    "city": "大館市",
-    "area": "田代地域",
-    "name": "大館市地域包括支援センター長慶荘",
-    "tel": "0186-54-2901",
-    "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
-  },
-  {
-    "id": 3195,
-    "prefecture": "秋田県",
-    "city": "能代市",
-    "area": "上町・万町・日吉町など市中心部及び能代町の大部分",
-    "name": "能代市本庁地域包括支援センター",
-    "tel": "0185-74-7156",
-    "url": "https://www.city.noshiro.lg.jp/kurashi/fukushi/korei/chiiki-hokatsu-center/13955"
-  },
-  {
-    "id": 3196,
-    "prefecture": "秋田県",
-    "city": "能代市",
-    "area": "向能代・落合・須田・竹生・磐・比八田ほか",
-    "name": "能代市北地域包括支援センター",
-    "tel": "0185-74-7730",
-    "url": "https://www.city.noshiro.lg.jp/kurashi/fukushi/korei/chiiki-hokatsu-center/13955"
-  },
-  {
-    "id": 3197,
-    "prefecture": "秋田県",
-    "city": "能代市",
-    "area": "鳳凰岱・昇平岱・扇田・檜山・鶴形ほか",
-    "name": "能代市南地域包括支援センター",
-    "tel": "0185-74-6700",
-    "url": "https://www.city.noshiro.lg.jp/kurashi/fukushi/korei/chiiki-hokatsu-center/13955"
-  },
-  {
-    "id": 3198,
-    "prefecture": "秋田県",
-    "city": "能代市",
-    "area": "二ツ井所管区域全域",
-    "name": "能代市二ツ井地域包括支援センター",
-    "tel": "0185-73-6662",
-    "url": "https://www.city.noshiro.lg.jp/kurashi/fukushi/korei/chiiki-hokatsu-center/13955"
-  },
-  {
-    "id": 3199,
-    "prefecture": "秋田県",
-    "city": "湯沢市",
-    "area": "雄勝地域",
-    "name": "湯沢市地域包括支援センター",
-    "tel": "0183-78-2311",
-    "url": "https://www.city-yuzawa.jp/soshiki/35/308.html"
-  },
-  {
-    "id": 3200,
-    "prefecture": "秋田県",
-    "city": "湯沢市",
-    "area": "稲川地域・皆瀬地域",
-    "name": "湯沢市稲川・皆瀬地域包括支援センター",
-    "tel": "0183-56-6580",
-    "url": "https://www.city-yuzawa.jp/soshiki/35/308.html"
-  },
-  {
-    "id": 3201,
-    "prefecture": "秋田県",
-    "city": "湯沢市",
-    "area": "湯沢地域",
-    "name": "湯沢市湯沢地域包括支援センターコスモス",
-    "tel": "0183-58-6100",
-    "url": "https://www.yushakyo.or.jp/cosmos/"
-  },
-  {
-    "id": 4102,
-    "prefecture": "秋田県",
-    "city": "男鹿市",
-    "area": "",
-    "name": "男鹿市地域包括支援センター",
-    "tel": "0185-24-3322",
-    "url": "",
-    "address": "男鹿市船川港船川字泉台66-1"
-  },
-  {
-    "id": 4103,
-    "prefecture": "秋田県",
-    "city": "鹿角市",
-    "area": "",
-    "name": "鹿角市八幡平地域包括支援センター",
-    "tel": "0186-22-4012",
-    "url": "",
-    "address": "鹿角市八幡平字小山50"
-  },
-  {
-    "id": 4104,
-    "prefecture": "秋田県",
-    "city": "鹿角市",
-    "area": "",
-    "name": "鹿角市十和田地域包括支援センター",
-    "tel": "0186-25-8264",
-    "url": "",
-    "address": "鹿角市十和田毛馬内字毛馬内62-1"
-  },
-  {
-    "id": 4105,
-    "prefecture": "秋田県",
-    "city": "鹿角市",
-    "area": "",
-    "name": "鹿角市大湯地域包括支援センター",
-    "tel": "0186-37-2088",
-    "url": "",
-    "address": "鹿角市十和田大湯字桂ノ沢1-3"
-  },
-  {
-    "id": 4106,
-    "prefecture": "秋田県",
-    "city": "鹿角市",
-    "area": "",
-    "name": "鹿角市花輪・尾去沢地域包括支援センター",
-    "tel": "0186-22-0502",
-    "url": "",
-    "address": "[object Object]"
-  },
-  {
-    "id": 4107,
-    "prefecture": "秋田県",
-    "city": "潟上市",
-    "area": "",
-    "name": "潟上市地域包括支援センター",
-    "tel": "018-853-5318",
-    "url": "",
-    "address": "潟上市天王字棒沼台226-1"
-  },
-  {
-    "id": 4108,
-    "prefecture": "秋田県",
-    "city": "北秋田市",
-    "area": "",
-    "name": "北秋田市北部地域包括支援センター",
-    "tel": "0186-67-8020",
-    "url": "",
-    "address": "北秋田市花園町16-1"
-  },
-  {
-    "id": 4109,
-    "prefecture": "秋田県",
-    "city": "北秋田市",
-    "area": "",
-    "name": "北秋田市中部地域包括支援センター",
-    "tel": "0186-67-6807",
-    "url": "",
-    "address": "北秋田市新田目字大野5番地1"
-  },
-  {
-    "id": 4110,
-    "prefecture": "秋田県",
-    "city": "北秋田市",
-    "area": "",
-    "name": "北秋田市南部地域包括支援センター",
-    "tel": "0186-82-3262",
-    "url": "",
-    "address": "北秋田市阿仁銀山字下新町41-1"
-  },
-  {
-    "id": 4111,
-    "prefecture": "秋田県",
-    "city": "にかほ市",
-    "area": "",
-    "name": "にかほ市地域包括支援センター",
-    "tel": "0184-32-3045",
-    "url": "",
-    "address": "にかほ市平沢字鳥ノ子渕21"
-  },
-  {
-    "id": 4112,
-    "prefecture": "秋田県",
-    "city": "仙北市",
-    "area": "",
-    "name": "仙北市包括支援センター",
-    "tel": "0187-43-2283",
-    "url": "",
-    "address": "仙北市角館町中菅沢81番地8"
-  },
-  {
-    "id": 4113,
-    "prefecture": "秋田県",
-    "city": "小坂町",
-    "area": "",
-    "name": "小坂町地域包括支援センター",
-    "tel": "0186-29-2950",
-    "url": "",
-    "address": "小坂町小坂字上谷地41-1"
-  },
-  {
-    "id": 4114,
-    "prefecture": "秋田県",
-    "city": "上小阿仁村",
-    "area": "",
-    "name": "上小阿仁村地域包括支援センター",
-    "tel": "0186-77-3008",
-    "url": "",
-    "address": "[object Object]"
-  },
-  {
-    "id": 4115,
-    "prefecture": "秋田県",
-    "city": "藤里町",
-    "area": "",
-    "name": "藤里町地域包括支援センター",
-    "tel": "0185-79-2848",
-    "url": "",
-    "address": "藤里町藤琴字三ツ谷脇40"
-  },
-  {
-    "id": 4116,
-    "prefecture": "秋田県",
-    "city": "三種町",
-    "area": "",
-    "name": "三種町地域包括支援センター",
-    "tel": "0185-85-4835",
-    "url": "",
-    "address": "三種町鵜川字岩谷子8"
-  },
-  {
-    "id": 4117,
-    "prefecture": "秋田県",
-    "city": "八峰町",
-    "area": "",
-    "name": "八峰町地域包括支援センター",
-    "tel": "0185-77-3200",
-    "url": "",
-    "address": "八峰町八森字椿台112番地"
-  },
-  {
-    "id": 4118,
-    "prefecture": "秋田県",
-    "city": "五城目町",
-    "area": "",
-    "name": "五城目町地域包括支援センター",
-    "tel": "018-855-1070",
-    "url": "",
-    "address": "五城目町西磯ノ目一丁目1-1"
-  },
-  {
-    "id": 4119,
-    "prefecture": "秋田県",
-    "city": "八郎潟町",
-    "area": "",
-    "name": "八郎潟町地域包括支援センター",
-    "tel": "018-875-2835",
-    "url": "",
-    "address": "[object Object]"
-  },
-  {
-    "id": 4120,
-    "prefecture": "秋田県",
-    "city": "井川町",
-    "area": "",
-    "name": "井川町地域包括支援センター",
-    "tel": "018-893-5230",
-    "url": "",
-    "address": "井川町北川尻字海老沢樋ノ口106-1"
-  },
-  {
-    "id": 4121,
-    "prefecture": "秋田県",
-    "city": "大潟村",
-    "area": "",
-    "name": "大潟村地域包括支援センター",
-    "tel": "0185-22-4321",
-    "url": "",
-    "address": "大潟村字西3丁目3番地"
-  },
-  {
-    "id": 4122,
-    "prefecture": "秋田県",
-    "city": "美郷町",
-    "area": "",
-    "name": "美郷町地域包括支援センター",
-    "tel": "0187-84-4907",
-    "url": "",
-    "address": "美郷町土崎字上野乙170-10"
-  },
-  {
-    "id": 4123,
-    "prefecture": "秋田県",
-    "city": "羽後町",
-    "area": "",
-    "name": "羽後町地域包括支援センター",
-    "tel": "0183-62-2111",
-    "url": "",
-    "address": "羽後町西馬音内字中野177"
-  },
-  {
-    "id": 4124,
-    "prefecture": "秋田県",
-    "city": "東成瀬村",
-    "area": "",
-    "name": "東成瀬村地域包括支援センター",
-    "tel": "0182-47-3410",
-    "url": "",
-    "address": "東成瀬村田子内字仙人下30-1"
-  }
+    {
+        "id": 1387,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "大町・旭北・山王・高陽・八橋・千秋",
+        "name": "八橋地域包括支援センター社協",
+        "tel": "018-883-1465",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1388,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "旭南・川尻・川元・茨島・卸町",
+        "name": "川元地域包括支援センター社協",
+        "tel": "018-853-5968",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1389,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "泉・保戸野",
+        "name": "泉地域包括支援センターリンデンバウム",
+        "tel": "018-896-5960",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1390,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "中通・南通・楢山",
+        "name": "中通地域包括支援センター幸ザ・サロン",
+        "tel": "018-827-3323",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1391,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "千秋久保田町・手形・手形山・東通",
+        "name": "東通地域包括支援センターひだまり",
+        "tel": "018-884-1405",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1392,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "旭川・新藤田・濁川・添川・山内・仁別・太平・下北手",
+        "name": "旭川地域包括支援センター友遊",
+        "tel": "018-838-1011",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1393,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "横森・桜・桜ガ丘・桜台・大平台・広面・蛇野",
+        "name": "広面地域包括支援センター桜の園",
+        "tel": "018-853-7240",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1394,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "河辺",
+        "name": "河辺地域包括支援センター社協",
+        "tel": "018-882-5565",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1395,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "勝平・新屋（雄物川北側）",
+        "name": "勝平地域包括支援センターシンシア",
+        "tel": "018-883-3055",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1396,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "新屋（雄物川南側）・浜田・下浜・豊岩",
+        "name": "新屋地域包括支援センターエンデバー",
+        "tel": "018-888-8761",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1397,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "牛島・大住・山手台・上北手・南ケ丘",
+        "name": "牛島地域包括支援センター南寿園",
+        "tel": "018-838-0304",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1398,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "仁井田・御野場・御所野・四ツ小屋",
+        "name": "御所野地域包括支援センターけやき",
+        "tel": "018-838-6382",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1399,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "雄和",
+        "name": "雄和地域包括支援センター緑水苑",
+        "tel": "018-881-3511",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1400,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "土崎港南・将軍野南・寺内・八橋字イサノ",
+        "name": "寺内地域包括支援センター寿光園",
+        "tel": "018-853-6300",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1401,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "将軍野東・将軍野・外旭川",
+        "name": "外旭川地域包括支援センターコネクト",
+        "tel": "018-869-7755",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1402,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "土崎港東・土崎港中央・土崎港西・土崎港相染町・土崎港古川町",
+        "name": "土崎地域包括支援センター永覚町",
+        "tel": "018-846-6471",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1403,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "土崎港北・港北・飯島（JR奥羽本線東側）",
+        "name": "飯島地域包括支援センター金寿園",
+        "tel": "018-853-5820",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 1404,
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "area": "飯島（JR奥羽本線西側）・金足・上新城・下新城",
+        "name": "下新城地域包括支援センターニコニコ",
+        "tel": "018-800-7075",
+        "url": "https://www.city.akita.lg.jp/kurashi/koreishafukushi/1006009/1004861.html"
+    },
+    {
+        "id": 2940,
+        "prefecture": "秋田県",
+        "city": "横手市",
+        "area": "横手・山内地区",
+        "name": "横手市地域包括支援センター東部",
+        "tel": "0182-35-2160",
+        "url": "https://www.city.yokote.lg.jp/fukushi/1001153/1005402/index.html"
+    },
+    {
+        "id": 2941,
+        "prefecture": "秋田県",
+        "city": "横手市",
+        "area": "大森・雄物川・大雄地区",
+        "name": "横手市地域包括支援センター西部",
+        "tel": "0182-35-2135",
+        "url": "https://www.city.yokote.lg.jp/fukushi/1001153/1005402/index.html"
+    },
+    {
+        "id": 2942,
+        "prefecture": "秋田県",
+        "city": "横手市",
+        "area": "十文字・増田・平鹿地区",
+        "name": "横手市地域包括支援センター南部",
+        "tel": "0182-35-2177",
+        "url": "https://www.city.yokote.lg.jp/fukushi/1001153/1005402/index.html"
+    },
+    {
+        "id": 3178,
+        "prefecture": "秋田県",
+        "city": "大仙市",
+        "area": "大曲地域の一部・花館地区・四ツ屋地区",
+        "name": "大仙市高齢者包括支援センター中央",
+        "tel": "0187-63-1111",
+        "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
+    },
+    {
+        "id": 3179,
+        "prefecture": "秋田県",
+        "city": "大仙市",
+        "area": "中仙・仙北・太田地域",
+        "name": "大仙市高齢者包括支援センター東部",
+        "tel": "0187-56-7125",
+        "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
+    },
+    {
+        "id": 3180,
+        "prefecture": "秋田県",
+        "city": "大仙市",
+        "area": "神岡・西仙北・南外地域",
+        "name": "大仙市高齢者包括支援センター西部",
+        "tel": "0187-87-3970",
+        "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
+    },
+    {
+        "id": 3181,
+        "prefecture": "秋田県",
+        "city": "大仙市",
+        "area": "大曲地域の一部・内小友地区・大川西根地区・藤木地区・角間川地区",
+        "name": "大仙市高齢者包括支援センター南部",
+        "tel": "0187-88-8030",
+        "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
+    },
+    {
+        "id": 3182,
+        "prefecture": "秋田県",
+        "city": "大仙市",
+        "area": "協和地域全域",
+        "name": "大仙市高齢者包括支援センター協和",
+        "tel": "018-892-3838",
+        "url": "https://www.city.daisen.lg.jp/docs/2013100900048/"
+    },
+    {
+        "id": 3183,
+        "prefecture": "秋田県",
+        "city": "由利本荘市",
+        "area": "由利本荘市全域",
+        "name": "由利本荘市地域包括支援センター",
+        "tel": "0184-24-6345",
+        "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
+    },
+    {
+        "id": 3184,
+        "prefecture": "秋田県",
+        "city": "由利本荘市",
+        "area": "本荘中央・本荘東部・本荘西部・石脇・松ヶ崎・西目",
+        "name": "由利本荘市中央地域包括支援センター",
+        "tel": "0184-74-6629",
+        "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
+    },
+    {
+        "id": 3185,
+        "prefecture": "秋田県",
+        "city": "由利本荘市",
+        "area": "子吉・小友・石沢・南内越・北内越・東由利",
+        "name": "由利本荘市東部地域包括支援センター",
+        "tel": "0184-74-7670",
+        "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
+    },
+    {
+        "id": 3186,
+        "prefecture": "秋田県",
+        "city": "由利本荘市",
+        "area": "岩城・大内",
+        "name": "由利本荘市北部地域包括支援センター",
+        "tel": "0184-74-6888",
+        "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
+    },
+    {
+        "id": 3187,
+        "prefecture": "秋田県",
+        "city": "由利本荘市",
+        "area": "矢島・由利・鳥海",
+        "name": "由利本荘市南部地域包括支援センター",
+        "tel": "0184-44-8841",
+        "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002005/1009713/1009715.html"
+    },
+    {
+        "id": 3188,
+        "prefecture": "秋田県",
+        "city": "大館市",
+        "area": "大館地区（一中学区）・下川沿地区",
+        "name": "大館市地域包括支援センターかつら",
+        "tel": "0186-49-2587",
+        "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
+    },
+    {
+        "id": 3189,
+        "prefecture": "秋田県",
+        "city": "大館市",
+        "area": "大館地区（東中学区）・長木地区",
+        "name": "大館市地域包括支援センター水交苑",
+        "tel": "0186-45-2333",
+        "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
+    },
+    {
+        "id": 3190,
+        "prefecture": "秋田県",
+        "city": "大館市",
+        "area": "釈迦内地区・花岡地区・矢立地区",
+        "name": "大館市地域包括支援センター神山荘",
+        "tel": "0186-57-8601",
+        "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
+    },
+    {
+        "id": 3191,
+        "prefecture": "秋田県",
+        "city": "大館市",
+        "area": "上川沿地区・十二所地区",
+        "name": "大館市地域包括支援センターおおたき",
+        "tel": "0186-47-7211",
+        "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
+    },
+    {
+        "id": 3192,
+        "prefecture": "秋田県",
+        "city": "大館市",
+        "area": "真中地区・二井田地区",
+        "name": "大館市地域包括支援センター大館南",
+        "tel": "0186-59-6182",
+        "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
+    },
+    {
+        "id": 3193,
+        "prefecture": "秋田県",
+        "city": "大館市",
+        "area": "比内地域",
+        "name": "大館市地域包括支援センターひない",
+        "tel": "0186-55-0665",
+        "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
+    },
+    {
+        "id": 3194,
+        "prefecture": "秋田県",
+        "city": "大館市",
+        "area": "田代地域",
+        "name": "大館市地域包括支援センター長慶荘",
+        "tel": "0186-54-2901",
+        "url": "https://www.city.odate.lg.jp/city/handbook/handbook4/p11016/p89"
+    },
+    {
+        "id": 3195,
+        "prefecture": "秋田県",
+        "city": "能代市",
+        "area": "上町・万町・日吉町など市中心部及び能代町の大部分",
+        "name": "能代市本庁地域包括支援センター",
+        "tel": "0185-74-7156",
+        "url": "https://www.city.noshiro.lg.jp/kurashi/fukushi/korei/chiiki-hokatsu-center/13955"
+    },
+    {
+        "id": 3196,
+        "prefecture": "秋田県",
+        "city": "能代市",
+        "area": "向能代・落合・須田・竹生・磐・比八田ほか",
+        "name": "能代市北地域包括支援センター",
+        "tel": "0185-74-7730",
+        "url": "https://www.city.noshiro.lg.jp/kurashi/fukushi/korei/chiiki-hokatsu-center/13955"
+    },
+    {
+        "id": 3197,
+        "prefecture": "秋田県",
+        "city": "能代市",
+        "area": "鳳凰岱・昇平岱・扇田・檜山・鶴形ほか",
+        "name": "能代市南地域包括支援センター",
+        "tel": "0185-74-6700",
+        "url": "https://www.city.noshiro.lg.jp/kurashi/fukushi/korei/chiiki-hokatsu-center/13955"
+    },
+    {
+        "id": 3198,
+        "prefecture": "秋田県",
+        "city": "能代市",
+        "area": "二ツ井所管区域全域",
+        "name": "能代市二ツ井地域包括支援センター",
+        "tel": "0185-73-6662",
+        "url": "https://www.city.noshiro.lg.jp/kurashi/fukushi/korei/chiiki-hokatsu-center/13955"
+    },
+    {
+        "id": 3199,
+        "prefecture": "秋田県",
+        "city": "湯沢市",
+        "area": "雄勝地域",
+        "name": "湯沢市地域包括支援センター",
+        "tel": "0183-78-2311",
+        "url": "https://www.city-yuzawa.jp/soshiki/35/308.html"
+    },
+    {
+        "id": 3200,
+        "prefecture": "秋田県",
+        "city": "湯沢市",
+        "area": "稲川地域・皆瀬地域",
+        "name": "湯沢市稲川・皆瀬地域包括支援センター",
+        "tel": "0183-56-6580",
+        "url": "https://www.city-yuzawa.jp/soshiki/35/308.html"
+    },
+    {
+        "id": 3201,
+        "prefecture": "秋田県",
+        "city": "湯沢市",
+        "area": "湯沢地域",
+        "name": "湯沢市湯沢地域包括支援センターコスモス",
+        "tel": "0183-58-6100",
+        "url": "https://www.yushakyo.or.jp/cosmos/"
+    },
+    {
+        "id": 4102,
+        "prefecture": "秋田県",
+        "city": "男鹿市",
+        "area": "男鹿市全域",
+        "name": "男鹿市地域包括支援センター",
+        "tel": "0185-24-3322",
+        "url": "",
+        "address": "男鹿市船川港船川字泉台66-1"
+    },
+    {
+        "id": 4103,
+        "prefecture": "秋田県",
+        "city": "鹿角市",
+        "area": "八幡平地区",
+        "name": "鹿角市八幡平地域包括支援センター",
+        "tel": "0186-22-4012",
+        "url": "",
+        "address": "鹿角市八幡平字小山50"
+    },
+    {
+        "id": 4104,
+        "prefecture": "秋田県",
+        "city": "鹿角市",
+        "area": "十和田地区",
+        "name": "鹿角市十和田地域包括支援センター",
+        "tel": "0186-25-8264",
+        "url": "",
+        "address": "鹿角市十和田毛馬内字毛馬内62-1"
+    },
+    {
+        "id": 4105,
+        "prefecture": "秋田県",
+        "city": "鹿角市",
+        "area": "大湯・草木地区",
+        "name": "鹿角市大湯地域包括支援センター",
+        "tel": "0186-37-2088",
+        "url": "",
+        "address": "鹿角市十和田大湯字桂ノ沢1-3"
+    },
+    {
+        "id": 4106,
+        "prefecture": "秋田県",
+        "city": "鹿角市",
+        "area": "花輪・尾去沢地区",
+        "name": "鹿角市花輪・尾去沢地域包括支援センター",
+        "tel": "0186-22-0502",
+        "url": "",
+        "address": "[object Object]"
+    },
+    {
+        "id": 4107,
+        "prefecture": "秋田県",
+        "city": "潟上市",
+        "area": "潟上市全域",
+        "name": "潟上市地域包括支援センター",
+        "tel": "018-853-5318",
+        "url": "",
+        "address": "潟上市天王字棒沼台226-1"
+    },
+    {
+        "id": 4108,
+        "prefecture": "秋田県",
+        "city": "北秋田市",
+        "area": "鷹巣地区（旧鷹巣町）",
+        "name": "北秋田市北部地域包括支援センター",
+        "tel": "0186-67-8020",
+        "url": "",
+        "address": "北秋田市花園町16-1"
+    },
+    {
+        "id": 4109,
+        "prefecture": "秋田県",
+        "city": "北秋田市",
+        "area": "合川地区・森吉地区一部（旧合川町・旧森吉町）",
+        "name": "北秋田市中部地域包括支援センター",
+        "tel": "0186-67-6807",
+        "url": "",
+        "address": "北秋田市新田目字大野5番地1"
+    },
+    {
+        "id": 4110,
+        "prefecture": "秋田県",
+        "city": "北秋田市",
+        "area": "阿仁地区・森吉地区一部（旧阿仁町・旧森吉町）",
+        "name": "北秋田市南部地域包括支援センター",
+        "tel": "0186-82-3262",
+        "url": "",
+        "address": "北秋田市阿仁銀山字下新町41-1"
+    },
+    {
+        "id": 4111,
+        "prefecture": "秋田県",
+        "city": "にかほ市",
+        "area": "にかほ市全域",
+        "name": "にかほ市地域包括支援センター",
+        "tel": "0184-32-3045",
+        "url": "",
+        "address": "にかほ市平沢字鳥ノ子渕21"
+    },
+    {
+        "id": 4112,
+        "prefecture": "秋田県",
+        "city": "仙北市",
+        "area": "仙北市全域",
+        "name": "仙北市包括支援センター",
+        "tel": "0187-43-2283",
+        "url": "",
+        "address": "仙北市角館町中菅沢81番地8"
+    },
+    {
+        "id": 4113,
+        "prefecture": "秋田県",
+        "city": "小坂町",
+        "area": "小坂町全域",
+        "name": "小坂町地域包括支援センター",
+        "tel": "0186-29-2950",
+        "url": "",
+        "address": "小坂町小坂字上谷地41-1"
+    },
+    {
+        "id": 4114,
+        "prefecture": "秋田県",
+        "city": "上小阿仁村",
+        "area": "上小阿仁村全域",
+        "name": "上小阿仁村地域包括支援センター",
+        "tel": "0186-77-3008",
+        "url": "",
+        "address": "[object Object]"
+    },
+    {
+        "id": 4115,
+        "prefecture": "秋田県",
+        "city": "藤里町",
+        "area": "藤里町全域",
+        "name": "藤里町地域包括支援センター",
+        "tel": "0185-79-2848",
+        "url": "",
+        "address": "藤里町藤琴字三ツ谷脇40"
+    },
+    {
+        "id": 4116,
+        "prefecture": "秋田県",
+        "city": "三種町",
+        "area": "三種町全域",
+        "name": "三種町地域包括支援センター",
+        "tel": "0185-85-4835",
+        "url": "",
+        "address": "三種町鵜川字岩谷子8"
+    },
+    {
+        "id": 4117,
+        "prefecture": "秋田県",
+        "city": "八峰町",
+        "area": "八峰町全域",
+        "name": "八峰町地域包括支援センター",
+        "tel": "0185-77-3200",
+        "url": "",
+        "address": "八峰町八森字椿台112番地"
+    },
+    {
+        "id": 4118,
+        "prefecture": "秋田県",
+        "city": "五城目町",
+        "area": "五城目町全域",
+        "name": "五城目町地域包括支援センター",
+        "tel": "018-855-1070",
+        "url": "",
+        "address": "五城目町西磯ノ目一丁目1-1"
+    },
+    {
+        "id": 4119,
+        "prefecture": "秋田県",
+        "city": "八郎潟町",
+        "area": "八郎潟町全域",
+        "name": "八郎潟町地域包括支援センター",
+        "tel": "018-875-2835",
+        "url": "",
+        "address": "[object Object]"
+    },
+    {
+        "id": 4120,
+        "prefecture": "秋田県",
+        "city": "井川町",
+        "area": "井川町全域",
+        "name": "井川町地域包括支援センター",
+        "tel": "018-893-5230",
+        "url": "",
+        "address": "井川町北川尻字海老沢樋ノ口106-1"
+    },
+    {
+        "id": 4121,
+        "prefecture": "秋田県",
+        "city": "大潟村",
+        "area": "大潟村全域",
+        "name": "大潟村地域包括支援センター",
+        "tel": "0185-22-4321",
+        "url": "",
+        "address": "大潟村字西3丁目3番地"
+    },
+    {
+        "id": 4122,
+        "prefecture": "秋田県",
+        "city": "美郷町",
+        "area": "美郷町全域",
+        "name": "美郷町地域包括支援センター",
+        "tel": "0187-84-4907",
+        "url": "",
+        "address": "美郷町土崎字上野乙170-10"
+    },
+    {
+        "id": 4123,
+        "prefecture": "秋田県",
+        "city": "羽後町",
+        "area": "羽後町全域",
+        "name": "羽後町地域包括支援センター",
+        "tel": "0183-62-2111",
+        "url": "",
+        "address": "羽後町西馬音内字中野177"
+    },
+    {
+        "id": 4124,
+        "prefecture": "秋田県",
+        "city": "東成瀬村",
+        "area": "東成瀬村全域",
+        "name": "東成瀬村地域包括支援センター",
+        "tel": "0182-47-3410",
+        "url": "",
+        "address": "東成瀬村田子内字仙人下30-1"
+    }
 ]
