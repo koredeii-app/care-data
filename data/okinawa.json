@@ -372,7 +372,7 @@
         "id": 3353,
         "prefecture": "沖縄県",
         "city": "渡嘉敷村",
-        "area": "",
+        "area": "渡嘉敷村全域",
         "name": "渡嘉敷村地域包括支援センター",
         "tel": "098-896-4720",
         "url": ""
@@ -381,7 +381,7 @@
         "id": 3354,
         "prefecture": "沖縄県",
         "city": "与那原町",
-        "area": "",
+        "area": "与那原町全域",
         "name": "与那原町役場",
         "tel": "098-945-1525",
         "url": "https://www.town.yonabaru.okinawa.jp/soshiki/10/103.html"
@@ -390,7 +390,7 @@
         "id": 3355,
         "prefecture": "沖縄県",
         "city": "南大東村",
-        "area": "",
+        "area": "南大東村全域",
         "name": "南大東村地域包括支援センター",
         "tel": "09802-2-2036",
         "url": ""
@@ -399,7 +399,7 @@
         "id": 3356,
         "prefecture": "沖縄県",
         "city": "竹富町",
-        "area": "",
+        "area": "竹富町全域",
         "name": "竹富町地域包括支援センター",
         "tel": "0980-83-7415",
         "url": "https://www.town.taketomi.lg.jp/guide/kenkou_fukushi/kaigo_fukushi/1715313977/"
@@ -408,7 +408,7 @@
         "id": 3357,
         "prefecture": "沖縄県",
         "city": "本部町",
-        "area": "",
+        "area": "本部町全域",
         "name": "本部町地域包括支援センター",
         "tel": "0980-43-0565",
         "url": "https://www.town.motobu.okinawa.jp/doc/2023111400024/"
@@ -417,7 +417,7 @@
         "id": 3358,
         "prefecture": "沖縄県",
         "city": "粟国村",
-        "area": "",
+        "area": "粟国村全域",
         "name": "粟国村地域包括支援センター",
         "tel": "098-988-2017",
         "url": ""
@@ -426,7 +426,7 @@
         "id": 3359,
         "prefecture": "沖縄県",
         "city": "伊是名村",
-        "area": "",
+        "area": "伊是名村全域",
         "name": "伊是名村地域包括支援センター",
         "tel": "0980-45-2336",
         "url": "https://vill.izena.okinawa.jp/lifeevent/fukushi/1539842866/1558931655/"
@@ -435,7 +435,7 @@
         "id": 3360,
         "prefecture": "沖縄県",
         "city": "多良間村",
-        "area": "",
+        "area": "多良間村全域",
         "name": "多良間村地域包括支援センター",
         "tel": "0980-79-2623",
         "url": ""
@@ -444,7 +444,7 @@
         "id": 3361,
         "prefecture": "沖縄県",
         "city": "南風原町",
-        "area": "",
+        "area": "南風原町全域",
         "name": "南風原町地域包括支援センター",
         "tel": "098-889-3534",
         "url": "https://www.town.haebaru.lg.jp/soshiki/10/"
@@ -453,7 +453,7 @@
         "id": 3362,
         "prefecture": "沖縄県",
         "city": "恩納村",
-        "area": "",
+        "area": "恩納村全域",
         "name": "恩納村地域包括支援センター",
         "tel": "098-966-1207",
         "url": "https://www.vill.onna.okinawa.jp/sp/living/nursing/1730770338/"
@@ -462,7 +462,7 @@
         "id": 3363,
         "prefecture": "沖縄県",
         "city": "宮古島市",
-        "area": "",
+        "area": "平良地区",
         "name": "宮古島市地域包括支援センターひらら",
         "tel": "0980-75-0656",
         "url": "https://www.city.miyakojima.lg.jp/kurashi/kenkou/kaigo/chiiki.html"
@@ -471,7 +471,7 @@
         "id": 3364,
         "prefecture": "沖縄県",
         "city": "宮古島市",
-        "area": "",
+        "area": "下地・上野・城辺・伊良部地区",
         "name": "宮古島市地域包括支援センターみやこ",
         "tel": "0980-79-0811",
         "url": "https://www.city.miyakojima.lg.jp/kurashi/kenkou/kaigo/chiiki.html"
@@ -489,7 +489,7 @@
         "id": 3366,
         "prefecture": "沖縄県",
         "city": "北谷町",
-        "area": "",
+        "area": "北谷町全域",
         "name": "北谷町地域包括支援センター",
         "tel": "098-936-1234",
         "url": ""
@@ -498,7 +498,7 @@
         "id": 3367,
         "prefecture": "沖縄県",
         "city": "北中城村",
-        "area": "",
+        "area": "北中城村全域",
         "name": "北中城村地域包括支援センター",
         "tel": "098-935-5922",
         "url": "https://www.vill.kitanakagusuku.lg.jp/kakuka/fukushi/kourei/1257.html"
@@ -507,7 +507,7 @@
         "id": 3368,
         "prefecture": "沖縄県",
         "city": "豊見城市",
-        "area": "",
+        "area": "西部地区（伊良波・上田・翁長・我那覇・宜保・座安・瀬長・田頭・渡橋名・豊見城・豊崎・名嘉地・与根）",
         "name": "豊見城市地域包括支援センター友愛",
         "tel": "098-850-1324",
         "url": "https://www.city.tomigusuku.lg.jp/soshiki/3/1016/gyomuannai/4/1321.html"
@@ -516,7 +516,7 @@
         "id": 3369,
         "prefecture": "沖縄県",
         "city": "豊見城市",
-        "area": "",
+        "area": "東部地区（嘉数・金良・平良・高安・高嶺・渡嘉敷・長堂・根差部・饒波・保栄茂・真玉橋）",
         "name": "豊見城市地域包括支援センターとよみの杜",
         "tel": "098-851-2951",
         "url": "https://www.city.tomigusuku.lg.jp/soshiki/3/1016/gyomuannai/4/1321.html"
@@ -525,7 +525,7 @@
         "id": 3370,
         "prefecture": "沖縄県",
         "city": "西原町",
-        "area": "",
+        "area": "西原町全域",
         "name": "西原町地域包括支援センター",
         "tel": "098-882-0117",
         "url": "http://www.town.nishihara.okinawa.jp/goven-service/03/kaigo-16.html"
@@ -534,7 +534,7 @@
         "id": 3371,
         "prefecture": "沖縄県",
         "city": "伊江村",
-        "area": "",
+        "area": "伊江村全域",
         "name": "伊江村包括支援センター",
         "tel": "0980-49-2002",
         "url": ""
@@ -543,7 +543,7 @@
         "id": 3372,
         "prefecture": "沖縄県",
         "city": "石垣市",
-        "area": "",
+        "area": "石垣市全域",
         "name": "石垣市地域包括支援センター",
         "tel": "0980-84-3333",
         "url": "https://www.city.ishigaki.okinawa.jp/soshiki/kaigo_choju/1/ishigakishichikihoukatsushien/10471.html"
@@ -552,7 +552,7 @@
         "id": 3373,
         "prefecture": "沖縄県",
         "city": "糸満市",
-        "area": "",
+        "area": "糸満市全域",
         "name": "糸満市地域包括支援センター",
         "tel": "098-840-8114",
         "url": ""
@@ -561,7 +561,7 @@
         "id": 3374,
         "prefecture": "沖縄県",
         "city": "伊平屋村",
-        "area": "",
+        "area": "伊平屋村全域",
         "name": "伊平屋村地域包括支援センター",
         "tel": "0980-46-2142",
         "url": ""
@@ -570,7 +570,7 @@
         "id": 3375,
         "prefecture": "沖縄県",
         "city": "大宜味村",
-        "area": "",
+        "area": "大宜味村全域",
         "name": "大宜味村地域包括支援センター",
         "tel": "0980-44-3011",
         "url": ""
@@ -579,7 +579,7 @@
         "id": 3376,
         "prefecture": "沖縄県",
         "city": "嘉手納町",
-        "area": "",
+        "area": "嘉手納町全域",
         "name": "嘉手納町地域包括支援センター",
         "tel": "098-956-0849",
         "url": "https://www.town.kadena.okinawa.jp/departments/kak262.html"
@@ -588,7 +588,7 @@
         "id": 3377,
         "prefecture": "沖縄県",
         "city": "北大東村",
-        "area": "",
+        "area": "北大東村全域",
         "name": "北大東村地域包括支援センター",
         "tel": "09802-3-4567",
         "url": ""
@@ -597,7 +597,7 @@
         "id": 3378,
         "prefecture": "沖縄県",
         "city": "金武町",
-        "area": "",
+        "area": "金武町全域",
         "name": "金武町地域包括支援センター",
         "tel": "098-968-5933",
         "url": "https://www.town.kin.okinawa.jp/soshiki/hokenfukushika/635.html"
@@ -606,7 +606,7 @@
         "id": 3379,
         "prefecture": "沖縄県",
         "city": "宜野座村",
-        "area": "",
+        "area": "宜野座村全域",
         "name": "宜野座村地域包括支援センター",
         "tel": "098-968-3253",
         "url": "https://www.vill.ginoza.okinawa.jp/soshiki/1005/oshirase/27.html"
@@ -615,7 +615,7 @@
         "id": 3380,
         "prefecture": "沖縄県",
         "city": "国頭村",
-        "area": "",
+        "area": "国頭村全域",
         "name": "国頭村地域包括支援センター",
         "tel": "0980-41-5711",
         "url": "http://www.vill.kunigami.okinawa.jp/tiikihoukatu/"
@@ -624,7 +624,7 @@
         "id": 3381,
         "prefecture": "沖縄県",
         "city": "久米島町",
-        "area": "",
+        "area": "久米島町全域",
         "name": "久米島町地域包括支援センター",
         "tel": "098-985-7124",
         "url": ""
@@ -633,7 +633,7 @@
         "id": 3382,
         "prefecture": "沖縄県",
         "city": "座間味村",
-        "area": "",
+        "area": "座間味村全域",
         "name": "座間味村地域包括支援センター",
         "tel": "098-896-4045",
         "url": ""
@@ -642,7 +642,7 @@
         "id": 3383,
         "prefecture": "沖縄県",
         "city": "渡名喜村",
-        "area": "",
+        "area": "渡名喜村全域",
         "name": "渡名喜村地域包括支援センター",
         "tel": "098-989-2317",
         "url": ""
@@ -651,7 +651,7 @@
         "id": 3384,
         "prefecture": "沖縄県",
         "city": "中城村",
-        "area": "",
+        "area": "中城村全域",
         "name": "中城村地域包括支援センター",
         "tel": "098-895-1738",
         "url": "https://www.vill.nakagusuku.okinawa.jp/kenko_fukushi/kaigo_koureisha/chiikishien/"
@@ -660,7 +660,7 @@
         "id": 3385,
         "prefecture": "沖縄県",
         "city": "南城市",
-        "area": "",
+        "area": "南城市全域",
         "name": "南城市地域包括支援センター",
         "tel": "098-946-8980",
         "url": "https://www.city.nanjo.okinawa.jp/kurashi/zei_hoken_nenkin/kaigohoken/houkatsu/"
@@ -669,7 +669,7 @@
         "id": 3386,
         "prefecture": "沖縄県",
         "city": "東村",
-        "area": "",
+        "area": "東村全域",
         "name": "東村地域包括支援センター",
         "tel": "0980-43-2212",
         "url": ""
@@ -678,7 +678,7 @@
         "id": 3387,
         "prefecture": "沖縄県",
         "city": "八重瀬町",
-        "area": "",
+        "area": "八重瀬町全域",
         "name": "八重瀬町地域包括支援センター",
         "tel": "098-998-9598",
         "url": ""
@@ -687,7 +687,7 @@
         "id": 3388,
         "prefecture": "沖縄県",
         "city": "読谷村",
-        "area": "",
+        "area": "読谷村全域",
         "name": "読谷村地域包括支援センター",
         "tel": "098-982-9234",
         "url": "https://www.vill.yomitan.okinawa.jp/soshiki/fukushi/gyomu/kourei_fukushi_kaigo/koreisha_shisetsu/776.html"
