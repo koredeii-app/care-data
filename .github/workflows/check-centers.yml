@@ -1,0 +1,22 @@
+name: Check Centers
+
+on:
+  push:
+    paths:
+      - "data/**.json"
+  pull_request:
+    paths:
+      - "data/**.json"
+  schedule:
+    - cron: "0 0 * * 0" # 毎週日曜 0:00 UTC (JST 9:00)
+  workflow_dispatch:
+
+jobs:
+  check-urls:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/check-urls.mjs
