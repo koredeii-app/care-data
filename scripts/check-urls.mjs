@@ -20,6 +20,7 @@ function collectUrls() {
 
     if (file === "citylinks.json") {
       for (const [city, url] of Object.entries(json)) {
+        if (!url) continue; // 未登録（URL未判明）の市区町村はチェック対象外
         addLabel(url, `[citylinks.json] ${city}`);
       }
       continue;
