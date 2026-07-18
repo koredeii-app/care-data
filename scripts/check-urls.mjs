@@ -7,27 +7,30 @@ const TIMEOUT_MS = 15000;
 const UA = "Mozilla/5.0 (compatible; care-data-link-checker/1.0)";
 
 function collectUrls() {
-  const urlToFiles = new Map();
+  const urlToLabels = new Map();
+  const addLabel = (url, label) => {
+    if (!urlToLabels.has(url)) urlToLabels.set(url, new Set());
+    urlToLabels.get(url).add(label);
+  };
+
   for (const file of readdirSync(DATA_DIR)) {
     if (!file.endsWith(".json")) continue;
     const path = join(DATA_DIR, file);
     const json = JSON.parse(readFileSync(path, "utf8"));
 
     if (file === "citylinks.json") {
-      for (const url of Object.values(json)) {
-        if (!urlToFiles.has(url)) urlToFiles.set(url, new Set());
-        urlToFiles.get(url).add(file);
+      for (const [city, url] of Object.entries(json)) {
+        addLabel(url, `[citylinks.json] ${city}`);
       }
       continue;
     }
 
     for (const entry of json) {
       if (!entry.url) continue;
-      if (!urlToFiles.has(entry.url)) urlToFiles.set(entry.url, new Set());
-      urlToFiles.get(entry.url).add(file);
+      addLabel(entry.url, `[${file}] ${entry.city} ${entry.name}`);
     }
   }
-  return urlToFiles;
+  return urlToLabels;
 }
 
 async function checkUrl(url) {
@@ -62,8 +65,8 @@ async function runPool(items, worker, concurrency) {
   return results;
 }
 
-const urlToFiles = collectUrls();
-const urls = [...urlToFiles.keys()];
+const urlToLabels = collectUrls();
+const urls = [...urlToLabels.keys()];
 console.log(`Checking ${urls.length} unique URLs...`);
 
 const results = await runPool(urls, async (url) => ({ url, ...(await checkUrl(url)) }), CONCURRENCY);
@@ -77,7 +80,8 @@ if (failures.length === 0) {
 
 console.log(`\n${failures.length} broken URL(s) found:\n`);
 for (const f of failures) {
-  const files = [...urlToFiles.get(f.url)].join(", ");
-  console.log(`- [${files}] ${f.url} (${f.reason})`);
+  for (const label of urlToLabels.get(f.url)) {
+    console.log(`- ${label} ${f.url} (${f.reason})`);
+  }
 }
 process.exit(1);
